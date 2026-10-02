@@ -1,0 +1,37 @@
+{%- set lang = lang or "ko" -%}
+{%- set pageTitle = (title + " | " + site.name) if title else (site.name + " | " + site.school) -%}
+{%- set pageDesc = description or summary or site.description -%}
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ pageTitle }}</title>
+  <meta name="description" content="{{ pageDesc }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.name }} | {{ site.school }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ pageDesc }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/og-image.png">
+  <meta name="theme-color" content="#0047BB">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body class="{{ bodyClass or '' }}">
+  <a class="skip-link" href="#main">본문 바로가기</a>
+  {% if site.banner.show and lang == "ko" %}
+  <div class="topbar"><a href="{{ site.banner.link }}">{{ site.banner.text }} <span aria-hidden="true">→</span></a></div>
+  {% endif %}
+  {% include "partials/header.njk" %}
+  <main id="main" tabindex="-1">
+    {{ content | safe }}
+  </main>
+  {% include "partials/footer.njk" %}
+  {% include "partials/quick.njk" %}
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>

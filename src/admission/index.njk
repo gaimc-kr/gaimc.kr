@@ -1,0 +1,58 @@
+---
+layout: layouts/page.njk
+title: 입학안내
+eyebrow: ADMISSION
+lead: 글로벌AI경영컨설팅학과는 외국인유학생 전담학과입니다.
+---
+<section class="section">
+  <div class="container">
+    <div class="callout">
+      <p>{{ admission.notice }}</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="{{ site.links.graduate_admission }}" target="_blank" rel="noopener">대학원 입학 안내<span class="sr-only">(새 창)</span></a>
+        <a class="btn btn-outline" href="/contact/">입학 문의</a>
+      </div>
+    </div>
+
+    <h2 class="group-title">모집 개요</h2>
+    <dl class="info-table">
+      {%- for o in admission.overview %}<div><dt>{{ o.label }}</dt><dd>{{ o.value }}</dd></div>{% endfor %}
+    </dl>
+
+    {%- if admission.details_published %}
+    <h2 class="group-title">{{ admission.schedule_title }}</h2>
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead><tr><th scope="col">구분</th><th scope="col">일정</th><th scope="col">비고</th></tr></thead>
+        <tbody>
+          {%- for s in admission.schedule %}<tr><th scope="row">{{ s.item }}</th><td>{{ s.date }}</td><td>{{ s.note }}</td></tr>{% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <h2 class="group-title">지원 자격</h2>
+    <dl class="info-table">
+      {%- for o in admission.eligibility %}<div><dt>{{ o.label }}</dt><dd>{{ o.value }}</dd></div>{% endfor %}
+    </dl>
+    {% if admission.eligibility_highlight %}<p class="highlight">{{ admission.eligibility_highlight }}</p>{% endif %}
+
+    <h2 class="group-title">전형 방법</h2>
+    <ul class="check-list">{% for s in admission.selection %}<li>{{ s }}</li>{% endfor %}</ul>
+
+    {%- if admission.fees_published %}
+    <h2 class="group-title">{{ admission.fees_title }}</h2>
+    <dl class="info-table">
+      {%- for f in admission.fees %}<div><dt>{{ f.item }}</dt><dd>{{ f.value }}</dd></div>{% endfor %}
+    </dl>
+    {%- endif %}
+
+    <h2 class="group-title">제출 서류(요약)</h2>
+    <dl class="info-table">
+      {%- for d in admission.documents %}<div><dt>{{ d.title }}</dt><dd>{{ d.text }}</dd></div>{% endfor %}
+    </dl>
+    <p class="note">기준: {{ admission.basis }}</p>
+    {%- else %}
+    <p class="placeholder-box">{{ admission.pending_text }}</p>
+    {%- endif %}
+  </div>
+</section>

@@ -1,0 +1,15 @@
+<div class="floating" data-floating>
+  <div class="quick-panel" id="quick-panel" hidden data-quick-panel>
+    <p class="quick-title">QUICK MENU</p>
+    {%- for g in home.quick %}
+    <p class="quick-group">{{ g.group }}</p>
+    <ul>
+      {%- for l in g.links %}
+      <li><a href="{{ l.url }}"{% if l.url.startsWith('http') %} target="_blank" rel="noopener"{% endif %}>{{ l.label }}{% if l.url.startsWith('http') %}<span class="sr-only">(새 창)</span>{% endif %}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endfor %}
+  </div>
+  <button class="quick-btn" type="button" aria-expanded="false" aria-controls="quick-panel" data-quick-toggle>QUICK</button>
+  <a class="top-btn" href="#main" data-top aria-label="맨 위로"><span aria-hidden="true">↑</span></a>
+</div>

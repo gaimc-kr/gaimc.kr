@@ -1,0 +1,20 @@
+{#- 교수 카드. 변수: p (컬렉션 항목) -#}
+{%- set d = p.data -%}
+<li class="person-card">
+  {%- if d.has_profile %}<a class="person-link" href="/faculty/{{ p.fileSlug }}/">{% else %}<div class="person-link">{% endif %}
+    <div class="person-photo">
+      {%- if d.photo %}<img src="{{ d.photo }}" alt="{{ d.name }} {{ d.position }} 사진" width="400" height="400" loading="lazy">
+      {%- else %}<span class="person-initial" aria-hidden="true">{{ d.name | initial }}</span>{% endif %}
+    </div>
+    <div class="person-body">
+      <p class="person-role">{{ d.position }}</p>
+      <p class="person-name">{{ d.name }}{% if d.name_en %} <span lang="en">{{ d.name_en }}</span>{% endif %}</p>
+      {%- set meta = d.industry or d.academic %}
+      {%- if meta %}<p class="person-meta">{{ meta }}</p>{% endif %}
+      {%- if d.keywords and d.keywords.length %}
+      <ul class="tags">{% for k in d.keywords | limit(3) %}<li>{{ k }}</li>{% endfor %}</ul>
+      {%- endif %}
+    </div>
+  {%- if d.has_profile %}</a>{% else %}</div>{% endif %}
+  {%- if d.email %}<a class="person-email" href="mailto:{{ d.email }}">{{ d.email }}</a>{% endif %}
+</li>

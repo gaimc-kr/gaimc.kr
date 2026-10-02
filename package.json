@@ -1,0 +1,18 @@
+{
+  "name": "gaimc.kr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "한성대학교 글로벌AI경영컨설팅학과 홈페이지 (gaimc.kr)",
+  "type": "module",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "check": "node scripts/check-site.mjs",
+    "test": "npm run build && npm run check"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "js-yaml": "^4.1.0"
+  }
+}

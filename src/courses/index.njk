@@ -1,0 +1,76 @@
+---
+layout: layouts/page.njk
+title: 교육과정
+eyebrow: CURRICULUM
+lead: 두 개의 전공을 운영하며, 5학기(2.5년) 동안 총 30학점을 이수합니다.
+---
+<section class="section" aria-labelledby="tracks-title">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">TWO MAJORS</p>
+      <h2 id="tracks-title">전공과 과정</h2>
+      <p class="section-text">{{ courses.intro }}</p>
+    </div>
+    <div class="track-grid">
+      {%- for t in courses.tracks %}
+      <article class="track-card">
+        <p class="track-type">{{ t.course_type }}</p>
+        <h3>{{ t.name }}</h3>
+        <dl>
+          <div><dt>수업 언어</dt><dd>{{ t.language }}</dd></div>
+          <div><dt>학위과정</dt><dd>{{ t.degree }}</dd></div>
+          <div><dt>수업 연한</dt><dd>{{ t.duration }}</dd></div>
+          <div><dt>졸업 요건</dt><dd>{{ t.graduation }}</dd></div>
+          {% if t.korean %}<div><dt>한국어 요건</dt><dd>{{ t.korean }}</dd></div>{% endif %}
+        </dl>
+      </article>
+      {%- endfor %}
+    </div>
+    <ul class="note-list">
+      {%- for n in courses.notes %}<li>{{ n }}</li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section section-tint" aria-labelledby="list-title">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">COURSES</p>
+      <h2 id="list-title">주요 교과목 {{ courses.list.length }}개</h2>
+      <p class="section-text">과목명을 누르면 소개와 주요 교육 내용을 볼 수 있습니다.</p>
+    </div>
+    {%- for area in courses.areas %}
+    <div class="course-area">
+      <h3 class="group-title">{{ area }}</h3>
+      <div class="course-list">
+        {%- for c in courses.list %}{% if c.area == area %}
+        <details class="course">
+          <summary>
+            <span class="course-name">{{ c.name }}</span>
+            <span class="course-en" lang="en">{{ c.name_en }}</span>
+            {% if c.name_ai %}<span class="course-ai">영어트랙 {{ c.name_ai }}</span>{% endif %}
+          </summary>
+          <div class="course-body">
+            <p>{{ c.summary }}</p>
+            <p class="course-topics"><strong>주요 교육 내용</strong> {{ c.topics }}</p>
+          </div>
+        </details>
+        {%- endif %}{% endfor %}
+      </div>
+    </div>
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="section" aria-labelledby="career-title">
+  <div class="container">
+    <div class="feature-band">
+      <div>
+        <p class="eyebrow">CAREER</p>
+        <h2 id="career-title">진로</h2>
+        <p>{{ courses.career }}</p>
+      </div>
+      <a class="btn btn-primary" href="/ipp/">글로벌 IPP <span aria-hidden="true">+</span></a>
+    </div>
+  </div>
+</section>

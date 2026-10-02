@@ -1,0 +1,72 @@
+---
+layout: layouts/page.njk
+title: 학과소개
+eyebrow: ABOUT
+lead: AI와 컨설팅으로 글로벌 학생과 산업 현장을 잇습니다.
+---
+<nav class="subnav container" aria-label="학과소개 하위 메뉴">
+  <a href="#greeting">학과장 인사말</a><a href="#vision">비전과 교육목표</a><a href="#features">학과 특징</a><a href="#history">연혁</a>
+</nav>
+
+<section class="section" id="greeting" aria-labelledby="greeting-title">
+  <div class="container greeting">
+    <div class="greeting-photo">
+      {% if about.greeting.photo %}<img src="{{ about.greeting.photo }}" alt="{{ about.greeting.signature_title }} {{ about.greeting.signature_name }}" width="400" height="400">{% endif %}
+    </div>
+    <div class="greeting-text">
+      <p class="eyebrow">GREETING</p>
+      <h2 id="greeting-title">학과장 인사말</h2>
+      {%- for para in about.greeting.paragraphs %}
+      <p>{{ para }}</p>
+      {%- endfor %}
+      <p class="signature">{{ about.greeting.signature_title }} <strong>{{ about.greeting.signature_name }}</strong></p>
+    </div>
+  </div>
+</section>
+
+<section class="section section-sky" id="vision" aria-labelledby="vision-title">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">VISION &amp; GOALS</p>
+      <h2 id="vision-title">비전과 교육목표</h2>
+    </div>
+    <p class="vision-statement">{{ about.vision }}</p>
+    <ol class="goal-list">
+      {%- for g in about.goals %}
+      <li><span class="goal-no" aria-hidden="true">{{ loop.index | pad2 }}</span>{{ g }}</li>
+      {%- endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="section" id="features" aria-labelledby="features-title">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">WHY GAIMC</p>
+      <h2 id="features-title">학과 특징</h2>
+    </div>
+    <ul class="feature-grid">
+      {%- for f in about.features %}
+      <li class="feature-card"><h3>{{ f.title }}</h3><p>{{ f.text }}</p></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section section-tint" id="history" aria-labelledby="history-title">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">HISTORY</p>
+      <h2 id="history-title">연혁</h2>
+    </div>
+    <ol class="timeline">
+      {%- for h in about.history | reverse %}
+      <li>
+        <p class="timeline-date">{{ h.period }}</p>
+        <p class="timeline-text">{{ h.text }}{% if about.history_show_counts and h.count %} <span class="timeline-count">{{ h.count }}</span>{% endif %}</p>
+      </li>
+      {%- endfor %}
+    </ol>
+    {% if about.history_note %}<p class="note">{{ about.history_note }}</p>{% endif %}
+  </div>
+</section>

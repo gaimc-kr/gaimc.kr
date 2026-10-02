@@ -1,0 +1,16 @@
+---
+layout: layouts/page.njk
+title: 활동·행사
+eyebrow: EVENTS
+lead: 학과가 협력 대학·기관과 함께한 세미나와 현장 활동을 소개합니다.
+---
+<section class="section">
+  <div class="container">
+    {%- for g in collections.events | groupByYear %}
+    <h2 class="group-title">{{ g.year }}</h2>
+    <ul class="event-cards">
+      {%- for e in g.items %}<li>{% include "partials/event-card.njk" %}</li>{% endfor %}
+    </ul>
+    {%- endfor %}
+  </div>
+</section>

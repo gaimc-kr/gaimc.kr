@@ -1,0 +1,21 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <img src="/assets/hsu-signature.svg" alt="한성대학교 HANSUNG UNIVERSITY" width="176" height="41">
+      <p class="footer-dept">{{ site.graduate_school }} {{ site.name }}<br><span lang="en">{{ site.name_en }}</span></p>
+    </div>
+    <div class="footer-info">
+      <p>{{ site.contact.address }} · 학과 사무실 {{ site.contact.office }}</p>
+      <p>대학원교학팀 <a href="tel:{{ site.contact.grad_office_phone | replace('-', '') }}">{{ site.contact.grad_office_phone }}</a>
+        {%- if site.contact.dept_phone %} · 학과 <a href="tel:{{ site.contact.dept_phone | replace('-', '') }}">{{ site.contact.dept_phone }}</a>{% endif %}
+        {%- if site.contact.dept_email %} · <a href="mailto:{{ site.contact.dept_email }}">{{ site.contact.dept_email }}</a>{% endif %}</p>
+      <p class="footer-disclaimer">{{ site.disclaimer }}</p>
+    </div>
+    <ul class="footer-links">
+      <li><a href="{{ site.links.hansung }}" target="_blank" rel="noopener">한성대학교 바로가기<span class="sr-only">(새 창)</span></a></li>
+      <li><a href="{{ site.links.graduate }}" target="_blank" rel="noopener">대학원 홈페이지<span class="sr-only">(새 창)</span></a></li>
+      <li><a href="/contact/">문의</a></li>
+    </ul>
+  </div>
+  <div class="container footer-copy">© {{ build.year }} Hansung University · {{ site.name_en }}</div>
+</footer>

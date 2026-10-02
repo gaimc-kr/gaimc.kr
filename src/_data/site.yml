@@ -1,0 +1,51 @@
+# 사이트 공통 설정. 관리자 화면(/admin) > 사이트 설정에서도 수정할 수 있습니다.
+# memo 항목은 관리용 메모이며 화면에 나오지 않습니다.
+url: https://gaimc.kr
+name: 글로벌AI경영컨설팅학과
+name_en: Global AI Management Consulting
+school: 한성대학교
+graduate_school: 글로벌융합대학원
+description: 한성대학교 글로벌AI경영컨설팅학과는 글로벌경영컨설팅전공(이중언어과정)과 글로벌AI경영컨설팅전공(영어트랙과정)을 운영하는 석사과정입니다.
+
+# 상단 띠 배너(입시 기간에만 켬)
+banner:
+  show: false
+  text: 2027학년도 전기정시 원서접수 2026. 10. 14.(수) ~ 10. 26.(월)
+  link: /admission/
+  memo: 학교 공식 모집요강 공고(10월 중순) 후 일정 대조하고 show를 true로 변경
+
+# 첫 화면 사진(없으면 파란 그라데이션). 캠퍼스 사진을 /images/uploads/에 올리고 경로 입력
+hero_image: ""
+hero_image_alt: 한성대학교 캠퍼스 전경
+
+# 메뉴 노출
+show_ipp_in_menu: true
+
+contact:
+  address: 02876 서울특별시 성북구 삼선교로16길 116 한성대학교
+  office: 상상관 1002호
+  office_detail: 상상관 1002호(10층 행정실, 대학원교학팀과 같은 호실)
+  # 학과 전화·이메일은 확인 후 입력(비어 있으면 화면에 표시하지 않음)
+  dept_phone: ""
+  dept_email: ""
+  grad_office_phone: 02-760-4271
+  grad_office_fax: 02-760-4273
+  memo: 학과 전화·이메일 확인 중(후보 02-760-5860, kscon@hansung.ac.kr, 2026 요강 전공 번호 02-760-5658)
+
+links:
+  hansung: https://www.hansung.ac.kr
+  graduate: https://hansung.ac.kr/sites/gshansung/index.do
+  graduate_admission: https://hansung.ac.kr/gshansung/index.do
+  graduate_calendar: "https://www.hansung.ac.kr/hansung/6097/subview.do?enc=Zm5jdDF8QEB8JTJGc2NoZHVsTW5nJTJGaGFuc3VuZyUyRjE4JTJGdmlldy5kbyUzRg%3D%3D"
+  portal: https://info.hansung.ac.kr/index.jsp
+  ipp: https://hansung.ac.kr/IPP/10803/subview.do
+  apply: https://www.uwayapply.com
+  memo: 종합정보시스템·대학원 입학안내·학사일정 주소 확인 완료(2026. 10. 2.)
+
+disclaimer: 본 사이트는 학과 홍보 사이트이며 학사·입학 등 공식 정보는 한성대학교 공식 홈페이지를 따릅니다.
+
+# 관리자 화면(/admin) 연결 정보: 학과 GitHub 조직 저장소
+cms:
+  repo: gaimc-kr/gaimc.kr
+  branch: main
+  root: ""

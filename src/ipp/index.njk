@@ -1,0 +1,26 @@
+---
+layout: layouts/page.njk
+title: 글로벌 IPP
+eyebrow: GLOBAL IPP
+lead: 학업과 현장 경험, 국내 취업을 잇는 현장 연계 프로그램
+---
+<section class="section">
+  <div class="container narrow">
+    {% if ipp.preparing %}<p class="placeholder-box"><strong>준비 중</strong> {{ ipp.preparing_text }}</p>{% endif %}
+    <p class="intro-text">{{ ipp.intro }}</p>
+    <ul class="feature-grid cols-3">
+      {%- for b in ipp.blocks %}
+      <li class="feature-card"><h2 class="h3">{{ b.title }}</h2><p>{{ b.text }}</p></li>
+      {%- endfor %}
+    </ul>
+    <div class="feature-band">
+      <div>
+        <p class="eyebrow">EXPERTS</p>
+        <h2>함께하는 전문가</h2>
+        <p>{{ ipp.experts_text }}</p>
+      </div>
+      <a class="btn btn-primary" href="/faculty/#speakers">특강 연사 보기 <span aria-hidden="true">+</span></a>
+    </div>
+    <p class="note">한성대학교 일학습병행(IPP) 공식 안내는 <a href="{{ site.links.ipp }}" target="_blank" rel="noopener">한성대학교 IPP 페이지<span class="sr-only">(새 창)</span></a>에서 확인할 수 있습니다.</p>
+  </div>
+</section>

@@ -1,0 +1,36 @@
+# 글로벌 협력 (/partners/)
+# status: signed(협약 체결) 만 메인에 노출. logo는 /images/uploads/ 경로(없으면 약칭 배지)
+intro: 베트남과 방글라데시의 대학, 국내 기관·기업과 함께 학생의 학업과 현장 경험을 설계합니다.
+list:
+  - country: 베트남
+    name: 하노이산업대학교
+    name_en: Hanoi University of Industry (HaUI)
+    name_local: Đại học Công nghiệp Hà Nội
+    abbr: HaUI
+    logo: ""
+    status: signed
+    description: 협약 체결. 2026 한국-베트남 글로벌 AI 비즈니스 산학협력 공동 세미나(2026. 8. 6.~7.) 공동 개최
+    event: korea-vietnam-seminar
+    url: https://www.haui.edu.vn
+  - country: 방글라데시
+    name: University of South Asia
+    name_en: University of South Asia
+    name_local: ""
+    abbr: UoSA
+    logo: ""
+    status: signed
+    description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
+    event: bangladesh-korea-seminar
+    url: ""
+  - country: 방글라데시
+    name: Shanto-Mariam University of Creative Technology
+    name_en: Shanto-Mariam University of Creative Technology
+    name_local: ""
+    abbr: SMUCT
+    logo: ""
+    status: signed
+    description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
+    event: bangladesh-korea-seminar
+    url: ""
+domestic_text: 현장 실습, 기업 상담, 특강을 함께하는 국내 기업·기관은 게재에 동의한 곳부터 소개합니다.
+memo: 추가 협약 대학 명단, 국내 협력 기관(게재 동의된 곳만) 추가. 추진 중인 사업은 확정 전까지 게재하지 않음

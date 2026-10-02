@@ -1,0 +1,6 @@
+export default {
+  layout: "layouts/event.njk",
+  eleventyComputed: {
+    permalink: (data) => (data.draft ? false : `/events/${data.page.fileSlug}/`),
+  },
+};

@@ -1,0 +1,30 @@
+---
+layout: layouts/page.njk
+title: 글로벌 협력
+eyebrow: GLOBAL PARTNERS
+---
+<section class="section">
+  <div class="container">
+    <p class="intro-text">{{ partners.intro }}</p>
+    {%- for c in partners.list | uniqueValues("country") %}
+    <h2 class="group-title">{{ c }}</h2>
+    <ul class="partner-list">
+      {%- for p in partners.list %}{% if p.country == c %}
+      <li class="partner-card">
+        {%- if p.logo %}<img src="{{ p.logo }}" alt="" width="72" height="72" loading="lazy">{% else %}<span class="partner-badge" aria-hidden="true">{{ p.abbr }}</span>{% endif %}
+        <div>
+          <h3>{% if p.url %}<a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.name }}<span class="sr-only">(새 창)</span></a>{% else %}{{ p.name }}{% endif %}</h3>
+          {% if p.name_en and p.name_en != p.name %}<p class="partner-en" lang="en">{{ p.name_en }}</p>{% endif %}
+          {% if p.name_local %}<p class="partner-en" lang="vi">{{ p.name_local }}</p>{% endif %}
+          <p>{{ p.description }}</p>
+          {%- set ev = collections.events | findBySlug(p.event) %}
+          {% if ev %}<a class="view-more" href="{{ ev.url }}">관련 행사 <span aria-hidden="true">+</span></a>{% endif %}
+        </div>
+      </li>
+      {%- endif %}{% endfor %}
+    </ul>
+    {%- endfor %}
+    <h2 class="group-title">국내 협력 기업·기관</h2>
+    <p class="placeholder-box">{{ partners.domestic_text }}</p>
+  </div>
+</section>

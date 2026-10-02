@@ -1,0 +1,38 @@
+---
+layout: layouts/page.njk
+title: 문의
+eyebrow: CONTACT
+lead: 입학, 협력, 학과 활동에 관한 문의를 받습니다.
+---
+<section class="section">
+  <div class="container">
+    <div class="contact-grid">
+      <div class="contact-card">
+        <h2 class="h3">학과 사무실</h2>
+        <p>{{ site.contact.office_detail }}</p>
+        {% if site.contact.dept_phone %}<p>전화 <a href="tel:{{ site.contact.dept_phone | replace('-', '') }}">{{ site.contact.dept_phone }}</a></p>{% endif %}
+        {% if site.contact.dept_email %}<p>이메일 <a href="mailto:{{ site.contact.dept_email }}">{{ site.contact.dept_email }}</a></p>{% endif %}
+      </div>
+      <div class="contact-card">
+        <h2 class="h3">대학원교학팀</h2>
+        <p>입학·학사 문의</p>
+        <p>전화 <a href="tel:{{ site.contact.grad_office_phone | replace('-', '') }}">{{ site.contact.grad_office_phone }}</a> · 팩스 {{ site.contact.grad_office_fax }}</p>
+        <p><a href="{{ site.links.graduate }}" target="_blank" rel="noopener">대학원 홈페이지<span class="sr-only">(새 창)</span></a></p>
+      </div>
+      {%- set park = collections.faculty | findBySlug("park-yangsoo") %}
+      {%- if park %}
+      <div class="contact-card">
+        <h2 class="h3">교수 연구실({{ park.data.name }})</h2>
+        <p>{{ park.data.office }} · 협력·학과 활동 문의</p>
+        <p>전화 <a href="tel:{{ park.data.phone | replace('-', '') }}">{{ park.data.phone }}</a></p>
+        <p>이메일 <a href="mailto:{{ park.data.email }}">{{ park.data.email }}</a></p>
+      </div>
+      {%- endif %}
+    </div>
+    <h2 class="group-title">찾아오시는 길</h2>
+    <dl class="info-table">
+      <div><dt>주소</dt><dd>{{ site.contact.address }} {{ site.contact.office }}</dd></div>
+    </dl>
+    <p class="note">{{ admission.notice }}</p>
+  </div>
+</section>

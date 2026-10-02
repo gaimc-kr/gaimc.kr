@@ -1,0 +1,87 @@
+# 메인 페이지 문구와 수치
+hero:
+  eyebrow: HANSUNG UNIVERSITY · GRADUATE SCHOOL
+  title: AI 시대의 글로벌 경영컨설턴트를 길러냅니다
+  subtitle: 한성대학교 글로벌AI경영컨설팅학과는 글로벌경영컨설팅전공(이중언어과정)과 글로벌AI경영컨설팅전공(영어트랙과정)을 운영하는 석사과정입니다. AI를 활용한 경영컨설팅 방법론과 현장 실무를 함께 익힙니다.
+
+# 한눈에 보는 학과
+stats:
+  - label: 교수진
+    value: "14"
+    unit: 명
+    detail: 특임명예교수 1, 전임교수 4, 초빙교수 3, 겸임교수 6
+  - label: 특강 연사
+    value: "20"
+    unit: 명
+    detail: 산업 현장과 학계의 전문가
+    memo: 프로필 확정 후 수정
+  - label: 재학생
+    value: "463"
+    unit: 명
+    detail: 2026학년도 2학기, 5개 기수
+    memo: 제적·퇴학 반영 재확인 예정
+  - label: 전공(과정)
+    value: "2"
+    unit: 개
+    detail: 이중언어과정, 영어트랙과정
+  - label: 재학생 국적
+    value: "2"
+    unit: 개국
+    detail: 베트남, 방글라데시 (2027학년도 전기 지원자는 네팔, 인도까지 확대)
+    memo: 입학 확정 후 재학생 국적 수 수정
+  - label: 협약 해외 대학
+    value: "3"
+    unit: 개교
+    detail: 베트남 1, 방글라데시 2
+  - label: 수업 연한
+    value: "5"
+    unit: 학기
+    detail: 2.5년, 총 30학점
+  - label: 연구원
+    value: "2"
+    unit: 명
+    detail: 베트남·방글라데시 학생 지원
+
+ipp:
+  title: 글로벌 IPP
+  text: 유학생이 학업과 현장 경험, 국내 취업으로 이어지도록 기업·기관과 함께 설계하는 학과의 현장 연계 프로그램입니다. 한성대학교의 일학습병행(IPP) 경험을 글로벌 학생으로 확장합니다.
+  memo: 글로벌 IPP 정제 후 문구 교체
+
+learn:
+  - title: AI 경영컨설팅
+    text: 인공지능을 도구로 기업의 문제를 진단·분석하고, AI 전환(AX) 전략을 포함한 경영 혁신 과제를 설계하는 방법을 배웁니다.
+    memo: 교과 반영 문구 확인
+  - title: 컨설팅 방법론
+    text: 문제해결, 기업가정신, 벤처창업, 중소기업 접근, HRM&D, 생산성혁신 등 컨설팅 방법론을 체계적으로 배웁니다.
+  - title: 현장 실무
+    text: 졸업 요건에 소논문과 프랙티컴(현장 실습)이 포함되어 현장에서 컨설팅을 수행해 봅니다.
+  - title: 글로벌 역량
+    text: 이중언어과정(한국어·베트남어)과 영어트랙과정으로 운영하며, ODA 컨설팅 방법론을 다룹니다.
+  - title: 데이터와 R&D
+    text: 통계분석 컨설팅 방법론과 R&D 컨설팅 사례연구로 근거 있는 컨설팅을 익힙니다.
+
+partners_text: 베트남과 방글라데시의 대학, 국내 기관·기업과 함께 학생의 학업과 현장 경험을 설계합니다.
+faculty_text: 학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합니다.
+
+# 이용자별 바로가기 (url이 http로 시작하면 새 창)
+quick:
+  - group: 재학생
+    links:
+      - label: 종합정보시스템
+        url: https://info.hansung.ac.kr/index.jsp
+      - label: 대학원 학사일정
+        url: "https://www.hansung.ac.kr/hansung/6097/subview.do?enc=Zm5jdDF8QEB8JTJGc2NoZHVsTW5nJTJGaGFuc3VuZyUyRjE4JTJGdmlldy5kbyUzRg%3D%3D"
+  - group: 입학 희망자
+    links:
+      - label: 입학안내
+        url: /admission/
+      - label: 대학원 입학안내
+        url: https://hansung.ac.kr/gshansung/index.do
+      - label: 입학 문의
+        url: /contact/
+  - group: 협력기관·기업
+    links:
+      - label: 협력 현황
+        url: /partners/
+      - label: 협력 문의
+        url: /contact/

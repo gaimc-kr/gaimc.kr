@@ -1,0 +1,128 @@
+# 교육과정 (/courses/)
+# 과목별 학기와 학기별 학점은 게재하지 않음(총 30학점만 표기)
+intro: 두 개의 전공을 병렬로 운영하며, 15개 주요 교과목을 영역별로 소개합니다. 교육과정은 학교 모집요강과 개설강좌에 따라 바뀔 수 있습니다.
+memo: 2027학년도 학과 모집요강 공고 시 대조. 컨설팅조사연구(2학점) 추가 편성 여부, 이중언어과정 AI 명칭 개편 여부, ODA 분반 담당(임성욱) 확인
+
+tracks:
+  - name: 글로벌경영컨설팅전공
+    course_type: 이중언어과정
+    language: 한국어, 베트남어
+    degree: 석사
+    duration: 2.5년(5학기)
+    graduation: 총 30학점, 소논문(논문대체실적)과 프랙티컴, 종합시험 합격
+    korean: 한국어 프로그램 300시간 이수, 한국어능력시험(TOPIK) 3급 이상(4급 권장)
+  - name: 글로벌AI경영컨설팅전공
+    course_type: 영어트랙과정
+    language: 영어(일부 과목 영어·한국어)
+    degree: 석사
+    duration: 2.5년(5학기)
+    graduation: 총 30학점, 소논문(논문대체실적)과 프랙티컴, 종합시험 합격
+    korean: ""
+    memo: 한국어 요건 미기재. 확인 후 입력
+
+notes:
+  - 소논문은 기본 언어가 한국어이며 지도교수와 협의해 한국어 또는 영어를 선택할 수 있습니다.
+  - 졸업 요건을 충족하지 못하면 추가 학기 등록이 필요할 수 있습니다.
+  - 영어트랙과정의 일부 교과목은 과목명에 AI가 붙습니다(예 글로벌 AI 컨설팅 개론).
+
+areas:
+  - 입문·언어
+  - 컨설팅 방법론
+  - 인사·조직·직무
+  - 데이터·R&D·마케팅
+  - 연구
+
+list:
+  - area: 입문·언어
+    name: 글로벌 컨설팅 개론
+    name_ai: 글로벌 AI 컨설팅 개론
+    name_en: Global Introduction to Consulting
+    summary: 급변하는 글로벌 경영 환경을 진단하고 기업의 구조적 문제를 밝혀내는 컨설팅의 기본 프레임워크와 방법론을 배우며, 생성형 AI와 데이터 분석 도구를 경영 진단에 접목합니다.
+    topics: PEST·3C·SWOT 환경 분석, 비즈니스 프로세스 모델링, AI 기반 기업 데이터 분석, 이슈 트리와 문제해결 보고서
+  - area: 입문·언어
+    name: 글로벌 비즈니스언어(TOPIK)
+    name_ai: 글로벌 AI 비즈니스 언어
+    name_en: Global Business Language
+    summary: 한국 기업 현장의 기술 표준과 업무 용어를 배우고, AI 번역·문서 작성 도구로 의사소통의 정확성과 속도를 높입니다.
+    topics: 표준작업지침서(SOP) 독해, 산업 안전 수칙 분석, 한국어 기술 보고서 작성, 다문화 협업 커뮤니케이션
+  - area: 컨설팅 방법론
+    name: 글로벌 문제해결 컨설팅 방법론
+    name_ai: 글로벌 AI 문제해결 컨설팅 방법론
+    name_en: Global Problem Solution Consulting Methodology
+    summary: 제조·물류 현장의 복합 장애 요인과 공정 병목을 정량적으로 식별하고, 근본 원인을 추적해 개선안을 도출합니다.
+    topics: 5-Why 근본 원인 분석, 피시본 다이어그램, TOC 기반 병목 진단, 트러블슈팅, AI 기반 오류 패턴 검출
+  - area: 컨설팅 방법론
+    name: 글로벌 기업가정신 컨설팅 방법론 수행
+    name_ai: ""
+    name_en: Global Entrepreneurship Consulting Methodology Performance
+    summary: 비즈니스 지속가능성을 확보하고 린(Lean) 철학으로 공정 낭비를 먼저 제거하는 현장 개선 마인드를 정립합니다.
+    topics: 린 매니지먼트 7대 낭비, 카이젠 활동 설계, 비즈니스 가치 사슬 분석, 개선 제안 제도
+  - area: 컨설팅 방법론
+    name: 글로벌 벤처창업 컨설팅방법론
+    name_ai: ""
+    name_en: Global Venture Establishment Consulting Methodology
+    summary: 신기술 사업화 전 주기를 분석하고, 자동화 설비 도입의 손익분기점(BEP)과 초기 기업의 원가 구조를 최적화하는 기법을 연구합니다.
+    topics: 기술가치 평가, 상용화 타당성 분석, ROI·BEP 산정, 제조 원가 분석, 정부 지원 R&D 과제 연계
+  - area: 컨설팅 방법론
+    name: 글로벌 중소기업 접근 컨설팅 방법론 연구
+    name_ai: ""
+    name_en: Global SMB Approach Consulting Methodology Research
+    summary: 자원과 인력이 제한적인 중소 제조기업의 특성을 진단하고, 현장 밀착형 운영 개선으로 강소기업 성장을 지원합니다.
+    topics: 중소기업 생태계 분석, 납품 구조 개선, 현장 5S 진단, 공정 표준화·문서화
+  - area: 컨설팅 방법론
+    name: 글로벌 생산성혁신 컨설팅 방법론 연구
+    name_ai: ""
+    name_en: Global Productivity Innovation Consulting Methodology Research
+    summary: 3정5S와 설비종합효율(OEE)을 연구하고, 스마트공정 기술을 접목해 가동률과 생산성을 높이는 현장 혁신 역량을 기릅니다.
+    topics: 3정5S 현장 구축, OEE 산출·진단, 스마트팩토리 MES 연계 가동 데이터 분석
+  - area: 컨설팅 방법론
+    name: 글로벌 ODA 컨설팅 방법론 연구
+    name_ai: 글로벌 AI ODA 컨설팅 방법론 연구
+    name_en: Global ODA Consulting Methodology Research
+    summary: 공적개발원조(ODA)와 국가 간 개발협력 구조를 분석하고, 한국 기업의 신흥국 진출을 위한 사업 타당성 검토 역량을 기릅니다.
+    topics: 개발협력 프로젝트 기획, 타당성 분석, AI 기반 산업 규제·정책 데이터 분석, 민관협력(PPP) 운영 모델
+  - area: 인사·조직·직무
+    name: 글로벌 커리어 컨설팅 방법론
+    name_ai: 글로벌 AI 커리어 컨설팅 방법론
+    name_en: Global Methodology of Career Consulting
+    summary: 현장 작업자의 직무 역량을 분석하고 직무교육(OJT) 프로그램을 설계하며, 다문화 인력의 안전 준수와 조직 적응을 돕습니다.
+    topics: 직무 역량 모델링, 현장 훈련(S-OJT) 모듈 개발, 산업재해 예방 코칭, 외국인 근로자 조기 적응 상담
+  - area: 인사·조직·직무
+    name: 글로벌 HRM&D 컨설팅
+    name_ai: ""
+    name_en: Global HRM & D Consulting
+    summary: 현장 인력의 근태·노무 관리를 안정화하고, 다문화 작업자가 함께하는 생산 라인의 협업 생산성을 높이는 인적자원 개발·관리 체계를 구축합니다.
+    topics: 근로기준법과 노무 관리, 교대근무·라인 밸런싱, 성과 평가·보상, 다문화 조직 갈등 관리
+  - area: 인사·조직·직무
+    name: 글로벌 전략적 직무관리 컨설팅방법론
+    name_ai: ""
+    name_en: Global Strategic Management Consulting Methodologies Job
+    summary: 직무기술서(JD)와 작업표준서를 분석하고, 작업자 역량에 맞는 공정 배치로 직무 책임을 명확히 합니다.
+    topics: 직무 분석·평가, 직무기술서 표준화, 라인 밸런싱 기반 작업자 배정, KPI 연계 직무 설계
+  - area: 데이터·R&D·마케팅
+    name: 글로벌 통계분석 컨설팅 방법론
+    name_ai: ""
+    name_en: Global Statistical Analysis Consulting
+    summary: 엑셀과 파이썬으로 공정 검사 데이터를 가공하고, 불량률 추이를 통계적으로 추적해 생산 실적 보고서를 도출합니다.
+    topics: 기초 통계와 가설 검정, 회귀·상관 분석, 통계적 공정관리(SPC), 수율·불량률 대시보드
+  - area: 데이터·R&D·마케팅
+    name: 글로벌 R&D 컨설팅 사례연구
+    name_ai: ""
+    name_en: Global Case Study In Consulting of R&D
+    summary: AI와 첨단 기술을 활용한 기업 R&D 기획과 정부 산학연 과제의 전 주기를 분석하고, 자동화 설비 도입의 기술 검증(PoC)을 연구합니다.
+    topics: R&D 로드맵, 현장 실증(PoC) 평가, 스마트 설비 도입 타당성 검토, R&D 지표 역산 설계
+  - area: 데이터·R&D·마케팅
+    name: 글로벌 디자인/광고 마케팅 컨설팅 수행
+    name_ai: ""
+    name_en: Global Design/Advertisement Marketing Consulting Performance
+    summary: 한국 제조 기업의 제품 가치를 높이는 브랜딩 전략을 세우고, 동남아 현지 바이어와의 수출 소통을 지원합니다.
+    topics: 패키징·브랜드 전략, 글로벌 타깃 광고 기획, 영문·현지어 기술 카탈로그, 수출 계약·바이어 커뮤니케이션
+  - area: 연구
+    name: 글로벌 전공연구(논문지도 또는 현장학습 실무지도)
+    name_ai: ""
+    name_en: Global Studies in Major Field
+    summary: 2.5년간 배운 지식으로 산업 현장 데이터를 분석해 소논문을 완성하고, 산학 현장의 과제를 해결하는 캡스톤 컨설팅을 수행합니다.
+    topics: 실증 데이터 수집·전처리, AI 알고리즘 적용과 최적화 시뮬레이션, 소논문 작성과 발표, 산학 연계 개선 보고서
+
+career: 글로벌 IPP를 통해 졸업과 취업 준비를 연계하여, 컨설팅 기업, 기업의 사업·인사·해외 부서, 공공기관과 국제협력 분야 등으로 진로를 준비합니다.
+career_memo: 졸업생 진로 실적은 첫 졸업생 배출 후 사실 위주로 게재

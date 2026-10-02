@@ -1,0 +1,21 @@
+# 교수진 페이지 하단 구역: 특강 연사, 연구원
+speakers:
+  title: 특강 연사
+  title_en: Guest Speakers
+  text: 학생들의 교육과 글로벌 IPP 활동에 함께하는 전문가들입니다.
+  count: 20
+  pending_text: 특강 연사 명단은 프로필이 확정되는 대로 게재합니다.
+  # 카드: name(이름), affiliation(본직, 예 ○○대학교 교수), fields(전문 분야 2~3개). 가나다순, "교수" 직함은 붙이지 않음
+  list: []
+  memo: 20명 프로필 확정 후 list에 입력하고 count 수정
+
+researchers:
+  title: 연구원
+  title_en: Researchers
+  text: 외국인유학생 전담학과의 학생 지원 업무를 맡고 있습니다.
+  list:
+    - name: 응웬티하
+      role: 베트남 학생 지원 담당
+    - name: 하산엠디깜룰
+      role: 방글라데시 학생 지원 담당
+  memo: 학교 안내판 기준 직함은 연구원(지식서비스&컨설팅대학원 전담학과). 사진 비게재(본인 요청 시 게재). 영문·현지어 표기 본인 확인

@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+---
+<div class="page-head">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="현재 위치">
+      <a href="/">홈</a>
+      {%- if parent %}<span aria-hidden="true">›</span><a href="{{ parent.url }}">{{ parent.label }}</a>{% endif %}
+      <span aria-hidden="true">›</span><span aria-current="page">{{ title }}</span>
+    </nav>
+    {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+    <h1>{{ title }}</h1>
+    {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
+  </div>
+</div>
+<div class="page-body">
+  {{ content | safe }}
+</div>
