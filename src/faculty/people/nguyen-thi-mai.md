@@ -1,10 +1,10 @@
 ---
-name: 응웬티마이
+name: 응우엔 티 마이
 category: 초빙교수
 position: 초빙교수
 order: 3
 has_profile: true
-memo: '이력서(2024. 11. 25. 작성) 기준 반영(2026. 10. 2.). 현재 경력은 이력서 작성 시점 기준. 이력서의 개인 이메일·전화·주소·생년월일은 게재하지 않음. 국문 표기는 지침서의 응웬티마이 유지(이력서 표기: 응우엔 티 마이)'
+memo: '이력서(2024. 11. 25. 작성) 기준 반영(2026. 10. 2.). 현재 경력은 이력서 작성 시점 기준. 이력서의 개인 이메일·전화·주소·생년월일은 게재하지 않음. 국문 표기는 본인 이력서 표기(응우엔 티 마이) 사용'
 name_en: Nguyen Thi Mai
 photo: /images/faculty/nguyen-thi-mai.jpg
 industry: K-CULTURE and CONVERGENCE Co., Ltd. 행정실장
