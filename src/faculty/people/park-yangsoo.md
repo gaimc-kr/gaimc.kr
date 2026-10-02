@@ -49,8 +49,8 @@ certifications:
 - 특허정보분석사, 한국전자산업진흥회 (2008)
 - 특허정보검색사, 한국전자산업진흥회 (2008)
 papers:
-- '[학위논문] AI 리터러시가 수용 의도에 미치는 영향: 지각된 유용성과 다집단 분석을 중심으로(The Impact of AI Literacy on Acceptance Intention: The Perceived Usefulness and Multi-Group Analysis). 한성대학교 박사학위 논문, 2026. 6.'
-- '[KCI] 생성형 AI 사용경험이 AI 역량에 미치는 영향: 정보화교육 이수수준을 중심으로. 컴퓨터교육학회 논문지, 2025. 12. 31.'
+- '[학위논문] AI 리터러시가 수용 의도에 미치는 영향: 지각된 유용성과 다집단 분석을 중심으로(The Impact of AI Literacy on Acceptance Intention: The Perceived Usefulness and Multi-Group Analysis). 한성대학교 박사학위 논문, 2026. 6. http://www.dcollection.net/handler/hansung/200001033117'
+- '[KCI] 생성형 AI 사용경험이 AI 역량에 미치는 영향: 정보화교육 이수수준을 중심으로. 컴퓨터교육학회 논문지, 28(12), 2025. 12. 31. https://doi.org/10.32431/kace.2025.28.12.006'
 - '[학술대회] 디지털 역량 프레임워크 기반 글로벌 AI 컨설팅 학습모듈 개발 연구. 2025년도 한성대학교 동계 공동학술대회(한국통상정보학회 공동개최), Vol. 20, No. 2 (ISSN 2005-7334), 2025. 12.'
 - '[학술대회] 산업 현장 AI 공기압축기의 전력 및 탄소 감축 효과 현장 실증. 2025 한국정보기술학회 추계 종합학술대회, 2025. 11. 27.'
 - '[학술대회] 일반국민의 AI 활용이 삶의 만족도에 미치는 영향: 사회적자본을 중심으로. 2024년도 한성대학교 동계 공동학술대회, 2024. 12.'

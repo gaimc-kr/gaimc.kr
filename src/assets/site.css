@@ -245,6 +245,7 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 .profile-section.is-wide .profile-list { columns: 2; column-gap: 48px; display: block; }
 .profile-section.is-wide .profile-list li { break-inside: avoid; margin-bottom: 6px; }
 .profile-list.is-collapsed li:nth-child(n+9) { display: none; }
+.profile-list a { word-break: break-all; }
 .item-tag { display: inline-block; font-size: .74rem; font-weight: 700; color: var(--blue); background: var(--bg-sky); border-radius: 4px; padding: 1px 6px; margin-right: 6px; vertical-align: 1px; }
 .more-toggle { margin-top: 10px; background: none; border: 1px solid var(--line); border-radius: 999px; padding: 5px 14px; color: var(--blue); font-weight: 700; cursor: pointer; font: inherit; font-size: .88rem; }
 .back { margin-top: 48px; }

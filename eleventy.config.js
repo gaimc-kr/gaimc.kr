@@ -60,6 +60,11 @@ export default function (eleventyConfig) {
     const m = String(item).match(/^\[([^\]]{1,12})\]\s*(.*)$/s);
     return m ? { tag: m[1], text: m[2] } : { tag: "", text: String(item) };
   });
+  // 목록 항목 안의 DOI·URL을 새 창 링크로 바꿈(나머지 글자는 이스케이프)
+  const esc = (x) => String(x).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  eleventyConfig.addFilter("linkify", (text) =>
+    esc(text).replace(/https?:\/\/[^\s<]+[^\s<.,)]/g, (u) => `<a href="${u}" target="_blank" rel="noopener">${u}<span class="sr-only">(새 창)</span></a>`)
+  );
   eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
   eleventyConfig.addFilter("groupByYear", (arr) => {
     const m = new Map();

@@ -43,7 +43,7 @@ layout: layouts/base.njk
       <section class="profile-section{% if s[1].length > 5 %} is-wide{% endif %}">
         <h2>{{ s[0] }} <span class="count">{{ s[1].length }}</span></h2>
         <ul class="profile-list" {% if s[1].length > 8 %}data-collapsible{% endif %}>
-          {%- for item in s[1] %}{% set t = item | tagSplit %}<li>{% if t.tag %}<span class="item-tag">{{ t.tag }}</span>{% endif %}{{ t.text }}</li>{% endfor %}
+          {%- for item in s[1] %}{% set t = item | tagSplit %}<li>{% if t.tag %}<span class="item-tag">{{ t.tag }}</span>{% endif %}{{ t.text | linkify | safe }}</li>{% endfor %}
         </ul>
       </section>
       {%- endif %}{% endfor %}
