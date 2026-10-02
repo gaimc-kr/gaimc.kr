@@ -1,23 +1,27 @@
 ---
 layout: layouts/page.njk
-title: 뉴스룸
-eyebrow: NEWSROOM
-lead: 행사 결과, 협력 소식, 수상, 언론 보도 등 학과 소식을 전합니다.
+pageKey: news
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/news/"
 ---
+{%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
 <section class="section">
   <div class="container narrow">
     <ul class="news-list">
-      {%- for n in collections.news %}
+      {%- for n in X.news %}
       <li>
         <a href="{{ n.url }}">
           <span class="news-cat">{{ n.data.category }}</span>
           <span class="news-title">{{ n.data.title }}</span>
           {% if n.data.summary %}<span class="news-summary">{{ n.data.summary }}</span>{% endif %}
-          <time datetime="{{ n.date | isoDate }}">{{ n.date | krDate }}</time>
+          <time datetime="{{ n.date | isoDate }}">{{ n.date | ldate(lang) }}</time>
         </a>
       </li>
       {%- endfor %}
     </ul>
-    <p class="note">학사·입학·장학 등 공식 공지는 <a href="{{ site.links.graduate }}" target="_blank" rel="noopener">한성대학교 대학원 홈페이지<span class="sr-only">(새 창)</span></a>에서 확인해 주십시오.</p>
+    <p class="note">{{ T.news.officialPre }}<a href="{{ S.links.graduate }}" target="_blank" rel="noopener">{{ T.news.officialLink }}<span class="sr-only">{{ T.newWin }}</span></a>{{ T.news.officialPost }}</p>
   </div>
 </section>

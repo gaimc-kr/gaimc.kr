@@ -10,9 +10,13 @@
     "check": "node scripts/check-site.mjs",
     "test": "npm run build && npm run check"
   },
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.6",
-    "js-yaml": "^4.1.0"
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^15.0.2"
   }
 }

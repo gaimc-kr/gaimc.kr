@@ -1,0 +1,118 @@
+intro: Khoa vận hành song song hai chuyên ngành và giới thiệu 15 môn học chính theo lĩnh vực. Chương trình có thể thay đổi theo thông báo tuyển sinh và danh sách môn học của trường.
+tracks:
+- name: Chuyên ngành Tư vấn Quản trị Toàn cầu
+  course_type: Chương trình song ngữ
+  language: Tiếng Hàn, tiếng Việt
+  degree: Thạc sĩ
+  duration: 2,5 năm (5 học kỳ)
+  graduation: 30 tín chỉ, bài nghiên cứu (thay thế luận văn) và thực tập, đạt kỳ thi tổng hợp
+  korean: Hoàn thành chương trình tiếng Hàn 300 giờ, TOPIK cấp 3 trở lên (khuyến nghị cấp 4)
+- name: Chuyên ngành Tư vấn Quản trị AI Toàn cầu
+  course_type: Chương trình tiếng Anh
+  language: Tiếng Anh (một số môn bằng tiếng Anh và tiếng Hàn)
+  degree: Thạc sĩ
+  duration: 2,5 năm (5 học kỳ)
+  graduation: 30 tín chỉ, bài nghiên cứu (thay thế luận văn) và thực tập, đạt kỳ thi tổng hợp
+  korean: ''
+notes:
+- Bài nghiên cứu mặc định viết bằng tiếng Hàn; có thể chọn tiếng Hàn hoặc tiếng Anh sau khi trao đổi với giảng viên hướng dẫn.
+- Nếu chưa đáp ứng điều kiện tốt nghiệp, sinh viên có thể phải đăng ký thêm học kỳ.
+- 'Một số môn của chương trình tiếng Anh có chữ “AI” trong tên môn (ví dụ: Nhập môn tư vấn AI toàn cầu).'
+career: Thông qua Global IPP, việc tốt nghiệp và chuẩn bị việc làm được kết nối để sinh viên chuẩn bị cho công việc tại công ty tư vấn, bộ phận kinh doanh, nhân sự, hải ngoại của doanh nghiệp, cơ quan công và lĩnh vực hợp tác quốc tế.
+areas:
+- Nền tảng và ngôn ngữ
+- Phương pháp tư vấn
+- Nhân sự, tổ chức và công việc
+- Dữ liệu, R&D và marketing
+- Nghiên cứu
+list:
+- area: Nền tảng và ngôn ngữ
+  name: Nhập môn tư vấn toàn cầu
+  name_ai: Nhập môn tư vấn AI toàn cầu
+  name_en: Global Introduction to Consulting
+  summary: Chẩn đoán môi trường kinh doanh toàn cầu đang biến động và phát hiện các vấn đề mang tính cấu trúc của doanh nghiệp bằng khung lý thuyết và phương pháp tư vấn cơ bản, đồng thời ứng dụng AI tạo sinh và công cụ phân tích dữ liệu vào chẩn đoán doanh nghiệp.
+  topics: Phân tích môi trường PEST, 3C, SWOT; mô hình hóa quy trình kinh doanh; phân tích dữ liệu doanh nghiệp bằng AI; cây vấn đề và báo cáo giải quyết vấn đề
+- area: Nền tảng và ngôn ngữ
+  name: Ngôn ngữ kinh doanh toàn cầu (TOPIK)
+  name_ai: Ngôn ngữ kinh doanh AI toàn cầu
+  name_en: Global Business Language
+  summary: Học các tiêu chuẩn kỹ thuật và thuật ngữ công việc tại doanh nghiệp Hàn Quốc, và dùng công cụ dịch, soạn thảo bằng AI để giao tiếp chính xác và nhanh hơn.
+  topics: Đọc hiểu quy trình thao tác chuẩn (SOP); phân tích quy tắc an toàn công nghiệp; viết báo cáo kỹ thuật bằng tiếng Hàn; giao tiếp hợp tác đa văn hóa
+- area: Phương pháp tư vấn
+  name: Phương pháp tư vấn giải quyết vấn đề toàn cầu
+  name_ai: Phương pháp tư vấn giải quyết vấn đề AI toàn cầu
+  name_en: Global Problem Solution Consulting Methodology
+  summary: Xác định định lượng các yếu tố cản trở phức hợp và điểm nghẽn quy trình trong sản xuất, logistics, truy tìm nguyên nhân gốc và đưa ra phương án cải tiến.
+  topics: Phân tích nguyên nhân gốc 5-Why; biểu đồ xương cá; chẩn đoán điểm nghẽn theo TOC; khắc phục sự cố; phát hiện mẫu lỗi bằng AI
+- area: Phương pháp tư vấn
+  name: Thực hành phương pháp tư vấn tinh thần khởi nghiệp toàn cầu
+  name_ai: ''
+  name_en: Global Entrepreneurship Consulting Methodology Performance
+  summary: Bảo đảm tính bền vững của doanh nghiệp và hình thành tư duy cải tiến hiện trường, loại bỏ lãng phí trong quy trình trước tiên theo triết lý Lean.
+  topics: 7 loại lãng phí trong quản trị tinh gọn; thiết kế hoạt động kaizen; phân tích chuỗi giá trị; chế độ đề xuất cải tiến
+- area: Phương pháp tư vấn
+  name: Phương pháp tư vấn khởi nghiệp mạo hiểm toàn cầu
+  name_ai: ''
+  name_en: Global Venture Establishment Consulting Methodology
+  summary: Phân tích toàn bộ chu trình thương mại hóa công nghệ mới, nghiên cứu kỹ thuật tối ưu điểm hòa vốn (BEP) khi đầu tư tự động hóa và cơ cấu chi phí của doanh nghiệp mới thành lập.
+  topics: Định giá công nghệ; phân tích khả thi thương mại hóa; tính ROI, BEP; phân tích giá thành sản xuất; liên kết với dự án R&D của nhà nước
+- area: Phương pháp tư vấn
+  name: Nghiên cứu phương pháp tư vấn tiếp cận doanh nghiệp vừa và nhỏ toàn cầu
+  name_ai: ''
+  name_en: Global SMB Approach Consulting Methodology Research
+  summary: Chẩn đoán đặc điểm của doanh nghiệp sản xuất vừa và nhỏ có nguồn lực hạn chế, và hỗ trợ doanh nghiệp phát triển vững mạnh qua cải tiến vận hành sát thực tế.
+  topics: Phân tích hệ sinh thái doanh nghiệp vừa và nhỏ; cải thiện cơ cấu cung ứng; chẩn đoán 5S tại hiện trường; tiêu chuẩn hóa và văn bản hóa quy trình
+- area: Phương pháp tư vấn
+  name: Nghiên cứu phương pháp tư vấn đổi mới năng suất toàn cầu
+  name_ai: ''
+  name_en: Global Productivity Innovation Consulting Methodology Research
+  summary: Nghiên cứu 3 Jeong 5S và hiệu suất thiết bị tổng thể (OEE), xây dựng năng lực đổi mới hiện trường nhằm nâng cao hiệu suất vận hành và năng suất bằng công nghệ quy trình thông minh.
+  topics: Triển khai 3 Jeong 5S; tính toán và chẩn đoán OEE; phân tích dữ liệu vận hành liên kết MES của nhà máy thông minh
+- area: Phương pháp tư vấn
+  name: Nghiên cứu phương pháp tư vấn ODA toàn cầu
+  name_ai: Nghiên cứu phương pháp tư vấn ODA AI toàn cầu
+  name_en: Global ODA Consulting Methodology Research
+  summary: Phân tích viện trợ phát triển chính thức (ODA) và cơ cấu hợp tác phát triển giữa các quốc gia, xây dựng năng lực đánh giá tính khả thi của dự án khi doanh nghiệp Hàn Quốc vào thị trường mới nổi.
+  topics: Lập kế hoạch dự án hợp tác phát triển; phân tích khả thi; phân tích dữ liệu chính sách, quy định ngành bằng AI; mô hình vận hành hợp tác công tư (PPP)
+- area: Nhân sự, tổ chức và công việc
+  name: Phương pháp tư vấn nghề nghiệp toàn cầu
+  name_ai: Phương pháp tư vấn nghề nghiệp AI toàn cầu
+  name_en: Global Methodology of Career Consulting
+  summary: Phân tích năng lực công việc của người lao động tại hiện trường, thiết kế chương trình đào tạo tại chỗ (OJT), và hỗ trợ lao động đa văn hóa tuân thủ an toàn và thích nghi với tổ chức.
+  topics: Mô hình hóa năng lực công việc; phát triển học phần đào tạo tại chỗ có cấu trúc (S-OJT); huấn luyện phòng ngừa tai nạn lao động; tư vấn thích nghi sớm cho lao động nước ngoài
+- area: Nhân sự, tổ chức và công việc
+  name: Tư vấn HRM&D toàn cầu
+  name_ai: ''
+  name_en: Global HRM & D Consulting
+  summary: Ổn định quản lý chuyên cần, lao động và xây dựng hệ thống phát triển, quản lý nguồn nhân lực giúp nâng cao năng suất hợp tác trên dây chuyền có lao động đa văn hóa.
+  topics: Luật Tiêu chuẩn Lao động và quản lý lao động; làm việc theo ca và cân bằng chuyền; đánh giá thành tích và đãi ngộ; quản lý xung đột trong tổ chức đa văn hóa
+- area: Nhân sự, tổ chức và công việc
+  name: Phương pháp tư vấn quản lý công việc chiến lược toàn cầu
+  name_ai: ''
+  name_en: Global Strategic Management Consulting Methodologies Job
+  summary: Phân tích bản mô tả công việc (JD) và tiêu chuẩn thao tác, làm rõ trách nhiệm công việc bằng cách bố trí người lao động vào công đoạn phù hợp năng lực.
+  topics: Phân tích và đánh giá công việc; chuẩn hóa bản mô tả công việc; bố trí lao động theo cân bằng chuyền; thiết kế công việc gắn với KPI
+- area: Dữ liệu, R&D và marketing
+  name: Phương pháp tư vấn phân tích thống kê toàn cầu
+  name_ai: ''
+  name_en: Global Statistical Analysis Consulting
+  summary: Xử lý dữ liệu kiểm tra quy trình bằng Excel và Python, theo dõi xu hướng tỷ lệ lỗi bằng thống kê và lập báo cáo kết quả sản xuất.
+  topics: Thống kê cơ bản và kiểm định giả thuyết; phân tích hồi quy, tương quan; kiểm soát quá trình bằng thống kê (SPC); bảng điều khiển tỷ lệ đạt và tỷ lệ lỗi
+- area: Dữ liệu, R&D và marketing
+  name: Nghiên cứu tình huống tư vấn R&D toàn cầu
+  name_ai: ''
+  name_en: Global Case Study In Consulting of R&D
+  summary: Phân tích toàn bộ chu trình lập kế hoạch R&D doanh nghiệp ứng dụng AI và công nghệ tiên tiến cùng các dự án hợp tác doanh nghiệp – trường – viện của nhà nước, và nghiên cứu kiểm chứng công nghệ (PoC) khi đưa thiết bị tự động hóa vào sử dụng.
+  topics: Lộ trình R&D; đánh giá PoC tại hiện trường; xem xét tính khả thi khi đưa thiết bị thông minh vào sử dụng; thiết kế ngược chỉ số R&D
+- area: Dữ liệu, R&D và marketing
+  name: Thực hành tư vấn marketing thiết kế/quảng cáo toàn cầu
+  name_ai: ''
+  name_en: Global Design/Advertisement Marketing Consulting Performance
+  summary: Xây dựng chiến lược thương hiệu nâng cao giá trị sản phẩm của doanh nghiệp sản xuất Hàn Quốc và hỗ trợ giao tiếp xuất khẩu với người mua tại Đông Nam Á.
+  topics: Chiến lược bao bì và thương hiệu; lập kế hoạch quảng cáo theo thị trường mục tiêu toàn cầu; catalogue kỹ thuật bằng tiếng Anh và tiếng địa phương; hợp đồng xuất khẩu và giao tiếp với người mua
+- area: Nghiên cứu
+  name: Nghiên cứu chuyên ngành toàn cầu (hướng dẫn luận văn hoặc thực hành thực tế)
+  name_ai: ''
+  name_en: Global Studies in Major Field
+  summary: Hoàn thành bài nghiên cứu bằng cách phân tích dữ liệu thực tế của doanh nghiệp với kiến thức tích lũy trong 2,5 năm, và thực hiện tư vấn capstone giải quyết vấn đề thực tế của doanh nghiệp.
+  topics: Thu thập và tiền xử lý dữ liệu thực tế; ứng dụng thuật toán AI và mô phỏng tối ưu hóa; viết và trình bày bài nghiên cứu; báo cáo cải tiến hợp tác doanh nghiệp – trường

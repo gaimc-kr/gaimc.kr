@@ -1,0 +1,12 @@
+speakers:
+  title: Guest Speakers
+  text: Experts who take part in our teaching and Global IPP activities.
+  pending_text: The list of guest speakers will be posted once their profiles are confirmed.
+researchers:
+  title: Researchers
+  text: Supporting the department's international students.
+  list:
+    - name: Nguyen Thi Ha
+      role: Support for Vietnamese students
+    - name: Hasan Md Kamrul
+      role: Support for Bangladeshi students

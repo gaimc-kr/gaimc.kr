@@ -1,31 +1,35 @@
 ---
 layout: layouts/base.njk
 bodyClass: home has-hero
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/"
 ---
-{#- 1. 비주얼 -#}
-<section class="hero{% if site.hero_image %} has-image{% endif %}" aria-labelledby="hero-title">
-  {% if site.hero_image %}<img class="hero-bg" src="{{ site.hero_image }}" alt="{{ site.hero_image_alt }}">{% endif %}
+{%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set H = C.home -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
+<section class="hero{% if S.hero_image %} has-image{% endif %}" aria-labelledby="hero-title">
+  {% if S.hero_image %}<img class="hero-bg" src="{{ S.hero_image }}" alt="{{ S.hero_image_alt }}">{% endif %}
   <div class="hero-deco" aria-hidden="true"></div>
   <div class="container hero-inner">
-    <p class="hero-eyebrow">{{ home.hero.eyebrow }}</p>
-    <h1 id="hero-title">{{ home.hero.title }}</h1>
-    <p class="hero-sub">{{ home.hero.subtitle }}</p>
+    <p class="hero-eyebrow">{{ H.hero.eyebrow }}</p>
+    <h1 id="hero-title">{{ H.hero.title }}</h1>
+    <p class="hero-sub">{{ H.hero.subtitle }}</p>
     <div class="btn-row">
-      <a class="btn btn-white" href="/admission/">입학안내</a>
-      <a class="btn btn-ghost" href="/contact/">문의하기</a>
+      <a class="btn btn-white" href="{{ '/admission/' | L(lang) }}">{{ T.btn.admission }}</a>
+      <a class="btn btn-ghost" href="{{ '/contact/' | L(lang) }}">{{ T.btn.contact }}</a>
     </div>
   </div>
 </section>
 
-{#- 이용자별 바로가기 -#}
-<section class="audience" aria-label="이용자별 바로가기">
+<section class="audience" aria-label="{{ T.homeSec.audience }}">
   <div class="container audience-grid">
-    {%- for g in home.quick %}
+    {%- for g in H.quick %}
     <div class="audience-card">
       <h2>{{ g.group }}</h2>
       <ul>
         {%- for l in g.links %}
-        <li><a href="{{ l.url }}"{% if l.url.startsWith('http') %} target="_blank" rel="noopener"{% endif %}>{{ l.label }}{% if l.url.startsWith('http') %}<span class="sr-only">(새 창)</span><span class="ext" aria-hidden="true">↗</span>{% endif %}</a></li>
+        <li><a href="{{ l.url | L(lang) }}"{% if l.url.startsWith('http') %} target="_blank" rel="noopener"{% endif %}>{{ l.label }}{% if l.url.startsWith('http') %}<span class="sr-only">{{ T.newWin }}</span><span class="ext" aria-hidden="true">↗</span>{% endif %}</a></li>
         {%- endfor %}
       </ul>
     </div>
@@ -33,15 +37,14 @@ bodyClass: home has-hero
   </div>
 </section>
 
-{#- 2. 한눈에 보는 학과 -#}
 <section class="section section-sky" aria-labelledby="stats-title">
   <div class="container">
     <div class="section-head">
       <p class="eyebrow">AT A GLANCE</p>
-      <h2 id="stats-title">한눈에 보는 학과</h2>
+      <h2 id="stats-title">{{ T.homeSec.atGlance }}</h2>
     </div>
     <ul class="stats">
-      {%- for s in home.stats %}
+      {%- for s in H.stats %}
       <li class="stat">
         <p class="stat-label">{{ s.label }}</p>
         <p class="stat-value"><strong>{{ s.value }}</strong><span>{{ s.unit }}</span></p>
@@ -52,29 +55,27 @@ bodyClass: home has-hero
   </div>
 </section>
 
-{#- 3. 글로벌 IPP -#}
 <section class="section" aria-labelledby="ipp-title">
   <div class="container">
     <div class="feature-band">
       <div>
         <p class="eyebrow">GLOBAL IPP</p>
-        <h2 id="ipp-title">{{ home.ipp.title }}</h2>
-        <p>{{ home.ipp.text }}</p>
+        <h2 id="ipp-title">{{ H.ipp.title }}</h2>
+        <p>{{ H.ipp.text }}</p>
       </div>
-      <a class="btn btn-primary" href="/ipp/">자세히 보기 <span aria-hidden="true">+</span></a>
+      <a class="btn btn-primary" href="{{ '/ipp/' | L(lang) }}">{{ T.btn.more }} <span aria-hidden="true">+</span></a>
     </div>
   </div>
 </section>
 
-{#- 4. 무엇을 배우나요 -#}
 <section class="section section-tint" aria-labelledby="learn-title">
   <div class="container">
     <div class="section-head">
       <p class="eyebrow">WHAT YOU LEARN</p>
-      <h2 id="learn-title">무엇을 배우나요</h2>
+      <h2 id="learn-title">{{ T.homeSec.learn }}</h2>
     </div>
     <ol class="learn-grid">
-      {%- for l in home.learn %}
+      {%- for l in H.learn %}
       <li class="learn-card">
         <span class="learn-no" aria-hidden="true">{{ loop.index | pad2 }}</span>
         <h3>{{ l.title }}</h3>
@@ -82,53 +83,51 @@ bodyClass: home has-hero
       </li>
       {%- endfor %}
     </ol>
-    <p class="more"><a class="btn btn-primary" href="/courses/">교육과정 보기 <span aria-hidden="true">+</span></a></p>
+    <p class="more"><a class="btn btn-primary" href="{{ '/courses/' | L(lang) }}">{{ T.btn.courses }} <span aria-hidden="true">+</span></a></p>
   </div>
 </section>
 
-{#- 5. 최근 활동과 소식 -#}
 <section class="section" aria-labelledby="recent-title">
   <div class="container">
     <div class="section-head with-more">
       <div>
         <p class="eyebrow">GAIMC ISSUE</p>
-        <h2 id="recent-title">최근 활동</h2>
+        <h2 id="recent-title">{{ T.homeSec.recent }}</h2>
       </div>
-      <a class="view-more" href="/events/">View More <span aria-hidden="true">+</span></a>
+      <a class="view-more" href="{{ '/events/' | L(lang) }}">{{ T.btn.viewMore }} <span aria-hidden="true">+</span></a>
     </div>
     <ul class="event-cards">
-      {%- for e in collections.events | limit(3) %}
+      {%- for e in X.events | limit(3) %}
       <li>{% include "partials/event-card.njk" %}</li>
       {%- endfor %}
     </ul>
-    {%- set latest = collections.news | limit(3) %}
+    {%- set latest = X.news | limit(3) %}
     {%- if latest.length %}
     <div class="news-strip">
-      <h3 class="news-strip-title">뉴스룸</h3>
+      <h3 class="news-strip-title">{{ T.homeSec.newsroom }}</h3>
       <ul>
         {%- for n in latest %}
-        <li><a href="{{ n.url }}"><span class="news-cat">{{ n.data.category }}</span><span class="news-title">{{ n.data.title }}</span><time datetime="{{ n.date | isoDate }}">{{ n.date | krDate }}</time></a></li>
+        <li><a href="{{ n.url }}"><span class="news-cat">{{ n.data.category }}</span><span class="news-title">{{ n.data.title }}</span><time datetime="{{ n.date | isoDate }}">{{ n.date | ldate(lang) }}</time></a></li>
         {%- endfor %}
       </ul>
-      <a class="view-more" href="/news/">View More <span aria-hidden="true">+</span></a>
+      <a class="view-more" href="{{ '/news/' | L(lang) }}">{{ T.btn.viewMore }} <span aria-hidden="true">+</span></a>
     </div>
     {%- endif %}
   </div>
 </section>
 
-{#- 6. 협력 기관 -#}
 <section class="section section-tint" aria-labelledby="partners-title">
   <div class="container">
     <div class="section-head with-more">
       <div>
         <p class="eyebrow">GLOBAL PARTNERS</p>
-        <h2 id="partners-title">협력 기관</h2>
-        <p class="section-text">{{ home.partners_text }}</p>
+        <h2 id="partners-title">{{ T.homeSec.partners }}</h2>
+        <p class="section-text">{{ H.partners_text }}</p>
       </div>
-      <a class="view-more" href="/partners/">협력 현황 <span aria-hidden="true">+</span></a>
+      <a class="view-more" href="{{ '/partners/' | L(lang) }}">{{ T.btn.partners }} <span aria-hidden="true">+</span></a>
     </div>
     <ul class="partner-logos">
-      {%- for p in partners.list %}{% if p.status == "signed" %}
+      {%- for p in C.partners.list %}{% if p.status == "signed" %}
       <li>
         {%- if p.logo %}<img src="{{ p.logo }}" alt="" width="64" height="64" loading="lazy">{% else %}<span class="partner-badge" aria-hidden="true">{{ p.abbr }}</span>{% endif %}
         <span class="partner-name"><strong>{{ p.name }}</strong><span>{{ p.country }}</span></span>
@@ -138,36 +137,34 @@ bodyClass: home has-hero
   </div>
 </section>
 
-{#- 7. 교수진 -#}
 <section class="section" aria-labelledby="faculty-title">
   <div class="container">
     <div class="section-head with-more">
       <div>
         <p class="eyebrow">FACULTY</p>
-        <h2 id="faculty-title">교수진</h2>
-        <p class="section-text">{{ home.faculty_text }}</p>
+        <h2 id="faculty-title">{{ T.homeSec.faculty }}</h2>
+        <p class="section-text">{{ H.faculty_text }}</p>
       </div>
-      <a class="view-more" href="/faculty/">교수진 전체 보기 <span aria-hidden="true">+</span></a>
+      <a class="view-more" href="{{ '/faculty/' | L(lang) }}">{{ T.btn.allFaculty }} <span aria-hidden="true">+</span></a>
     </div>
     <ul class="person-grid">
-      {%- for p in collections.faculty %}{% if p.data.category == "전임교수" %}
+      {%- for p in X.faculty %}{% if p.data.category == "전임교수" %}
       {% include "partials/faculty-card.njk" %}
       {%- endif %}{% endfor %}
     </ul>
   </div>
 </section>
 
-{#- 8. 입학·문의 -#}
 <section class="section section-sky" aria-labelledby="cta-title">
   <div class="container cta">
     <div>
       <p class="eyebrow">ADMISSION &amp; CONTACT</p>
-      <h2 id="cta-title">한국에서 배우고, 세계에서 일하세요</h2>
-      <p>입학 자격과 일정, 지원 방법을 확인하고 궁금한 점은 문의해 주십시오.</p>
+      <h2 id="cta-title">{{ T.homeSec.ctaTitle }}</h2>
+      <p>{{ T.homeSec.ctaText }}</p>
     </div>
     <div class="btn-row">
-      <a class="btn btn-primary" href="/admission/">입학안내</a>
-      <a class="btn btn-outline" href="/contact/">문의하기</a>
+      <a class="btn btn-primary" href="{{ '/admission/' | L(lang) }}">{{ T.btn.admission }}</a>
+      <a class="btn btn-outline" href="{{ '/contact/' | L(lang) }}">{{ T.btn.contact }}</a>
     </div>
   </div>
 </section>

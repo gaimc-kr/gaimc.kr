@@ -1,26 +1,29 @@
 ---
 layout: layouts/page.njk
-title: 글로벌 IPP
-eyebrow: GLOBAL IPP
-lead: 학업과 현장 경험, 국내 취업을 연결하는 현장 연계 프로그램
+pageKey: ipp
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/ipp/"
 ---
+{%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
+{%- set I = C.ipp -%}
 <section class="section">
   <div class="container narrow">
-    {% if ipp.preparing %}<p class="placeholder-box"><strong>준비 중</strong> {{ ipp.preparing_text }}</p>{% endif %}
-    <p class="intro-text">{{ ipp.intro }}</p>
+    {% if I.preparing %}<p class="placeholder-box"><strong>{{ T.ipp.preparing }}</strong> {{ I.preparing_text }}</p>{% endif %}
+    <p class="intro-text">{{ I.intro }}</p>
     <ul class="feature-grid cols-3">
-      {%- for b in ipp.blocks %}
-      <li class="feature-card"><h2 class="h3">{{ b.title }}</h2><p>{{ b.text }}</p></li>
-      {%- endfor %}
+      {%- for b in I.blocks %}<li class="feature-card"><h2 class="h3">{{ b.title }}</h2><p>{{ b.text }}</p></li>{% endfor %}
     </ul>
     <div class="feature-band">
       <div>
         <p class="eyebrow">EXPERTS</p>
-        <h2>함께하는 전문가</h2>
-        <p>{{ ipp.experts_text }}</p>
+        <h2>{{ T.ipp.experts }}</h2>
+        <p>{{ I.experts_text }}</p>
       </div>
-      <a class="btn btn-primary" href="/faculty/#speakers">특강 연사 보기 <span aria-hidden="true">+</span></a>
+      <a class="btn btn-primary" href="{{ '/faculty/#speakers' | L(lang) }}">{{ T.btn.speakers }} <span aria-hidden="true">+</span></a>
     </div>
-    <p class="note">한성대학교 일학습병행(IPP) 공식 안내는 <a href="{{ site.links.ipp }}" target="_blank" rel="noopener">한성대학교 IPP 페이지<span class="sr-only">(새 창)</span></a>에서 확인할 수 있습니다.</p>
+    <p class="note">{{ T.ipp.officialPre }}<a href="{{ S.links.ipp }}" target="_blank" rel="noopener">{{ T.ipp.officialLink }}<span class="sr-only">{{ T.newWin }}</span></a>{{ T.ipp.officialPost }}</p>
   </div>
 </section>

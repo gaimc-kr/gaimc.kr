@@ -28,4 +28,40 @@ achievements:
 network:
 - '공공 네트워크: KOICA ODA 사업 부문, 서울시 ICT 부문'
 memo: 2026. 8. 세미나 프로필 기준. 대학원장 재임 기간 확인 완료(2026. 10. 2.)
+en:
+  academic: Department Chair and Distinguished Emeritus Professor, Department of Global AI Management Consulting, Hansung University
+  industry: Chair, ICT Investment Attraction Advisory Committee, Seoul Metropolitan Government
+  education:
+  - Ph.D. in Information Technology, Drexel University (USA)
+  - M.S. in Information Science, State University of New York at Albany (USA)
+  - B.A. in Public Administration, Hankuk University of Foreign Studies
+  career:
+  - Dean, Graduate School of Knowledge Service & Consulting, Hansung University (Jan 2009 – present)
+  - President, Korea Consulting Association (Mar 2016 – present)
+  - Chair, ICT Investment Attraction Advisory Committee, Seoul Metropolitan Government (Jan 2013 – present)
+  - Technology Evaluation Committee Member, KOICA (Jan 2013 – present)
+  achievements:
+  - Planning study and preliminary feasibility study for establishing a digital SME innovation center in Laos
+  - Principal investigator, support project for remodeling the Department of Public Administration, National University of Mongolia
+  - Planning of a program to develop SMEs, small business owners and women entrepreneurs through entrepreneurship in Pakistan
+  network:
+  - 'Public network: KOICA ODA programs; Seoul Metropolitan Government ICT sector'
+vi:
+  academic: Trưởng khoa, Giáo sư danh dự đặc nhiệm, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
+  industry: Chủ tịch Ủy ban cố vấn thu hút đầu tư ICT, Thành phố Seoul
+  education:
+  - Tiến sĩ Công nghệ thông tin, Drexel University (Hoa Kỳ)
+  - Thạc sĩ Khoa học thông tin, State University of New York at Albany (Hoa Kỳ)
+  - Cử nhân Hành chính công, Đại học Ngoại ngữ Hankuk
+  career:
+  - Hiệu trưởng Trường Sau đại học Dịch vụ Tri thức & Tư vấn, Đại học Hansung (01/2009 – nay)
+  - Chủ tịch Hội Tư vấn Hàn Quốc (03/2016 – nay)
+  - Chủ tịch Ủy ban cố vấn thu hút đầu tư ICT, Thành phố Seoul (01/2013 – nay)
+  - Ủy viên đánh giá công nghệ, KOICA (01/2013 – nay)
+  achievements:
+  - Khảo sát lập kế hoạch và nghiên cứu tiền khả thi dự án thành lập Trung tâm đổi mới doanh nghiệp vừa và nhỏ số tại Lào
+  - Chủ nhiệm dự án hỗ trợ tái cấu trúc Khoa Hành chính công, Đại học Quốc gia Mông Cổ
+  - Lập kế hoạch dự án phát triển doanh nghiệp vừa và nhỏ, tiểu thương và nữ doanh nhân thông qua tinh thần khởi nghiệp tại Pakistan
+  network:
+  - 'Mạng lưới công: lĩnh vực dự án ODA của KOICA, lĩnh vực ICT của Thành phố Seoul'
 ---

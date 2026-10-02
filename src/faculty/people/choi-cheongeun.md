@@ -138,4 +138,96 @@ papers:
 career:
 - 한성대학교 사회과학부 공공행정트랙 교수
 - 한성대학교 행정대학원장 (2022. 1. ~ )
+en:
+  academic: Professor, Public Administration Track, Division of Social Sciences, Hansung University
+  keywords:
+  - Performance evaluation
+  - Police administration
+  - Disaster management
+  - Organizational management
+  - Machine learning methods for social science
+  education:
+  - Ph.D. in Public Administration, Florida State University (2010)
+  - M.P.A., Graduate School of Public Administration, Seoul National University (1999)
+  - B.A. in Law, Korean National Police University (1994)
+  career:
+  - Professor, Public Administration Track, Division of Social Sciences, Hansung University
+  - Dean, Graduate School of Public Administration, Hansung University (Jan 2022 – )
+  awards:
+  - '[위원] President, Korean Association for Organizational Studies (Jan 2026 – present)'
+  - '[위원] President, Korean Association for Public Administration Reform (Jan 2023 – Dec 2025)'
+  - '[위원] Editor-in-Chief, International Journal of Public Administration and Consulting (Jan 2017 – present)'
+  - '[위원] Proactive Administration Committee Member, Nuclear Safety and Security Commission (Jan 2021 – )'
+  - '[위원] Chair, Future Vision Committee, National Fire Agency (Mar 2024 – Dec 2024)'
+  - '[위원] Chair, Consumer Policy Evaluation Subcommittee, Korea Fair Trade Commission (Jan 2022 – Dec 2024)'
+  - '[위원] Chair, Management Evaluation Subcommittee for Executive Agencies, Ministry of the Interior and Safety (Jan 2022 – Dec 2023)'
+  - '[위원] Evaluator, Management Evaluation of Executive Agencies, Ministry of the Interior and Safety (Jan 2021 – Dec 2021)'
+  - '[위원] Evaluator, Internal Evaluation Committee, Korea Water Resources Corporation (Jan 2020 – Dec 2020)'
+  - '[위원] Evaluator, Internal Evaluation Committee for Subsidiaries, Korea Gas Corporation (Jan 2020 – Dec 2020)'
+  - '[위원] Chair, Consumer Policy Evaluation Subcommittee, Korea Fair Trade Commission (Jan 2019 – Dec 2021)'
+  - '[위원] Special Member, Autonomous Police Special Committee, Presidential Committee on Autonomy and Decentralization (Apr 2018 – Mar 2019)'
+  - '[위원] Editor-in-Chief, International Journal of Policy Studies, Korean Association for Policy Studies (Jan 2017 – Dec 2018)'
+  - '[위원] Chair of General Affairs, Korean Association for Governance Studies (Jan 2016 – Dec 2016)'
+  - '[위원] Director of General Affairs, Korean Association for Public Administration (Jan 2016 – Dec 2016)'
+  - '[위원] Evaluator, Public Institution Management Evaluation Team, Ministry of Economy and Finance (Feb 2015 – Dec 2017)'
+  - '[위원] Director of Research, Korean Association for Policy Studies (Jan 2015 – Dec 2015)'
+  - '[위원] Evaluator, Community Center Operations, Seoul Metropolitan Government (Aug 2015 – Dec 2015)'
+  - '[위원] Policy Advisor, Ministry of Government Administration and Home Affairs (Dec 2014 – Dec 2017)'
+  - '[위원] Question Selection Committee Member, Higher Civil Service Examination, Ministry of Security and Public Administration (Jul 2014 – Aug 2014)'
+  - '[위원] Disciplinary Committee Member, National Museum of Korea, Ministry of Culture, Sports and Tourism (Jun 2014 – )'
+  - '[위원] Advisory Member, Presidential Committee on Local Autonomy Development (Dec 2013 – Dec 2017)'
+  - '[위원] Expert Member, National Agenda Evaluation, 2013 Government Performance Evaluation (Nov 2013 – Dec 2013)'
+  - '[위원] Evaluator, Local Public Enterprise Evaluation (Apr 2013 – Dec 2014)'
+  - '[위원] Editorial Board Member, Korean Association for Local Government Studies (Mar 2013 – )'
+  - '[위원] Editorial Board Member, Korean Association for Organizational Studies (Mar 2013 – )'
+  - '[위원] Evaluator, Public Interest Activity Support Program, Seoul Metropolitan Government (Nov 2012 – May 2013)'
+  - '[위원] Evaluator, Community Center Operations, Seoul Metropolitan Government (Aug 2012 – Dec 2012)'
+  - '[위원] Management Evaluator, Copyright Management Organizations, Ministry of Culture, Sports and Tourism (May 2012 – Dec 2012)'
+  - '[위원] Member, Joint Evaluation Team for Local Governments, Ministry of Public Administration and Security (Apr 2012 – )'
+vi:
+  academic: Giáo sư, Chương trình Hành chính công, Khoa Khoa học Xã hội, Đại học Hansung
+  keywords:
+  - Đánh giá hiệu quả
+  - Hành chính cảnh sát
+  - Quản lý thảm họa
+  - Quản lý tổ chức
+  - Phương pháp học máy trong khoa học xã hội
+  education:
+  - Tiến sĩ Hành chính công, Florida State University (2010)
+  - Thạc sĩ Hành chính công, Trường Sau đại học Hành chính công, Đại học Quốc gia Seoul (1999)
+  - Cử nhân Luật, Đại học Cảnh sát Quốc gia Hàn Quốc (1994)
+  career:
+  - Giáo sư, Chương trình Hành chính công, Khoa Khoa học Xã hội, Đại học Hansung
+  - Hiệu trưởng Trường Sau đại học Hành chính công, Đại học Hansung (01/2022 – )
+  awards:
+  - '[위원] Chủ tịch Hội Nghiên cứu Tổ chức Hàn Quốc (01/2026 – nay)'
+  - '[위원] Chủ tịch Hội Cải cách Hành chính Hàn Quốc (01/2023 – 12/2025)'
+  - '[위원] Tổng biên tập International Journal of Public Administration and Consulting (01/2017 – nay)'
+  - '[위원] Ủy viên hành chính chủ động, Ủy ban An toàn Hạt nhân (01/2021 – )'
+  - '[위원] Chủ tịch Ủy ban Tầm nhìn Tương lai, Cơ quan Phòng cháy Chữa cháy Quốc gia (03/2024 – 12/2024)'
+  - '[위원] Trưởng tiểu ban Đánh giá Chính sách Người tiêu dùng, Ủy ban Thương mại Công bằng Hàn Quốc (01/2022 – 12/2024)'
+  - '[위원] Trưởng tiểu ban Đánh giá Quản lý các Cơ quan Tự chủ, Bộ Nội vụ và An toàn (01/2022 – 12/2023)'
+  - '[위원] Ủy viên đánh giá quản lý các cơ quan tự chủ, Bộ Nội vụ và An toàn (01/2021 – 12/2021)'
+  - '[위원] Ủy viên Hội đồng Đánh giá Nội bộ, Tổng công ty Tài nguyên Nước Hàn Quốc (01/2020 – 12/2020)'
+  - '[위원] Ủy viên Hội đồng Đánh giá Nội bộ các công ty con, Tổng công ty Khí đốt Hàn Quốc (01/2020 – 12/2020)'
+  - '[위원] Trưởng tiểu ban Đánh giá Chính sách Người tiêu dùng, Ủy ban Thương mại Công bằng Hàn Quốc (01/2019 – 12/2021)'
+  - '[위원] Ủy viên đặc biệt, Ủy ban đặc biệt về Cảnh sát Tự quản, Ủy ban Tự chủ và Phân quyền trực thuộc Tổng thống (04/2018 – 03/2019)'
+  - '[위원] Tổng biên tập International Journal of Policy Studies, Hội Nghiên cứu Chính sách Hàn Quốc (01/2017 – 12/2018)'
+  - '[위원] Trưởng ban Tổng vụ, Hội Nghiên cứu Quản trị Quốc gia Hàn Quốc (01/2016 – 12/2016)'
+  - '[위원] Ủy viên Tổng vụ, Hội Hành chính học Hàn Quốc (01/2016 – 12/2016)'
+  - '[위원] Ủy viên đánh giá, Đoàn Đánh giá Quản lý Cơ quan Công, Bộ Kinh tế và Tài chính (02/2015 – 12/2017)'
+  - '[위원] Ủy viên Nghiên cứu, Hội Nghiên cứu Chính sách Hàn Quốc (01/2015 – 12/2015)'
+  - '[위원] Ủy viên đánh giá vận hành nhà văn hóa cộng đồng, Thành phố Seoul (08/2015 – 12/2015)'
+  - '[위원] Cố vấn chính sách, Bộ Hành chính Chính phủ và Nội vụ (12/2014 – 12/2017)'
+  - '[위원] Ủy viên lựa chọn đề thi tuyển công chức hành chính cao cấp, Bộ An ninh và Hành chính Công (07/2014 – 08/2014)'
+  - '[위원] Ủy viên Hội đồng Kỷ luật, Bảo tàng Quốc gia Hàn Quốc, Bộ Văn hóa, Thể thao và Du lịch (06/2014 – )'
+  - '[위원] Ủy viên cố vấn, Ủy ban Phát triển Tự trị Địa phương trực thuộc Tổng thống (12/2013 – 12/2017)'
+  - '[위원] Ủy viên chuyên môn, mảng đánh giá nhiệm vụ quốc gia, Đánh giá công tác Chính phủ năm 2013 (11/2013 – 12/2013)'
+  - '[위원] Ủy viên đánh giá doanh nghiệp công địa phương (04/2013 – 12/2014)'
+  - '[위원] Ủy viên biên tập, Hội Nghiên cứu Chính quyền Địa phương Hàn Quốc (03/2013 – )'
+  - '[위원] Ủy viên biên tập, Hội Nghiên cứu Tổ chức Hàn Quốc (03/2013 – )'
+  - '[위원] Ủy viên đánh giá chương trình hỗ trợ hoạt động công ích, Thành phố Seoul (11/2012 – 05/2013)'
+  - '[위원] Ủy viên đánh giá vận hành nhà văn hóa cộng đồng, Thành phố Seoul (08/2012 – 12/2012)'
+  - '[위원] Ủy viên đánh giá quản lý các tổ chức quản lý bản quyền, Bộ Văn hóa, Thể thao và Du lịch (05/2012 – 12/2012)'
+  - '[위원] Thành viên Đoàn Đánh giá Liên ngành Chính quyền Địa phương, Bộ Hành chính và An ninh Công (04/2012 – )'
 ---

@@ -1,0 +1,12 @@
+speakers:
+  title: Diễn giả khách mời
+  text: Các chuyên gia đồng hành trong giảng dạy và hoạt động Global IPP của khoa.
+  pending_text: Danh sách diễn giả khách mời sẽ được đăng khi hồ sơ được xác nhận.
+researchers:
+  title: Nghiên cứu viên
+  text: Phụ trách hỗ trợ sinh viên quốc tế của khoa.
+  list:
+    - name: Nguyễn Thị Hà
+      role: Hỗ trợ sinh viên Việt Nam
+    - name: Hasan Md Kamrul
+      role: Hỗ trợ sinh viên Bangladesh

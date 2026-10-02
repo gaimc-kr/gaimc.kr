@@ -38,4 +38,58 @@ awards:
 - 한국지역경제학회 우수논문상 (2024. 12.)
 - 한성대학교 특별공로상 (2025. 2.)
 - 한성대학교 성적우수상 (2025. 2.)
+en:
+  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  industry: Managing Director, Seojin Technology Co., Ltd.
+  education:
+  - Ph.D. in Consulting, Department of Knowledge Service & Consulting, Hansung University
+  - M.S. in EduTech, Korea National Open University
+  career:
+  - Managing Director, Seojin Technology Co., Ltd. (2021 – present)
+  - Principal Researcher and Head of Research Institute, Danam Electronics & Communication (2000 – 2020)
+  - Senior Researcher, LG Industrial Systems and Samsung Electronics (1996 – 1999)
+  - 35 years of experience in power conversion systems research and AI/IoT remote electrical safety inspection systems
+  certifications:
+  - e-Learning Instructor
+  achievements:
+  - Development of power conversion devices and electronic components for telecommunications, civilian and military use; outsourced development management; mass production support
+  - Root cause analysis and resolution of development safety standards and mass production issues
+  - Proposals, reports, presentations and project management for national R&D projects
+  network:
+  - 'Public network: Korea Electrical Safety Corporation (KESCO), Korea Electric Power Corporation (KEPCO), Korea Institute for Advancement of Technology (KIAT), etc.'
+  - 'Private and demonstration hubs: SME networks linked with regional industrial technology institutes (Gyeonggi, Seoul, Incheon, etc.)'
+  awards:
+  - Best Paper Award, Korean Society for Systems Engineering (May 2022)
+  - Best Paper Award, Korea Society of Industrial Management (Dec 2022)
+  - Certificate of Appreciation, Hansung University (Mar 2024)
+  - Excellent Paper Award, Korean Regional Economics Association (Dec 2024)
+  - Special Distinguished Service Award, Hansung University (Feb 2025)
+  - Academic Excellence Award, Hansung University (Feb 2025)
+vi:
+  academic: Giáo sư kiêm nhiệm, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
+  industry: Giám đốc điều hành, Seojin Technology Co., Ltd.
+  education:
+  - Tiến sĩ Tư vấn, Khoa Dịch vụ Tri thức & Tư vấn, Đại học Hansung
+  - Thạc sĩ Công nghệ giáo dục (EduTech), Đại học Mở Quốc gia Hàn Quốc
+  career:
+  - Giám đốc điều hành, Seojin Technology Co., Ltd. (2021 – nay)
+  - Nghiên cứu viên chính và Viện trưởng Viện nghiên cứu, Danam Electronics & Communication (2000 – 2020)
+  - Nghiên cứu viên cao cấp, LG Industrial Systems và Samsung Electronics (1996 – 1999)
+  - 35 năm kinh nghiệm nghiên cứu hệ thống chuyển đổi điện năng và hệ thống kiểm tra an toàn điện từ xa bằng AI, IoT
+  certifications:
+  - Chuyên viên hướng dẫn e-learning
+  achievements:
+  - Phát triển thiết bị chuyển đổi điện năng và linh kiện điện tử cho viễn thông, dân dụng và quân sự; quản lý phát triển thuê ngoài; hỗ trợ sản xuất hàng loạt
+  - Phân tích nguyên nhân và giải quyết vấn đề về tiêu chuẩn an toàn khi phát triển và sản xuất hàng loạt
+  - Đề xuất, báo cáo, trình bày và quản lý dự án nghiên cứu cấp quốc gia
+  network:
+  - 'Mạng lưới công: Tổng công ty An toàn Điện Hàn Quốc (KESCO), Tổng công ty Điện lực Hàn Quốc (KEPCO), Viện Xúc tiến Công nghệ Hàn Quốc (KIAT) và các cơ quan khác'
+  - 'Cơ sở tư nhân và thực chứng: mạng lưới doanh nghiệp vừa và nhỏ liên kết với các viện công nghệ công nghiệp địa phương (Gyeonggi, Seoul, Incheon và các nơi khác)'
+  awards:
+  - Giải bài báo xuất sắc nhất, Hội Kỹ thuật Hệ thống Hàn Quốc (05/2022)
+  - Giải bài báo xuất sắc nhất, Hội Quản trị Công nghiệp Hàn Quốc (12/2022)
+  - Thư cảm ơn, Đại học Hansung (03/2024)
+  - Giải bài báo xuất sắc, Hội Kinh tế Vùng Hàn Quốc (12/2024)
+  - Giải thưởng cống hiến đặc biệt, Đại học Hansung (02/2025)
+  - Giải thưởng thành tích học tập xuất sắc, Đại học Hansung (02/2025)
 ---

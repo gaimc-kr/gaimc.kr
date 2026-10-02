@@ -1,0 +1,74 @@
+hero:
+  eyebrow: HANSUNG UNIVERSITY · GRADUATE SCHOOL
+  title: Đào tạo chuyên gia tư vấn quản trị toàn cầu trong kỷ nguyên AI
+  subtitle: Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung đào tạo thạc sĩ Chuyên ngành Tư vấn Quản trị Toàn cầu (chương trình song ngữ) và Chuyên ngành Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh). Sinh viên học phương pháp tư vấn ứng dụng AI cùng với thực hành tại doanh nghiệp.
+stats:
+  - label: Giảng viên
+    value: "14"
+    unit: người
+    detail: 1 giáo sư danh dự đặc nhiệm, 4 cơ hữu, 3 thỉnh giảng, 6 kiêm nhiệm
+  - label: Diễn giả khách mời
+    value: "20"
+    unit: người
+    detail: Chuyên gia từ doanh nghiệp và học thuật
+  - label: Sinh viên
+    value: "463"
+    unit: người
+    detail: Học kỳ 2 năm 2026, 5 khóa
+  - label: Chuyên ngành
+    value: "2"
+    unit: ""
+    detail: Chương trình song ngữ, chương trình tiếng Anh
+  - label: Quốc tịch sinh viên
+    value: "2"
+    unit: nước
+    detail: Việt Nam, Bangladesh (ứng viên kỳ xuân 2027 có thêm Nepal, Ấn Độ)
+  - label: Trường đối tác nước ngoài
+    value: "3"
+    unit: trường
+    detail: 1 tại Việt Nam, 2 tại Bangladesh
+  - label: Thời gian đào tạo
+    value: "5"
+    unit: học kỳ
+    detail: 2,5 năm, 30 tín chỉ
+  - label: Nghiên cứu viên
+    value: "2"
+    unit: người
+    detail: Hỗ trợ sinh viên Việt Nam và Bangladesh
+ipp:
+  title: Global IPP
+  text: Chương trình gắn kết thực tế do khoa thiết kế cùng doanh nghiệp và tổ chức, giúp sinh viên quốc tế đi từ học tập đến trải nghiệm thực tế và việc làm tại Hàn Quốc. Chương trình mở rộng kinh nghiệm vừa học vừa làm (IPP) của Đại học Hansung cho sinh viên quốc tế.
+learn:
+  - title: Tư vấn quản trị AI
+    text: Sử dụng AI làm công cụ để chẩn đoán, phân tích vấn đề của doanh nghiệp và thiết kế các dự án đổi mới quản trị, bao gồm chiến lược chuyển đổi AI (AX).
+  - title: Phương pháp tư vấn
+    text: Học có hệ thống các phương pháp tư vấn về giải quyết vấn đề, tinh thần khởi nghiệp, khởi nghiệp mạo hiểm, tiếp cận doanh nghiệp vừa và nhỏ, HRM&D và đổi mới năng suất.
+  - title: Thực hành tại doanh nghiệp
+    text: Bài nghiên cứu và thực tập (practicum) là điều kiện tốt nghiệp, giúp sinh viên trực tiếp thực hiện tư vấn tại doanh nghiệp.
+  - title: Năng lực toàn cầu
+    text: Học trong chương trình song ngữ (Hàn – Việt) hoặc chương trình tiếng Anh, và học phương pháp tư vấn ODA.
+  - title: Dữ liệu và R&D
+    text: Học tư vấn dựa trên bằng chứng qua phương pháp phân tích thống kê và nghiên cứu tình huống tư vấn R&D.
+partners_text: Chúng tôi thiết kế quá trình học tập và trải nghiệm thực tế của sinh viên cùng các trường đại học tại Việt Nam, Bangladesh và các tổ chức, doanh nghiệp tại Hàn Quốc.
+faculty_text: Đội ngũ giảng viên kết hợp nghiên cứu học thuật với kinh nghiệm thực tiễn tại doanh nghiệp.
+quick:
+  - group: Sinh viên đang học
+    links:
+      - label: Hệ thống thông tin
+        url: https://info.hansung.ac.kr/index.jsp
+      - label: Lịch học vụ sau đại học
+        url: "https://www.hansung.ac.kr/hansung/6097/subview.do?enc=Zm5jdDF8QEB8JTJGc2NoZHVsTW5nJTJGaGFuc3VuZyUyRjE4JTJGdmlldy5kbyUzRg%3D%3D"
+  - group: Người muốn nhập học
+    links:
+      - label: Tuyển sinh
+        url: /admission/
+      - label: Tuyển sinh sau đại học
+        url: https://hansung.ac.kr/gshansung/index.do
+      - label: Hỏi về tuyển sinh
+        url: /contact/
+  - group: Đối tác và doanh nghiệp
+    links:
+      - label: Đối tác hợp tác
+        url: /partners/
+      - label: Liên hệ hợp tác
+        url: /contact/

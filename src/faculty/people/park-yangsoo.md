@@ -216,4 +216,344 @@ awards:
 - '[위원] 한국과학기술정보연구원 과학기술정보협의회 위원 (2014. 1. ~ 현재)'
 - '[위원] 기업·기술가치평가협회 평가전문위원 (2009. 3. ~ 현재)'
 memo: 2026. 9. 이력서 기준 전체 반영. 아이쎄오는 2026. 8. 31. 폐업(전직 표기)
+en:
+  academic: Professor, Department of Global AI Management Consulting, Hansung University
+  keywords:
+  - AI management consulting
+  - Technology commercialization
+  - Technology valuation
+  - Business model (BM) design
+  - Data valuation and trading
+  education:
+  - Ph.D. in Consulting, Convergence Consulting Major, Department of Knowledge Service & Consulting, Hansung University (2026)
+  - MBA in Management of Technology (MOT), Korea University of Technology and Education (2022)
+  - B.S. in Physics, College of Science, Korea University (1995)
+  career:
+  - Professor, Department of Global AI Management Consulting, Hansung University (Sep 2026 – present)
+  - (Former) CEO, AI-CEO, AI technology management consulting (Jul 2025 – Aug 2026)
+  - Senior Advisor, Combiro Co., Ltd., technology management consulting (Nov 2023 – Dec 2025)
+  - CEO, Soltoro Co., Ltd., technology commercialization consulting (Apr 2010 – Dec 2025)
+  - Head, Technology Transfer Team, Welcher Technology Co., Ltd., technology commercialization consulting (Aug 2007 – Dec 2010)
+  - Deputy General Manager, Electronics Division, Hwawoo Patent Law Firm, patent consulting (Sep 2006 – Sep 2007)
+  - Deputy General Manager, Electronics Division, Welcher International Patent, patent consulting (Aug 2005 – Aug 2006)
+  - Manager, Electronics Division, Innohansil International Patent, patent consulting (Feb 1997 – May 1999)
+  - Intern, Development Department, Hyundai Electronics (Jan 1995 – Feb 1995)
+  certifications:
+  - Advanced Data Analytics Semi-Professional (ADsP), Korea Data Agency (2024)
+  - Data Broker, Ministry of Science and ICT (2023)
+  - Big Data Planning Specialist, Korea Data Agency (2022)
+  - Big Data Specialist Level 1, Korea Vocational Competency Development Institute (2021)
+  - Big Data Analysis Specialist, Korea Data Agency (2021)
+  - International Technology Cooperation Specialist, Korea Institute for Advancement of Technology (2017)
+  - TRIZ Specialist Level 2, Korea TRIZ Association (2012)
+  - Business Startup Consultant, Samil PwC (2010)
+  - Technology Transfer Agent, Ministry of Knowledge Economy (2009)
+  - Business and Technology Valuation Specialist, Korea Business and Technology Valuation Association (2009)
+  - Patent Information Analyst, Korea Electronics Association (2008)
+  - Patent Information Searcher, Korea Electronics Association (2008)
+  network:
+  - 'Public network: Korea Invention Promotion Association, Korea Technology Finance Corporation, KOTRA, Korea Environmental Industry & Technology Institute, KOICA'
+  - 'Private and demonstration hubs: SME networks linked with techno parks nationwide (Gangwon, Daegu, Chungnam)'
+  awards:
+  - Distinguished Service Award, Dean of the Graduate School, Hansung University (No. 2026-26) (Aug 2026)
+  - Distinguished Service Award, Dean of the Graduate School of Knowledge Service & Consulting, Hansung University, 2026 AI Art & Business Festival (Jun 2026)
+  - Excellent Paper Award, Ph.D. category, 2025 Winter Joint Conference, Korea Association for International Commerce and Information (No. 2025-통상-45), "Development of Global AI Consulting Learning Modules Based on a Digital Competency Framework" (Dec 2025)
+  - Commendation from the Commissioner of the Korean Intellectual Property Office for promoting the IP service industry (Dec 2022)
+  - Commendation, Patent Management Award, Licensing Executives Society Korea (Nov 2015)
+  - '[위원] Senior Vice President, Korea Technology Transfer Agents Association (Mar 2021 – Dec 2024)'
+  - '[위원] Director, Korea Intellectual Property Service Association (Mar 2022 – Dec 2024)'
+  - '[위원] Technology Commercialization Expert, Korea Association of University Technology Transfer (May 2017 – present)'
+  - '[위원] Expert Pool Member, Korea Intellectual Property Center (Jun 2016 – present)'
+  - '[위원] Advisory Committee Member, Inno-Biz Association (Apr 2016 – present)'
+  - '[위원] Advisory Committee Member, Korea Technology Commercialization Group (Jan 2016 – present)'
+  - '[위원] Member, Science and Technology Information Council, Korea Institute of Science and Technology Information (Jan 2014 – present)'
+  - '[위원] Valuation Expert Committee Member, Korea Business and Technology Valuation Association (Mar 2009 – present)'
+  non_rnd:
+  - Technology assessment, commercialization strategy and technology valuation of a portable wild ginseng detection device, Kihyun Mold Tech (Feb 2026)
+  - Database development for the Gangwon bio-health specialized industry promotion projects, Gangwon Technopark (Nov 2025 – Dec 2025)
+  - 'Gangwon Technopark early-stage company growth consulting: capability diagnosis, IR materials, BM analysis and vision setting for Jeongin Jeokbang Lab (Aug 2025 – Nov 2025)'
+  - 'Gangwon Technopark: company analysis and promotional materials for Segwang (Sep 2025 – Oct 2025)'
+  - Technology valuation of a multi-biomarker analysis technology for metabolic liver disease, Genohelix (Sep 2025)
+  - 'Gangwon Technopark: economic analysis and regulation-free special zone strategy for the insect industry of Chuncheon (Aug 2025 – Sep 2025)'
+  - 'Gangwon Technopark: economic analysis and regulation-free special zone strategy for the Sangdong mine, Yeongwol County (Jun 2025 – Aug 2025)'
+  - Technology transfer and strategic partnership consulting with a Chinese company for PTC's chiller and scrubber technologies (Apr 2025 – Dec 2025)
+  - Economic evaluation, commercialization and BM strategy, and technology valuation of a soot reduction device, Power Synergy (Apr 2025 – May 2025)
+  - 'Smart well-aging technology: BM development for the microbiome-based biological age measurement technology, Dongshin University (Mar 2025 – Jun 2025)'
+  - 'Smart well-aging technology: BM development for the inflammatory bowel disease improvement technology, Dongshin University (Mar 2025 – Jun 2025)'
+  - 'Smart well-aging technology: BM development for the colorectal cancer prevention technology, Dongshin University (Mar 2025 – Jun 2025)'
+  - 'Smart well-aging technology: BM development for the synbiotics material technology, Dongshin University (Mar 2025 – Jun 2025)'
+  - 'Smart logistics technology commercialization collaboration platform: BM development for the coffee sector in Busan (Mar 2025 – Jun 2025)'
+  - Economic analysis, business model (BM) and commercialization strategy for an absorbent fiber technology, Plus (Feb 2025 – May 2025)
+  - Economic evaluation, commercialization and BM strategy, and technology valuation of an oral irrigator, Kihyun Mold Tech (Jan 2025 – Feb 2025)
+  - Economic evaluation and technology valuation of a pipe cleaning device for water mains, Samyoung Filtech (Mar 2024 – Apr 2025)
+  - Economic evaluation and technology valuation of an image detection technology, Lee Jin ICT (Feb 2024 – Mar 2025)
+  - Basic concept and implementation strategy for the Republic of Korea Pavilion, Seodaemun-gu (Oct 2024 – Dec 2024)
+  - Policy, market and technology trend survey and analysis for 2050 mobility, Korea Transport Institute (Jul 2024 – Jan 2025)
+  - 'Innovation voucher: new business model (BM) consulting for Eight Tech Co., Ltd. (Jul 2024 – Dec 2024)'
+  - Training on generative AI business innovation strategies for new businesses, Korea Intellectual Property Service Association (Jul 2024 – Aug 2024)
+  - Customized BM and R&D planning for corporate value-up, Kyungpook National University (May 2024 – Jun 2024)
+  - Development of an AI-based predictive diagnosis air compressor system, KY (Apr 2024 – Dec 2024)
+  - Study on promoting open innovation of laboratory startups, Korea Research Industry Association (Feb 2024 – Mar 2024)
+  - Economic evaluation and data valuation of data assets, Twigfarm Co., Ltd. (May 2023 – Nov 2023)
+  - Pilot export and marketability analysis of privately developed new crop varieties, Rural Development Administration (Jan 2023 – Dec 2023)
+  - Organizing technology briefings on materials technologies held by the National Marine Biodiversity Institute of Korea (Nov 2022 – Dec 2022)
+  - Pilot export and marketability analysis of privately developed new crop varieties, Rural Development Administration (Nov 2022 – Dec 2022)
+  - Marketability assessment of new citrus varieties leveraging RCEP, Rural Development Administration (Oct 2022 – Dec 2022)
+  - Comprehensive asset valuation of a display technology for overseas transfer, Sena Glass Co., Ltd. (Sep 2022 – Nov 2022)
+  - Economic evaluation and technology valuation of an automotive seat technology, Asia Welding (Jul 2022 – Oct 2022)
+  - Survey of export-enabling technologies for sea transport of major fresh agricultural products, Rural Development Administration (Jun 2022 – Aug 2022)
+  - License sales strategy, ANSYS (May 2022 – Dec 2022)
+  - Economic evaluation and technology valuation of a public transport fare support system, RM Tech (May 2022 – Jul 2022)
+  - Technology market survey and analysis, Korea Technology Finance Corporation (Techran Co., Ltd.) (Nov 2021 – Dec 2021)
+  - Technology market survey and analysis, Korea Technology Finance Corporation (HS Information Consulting) (Nov 2021 – Dec 2021)
+  - 'Technology and market information project, Korea Technology Finance Corporation: technology and market research and database building (Nov 2021 – Dec 2021)'
+  - Commercialization strategy for a health monitoring system for older adults living alone, Autowellz Co., Ltd. (Oct 2021 – Nov 2021)
+  - Overseas marketability assessment and export strategy for seedless watermelon, Rural Development Administration (Oct 2021 – Dec 2021)
+  - KOICA DAK climate change response subcommittee project (Aug 2021 – Dec 2021)
+  - 'Stage-by-stage technology commercialization support program, Soonchunhyang University: practical application strategy (Jul 2021 – Aug 2021)'
+  - Commercialization consulting for companies developing contactless services for daily life, National IT Industry Promotion Agency (Jun 2021 – Dec 2021)
+  - R&D planning support and commercialization consulting, Divine Technology Co., Ltd. (May 2021 – Dec 2021)
+  - 'Technology and market information project, Korea Technology Finance Corporation: technology and market research and database building (Sep 2020 – Dec 2020)'
+  - Domestic and international drone industry trend analysis consulting, Korea Institute of Aviation Safety Technology (Sep 2020 – Nov 2020)
+  - 'Korea Construction Technology Research Institute (KICT) technology demand survey in priority partner countries: overseas expansion support and global cooperation for SMEs (Jul 2020 – Dec 2020)'
+  - 'Gyeonggi Business & Science Accelerator global acceleration program: global investment consulting for promising Pangyo Valley startups (Jul 2020 – Nov 2020)'
+  - 'Technology Transfer Promotion Network, Daegu Technopark: technology commercialization planning for Hubert Company Co., Ltd. (Jul 2020 – Sep 2020)'
+  - 'Study on the status of industrial technology exports and institutional improvements, Ministry of Trade, Industry and Energy: export-oriented industrial trade policy (Jul 2020 – Sep 2020)'
+  - 'Innopolis Campus BM consulting, Yeungnam University: technology market analysis and BM development for prospective and early-stage founders (May 2020 – Aug 2020)'
+  - 'SME technology commercialization capacity program, Korea SMEs and Startups Agency: market validation support for Gencell Co., Ltd. (Apr 2020 – Jul 2020)'
+  - 'Demand-driven promising technology discovery, Kyungpook National University: selecting promising technologies and online global technology briefings (Mar 2020 – Aug 2020)'
+  - Global market entry support program (market research and strategy), Chungnam Technopark (Nov 2019 – Dec 2019)
+  - 2019 new growth engine technology commercialization support program, Korea Business Incubation Association (Sep 2019 – Dec 2019)
+  - 2019 China entry technology commercialization support for promising research-complex companies, Korea Environmental Industry & Technology Institute (Jun 2019 – Sep 2019)
+  - 'KICT ODA appropriate technology survey for developing countries: overseas demand survey and analysis (Aug 2018 – Dec 2018)'
+  - 'Technology commercialization support for environmental venture center tenants, Korea Environmental Industry & Technology Institute: BM, commercialization and investor briefings in China (Jul 2018 – Dec 2018)'
+  - Startup overseas market entry support program, Gyeonggi Business & Science Accelerator (Jun 2018 – Oct 2018)
+  - 'Technology marketing in China and Hong Kong for technologies held by the Korea Atomic Energy Research Institute: SMK preparation and marketing in China (May 2018 – Aug 2018)'
+  - 'R&D service capability building, Korea Research & Development Service Association: global foundation program, BM development and overseas investment (May 2018 – Aug 2018)'
+  - 'BM feasibility verification and commercialization strategy, Commercializations Promotion Agency for R&D Outcomes: KRISS Tech-BM (Apr 2018 – Jul 2018)'
+  - Selection and processing of commercialization information for NTB (National Technology Bank), Korea Institute for Advancement of Technology (Apr 2018 – Oct 2018)
+  - 'KOTRA export support program: strategy consulting, market research and overseas expansion support (Mar 2018 – Dec 2018)'
+  - Business model development study for a VR gait rehabilitation training system, Korea Information & Communication Industry Institute (Mar 2018 – Jun 2018)
+  - 'Technology upgrade consulting, Korea Technology Finance Corporation: BM, management and commercialization consulting for nine companies (Mar 2018 – Jun 2018)'
+  - Strategy study for overseas transfer of excellent technologies, Jeju National University (Jan 2018 – Feb 2018)
+  lectures:
+  - 'KRIBB Bio Bootcamp: R&D strategy and business plan methodology with no-code AI, for prospective and early-stage founders (Jun 19, 2026)'
+  - 'Hansung University, Department of Global AI Management Consulting, master''s students in semesters 1–4 (semester 2: classes N and P): no-code AI automation management consulting methodology (Mar 2026 – Jun 2026)'
+  - 'Gimhae Chamber of Commerce AI skills training: workplace automation with AI, for company employees (Nov 20, 2025)'
+  - 'Chungbuk Bio Industry-Academia Convergence Institute: smart work innovation with AI agents, for company employees (Aug 22, 2025)'
+  - 'Korea Technology Transfer Agents Association registration training: big data trading (Jun 5, 2024)'
+  - 'Korea Intellectual Property Service Association IP Service Academy: Seoul New Deal jobs, IP trading (May 27, 2024)'
+  - 'Zion Consulting Co., Ltd.: digital transformation strategies and cases, for company employees (Jan 18, 2024)'
+  - 'Korea Technology Transfer Agents Association registration training: data commercialization and trading (Sep 3, 2023)'
+  - 'Korea Intellectual Property Service Association IP Service Academy: Seoul New Deal jobs, IP trading (Jun 23, 2023)'
+  - 'Korea Intellectual Property Service Association IP Service Academy: technology trading and licensing (Nov 3, 2022)'
+  - 'Korea Institute of Marine Science & Technology Promotion: global expansion of marine technologies, for SME employees (Nov 23, 2021)'
+  - 'Chungnam National University Industry-Academic Cooperation Foundation staff training: technology commercialization and investment strategy (Nov 19, 2021)'
+  - 'Soonchunhyang University Technology Holdings subsidiary R&BD program: technology commercialization and investment strategy (Aug 26, 2021)'
+  - 'Chungnam Industry-University Convergence Institute, Dangjin CEO-100 program: corporate commercialization (technology transfer) and investment strategy (Aug 18, 2021)'
+  - 'Korea Intellectual Property Service Association IP Service Academy: technology trading and licensing (Jun 23, 2021)'
+  - 'Chungnam Industry-University Convergence Institute, Dangjin CEO-100 program: corporate commercialization (technology transfer) and investment strategy (Jun 16, 2021)'
+  - 'Korea Business and Technology Valuation Association, technology startup consultant course: keys to a successful technology startup (Aug 19, 2020)'
+  - 'Twigfarm Co., Ltd.: employee invention compensation system, for company employees (Aug 19, 2020)'
+  - 'Korea Business and Technology Valuation Association and Hanbat National University (TSC), technology startup consultant course: how to succeed in a technology startup (Nov 10, 2019)'
+  - 'Korea Business and Technology Valuation Association and Daejeon Technopark (TSC), technology startup consultant course: keys to a successful technology startup (Mar 25, 2019)'
+  - 'Korea Polytechnic University: technology valuation and analysis (Nov 12, 2018)'
+  - 'Hanyang University Youth TLO: technology transfer, open innovation and marketing (Oct 29, 2018)'
+  - 'Sun Moon University Youth TLO: technology transfer, open innovation and marketing (Sep 12, 2018)'
+  - 'Soonchunhyang University Youth TLO: technology transaction negotiation and global technology export (Aug 16, 2018)'
+  - 'Soonchunhyang University Youth TLO: technology valuation and business model strategy (Aug 15, 2018)'
+  - 'Soonchunhyang University Youth TLO: technology trading and commercialization strategy (Aug 14, 2018)'
+  - 'Seoul Technopark: marketing in the Chinese market, for SME employees (Jul 16, 2018)'
+  - 'Korea Intellectual Property Service Association: technology export strategies and cases for China, for member companies (Nov 22, 2017)'
+  - 'Korea Business and Technology Valuation Association, technology startup consultant course: technology transfer contract cases in the Chinese market (Nov 6, 2017)'
+  - 'Korea Electronics Association Patent Support Center: patent information analysis, for SME employees (Sep 12, 2017)'
+  - 'Gangwon Technopark: toward successful technology commercialization, for SME employees (Jul 13, 2017)'
+  - 'Gyeongnam Intellectual Property Center: boosting competitiveness through technology management, for SME employees (Apr 6, 2016)'
+  - 'Korea Research Institute of Ships & Ocean Engineering (offshore plant): startups and technology commercialization success strategies, for researchers and founders (Mar 22, 2016)'
+  - 'University Technology Management Center: overseas technology commercialization, for university TLO staff (Feb 19, 2016)'
+  - 'Jinju Chamber of Commerce: technology commercialization success strategies, for SME employees (Oct 7, 2015)'
+  - 'Gyeongsang National University Convergence Industry-Academia Council: technology commercialization and IP management, for SME employees (Jul 15, 2014)'
+  - 'Jinju Chamber of Commerce: technology commercialization and startups, for SME employees (Jun 11, 2014)'
+  - 'Mokwon University, Department of Technology Marketing: company-centered consulting and technology management, for students and founders (May 26, 2014)'
+  - 'Jeju Chamber of Commerce: technology commercialization and business strategy, for SME employees (Apr 11, 2013)'
+  - 'Jeju Chamber of Commerce: technology transfer and commercialization marketing, for SME employees (Apr 10, 2013)'
+  - Korean Intellectual Property Office new technology training, for patent examiners (2012)
+  - 'Korea Intellectual Property Service Association: technology management and commercialization, for students and job seekers (2011 – 2013)'
+  - 'Korea Technology Transfer Agents Association: business modeling, for new technology transfer agents (2011 – 2013)'
+  - 'Incheon National University, Inha University and Korea University of Technology and Education: patent information analysis, patent strategy and business feasibility analysis, for undergraduate and graduate students (2010 – 2013)'
+  - 'Incheon Chamber of Commerce: patent information analysis, for member companies (2009)'
+  - 'Korea Electronics Association: patent information analysis and search, for member companies (2009)'
+  - 'Namdong Industrial Complex Council: industrial property rights and technology analysis, for member companies (2008)'
+  - 'Companies including Woorisoft and Zionsoft: technology commercialization and corporate patent strategy, for employees (2004 – 2021)'
+  office: Room 405, Jinri Hall
+vi:
+  academic: Giáo sư, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
+  keywords:
+  - Tư vấn quản trị AI
+  - Thương mại hóa công nghệ
+  - Định giá công nghệ
+  - Thiết kế mô hình kinh doanh (BM)
+  - Định giá và giao dịch dữ liệu
+  education:
+  - Tiến sĩ Tư vấn, chuyên ngành Tư vấn hội tụ, Khoa Dịch vụ Tri thức & Tư vấn, Đại học Hansung (2026)
+  - Thạc sĩ Quản trị kinh doanh, ngành Quản trị công nghệ (MOT), Đại học Công nghệ và Giáo dục Hàn Quốc (2022)
+  - Cử nhân Vật lý, Trường Khoa học Tự nhiên, Đại học Korea (1995)
+  career:
+  - Giáo sư, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung (09/2026 – nay)
+  - (Nguyên) Giám đốc AI-CEO, tư vấn quản trị công nghệ AI (07/2025 – 08/2026)
+  - Cố vấn cấp cao, Combiro Co., Ltd., tư vấn quản trị công nghệ (11/2023 – 12/2025)
+  - Giám đốc Soltoro Co., Ltd., tư vấn thương mại hóa công nghệ (04/2010 – 12/2025)
+  - Trưởng bộ phận chuyển giao công nghệ, Welcher Technology Co., Ltd., tư vấn thương mại hóa công nghệ (08/2007 – 12/2010)
+  - Phó trưởng phòng, bộ phận Điện tử, Công ty Luật Sở hữu trí tuệ Hwawoo, tư vấn sáng chế (09/2006 – 09/2007)
+  - Phó trưởng phòng, bộ phận Điện tử, Welcher International Patent, tư vấn sáng chế (08/2005 – 08/2006)
+  - Trưởng nhóm, bộ phận Điện tử, Innohansil International Patent, tư vấn sáng chế (02/1997 – 05/1999)
+  - Thực tập sinh, phòng Phát triển, Hyundai Electronics (01/1995 – 02/1995)
+  certifications:
+  - Chuyên viên phân tích dữ liệu sơ cấp (ADsP), Korea Data Agency (2024)
+  - Chuyên viên giao dịch dữ liệu, Bộ Khoa học và ICT (2023)
+  - Chuyên gia lập kế hoạch dữ liệu lớn, Korea Data Agency (2022)
+  - Chuyên gia dữ liệu lớn cấp 1, Viện Phát triển Năng lực Nghề nghiệp Hàn Quốc (2021)
+  - Chuyên gia phân tích dữ liệu lớn, Korea Data Agency (2021)
+  - Chuyên gia hợp tác công nghệ quốc tế, Viện Xúc tiến Công nghệ Hàn Quốc (2017)
+  - Chuyên gia TRIZ cấp 2, Hội TRIZ Hàn Quốc (2012)
+  - Chuyên viên tư vấn khởi nghiệp, Samil PwC (2010)
+  - Chuyên viên môi giới chuyển giao công nghệ, Bộ Kinh tế Tri thức (2009)
+  - Chuyên gia định giá doanh nghiệp và công nghệ, Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc (2009)
+  - Chuyên viên phân tích thông tin sáng chế, Hiệp hội Điện tử Hàn Quốc (2008)
+  - Chuyên viên tra cứu thông tin sáng chế, Hiệp hội Điện tử Hàn Quốc (2008)
+  network:
+  - 'Mạng lưới công: Hiệp hội Xúc tiến Sáng chế Hàn Quốc, Quỹ Bảo lãnh Công nghệ Hàn Quốc, KOTRA, Viện Công nghệ và Công nghiệp Môi trường Hàn Quốc, KOICA'
+  - 'Cơ sở tư nhân và thực chứng: mạng lưới doanh nghiệp vừa và nhỏ liên kết với các khu công nghệ trên toàn quốc (Gangwon, Daegu, Chungnam)'
+  awards:
+  - Giải thưởng cống hiến của Hiệu trưởng Trường Sau đại học, Đại học Hansung (số 2026-26) (08/2026)
+  - Giải thưởng cống hiến của Hiệu trưởng Trường Sau đại học Dịch vụ Tri thức & Tư vấn, Đại học Hansung, 2026 AI Art & Business Festival (06/2026)
+  - Giải bài báo xuất sắc hạng mục tiến sĩ, Hội thảo chung mùa đông 2025, Hội Thông tin Thương mại Quốc tế Hàn Quốc (số 2025-통상-45), “Nghiên cứu phát triển học phần tư vấn AI toàn cầu dựa trên khung năng lực số” (12/2025)
+  - Bằng khen của Cục trưởng Cục Sở hữu trí tuệ Hàn Quốc vì đóng góp phát triển ngành dịch vụ sở hữu trí tuệ (12/2022)
+  - Bằng khen, Giải thưởng Quản trị Sáng chế, Licensing Executives Society Korea (11/2015)
+  - '[위원] Phó Chủ tịch thường trực, Hội Môi giới Chuyển giao Công nghệ Hàn Quốc (03/2021 – 12/2024)'
+  - '[위원] Ủy viên Hội đồng quản trị, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc (03/2022 – 12/2024)'
+  - '[위원] Chuyên gia thương mại hóa công nghệ, Hiệp hội Chuyển giao Công nghệ Đại học Hàn Quốc (05/2017 – nay)'
+  - '[위원] Thành viên nhóm chuyên gia, Trung tâm Sở hữu trí tuệ Hàn Quốc (06/2016 – nay)'
+  - '[위원] Ủy viên cố vấn, Hiệp hội Inno-Biz (04/2016 – nay)'
+  - '[위원] Ủy viên cố vấn, Đoàn Thương mại hóa Công nghệ Hàn Quốc (01/2016 – nay)'
+  - '[위원] Thành viên Hội đồng Thông tin Khoa học Công nghệ, Viện Thông tin Khoa học và Công nghệ Hàn Quốc (01/2014 – nay)'
+  - '[위원] Ủy viên chuyên gia định giá, Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc (03/2009 – nay)'
+  non_rnd:
+  - Đánh giá công nghệ, chiến lược thương mại hóa và định giá công nghệ thiết bị dò sâm núi cầm tay, Kihyun Mold Tech (02/2026)
+  - Xây dựng cơ sở dữ liệu cho các dự án phát triển ngành công nghiệp đặc thù sức khỏe sinh học Gangwon, Khu công nghệ Gangwon (11/2025 – 12/2025)
+  - 'Tư vấn thúc đẩy tăng trưởng doanh nghiệp giai đoạn đầu của Khu công nghệ Gangwon: chẩn đoán năng lực, xây dựng IR, phân tích và bổ sung BM, thiết lập tầm nhìn cho Jeongin Jeokbang Lab (08/2025 – 11/2025)'
+  - 'Khu công nghệ Gangwon: phân tích doanh nghiệp và xây dựng tài liệu quảng bá cho Segwang (09/2025 – 10/2025)'
+  - Định giá công nghệ phân tích đa dấu ấn sinh học bệnh gan chuyển hóa, Genohelix (09/2025)
+  - 'Khu công nghệ Gangwon: phân tích kinh tế và lập chiến lược đặc khu tự do quy định cho ngành côn trùng của thành phố Chuncheon (08/2025 – 09/2025)'
+  - 'Khu công nghệ Gangwon: phân tích kinh tế và lập chiến lược đặc khu tự do quy định cho mỏ Sangdong, huyện Yeongwol (06/2025 – 08/2025)'
+  - Tư vấn chuyển giao công nghệ và hợp tác chiến lược với doanh nghiệp Trung Quốc cho công nghệ Chiller và Scrubber của PTC (04/2025 – 12/2025)
+  - Đánh giá kinh tế, chiến lược thương mại hóa và BM, định giá công nghệ thiết bị giảm khói thải, Power Synergy (04/2025 – 05/2025)
+  - 'Công nghệ lão hóa khỏe thông minh: phát triển BM cho công nghệ đo tuổi sinh học dựa trên hệ vi sinh vật, Đại học Dongshin (03/2025 – 06/2025)'
+  - 'Công nghệ lão hóa khỏe thông minh: phát triển BM cho công nghệ cải thiện viêm ruột, Đại học Dongshin (03/2025 – 06/2025)'
+  - 'Công nghệ lão hóa khỏe thông minh: phát triển BM cho công nghệ phòng ngừa ung thư đại tràng, Đại học Dongshin (03/2025 – 06/2025)'
+  - 'Công nghệ lão hóa khỏe thông minh: phát triển BM cho công nghệ vật liệu synbiotic, Đại học Dongshin (03/2025 – 06/2025)'
+  - 'Nền tảng hợp tác thương mại hóa công nghệ logistics thông minh: phát triển BM cho lĩnh vực cà phê tại Busan (03/2025 – 06/2025)'
+  - Phân tích kinh tế, xây dựng mô hình kinh doanh (BM) và chiến lược thương mại hóa công nghệ sợi thấm hút, Plus (02/2025 – 05/2025)
+  - Đánh giá kinh tế, chiến lược thương mại hóa và BM, định giá công nghệ máy tăm nước, Kihyun Mold Tech (01/2025 – 02/2025)
+  - Đánh giá kinh tế và định giá công nghệ thiết bị làm sạch đường ống nước, Samyoung Filtech (03/2024 – 04/2025)
+  - Đánh giá kinh tế và định giá công nghệ nhận diện hình ảnh, Lee Jin ICT (02/2024 – 03/2025)
+  - Lập ý tưởng cơ bản và chiến lược triển khai Nhà triển lãm Đại Hàn Dân Quốc, quận Seodaemun (10/2024 – 12/2024)
+  - Khảo sát và phân tích xu hướng chính sách, thị trường, công nghệ cho giao thông 2050, Viện Giao thông Hàn Quốc (07/2024 – 01/2025)
+  - 'Phiếu đổi mới: tư vấn xây dựng mô hình kinh doanh (BM) mới cho Eight Tech Co., Ltd. (07/2024 – 12/2024)'
+  - Đào tạo chiến lược đổi mới kinh doanh mới bằng AI tạo sinh, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc (07/2024 – 08/2024)
+  - Lập BM và kế hoạch R&D theo yêu cầu nhằm nâng cao giá trị doanh nghiệp, Đại học Quốc gia Kyungpook (05/2024 – 06/2024)
+  - Phát triển hệ thống máy nén khí chẩn đoán dự báo dựa trên AI, KY (04/2024 – 12/2024)
+  - Nghiên cứu thúc đẩy đổi mới mở cho doanh nghiệp khởi nghiệp từ phòng thí nghiệm, Hiệp hội Công nghiệp Nghiên cứu Hàn Quốc (02/2024 – 03/2024)
+  - Đánh giá kinh tế và định giá tài sản dữ liệu, Twigfarm Co., Ltd. (05/2023 – 11/2023)
+  - Xuất khẩu thử nghiệm và đánh giá tính thị trường của giống cây trồng mới do tư nhân phát triển, Cục Phát triển Nông thôn (01/2023 – 12/2023)
+  - Tổ chức buổi giới thiệu công nghệ vật liệu thuộc sở hữu của Viện Tài nguyên Sinh vật Biển Quốc gia (11/2022 – 12/2022)
+  - Xuất khẩu thử nghiệm và đánh giá tính thị trường của giống cây trồng mới do tư nhân phát triển, Cục Phát triển Nông thôn (11/2022 – 12/2022)
+  - Đánh giá tính thị trường giống cam quýt mới tận dụng cơ hội RCEP, Cục Phát triển Nông thôn (10/2022 – 12/2022)
+  - Đánh giá tổng hợp tài sản công nghệ màn hình dự kiến chuyển giao ra nước ngoài, Sena Glass Co., Ltd. (09/2022 – 11/2022)
+  - Đánh giá kinh tế và định giá công nghệ ghế ô tô, Asia Welding (07/2022 – 10/2022)
+  - Khảo sát công nghệ nền tảng xuất khẩu nông sản tươi bằng đường biển, Cục Phát triển Nông thôn (06/2022 – 08/2022)
+  - Lập chiến lược bán giấy phép, ANSYS (05/2022 – 12/2022)
+  - Đánh giá kinh tế và định giá công nghệ hệ thống hỗ trợ chi phí giao thông công cộng, RM Tech (05/2022 – 07/2022)
+  - Khảo sát và phân tích thị trường công nghệ, Quỹ Bảo lãnh Công nghệ Hàn Quốc (Techran Co., Ltd.) (11/2021 – 12/2021)
+  - Khảo sát và phân tích thị trường công nghệ, Quỹ Bảo lãnh Công nghệ Hàn Quốc (HS Information Consulting) (11/2021 – 12/2021)
+  - 'Dự án xây dựng thông tin công nghệ và thị trường của Quỹ Bảo lãnh Công nghệ Hàn Quốc: khảo sát, phân tích thông tin công nghệ, thị trường và xây dựng dữ liệu (11/2021 – 12/2021)'
+  - Lập chiến lược thương mại hóa hệ thống theo dõi sức khỏe người cao tuổi sống một mình, Autowellz Co., Ltd. (10/2021 – 11/2021)
+  - Đánh giá tính thị trường nước ngoài và chiến lược xuất khẩu dưa hấu không hạt, Cục Phát triển Nông thôn (10/2021 – 12/2021)
+  - Dự án tiểu ban ứng phó biến đổi khí hậu KOICA DAK (08/2021 – 12/2021)
+  - 'Chương trình hỗ trợ thương mại hóa công nghệ theo từng giai đoạn của Đại học Soonchunhyang: chiến lược ứng dụng thực tế (07/2021 – 08/2021)'
+  - Tư vấn thương mại hóa cho doanh nghiệp phát triển dịch vụ không tiếp xúc trong đời sống, Cơ quan Xúc tiến Công nghiệp CNTT Quốc gia (06/2021 – 12/2021)
+  - Hỗ trợ lập kế hoạch R&D và tư vấn thương mại hóa, Divine Technology Co., Ltd. (05/2021 – 12/2021)
+  - 'Dự án xây dựng thông tin công nghệ và thị trường của Quỹ Bảo lãnh Công nghệ Hàn Quốc: khảo sát, phân tích thông tin công nghệ, thị trường và xây dựng dữ liệu (09/2020 – 12/2020)'
+  - Tư vấn phân tích xu hướng ngành công nghiệp drone trong và ngoài nước, Viện Công nghệ An toàn Hàng không Hàn Quốc (09/2020 – 11/2020)
+  - 'Khảo sát nhu cầu công nghệ tại các quốc gia hợp tác trọng điểm của KICT: hỗ trợ doanh nghiệp vừa và nhỏ ra nước ngoài và hợp tác toàn cầu (07/2020 – 12/2020)'
+  - 'Chương trình tăng tốc toàn cầu của Cơ quan Xúc tiến Kinh tế và Khoa học Gyeonggi: tư vấn thu hút đầu tư toàn cầu cho startup triển vọng tại Pangyo Valley (07/2020 – 11/2020)'
+  - 'Mạng lưới xúc tiến giao dịch công nghệ, Khu công nghệ Daegu: hỗ trợ lập kế hoạch thương mại hóa công nghệ cho Hubert Company Co., Ltd. (07/2020 – 09/2020)'
+  - 'Nghiên cứu hiện trạng xuất khẩu công nghệ công nghiệp và phương án cải thiện thể chế, Bộ Thương mại, Công nghiệp và Năng lượng: chính sách thương mại công nghiệp hướng xuất khẩu (07/2020 – 09/2020)'
+  - 'Tư vấn xây dựng BM thuộc dự án Innopolis Campus, Đại học Yeungnam: phân tích thị trường công nghệ, xây dựng BM cho người chuẩn bị khởi nghiệp và doanh nghiệp giai đoạn đầu (05/2020 – 08/2020)'
+  - 'Dự án nâng cao năng lực thương mại hóa công nghệ cho doanh nghiệp vừa và nhỏ, Cơ quan Doanh nghiệp vừa và nhỏ và Khởi nghiệp Hàn Quốc: hỗ trợ kiểm chứng thị trường cho Gencell Co., Ltd. (04/2020 – 07/2020)'
+  - 'Khám phá công nghệ triển vọng theo nhu cầu toàn cầu, Đại học Quốc gia Kyungpook: lựa chọn công nghệ triển vọng và buổi giới thiệu công nghệ toàn cầu trực tuyến (03/2020 – 08/2020)'
+  - Dự án hỗ trợ thúc đẩy thâm nhập thị trường toàn cầu (khảo sát thị trường, lập chiến lược), Khu công nghệ Chungnam (11/2019 – 12/2019)
+  - Dự án hỗ trợ thương mại hóa công nghệ động lực tăng trưởng mới năm 2019, Hiệp hội Ươm tạo Doanh nghiệp Hàn Quốc (09/2019 – 12/2019)
+  - Dự án hỗ trợ thương mại hóa công nghệ cho doanh nghiệp triển vọng trong khu nghiên cứu vào thị trường Trung Quốc năm 2019, Viện Công nghệ và Công nghiệp Môi trường Hàn Quốc (06/2019 – 09/2019)
+  - 'Dự án khảo sát, phân tích công nghệ thích hợp của KICT có thể áp dụng cho nước đang phát triển trong ODA: khảo sát và phân tích nhu cầu nước ngoài (08/2018 – 12/2018)'
+  - 'Dự án hỗ trợ thương mại hóa công nghệ cho doanh nghiệp tại Trung tâm Khởi nghiệp Môi trường, Viện Công nghệ và Công nghiệp Môi trường Hàn Quốc: BM, thương mại hóa công nghệ, buổi giới thiệu thu hút đầu tư tại Trung Quốc (07/2018 – 12/2018)'
+  - Dự án hỗ trợ startup thâm nhập thị trường nước ngoài, Cơ quan Xúc tiến Kinh tế và Khoa học Gyeonggi (06/2018 – 10/2018)
+  - 'Marketing công nghệ tại Trung Quốc và Hồng Kông cho công nghệ thuộc Viện Nghiên cứu Năng lượng Nguyên tử Hàn Quốc: xây dựng SMK và marketing tại Trung Quốc (05/2018 – 08/2018)'
+  - 'Nâng cao năng lực đổi mới dịch vụ nghiên cứu phát triển, Hiệp hội Dịch vụ R&D Hàn Quốc: vận hành dự án xây dựng nền tảng toàn cầu hóa, xây dựng BM và đầu tư nước ngoài (05/2018 – 08/2018)'
+  - 'Kiểm chứng tính khả thi của BM và lập chiến lược thương mại hóa, Cơ quan Xúc tiến Thương mại hóa Kết quả R&D: Tech-BM của Viện Tiêu chuẩn và Khoa học Hàn Quốc (04/2018 – 07/2018)'
+  - Dự án lựa chọn và xử lý thông tin thương mại hóa công nghệ cho NTB (Ngân hàng Công nghệ Quốc gia), Viện Xúc tiến Công nghệ Hàn Quốc (04/2018 – 10/2018)
+  - 'Dự án hỗ trợ xuất khẩu của KOTRA: tư vấn chiến lược, khảo sát và phân tích thị trường, hỗ trợ ra nước ngoài (03/2018 – 12/2018)'
+  - Nghiên cứu phát triển mô hình kinh doanh cho hệ thống tập phục hồi chức năng đi lại bằng VR, Viện Công nghiệp Thông tin và Truyền thông Hàn Quốc (03/2018 – 06/2018)
+  - 'Tư vấn nâng cấp công nghệ, Quỹ Bảo lãnh Công nghệ Hàn Quốc: xây dựng BM, quản trị và tư vấn thương mại hóa cho 9 doanh nghiệp (03/2018 – 06/2018)'
+  - Nghiên cứu chiến lược chuyển giao công nghệ ưu tú ra nước ngoài, Đại học Quốc gia Jeju (01/2018 – 02/2018)
+  lectures:
+  - 'Bio Bootcamp của Viện Nghiên cứu Khoa học Sinh học và Công nghệ Sinh học Hàn Quốc (KRIBB): phương pháp lập chiến lược R&D và kế hoạch kinh doanh bằng AI không cần lập trình, dành cho người chuẩn bị khởi nghiệp và doanh nghiệp giai đoạn đầu (19/06/2026)'
+  - 'Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung, học viên thạc sĩ học kỳ 1–4 (học kỳ 2: lớp N, P): phương pháp tư vấn quản trị tự động hóa bằng AI không cần lập trình (03/2026 – 06/2026)'
+  - 'Phòng Thương mại Gimhae, đào tạo năng lực sử dụng AI: tự động hóa công việc bằng AI, dành cho nhân viên doanh nghiệp (20/11/2025)'
+  - 'Viện Hội tụ Công nghiệp – Học thuật Sinh học Chungbuk: đổi mới làm việc thông minh cùng AI agent, dành cho nhân viên doanh nghiệp (22/08/2025)'
+  - 'Hội Môi giới Chuyển giao Công nghệ Hàn Quốc, đào tạo đăng ký hành nghề: giao dịch dữ liệu lớn (05/06/2024)'
+  - 'Học viện Dịch vụ SHTT, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc: việc làm New Deal Seoul, giao dịch SHTT (27/05/2024)'
+  - 'Zion Consulting Co., Ltd.: chiến lược và trường hợp chuyển đổi số, dành cho nhân viên doanh nghiệp (18/01/2024)'
+  - 'Hội Môi giới Chuyển giao Công nghệ Hàn Quốc, đào tạo đăng ký hành nghề: thương mại hóa và giao dịch dữ liệu (03/09/2023)'
+  - 'Học viện Dịch vụ SHTT, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc: việc làm New Deal Seoul, giao dịch SHTT (23/06/2023)'
+  - 'Học viện Dịch vụ SHTT, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc: giao dịch công nghệ, cấp phép (03/11/2022)'
+  - 'Viện Xúc tiến Khoa học và Công nghệ Biển Hàn Quốc: đưa công nghệ biển ra toàn cầu, dành cho nhân viên doanh nghiệp vừa và nhỏ (23/11/2021)'
+  - 'Quỹ Hợp tác Doanh nghiệp – Nhà trường, Đại học Quốc gia Chungnam, bồi dưỡng năng lực cán bộ: thương mại hóa công nghệ và chiến lược thu hút đầu tư (19/11/2021)'
+  - 'Chương trình hỗ trợ R&BD cho công ty con của Công ty Holding Công nghệ Đại học Soonchunhyang: thương mại hóa công nghệ và chiến lược thu hút đầu tư (26/08/2021)'
+  - 'Viện Hội tụ Công nghiệp – Đại học Chungnam, khóa đào tạo CEO-100 thành phố Dangjin: thương mại hóa doanh nghiệp (chuyển giao công nghệ) và chiến lược thu hút đầu tư (18/08/2021)'
+  - 'Học viện Dịch vụ SHTT, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc: giao dịch công nghệ, cấp phép (23/06/2021)'
+  - 'Viện Hội tụ Công nghiệp – Đại học Chungnam, khóa đào tạo CEO-100 thành phố Dangjin: thương mại hóa doanh nghiệp (chuyển giao công nghệ) và chiến lược thu hút đầu tư (16/06/2021)'
+  - 'Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc, khóa đào tạo chuyên viên tư vấn khởi nghiệp công nghệ: giải pháp khởi nghiệp công nghệ thành công (19/08/2020)'
+  - 'Twigfarm Co., Ltd.: chế độ bồi thường sáng chế của người lao động, dành cho nhân viên doanh nghiệp (19/08/2020)'
+  - 'Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc và Đại học Quốc gia Hanbat (TSC), khóa đào tạo chuyên viên tư vấn khởi nghiệp công nghệ: để khởi nghiệp công nghệ thành công (10/11/2019)'
+  - 'Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc và Khu công nghệ Daejeon (TSC), khóa đào tạo chuyên viên tư vấn khởi nghiệp công nghệ: giải pháp khởi nghiệp công nghệ thành công (25/03/2019)'
+  - 'Đại học Bách khoa Hàn Quốc: định giá và phân tích công nghệ (12/11/2018)'
+  - 'Youth TLO, Đại học Hanyang: chuyển giao công nghệ, đổi mới mở, marketing (29/10/2018)'
+  - 'Youth TLO, Đại học Sun Moon: chuyển giao công nghệ, đổi mới mở, marketing (12/09/2018)'
+  - 'Youth TLO, Đại học Soonchunhyang: đàm phán giao dịch công nghệ, xuất khẩu công nghệ toàn cầu (16/08/2018)'
+  - 'Youth TLO, Đại học Soonchunhyang: định giá công nghệ, chiến lược mô hình kinh doanh (15/08/2018)'
+  - 'Youth TLO, Đại học Soonchunhyang: giao dịch công nghệ và chiến lược thương mại hóa công nghệ (14/08/2018)'
+  - 'Khu công nghệ Seoul: marketing tại thị trường Trung Quốc, dành cho nhân viên doanh nghiệp vừa và nhỏ (16/07/2018)'
+  - 'Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc: chiến lược và trường hợp xuất khẩu công nghệ sang Trung Quốc, dành cho doanh nghiệp hội viên (22/11/2017)'
+  - 'Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc, khóa đào tạo chuyên viên tư vấn khởi nghiệp công nghệ: các trường hợp hợp đồng chuyển giao công nghệ tại thị trường Trung Quốc (06/11/2017)'
+  - 'Trung tâm Hỗ trợ Sáng chế, Hiệp hội Điện tử Hàn Quốc: phân tích thông tin sáng chế, dành cho nhân viên doanh nghiệp vừa và nhỏ (12/09/2017)'
+  - 'Khu công nghệ Gangwon: hướng tới thương mại hóa công nghệ thành công, dành cho nhân viên doanh nghiệp vừa và nhỏ (13/07/2017)'
+  - 'Trung tâm Sở hữu trí tuệ Gyeongnam: nâng cao năng lực cạnh tranh bằng quản trị công nghệ, dành cho nhân viên doanh nghiệp vừa và nhỏ (06/04/2016)'
+  - 'Viện Nghiên cứu Nhà máy Ngoài khơi: chiến lược thành công trong khởi nghiệp và thương mại hóa công nghệ, dành cho nghiên cứu viên và người khởi nghiệp (22/03/2016)'
+  - 'Trung tâm Quản trị Công nghệ Đại học: thương mại hóa công nghệ ra nước ngoài, dành cho cán bộ TLO của trường đại học (19/02/2016)'
+  - 'Phòng Thương mại Jinju: chiến lược thương mại hóa công nghệ thành công, dành cho nhân viên doanh nghiệp vừa và nhỏ (07/10/2015)'
+  - 'Hội đồng Hợp tác Công nghiệp – Học thuật Hội tụ, Đại học Quốc gia Gyeongsang: thương mại hóa công nghệ và quản trị SHTT, dành cho nhân viên doanh nghiệp vừa và nhỏ (15/07/2014)'
+  - 'Phòng Thương mại Jinju: thương mại hóa công nghệ và khởi nghiệp, dành cho nhân viên doanh nghiệp vừa và nhỏ (11/06/2014)'
+  - 'Khoa Marketing Công nghệ, Đại học Mokwon: tư vấn lấy doanh nghiệp làm trung tâm và quản trị công nghệ, dành cho sinh viên và người khởi nghiệp (26/05/2014)'
+  - 'Phòng Thương mại Jeju: thương mại hóa công nghệ và chiến lược kinh doanh, dành cho nhân viên doanh nghiệp vừa và nhỏ (11/04/2013)'
+  - 'Phòng Thương mại Jeju: marketing giao dịch và thương mại hóa công nghệ, dành cho nhân viên doanh nghiệp vừa và nhỏ (10/04/2013)'
+  - Đào tạo công nghệ mới của Cục Sở hữu trí tuệ Hàn Quốc, dành cho thẩm định viên sáng chế (2012)
+  - 'Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc: quản trị công nghệ và thương mại hóa, dành cho sinh viên và người tìm việc (2011 – 2013)'
+  - 'Hội Môi giới Chuyển giao Công nghệ Hàn Quốc: mô hình hóa kinh doanh, dành cho môi giới chuyển giao công nghệ mới (2011 – 2013)'
+  - 'Đại học Quốc gia Incheon, Đại học Inha, Đại học Công nghệ và Giáo dục Hàn Quốc: phân tích thông tin sáng chế, chiến lược sáng chế, phân tích tính khả thi kinh doanh, dành cho sinh viên và học viên cao học (2010 – 2013)'
+  - 'Phòng Thương mại Incheon: phân tích thông tin sáng chế, dành cho doanh nghiệp hội viên (2009)'
+  - 'Hiệp hội Điện tử Hàn Quốc: phân tích và tra cứu thông tin sáng chế, dành cho doanh nghiệp hội viên (2009)'
+  - 'Hội đồng Khu công nghiệp Namdong: quyền sở hữu công nghiệp, phân tích công nghệ, dành cho doanh nghiệp hội viên (2008)'
+  - 'Các doanh nghiệp như Woorisoft, Zionsoft: chiến lược thương mại hóa công nghệ và sáng chế doanh nghiệp, dành cho nhân viên (2004 – 2021)'
+  office: Phòng 405, tòa Jinri
 ---

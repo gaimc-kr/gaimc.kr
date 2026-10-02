@@ -4,7 +4,7 @@ category: 초빙교수
 position: 초빙교수
 order: 3
 has_profile: true
-memo: '이력서(2024. 11. 25. 작성) 기준 반영(2026. 10. 2.). 현재 경력은 이력서 작성 시점 기준. 이력서의 개인 이메일·전화·주소·생년월일은 게재하지 않음. 국문 표기는 본인 이력서 표기(응우엔 티 마이) 사용'
+memo: 이력서(2024. 11. 25. 작성) 기준 반영(2026. 10. 2.). 현재 경력은 이력서 작성 시점 기준. 이력서의 개인 이메일·전화·주소·생년월일은 게재하지 않음. 국문 표기는 본인 이력서 표기(응우엔 티 마이) 사용
 name_en: Nguyen Thi Mai
 photo: /images/faculty/nguyen-thi-mai.jpg
 industry: K-CULTURE and CONVERGENCE Co., Ltd. 행정실장
@@ -21,4 +21,35 @@ certifications:
 - 교사자격증 (2023)
 - 수습변호사 자격증 (2018)
 - 유학상담 자격증 (2016)
+en:
+  industry: Administrative Director, K-CULTURE and CONVERGENCE Co., Ltd.
+  education:
+  - Lawyer training program, Hanoi Law School (2018)
+  - Master's in Economics, Mokpo National University (2012)
+  - Bachelor of Law, National Economics University, Vietnam (2009)
+  career:
+  - Administrative Director, K-CULTURE and CONVERGENCE Co., Ltd. (Apr 2018 – present)
+  - Legal Consultant (Trainee Lawyer), Everest Law Firm (Jan 2017 – present)
+  - Intern Lawyer, Vietnam Lexcomm Law Firm (Sep 2015 – Dec 2016)
+  - Assistant Manager, Samsung Electronics Vietnam (Mar 2012 – Sep 2015)
+  certifications:
+  - Teacher certificate (2023)
+  - Trainee lawyer certificate (2018)
+  - Study-abroad counseling certificate (2016)
+vi:
+  name_en: Nguyễn Thị Mai
+  industry: Trưởng phòng hành chính, K-CULTURE and CONVERGENCE Co., Ltd.
+  education:
+  - Hoàn thành khóa đào tạo luật sư, Hanoi Law School (2018)
+  - Thạc sĩ Kinh tế, Đại học Quốc gia Mokpo (2012)
+  - Cử nhân Luật, Đại học Kinh tế Quốc dân (2009)
+  career:
+  - Trưởng phòng hành chính, K-CULTURE and CONVERGENCE Co., Ltd. (04/2018 – nay)
+  - Chuyên viên tư vấn pháp lý (luật sư tập sự), Everest Law Firm (01/2017 – nay)
+  - Thực tập sinh luật sư, Vietnam Lexcomm Law Firm (09/2015 – 12/2016)
+  - Assistant Manager, Samsung Electronics Việt Nam (03/2012 – 09/2015)
+  certifications:
+  - Chứng chỉ giáo viên (2023)
+  - Chứng chỉ luật sư tập sự (2018)
+  - Chứng chỉ tư vấn du học (2016)
 ---

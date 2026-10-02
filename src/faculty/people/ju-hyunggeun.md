@@ -39,4 +39,12 @@ books:
 counts:
   papers: 20
   books: 2
+en:
+  academic: Head Professor, Department of Smart Convergence Consulting, Graduate School of Knowledge Service & Consulting, Hansung University
+  keywords:
+  - Marketing
+vi:
+  academic: Giáo sư phụ trách, Khoa Tư vấn Hội tụ Thông minh, Trường Sau đại học Dịch vụ Tri thức & Tư vấn, Đại học Hansung
+  keywords:
+  - Marketing
 ---

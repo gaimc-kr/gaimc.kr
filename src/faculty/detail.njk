@@ -1,0 +1,61 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.facultyPages
+  size: 1
+  alias: item
+permalink: "{{ item.url }}"
+eleventyComputed:
+  lang: "{{ item.lang }}"
+  title: "{{ item.data.name if item.lang == 'ko' else (item.data.name_en or item.data.name) }}"
+---
+{%- set T = i18n[lang] -%}{%- set F = T.faculty -%}{%- set d = item.data -%}
+{%- set pos = F.positions[d.position] or d.position -%}
+{%- set primaryName = d.name if lang == "ko" or not d.name_en else d.name_en -%}
+{%- set secondName = d.name_en if lang == "ko" else d.name -%}
+{%- set isSpeaker = d.category == "특강 연사" -%}
+{%- set sections = ["keywords", "education", "career", "certifications", "papers", "books", "patents", "trademarks", "rnd", "non_rnd", "achievements", "lectures", "network", "awards"] -%}
+<div class="page-head">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="{{ T.here }}">
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ ('/faculty/' + ('#speakers' if isSpeaker else '')) | L(lang) }}">{{ F.categories['특강 연사'] if isSpeaker else T.nav.faculty }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ primaryName }}</span>
+    </nav>
+  </div>
+</div>
+<article class="section profile">
+  <div class="container">
+    <header class="profile-head">
+      <div class="profile-photo">
+        {% if d.photo %}<img src="{{ d.photo }}" alt="{{ primaryName }} {{ pos }} {{ F.photo }}" width="400" height="400">{% else %}<span class="person-initial" aria-hidden="true">{{ primaryName | initial }}</span>{% endif %}
+      </div>
+      <div class="profile-id">
+        <p class="eyebrow">{{ pos }}</p>
+        <h1>{{ primaryName }}{% if secondName and secondName != primaryName %} <span lang="{{ 'en' if lang == 'ko' else 'ko' }}">{{ secondName }}</span>{% endif %}</h1>
+        <dl class="profile-facts">
+          {% if d.academic %}<div><dt>{{ F.academic }}</dt><dd>{{ d.academic }}</dd></div>{% endif %}
+          {% if d.industry %}<div><dt>{{ F.primaryJob if isSpeaker else F.industry }}</dt><dd>{{ d.industry }}</dd></div>{% endif %}
+          {% if d.office or d.phone %}<div><dt>{{ F.office }}</dt><dd>{{ d.office }}{% if d.office and d.phone %} · {% endif %}{% if d.phone %}<a href="tel:{{ d.phone | replace('-', '') }}">{{ d.phone }}</a>{% endif %}</dd></div>{% endif %}
+          {% if d.email %}<div><dt>{{ F.email }}</dt><dd><a href="mailto:{{ d.email }}">{{ d.email }}</a></dd></div>{% endif %}
+        </dl>
+        {%- set c = d.counts or {} %}
+        {%- if c.papers or c.books or c.patents or c.projects %}
+        <ul class="profile-counts">
+          {%- for k in ["papers", "books", "patents", "projects"] %}{% if c[k] %}<li><strong>{{ c[k] }}</strong>{{ F.counts[k] }}</li>{% endif %}{% endfor %}
+        </ul>
+        {%- endif %}
+      </div>
+    </header>
+    <div class="profile-sections">
+      {%- for key in sections %}{% set list = d[key] %}{% if list and list.length %}
+      <section class="profile-section{% if list.length > 5 %} is-wide{% endif %}">
+        <h2>{{ F.sections[key] }} <span class="count">{{ list.length }}</span></h2>
+        <ul class="profile-list" {% if list.length > 8 %}data-collapsible{% endif %}>
+          {%- for it in list %}{% set t = it | tagSplit %}<li>{% if t.tag %}<span class="item-tag">{{ F.tags[t.tag] or t.tag }}</span>{% endif %}{{ t.text | linkify(T.newWin) | safe }}</li>{% endfor %}
+        </ul>
+      </section>
+      {%- endif %}{% endfor %}
+    </div>
+    {% if F.pubsNote and (d.papers or d.books or d.patents) %}<p class="note">{{ F.pubsNote }}</p>{% endif %}
+    <p class="back"><a class="btn btn-outline" href="{{ ('/faculty/' + ('#speakers' if isSpeaker else '')) | L(lang) }}">{{ F.back }}</a></p>
+  </div>
+</article>

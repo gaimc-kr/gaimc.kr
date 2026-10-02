@@ -1,14 +1,17 @@
-{#- 교수 카드. 변수: p (컬렉션 항목) -#}
+{#- 교수 카드. 변수: p (언어별 항목: p.url, p.data), T, lang -#}
 {%- set d = p.data -%}
+{%- set pos = T.faculty.positions[d.position] or d.position -%}
+{%- set primaryName = d.name if lang == "ko" or not d.name_en else d.name_en -%}
+{%- set secondName = d.name_en if lang == "ko" else d.name -%}
 <li class="person-card">
-  {%- if d.has_profile %}<a class="person-link" href="/faculty/{{ p.fileSlug }}/">{% else %}<div class="person-link">{% endif %}
+  {%- if d.has_profile %}<a class="person-link" href="{{ p.url }}">{% else %}<div class="person-link">{% endif %}
     <div class="person-photo">
-      {%- if d.photo %}<img src="{{ d.photo }}" alt="{{ d.name }} {{ d.position }} 사진" width="400" height="400" loading="lazy">
-      {%- else %}<span class="person-initial" aria-hidden="true">{{ d.name | initial }}</span>{% endif %}
+      {%- if d.photo %}<img src="{{ d.photo }}" alt="{{ primaryName }} {{ pos }} {{ T.faculty.photo }}" width="400" height="400" loading="lazy">
+      {%- else %}<span class="person-initial" aria-hidden="true">{{ primaryName | initial }}</span>{% endif %}
     </div>
     <div class="person-body">
-      <p class="person-role">{{ d.position }}</p>
-      <p class="person-name">{{ d.name }}{% if d.name_en %} <span lang="en">{{ d.name_en }}</span>{% endif %}</p>
+      <p class="person-role">{{ pos }}</p>
+      <p class="person-name">{{ primaryName }}{% if secondName and secondName != primaryName %} <span lang="{{ 'en' if lang == 'ko' else 'ko' }}">{{ secondName }}</span>{% endif %}</p>
       {%- set meta = d.industry or d.academic %}
       {%- if meta %}<p class="person-meta">{{ meta }}</p>{% endif %}
       {%- if d.keywords and d.keywords.length %}

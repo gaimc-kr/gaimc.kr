@@ -47,6 +47,24 @@ collections:
         fields:
           - { label: 링크 이름, name: label, widget: string }
           - { label: 주소, name: url, widget: string }
+{%- for L in [['en', '영어(English)'], ['vi', '베트남어(Tiếng Việt)']] %}
+      - label: "{{ L[1] }} 번역"
+        name: {{ L[0] }}
+        widget: object
+        required: false
+        collapsed: true
+        hint: 비워 두면 한국어가 표시됩니다.
+        fields:
+          - { label: 제목, name: title, widget: string, required: false }
+          - { label: 구분, name: category, widget: string, required: false }
+          - { label: 요약, name: summary, widget: text, required: false }
+          - { label: 본문, name: body, widget: markdown, required: false }
+          - label: 관련 링크
+            name: links
+            widget: list
+            required: false
+            fields: [{ label: 링크 이름, name: label, widget: string }, { label: 주소, name: url, widget: string }]
+{%- endfor %}
       - { label: 관리 메모(화면 비노출), name: memo, widget: text, required: false }
       - { label: 비공개(초안), name: draft, widget: boolean, default: false, required: false }
 
@@ -94,6 +112,31 @@ collections:
         fields:
           - { label: 사진, name: image, widget: image }
           - { label: 사진 설명(대체 텍스트), name: alt, widget: string }
+{%- for L in [['en', '영어(English)'], ['vi', '베트남어(Tiếng Việt)']] %}
+      - label: "{{ L[1] }} 번역"
+        name: {{ L[0] }}
+        widget: object
+        required: false
+        collapsed: true
+        hint: 비워 두면 한국어가 표시됩니다.
+        fields:
+          - { label: 행사명, name: title, widget: string, required: false }
+          - { label: 장소, name: place, widget: string, required: false }
+          - { label: 한 줄 요약, name: summary, widget: text, required: false }
+          - { label: 본문, name: body, widget: markdown, required: false }
+          - label: 프로그램
+            name: program
+            widget: list
+            required: false
+            fields: [{ label: 시간·일자, name: time, widget: string }, { label: 내용, name: text, widget: string }]
+          - { label: 발표 주제, name: topics, widget: list, required: false }
+          - label: 연사·발표자
+            name: speakers
+            widget: list
+            required: false
+            fields: [{ label: 이름, name: name, widget: string }, { label: 발표 주제, name: topic, widget: string, required: false }, { label: 교수 파일 이름, name: faculty, widget: string, required: false }]
+          - { label: 함께한 기관, name: partners, widget: list, required: false }
+{%- endfor %}
       - { label: 관리 메모(화면 비노출), name: memo, widget: text, required: false }
       - { label: 비공개(초안), name: draft, widget: boolean, default: false, required: false }
 
@@ -144,6 +187,29 @@ collections:
       - { label: 강의·교육, name: lectures, widget: list, required: false }
       - { label: 실무 네트워크, name: network, widget: list, required: false }
       - { label: 상훈·위원 활동, name: awards, widget: list, required: false }
+{%- for L in [['en', '영어(English)'], ['vi', '베트남어(Tiếng Việt)']] %}
+      - label: "{{ L[1] }} 번역"
+        name: {{ L[0] }}
+        widget: object
+        required: false
+        collapsed: true
+        hint: 비워 두면 한국어가 표시됩니다. 논문·도서·특허·상표는 원문 그대로 표시하므로 번역하지 않습니다.
+        fields:
+          - { label: 표시 이름(베트남어 등 현지 표기), name: name_en, widget: string, required: false }
+          - { label: 현직(학계), name: academic, widget: string, required: false }
+          - { label: 현직(산업계)·본직, name: industry, widget: string, required: false }
+          - { label: 연구실, name: office, widget: string, required: false }
+          - { label: 전문 분야, name: keywords, widget: list, required: false }
+          - { label: 학력, name: education, widget: list, required: false }
+          - { label: 주요 경력, name: career, widget: list, required: false }
+          - { label: 전문 자격, name: certifications, widget: list, required: false }
+          - { label: R&D 과제, name: rnd, widget: list, required: false }
+          - { label: 비R&D 과제, name: non_rnd, widget: list, required: false }
+          - { label: 주요 실적, name: achievements, widget: list, required: false }
+          - { label: 강의·교육, name: lectures, widget: list, required: false }
+          - { label: 실무 네트워크, name: network, widget: list, required: false }
+          - { label: 상훈·위원 활동, name: awards, widget: list, required: false }
+{%- endfor %}
       - { label: 관리 메모(화면 비노출), name: memo, widget: text, required: false }
       - { label: 비공개, name: draft, widget: boolean, default: false, required: false }
 
@@ -442,3 +508,105 @@ collections:
                 widget: list
                 fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }]
               - { label: 관리 메모, name: memo, widget: text, required: false }
+
+  - name: translations
+    label: 페이지 내용 번역(영어·베트남어)
+    description: 한국어 페이지 내용의 번역입니다. 비워 둔 항목은 한국어가 표시됩니다. 목록은 통째로 바뀌므로 항목 수를 한국어와 맞춰 주십시오.
+    editor: { preview: false }
+    files:
+{%- for L in [['en', '영어'], ['vi', '베트남어']] %}
+      - label: "[{{ L[1] }}] 사이트 기본 문구"
+        name: site_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/site.yml
+        fields:
+          - { label: 학과명, name: name, widget: string, required: false }
+          - { label: 학교, name: school, widget: string, required: false }
+          - { label: 소속 대학원, name: graduate_school, widget: string, required: false }
+          - { label: 사이트 설명, name: description, widget: text, required: false }
+          - { label: 상단 띠 배너 문구, name: banner, widget: object, required: false, fields: [{ label: 문구, name: text, widget: string, required: false }] }
+          - { label: 첫 화면 사진 설명, name: hero_image_alt, widget: string, required: false }
+          - label: 연락처
+            name: contact
+            widget: object
+            required: false
+            fields: [{ label: 주소, name: address, widget: string, required: false }, { label: 학과 사무실, name: office, widget: string, required: false }, { label: 학과 사무실(상세), name: office_detail, widget: string, required: false }]
+          - { label: 하단 안내 문구, name: disclaimer, widget: text, required: false }
+      - label: "[{{ L[1] }}] 메인 페이지"
+        name: home_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/home.yml
+        fields:
+          - { label: 첫 화면, name: hero, widget: object, required: false, fields: [{ label: 영문 소제목, name: eyebrow, widget: string, required: false }, { label: 제목, name: title, widget: string, required: false }, { label: 부제, name: subtitle, widget: text, required: false }] }
+          - { label: 한눈에 보는 학과, name: stats, widget: list, required: false, summary: "{{ '{{label}}' }}", fields: [{ label: 항목, name: label, widget: string }, { label: 수치, name: value, widget: string }, { label: 단위, name: unit, widget: string, required: false }, { label: 설명, name: detail, widget: string, required: false }] }
+          - { label: 글로벌 IPP 소개, name: ipp, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }] }
+          - { label: 무엇을 배우나요, name: learn, widget: list, required: false, summary: "{{ '{{title}}' }}", fields: [{ label: 제목, name: title, widget: string }, { label: 문구, name: text, widget: text }] }
+          - { label: 협력 기관 문구, name: partners_text, widget: text, required: false }
+          - { label: 교수진 문구, name: faculty_text, widget: text, required: false }
+          - label: 이용자별 바로가기
+            name: quick
+            widget: list
+            required: false
+            summary: "{{ '{{group}}' }}"
+            fields: [{ label: 이용자, name: group, widget: string }, { label: 링크, name: links, widget: list, fields: [{ label: 이름, name: label, widget: string }, { label: 주소, name: url, widget: string }] }]
+      - label: "[{{ L[1] }}] 학과소개"
+        name: about_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/about.yml
+        fields:
+          - { label: 학과장 인사말, name: greeting, widget: object, required: false, fields: [{ label: 문단, name: paragraphs, widget: list, required: false, field: { label: 문단, name: p, widget: text } }, { label: 서명 직함, name: signature_title, widget: string, required: false }, { label: 서명 이름, name: signature_name, widget: string, required: false }] }
+          - { label: 비전, name: vision, widget: string, required: false }
+          - { label: 교육목표, name: goals, widget: list, required: false }
+          - { label: 학과 특징, name: features, widget: list, required: false, summary: "{{ '{{title}}' }}", fields: [{ label: 특징, name: title, widget: string }, { label: 설명, name: text, widget: text }] }
+          - { label: 연혁, name: history, widget: list, required: false, summary: "{{ '{{period}} {{text}}' }}", fields: [{ label: 시기, name: period, widget: string }, { label: 내용, name: text, widget: text }, { label: 입학 인원, name: count, widget: string, required: false }] }
+          - { label: 연혁 하단 안내, name: history_note, widget: string, required: false }
+      - label: "[{{ L[1] }}] 교육과정"
+        name: courses_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/courses.yml
+        fields:
+          - { label: 소개 문구, name: intro, widget: text, required: false }
+          - { label: 전공·과정, name: tracks, widget: list, required: false, summary: "{{ '{{name}}' }}", fields: [{ label: 전공명, name: name, widget: string }, { label: 과정, name: course_type, widget: string }, { label: 수업 언어, name: language, widget: string }, { label: 학위과정, name: degree, widget: string }, { label: 수업 연한, name: duration, widget: string }, { label: 졸업 요건, name: graduation, widget: text }, { label: 한국어 요건, name: korean, widget: text, required: false }] }
+          - { label: 안내 사항, name: notes, widget: list, required: false }
+          - { label: 영역(표시 순서), name: areas, widget: list, required: false }
+          - { label: 교과목, name: list, widget: list, required: false, summary: "{{ '[{{area}}] {{name}}' }}", fields: [{ label: 영역(위 영역 이름과 똑같이), name: area, widget: string }, { label: 교과목명, name: name, widget: string }, { label: 영어트랙 교과목명, name: name_ai, widget: string, required: false }, { label: 영문 교과목명, name: name_en, widget: string }, { label: 소개, name: summary, widget: text }, { label: 주요 교육 내용, name: topics, widget: text }] }
+          - { label: 진로 문구, name: career, widget: text, required: false }
+      - label: "[{{ L[1] }}] 글로벌 IPP"
+        name: ipp_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/ipp.yml
+        fields:
+          - { label: 준비 중 문구, name: preparing_text, widget: text, required: false }
+          - { label: 소개, name: intro, widget: text, required: false }
+          - { label: 구성, name: blocks, widget: list, required: false, fields: [{ label: 제목, name: title, widget: string }, { label: 내용, name: text, widget: text }] }
+          - { label: 함께하는 전문가 문구, name: experts_text, widget: text, required: false }
+      - label: "[{{ L[1] }}] 글로벌 협력"
+        name: partners_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/partners.yml
+        fields:
+          - { label: 소개 문구, name: intro, widget: text, required: false }
+          - label: 협력기관(한국어 목록과 같은 순서·개수)
+            name: list
+            widget: list
+            required: false
+            summary: "{{ '{{name}}' }}"
+            fields: [{ label: 국가, name: country, widget: string }, { label: 기관명, name: name, widget: string }, { label: 영문 기관명, name: name_en, widget: string, required: false }, { label: 현지어 기관명, name: name_local, widget: string, required: false }, { label: 약칭, name: abbr, widget: string }, { label: 로고, name: logo, widget: image, required: false }, { label: 상태, name: status, widget: select, options: [{ label: 협약 체결, value: signed }, { label: 협력 중, value: active }] }, { label: 협력 내용 한 줄, name: description, widget: text }, { label: 관련 행사, name: event, widget: string, required: false }, { label: 홈페이지, name: url, widget: string, required: false }]
+          - { label: 국내 협력 안내 문구, name: domestic_text, widget: text, required: false }
+      - label: "[{{ L[1] }}] 입학안내"
+        name: admission_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/admission.yml
+        fields:
+          - { label: 기준 자료, name: basis, widget: text, required: false }
+          - { label: 안내 문구, name: notice, widget: text, required: false }
+          - { label: 공개 전 안내 문구, name: pending_text, widget: text, required: false }
+          - { label: 모집 개요, name: overview, widget: list, required: false, fields: [{ label: 항목, name: label, widget: string }, { label: 내용, name: value, widget: text }] }
+          - { label: 일정 제목, name: schedule_title, widget: string, required: false }
+          - { label: 일정, name: schedule, widget: list, required: false, fields: [{ label: 구분, name: item, widget: string }, { label: 일정, name: date, widget: string }, { label: 비고, name: note, widget: string, required: false }] }
+          - { label: 지원 자격, name: eligibility, widget: list, required: false, fields: [{ label: 구분, name: label, widget: string }, { label: 내용, name: value, widget: text }] }
+          - { label: 지원 자격 강조 문구, name: eligibility_highlight, widget: text, required: false }
+          - { label: 전형 방법, name: selection, widget: list, required: false }
+          - { label: 전형료 등 제목, name: fees_title, widget: string, required: false }
+          - { label: 전형료·등록금·장학금, name: fees, widget: list, required: false, fields: [{ label: 구분, name: item, widget: string }, { label: 내용, name: value, widget: string }] }
+          - { label: 제출 서류, name: documents, widget: list, required: false, fields: [{ label: 구분, name: title, widget: string }, { label: 내용, name: text, widget: text }] }
+      - label: "[{{ L[1] }}] 특강 연사·연구원"
+        name: people_{{ L[0] }}
+        file: {{ R }}src/_content/{{ L[0] }}/people.yml
+        fields:
+          - { label: 특강 연사, name: speakers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단 공개 전 문구, name: pending_text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 본직, name: affiliation, widget: string }, { label: 전문 분야, name: fields, widget: list, required: false }] }] }
+          - { label: 연구원, name: researchers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }] }] }
+{%- endfor %}

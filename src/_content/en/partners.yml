@@ -1,0 +1,33 @@
+intro: We design students' study and field experience together with universities in Vietnam and Bangladesh and with organizations and companies in Korea.
+list:
+  - country: Vietnam
+    name: Hanoi University of Industry (HaUI)
+    name_en: Hanoi University of Industry (HaUI)
+    name_local: Đại học Công nghiệp Hà Nội
+    abbr: HaUI
+    logo: ""
+    status: signed
+    description: Agreement signed. Co-hosted the 2026 Korea–Vietnam Global AI Business Industry-Academia Joint Seminar (Aug 6–7, 2026).
+    event: korea-vietnam-seminar
+    url: https://www.haui.edu.vn
+  - country: Bangladesh
+    name: University of South Asia
+    name_en: University of South Asia
+    name_local: ""
+    abbr: UoSA
+    logo: ""
+    status: signed
+    description: Agreement signed. Co-hosted the 2026 Bangladesh–Korea Global AI Business Joint Seminar (Aug 18, 2026).
+    event: bangladesh-korea-seminar
+    url: ""
+  - country: Bangladesh
+    name: Shanto-Mariam University of Creative Technology
+    name_en: Shanto-Mariam University of Creative Technology
+    name_local: ""
+    abbr: SMUCT
+    logo: ""
+    status: signed
+    description: Agreement signed. Co-hosted the 2026 Bangladesh–Korea Global AI Business Joint Seminar (Aug 18, 2026).
+    event: bangladesh-korea-seminar
+    url: ""
+domestic_text: Companies and organizations in Korea that work with us on practicums, company consultations and special lectures will be introduced once they agree to be listed.

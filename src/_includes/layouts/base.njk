@@ -1,30 +1,41 @@
 {%- set lang = lang or "ko" -%}
-{%- set pageTitle = (title + " | " + site.name) if title else (site.name + " | " + site.school) -%}
-{%- set pageDesc = description or summary or site.description -%}
+{%- set T = i18n[lang] -%}
+{%- set C = loc[lang] -%}
+{%- set S = C.site -%}
+{%- set heading = title or (T.pages[pageKey].title if pageKey) -%}
+{%- set pageTitle = (heading + " | " + S.name) if heading else (S.name + " | " + S.school) -%}
+{%- set pageDesc = description or summary or S.description -%}
 <!doctype html>
-<html lang="{{ lang }}">
+<html lang="{{ T.htmlLang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ pageTitle }}</title>
   <meta name="description" content="{{ pageDesc }}">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="canonical" href="{{ S.url }}{{ page.url }}">
+  {%- if not noAlternates %}
+  {%- for l in langs.codes %}
+  <link rel="alternate" hreflang="{{ l }}" href="{{ S.url }}{{ page.url | switchLang(l) }}">
+  {%- endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ S.url }}{{ page.url | switchLang('ko') }}">
+  {%- endif %}
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="{{ site.name }} | {{ site.school }}">
-  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:locale" content="{{ {'ko':'ko_KR','en':'en_US','vi':'vi_VN'}[lang] }}">
+  <meta property="og:site_name" content="{{ S.name }} | {{ S.school }}">
+  <meta property="og:title" content="{{ heading or S.name }}">
   <meta property="og:description" content="{{ pageDesc }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}/assets/og-image.png">
+  <meta property="og:url" content="{{ S.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ S.url }}/assets/og-image.png">
   <meta name="theme-color" content="#0047BB">
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
   <link rel="stylesheet" href="/assets/site.css">
 </head>
-<body class="{{ bodyClass or '' }}">
-  <a class="skip-link" href="#main">본문 바로가기</a>
-  {% if site.banner.show and lang == "ko" %}
-  <div class="topbar"><a href="{{ site.banner.link }}">{{ site.banner.text }} <span aria-hidden="true">→</span></a></div>
+<body class="{{ bodyClass or '' }}" data-more="{{ T.faculty.more }}" data-less="{{ T.faculty.less }}">
+  <a class="skip-link" href="#main">{{ T.skip }}</a>
+  {% if S.banner.show %}
+  <div class="topbar"><a href="{{ S.banner.link | L(lang) }}">{{ S.banner.text }} <span aria-hidden="true">→</span></a></div>
   {% endif %}
   {% include "partials/header.njk" %}
   <main id="main" tabindex="-1">

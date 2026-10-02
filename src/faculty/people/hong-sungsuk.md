@@ -31,4 +31,52 @@ network:
 - 중소벤처기업부, 소상공인시장진흥공단, 광주창조경제혁신센터, 전남광주통합특별시청, 남원시청, 전주시청, 안성시청, 화성시청 등 공공기관 중소기업 지원 프로젝트 다수 진행
 awards:
 - 경기지방중소벤처기업청장 표창장 (2024. 12.)
+en:
+  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  industry: CEO, Biz Stylist Co., Ltd.
+  education:
+  - Ph.D. in Consulting, Department of Smart Convergence Consulting, Hansung University
+  - M.S. in Electronic Control Engineering, Tech University of Korea
+  career:
+  - CEO, Biz Stylist Co., Ltd. (2019 – present)
+  - Managing Director, Korea CQS Co., Ltd. (2011 – 2019)
+  - CEO, MegaCube (2014 – 2018)
+  certifications:
+  - Expert Advisor, Small Enterprise and Market Service
+  - Field Clinic Expert Advisor, Ministry of SMEs and Startups
+  - Expert Advisor, Korea Productivity Center
+  - SME Evaluator
+  - Innovation Data Coordinator
+  achievements:
+  - Lead PM, 2026 Hope Return Package operating agency for the Jeolla region, Ministry of SMEs and Startups (KRW 9 billion)
+  - Lead PM, 2026 Hope Return Package operating agency for the Chungcheong region, Ministry of SMEs and Startups (KRW 7 billion)
+  - Business model (BM) enhancement and R&D planning for new SME businesses
+  network:
+  - Numerous SME support projects for public institutions, including the Ministry of SMEs and Startups, Small Enterprise and Market Service, Gwangju Center for Creative Economy & Innovation, Jeonnam-Gwangju Integrated Special Metropolitan City, and the city governments of Namwon, Jeonju, Anseong and Hwaseong
+  awards:
+  - Commendation from the Administrator, Gyeonggi Regional Office of SMEs and Startups (Dec 2024)
+vi:
+  academic: Giáo sư kiêm nhiệm, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
+  industry: Tổng giám đốc, Biz Stylist Co., Ltd.
+  education:
+  - Tiến sĩ Tư vấn, Khoa Tư vấn Hội tụ Thông minh, Đại học Hansung
+  - Thạc sĩ Kỹ thuật điều khiển điện tử, Đại học Kỹ thuật Hàn Quốc
+  career:
+  - Tổng giám đốc, Biz Stylist Co., Ltd. (2019 – nay)
+  - Giám đốc điều hành, Korea CQS Co., Ltd. (2011 – 2019)
+  - Giám đốc, MegaCube (2014 – 2018)
+  certifications:
+  - Ủy viên chuyên môn, Cơ quan Xúc tiến Tiểu thương và Chợ truyền thống
+  - Ủy viên chuyên môn phòng khám hiện trường, Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp
+  - Ủy viên chuyên môn, Trung tâm Năng suất Hàn Quốc
+  - Ủy viên đánh giá doanh nghiệp vừa và nhỏ
+  - Điều phối viên dữ liệu đổi mới
+  achievements:
+  - PM tổng phụ trách cơ quan vận hành Hope Return Package 2026 khu vực Jeolla, Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp (9 tỷ won)
+  - PM tổng phụ trách cơ quan vận hành Hope Return Package 2026 khu vực Chungcheong, Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp (7 tỷ won)
+  - Nâng cấp mô hình kinh doanh (BM) và lập kế hoạch R&D cho hoạt động kinh doanh mới của doanh nghiệp vừa và nhỏ
+  network:
+  - Thực hiện nhiều dự án hỗ trợ doanh nghiệp vừa và nhỏ cho các cơ quan công như Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp, Cơ quan Xúc tiến Tiểu thương và Chợ truyền thống, Trung tâm Kinh tế Sáng tạo và Đổi mới Gwangju, Thành phố đặc biệt hợp nhất Jeonnam – Gwangju, và chính quyền các thành phố Namwon, Jeonju, Anseong, Hwaseong
+  awards:
+  - Bằng khen của Cục trưởng Cục Doanh nghiệp vừa và nhỏ và Khởi nghiệp khu vực Gyeonggi (12/2024)
 ---

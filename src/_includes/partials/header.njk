@@ -1,33 +1,35 @@
 {%- set curUrl = page.url or "" -%}
 <header class="site-header" data-header>
   <div class="container header-inner">
-    <a class="brand" href="{{ '/' if lang == 'ko' else '/' + lang + '/' }}" aria-label="{{ site.school }} {{ site.name }} 홈">
+    <a class="brand" href="{{ '/' | L(lang) }}" aria-label="{{ S.school }} {{ S.name }} {{ T.homeAria }}">
       <img class="brand-mark" src="/assets/hsu-signature.svg" alt="한성대학교 HANSUNG UNIVERSITY" width="176" height="41">
       <span class="brand-dept">
-        <span class="brand-ko">{{ site.name }}</span>
-        <span class="brand-en">{{ site.name_en }}</span>
+        <span class="brand-ko">{{ S.name }}</span>
+        <span class="brand-en">{{ S.name_en if lang != "en" else S.school }}</span>
       </span>
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
       <span class="nav-toggle-bar" aria-hidden="true"></span>
-      <span class="sr-only">전체 메뉴</span>
+      <span class="sr-only">{{ T.menu }}</span>
     </button>
     <div class="nav-wrap" id="site-nav" data-nav>
-      <nav aria-label="주 메뉴">
+      <nav aria-label="{{ T.mainNav }}">
         <ul class="nav-list">
-          {%- for item in nav %}
-          {%- if item.key != "ipp" or site.show_ipp_in_menu %}
-          <li><a href="{{ item.url }}"{% if curUrl.startsWith(item.url) %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+          {%- for key in ["about", "faculty", "courses", "ipp", "partners", "events", "news", "admission"] %}
+          {%- if key != "ipp" or S.show_ipp_in_menu %}
+          {%- set href = ("/" + key + "/") | L(lang) %}
+          <li><a href="{{ href }}"{% if curUrl.startsWith(href) %} aria-current="page"{% endif %}>{{ T.nav[key] }}</a></li>
           {%- endif %}
           {%- endfor %}
         </ul>
       </nav>
-      <ul class="util-list" aria-label="보조 메뉴">
-        <li><a href="/contact/"{% if curUrl.startsWith('/contact/') %} aria-current="page"{% endif %}>문의</a></li>
+      <ul class="util-list" aria-label="{{ T.subNav }}">
+        {%- set chref = "/contact/" | L(lang) %}
+        <li><a href="{{ chref }}"{% if curUrl.startsWith(chref) %} aria-current="page"{% endif %}>{{ T.nav.contact }}</a></li>
         <li class="lang-switch">
-          <a href="/" lang="ko"{% if lang == 'ko' %} aria-current="true"{% endif %}>KOR</a>
-          <a href="/en/" lang="en"{% if lang == 'en' %} aria-current="true"{% endif %}>ENG</a>
-          <a href="/vi/" lang="vi"{% if lang == 'vi' %} aria-current="true"{% endif %}>VIE</a>
+          {%- for l in langs.codes %}
+          <a href="{{ curUrl | switchLang(l) }}" lang="{{ l }}" hreflang="{{ l }}"{% if lang == l %} aria-current="true"{% endif %}>{{ {"ko": "KOR", "en": "ENG", "vi": "VIE"}[l] }}</a>
+          {%- endfor %}
         </li>
       </ul>
     </div>

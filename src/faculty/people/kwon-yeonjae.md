@@ -33,4 +33,56 @@ achievements:
 network:
 - UN ECOSOC 특별자문지위 기구 FLML(Forest Love and Mountain Love) NGO 네트워크
 - (사)한국학점은행평생교육협의회
+en:
+  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  industry: CEO, ILSUNG E&S Co., Ltd.
+  education:
+  - Ph.D. coursework completed in Smart Convergence Consulting, Hansung University
+  - Master's in Social Enterprise, Gachon University
+  - Bachelor's in Business Administration, Hanshin University
+  career:
+  - CEO, ILSUNG E&S Co., Ltd. (2026 – present)
+  - CEO, Kairos Cosmos Consulting (2020 – present)
+  - Senior Researcher, Consulting Division, Korea Smart Consulting Association (2025)
+  - Management Consultant, TOWZ Co., Ltd. (2025)
+  - Management Consultant, SP Partners Co., Ltd. (2024)
+  - Director of Management Planning, Korea Institute Lifelong Education Center Co., Ltd. (2015 – 2024)
+  certifications:
+  - Lifelong Education Specialist
+  - Social Worker
+  - Korean Language Teacher
+  - ESG Consultant (public enterprises and manufacturing)
+  - Energy Consultant
+  achievements:
+  - Head of operations, online lifelong education center, Korea Institute Lifelong Education Center Co., Ltd. (2015 – 2024)
+  - Management consulting for SMEs and small business owners (2024 – 2025)
+  network:
+  - FLML (Forest Love and Mountain Love) NGO network, an organization in special consultative status with UN ECOSOC
+  - Korea Academic Credit Bank Lifelong Education Association
+vi:
+  academic: Giáo sư kiêm nhiệm, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
+  industry: Giám đốc, ILSUNG E&S Co., Ltd.
+  education:
+  - Hoàn thành chương trình tiến sĩ Tư vấn Hội tụ Thông minh, Đại học Hansung
+  - Thạc sĩ Doanh nghiệp xã hội, Đại học Gachon
+  - Cử nhân Quản trị kinh doanh, Đại học Hanshin
+  career:
+  - Giám đốc, ILSUNG E&S Co., Ltd. (2026 – nay)
+  - Giám đốc, Kairos Cosmos Consulting (2020 – nay)
+  - Nghiên cứu viên cao cấp, bộ phận Tư vấn, Hiệp hội Tư vấn Thông minh Hàn Quốc (2025)
+  - Chuyên gia tư vấn quản trị, TOWZ Co., Ltd. (2025)
+  - Chuyên gia tư vấn quản trị, SP Partners Co., Ltd. (2024)
+  - Giám đốc phòng Kế hoạch quản trị, Korea Institute Lifelong Education Center Co., Ltd. (2015 – 2024)
+  certifications:
+  - Chuyên viên giáo dục suốt đời
+  - Nhân viên công tác xã hội
+  - Giáo viên tiếng Hàn
+  - Chuyên gia tư vấn ESG (doanh nghiệp công và sản xuất)
+  - Chuyên gia tư vấn năng lượng
+  achievements:
+  - Phụ trách vận hành trung tâm giáo dục suốt đời trực tuyến, Korea Institute Lifelong Education Center Co., Ltd. (2015 – 2024)
+  - Tư vấn quản trị cho doanh nghiệp vừa và nhỏ, tiểu thương (2024 – 2025)
+  network:
+  - Mạng lưới NGO FLML (Forest Love and Mountain Love), tổ chức có quy chế tham vấn đặc biệt với UN ECOSOC
+  - Hiệp hội Giáo dục Suốt đời theo Ngân hàng Tín chỉ Hàn Quốc
 ---

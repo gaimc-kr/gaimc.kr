@@ -1,12 +1,12 @@
-{#- 행사 카드. 변수: e -#}
+{#- 행사 카드. 변수: e (언어별 항목), T, lang -#}
 <a class="event-card" href="{{ e.url }}">
   <div class="event-visual{% if e.data.cover %} has-image{% endif %}">
     {%- if e.data.cover %}<img src="{{ e.data.cover }}" alt="{{ e.data.cover_alt }}" loading="lazy">
     {%- else %}<span class="event-visual-text" aria-hidden="true">{{ e.date | year }}<br><b>{{ e.data.title_en or "GAIMC" }}</b></span>{% endif %}
-    {%- if e.data.status == "upcoming" %}<span class="badge">예정</span>{% endif %}
+    {%- if e.data.status == "upcoming" %}<span class="badge">{{ T.events.upcoming }}</span>{% endif %}
   </div>
   <div class="event-body">
-    <p class="event-date"><time datetime="{{ e.date | isoDate }}">{{ e.date | krRange(e.data.end_date) }}</time></p>
+    <p class="event-date"><time datetime="{{ e.date | isoDate }}">{{ e.date | lrange(e.data.end_date, lang) }}</time></p>
     <h3>{{ e.data.title }}</h3>
     <p class="event-place">{{ e.data.place }}</p>
   </div>

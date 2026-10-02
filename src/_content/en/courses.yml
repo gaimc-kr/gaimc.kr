@@ -1,0 +1,118 @@
+intro: We run two majors side by side and present 15 core courses by area. The curriculum may change according to the university admission guidelines and course offerings.
+tracks:
+- name: Global Management Consulting Major
+  course_type: Bilingual track
+  language: Korean and Vietnamese
+  degree: Master's
+  duration: 2.5 years (5 semesters)
+  graduation: 30 credits, a research paper (in lieu of a thesis) and a practicum, and passing the comprehensive examination
+  korean: Completion of a 300-hour Korean language program and TOPIK Level 3 or higher (Level 4 recommended)
+- name: Global AI Management Consulting Major
+  course_type: English track
+  language: English (some courses in English and Korean)
+  degree: Master's
+  duration: 2.5 years (5 semesters)
+  graduation: 30 credits, a research paper (in lieu of a thesis) and a practicum, and passing the comprehensive examination
+  korean: ''
+notes:
+- The research paper is written in Korean by default; Korean or English may be chosen in consultation with the advisor.
+- Students who do not meet the graduation requirements may need to register for additional semesters.
+- Some English-track courses include “AI” in their names (e.g. Global AI Introduction to Consulting).
+career: Through the Global IPP, graduation and job preparation are linked so that students can prepare for careers in consulting firms, business, HR and overseas divisions of companies, public institutions and international cooperation.
+areas:
+- Foundations and Language
+- Consulting Methodology
+- HR, Organization and Jobs
+- Data, R&D and Marketing
+- Research
+list:
+- area: Foundations and Language
+  name: Global Introduction to Consulting
+  name_ai: Global AI Introduction to Consulting
+  name_en: Global Introduction to Consulting
+  summary: Diagnose the fast-changing global business environment and uncover companies' structural problems using the basic frameworks and methods of consulting, applying generative AI and data analysis tools to business diagnosis.
+  topics: PEST, 3C and SWOT analysis; business process modeling; AI-based company data analysis; issue trees and problem-solving reports
+- area: Foundations and Language
+  name: Global Business Language
+  name_ai: Global AI Business Language
+  name_en: Global Business Language
+  summary: Learn the technical standards and working vocabulary of Korean workplaces, and use AI translation and writing tools to communicate more accurately and quickly.
+  topics: Reading standard operating procedures (SOPs); analyzing industrial safety rules; writing technical reports in Korean; multicultural team communication
+- area: Consulting Methodology
+  name: Global Problem Solution Consulting Methodology
+  name_ai: Global AI Problem Solution Consulting Methodology
+  name_en: Global Problem Solution Consulting Methodology
+  summary: Quantitatively identify complex obstacles and process bottlenecks in manufacturing and logistics, trace root causes and derive improvements.
+  topics: 5-Why root cause analysis; fishbone diagrams; TOC-based bottleneck diagnosis; troubleshooting; AI-based error pattern detection
+- area: Consulting Methodology
+  name: Global Entrepreneurship Consulting Methodology Performance
+  name_ai: ''
+  name_en: Global Entrepreneurship Consulting Methodology Performance
+  summary: Secure business sustainability and build a field-improvement mindset that removes process waste first, following lean principles.
+  topics: Seven wastes of lean management; kaizen activity design; business value chain analysis; improvement suggestion systems
+- area: Consulting Methodology
+  name: Global Venture Establishment Consulting Methodology
+  name_ai: ''
+  name_en: Global Venture Establishment Consulting Methodology
+  summary: Analyze the full cycle of commercializing new technology and study techniques to optimize the break-even point (BEP) of automation investments and the cost structure of early-stage companies.
+  topics: Technology valuation; commercialization feasibility analysis; ROI and BEP calculation; manufacturing cost analysis; links to government R&D programs
+- area: Consulting Methodology
+  name: Global SMB Approach Consulting Methodology Research
+  name_ai: ''
+  name_en: Global SMB Approach Consulting Methodology Research
+  summary: Diagnose the characteristics of small manufacturers with limited resources and support their growth into strong SMEs through hands-on operational improvement.
+  topics: SME ecosystem analysis; supply structure improvement; on-site 5S diagnosis; process standardization and documentation
+- area: Consulting Methodology
+  name: Global Productivity Innovation Consulting Methodology Research
+  name_ai: ''
+  name_en: Global Productivity Innovation Consulting Methodology Research
+  summary: Study 3-Jeong 5S and overall equipment effectiveness (OEE), and build field innovation skills that raise utilization and productivity with smart process technology.
+  topics: Implementing 3-Jeong 5S; OEE calculation and diagnosis; analyzing operating data linked to smart-factory MES
+- area: Consulting Methodology
+  name: Global ODA Consulting Methodology Research
+  name_ai: Global AI ODA Consulting Methodology Research
+  name_en: Global ODA Consulting Methodology Research
+  summary: Analyze official development assistance (ODA) and international development cooperation, and build the ability to assess business feasibility for Korean companies entering emerging markets.
+  topics: Planning development cooperation projects; feasibility analysis; AI-based analysis of industrial regulation and policy data; public-private partnership (PPP) operating models
+- area: HR, Organization and Jobs
+  name: Global Methodology of Career Consulting
+  name_ai: Global AI Methodology of Career Consulting
+  name_en: Global Methodology of Career Consulting
+  summary: Analyze field workers' job competencies, design on-the-job training (OJT) programs, and help multicultural workers follow safety rules and adapt to the organization.
+  topics: Job competency modeling; structured OJT module development; accident prevention coaching; early adjustment counseling for foreign workers
+- area: HR, Organization and Jobs
+  name: Global HRM & D Consulting
+  name_ai: ''
+  name_en: Global HRM & D Consulting
+  summary: Stabilize attendance and labor management and build HR development and management systems that raise collaborative productivity on production lines with multicultural workers.
+  topics: Labor Standards Act and labor management; shift work and line balancing; performance evaluation and compensation; managing conflict in multicultural organizations
+- area: HR, Organization and Jobs
+  name: Global Strategic Management Consulting Methodologies Job
+  name_ai: ''
+  name_en: Global Strategic Management Consulting Methodologies Job
+  summary: Analyze job descriptions (JDs) and work standards, and clarify job responsibilities by assigning workers to processes that fit their competencies.
+  topics: Job analysis and evaluation; standardizing job descriptions; line-balancing-based worker assignment; KPI-linked job design
+- area: Data, R&D and Marketing
+  name: Global Statistical Analysis Consulting
+  name_ai: ''
+  name_en: Global Statistical Analysis Consulting
+  summary: Process inspection data with Excel and Python, track defect-rate trends statistically, and produce production performance reports.
+  topics: Basic statistics and hypothesis testing; regression and correlation; statistical process control (SPC); yield and defect-rate dashboards
+- area: Data, R&D and Marketing
+  name: Global Case Study In Consulting of R&D
+  name_ai: ''
+  name_en: Global Case Study In Consulting of R&D
+  summary: Analyze the full cycle of corporate R&D planning with AI and advanced technology and of government industry-academia-research projects, and study proof of concept (PoC) for automation equipment.
+  topics: R&D roadmaps; field PoC evaluation; feasibility review of smart equipment; reverse design of R&D indicators
+- area: Data, R&D and Marketing
+  name: Global Design/Advertisement Marketing Consulting Performance
+  name_ai: ''
+  name_en: Global Design/Advertisement Marketing Consulting Performance
+  summary: Develop branding strategies that raise the value of Korean manufacturers' products and support export communication with buyers in Southeast Asia.
+  topics: Packaging and brand strategy; global target advertising; technical catalogs in English and local languages; export contracts and buyer communication
+- area: Research
+  name: Global Studies in Major Field
+  name_ai: ''
+  name_en: Global Studies in Major Field
+  summary: Complete a research paper by analyzing industry data with the knowledge gained over 2.5 years, and carry out capstone consulting that solves real industry-academia problems.
+  topics: Collecting and preprocessing field data; applying AI algorithms and optimization simulation; writing and presenting the research paper; industry-academia improvement reports

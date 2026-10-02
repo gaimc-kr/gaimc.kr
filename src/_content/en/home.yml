@@ -1,0 +1,74 @@
+hero:
+  eyebrow: HANSUNG UNIVERSITY · GRADUATE SCHOOL
+  title: Educating Global Management Consultants for the Age of AI
+  subtitle: The Department of Global AI Management Consulting at Hansung University offers master's programs in the Global Management Consulting Major (bilingual track) and the Global AI Management Consulting Major (English track). Students learn AI-driven consulting methodologies together with hands-on field practice.
+stats:
+  - label: Faculty
+    value: "14"
+    unit: ""
+    detail: 1 distinguished emeritus, 4 full-time, 3 visiting and 6 adjunct professors
+  - label: Guest speakers
+    value: "20"
+    unit: ""
+    detail: Experts from industry and academia
+  - label: Students
+    value: "463"
+    unit: ""
+    detail: Fall 2026, five cohorts
+  - label: Majors (tracks)
+    value: "2"
+    unit: ""
+    detail: Bilingual track, English track
+  - label: Student nationalities
+    value: "2"
+    unit: ""
+    detail: Vietnam and Bangladesh (2027 spring applicants also from Nepal and India)
+  - label: Partner universities abroad
+    value: "3"
+    unit: ""
+    detail: 1 in Vietnam, 2 in Bangladesh
+  - label: Program length
+    value: "5"
+    unit: semesters
+    detail: 2.5 years, 30 credits
+  - label: Researchers
+    value: "2"
+    unit: ""
+    detail: Supporting Vietnamese and Bangladeshi students
+ipp:
+  title: Global IPP
+  text: A field-linked program that the department designs with companies and organizations so that international students can move from study to work experience and employment in Korea. It extends Hansung University's work-study (IPP) experience to global students.
+learn:
+  - title: AI Management Consulting
+    text: Use AI as a tool to diagnose and analyze business problems and to design management innovation projects, including AI transformation (AX) strategies.
+  - title: Consulting Methodologies
+    text: Build a solid grounding in problem solving, entrepreneurship, venture creation, SME consulting, HRM&D and productivity innovation.
+  - title: Field Practice
+    text: A research paper and a practicum (field placement) are part of the graduation requirements, so you carry out real consulting work in the field.
+  - title: Global Competence
+    text: Study in a bilingual (Korean–Vietnamese) track or an English track, and learn ODA consulting methodologies.
+  - title: Data and R&D
+    text: Learn evidence-based consulting through statistical analysis methodologies and R&D consulting case studies.
+partners_text: We design students' study and field experience together with universities in Vietnam and Bangladesh and with organizations and companies in Korea.
+faculty_text: Our faculty combine academic research with hands-on industry experience.
+quick:
+  - group: Current students
+    links:
+      - label: Student portal
+        url: https://info.hansung.ac.kr/index.jsp
+      - label: Graduate academic calendar
+        url: "https://www.hansung.ac.kr/hansung/6097/subview.do?enc=Zm5jdDF8QEB8JTJGc2NoZHVsTW5nJTJGaGFuc3VuZyUyRjE4JTJGdmlldy5kbyUzRg%3D%3D"
+  - group: Prospective students
+    links:
+      - label: Admission
+        url: /admission/
+      - label: Graduate admission
+        url: https://hansung.ac.kr/gshansung/index.do
+      - label: Admission inquiry
+        url: /contact/
+  - group: Partners and companies
+    links:
+      - label: Our partners
+        url: /partners/
+      - label: Partnership inquiry
+        url: /contact/

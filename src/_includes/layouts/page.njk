@@ -1,16 +1,17 @@
 ---
 layout: layouts/base.njk
 ---
+{%- set T = i18n[lang or "ko"] -%}
+{%- set P = T.pages[pageKey] -%}
 <div class="page-head">
   <div class="container">
-    <nav class="breadcrumb" aria-label="현재 위치">
-      <a href="/">홈</a>
-      {%- if parent %}<span aria-hidden="true">›</span><a href="{{ parent.url }}">{{ parent.label }}</a>{% endif %}
-      <span aria-hidden="true">›</span><span aria-current="page">{{ title }}</span>
+    <nav class="breadcrumb" aria-label="{{ T.here }}">
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a>
+      <span aria-hidden="true">›</span><span aria-current="page">{{ P.title }}</span>
     </nav>
-    {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
-    <h1>{{ title }}</h1>
-    {% if lead %}<p class="lead">{{ lead }}</p>{% endif %}
+    {% if P.eyebrow %}<p class="eyebrow">{{ P.eyebrow }}</p>{% endif %}
+    <h1>{{ P.title }}</h1>
+    {% if P.lead %}<p class="lead">{{ P.lead }}</p>{% endif %}
   </div>
 </div>
 <div class="page-body">

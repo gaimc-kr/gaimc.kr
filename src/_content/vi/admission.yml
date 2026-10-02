@@ -1,0 +1,69 @@
+basis: Kế hoạch tuyển sinh chính quy năm 2027 (phê duyệt ngày 01/10/2026) và thông báo tuyển sinh chính quy năm 2026 của các khoa chuyên đào tạo sinh viên quốc tế
+notice: Đây là thông tin tóm tắt. Nội dung chính xác theo thông báo tuyển sinh chính thức của Đại học Hansung.
+pending_text: Thông tin tuyển sinh kỳ xuân 2027 sẽ được đăng tại đây sau khi trường công bố thông báo tuyển sinh chính thức (giữa tháng 10 năm 2026). Trước thời điểm đó, vui lòng xem thông báo trên trang Sau đại học của Đại học Hansung.
+overview:
+  - label: Khoa tuyển sinh
+    value: Khoa Tư vấn Quản trị AI Toàn cầu, Trường Sau đại học Hội tụ Toàn cầu (khoa chuyên đào tạo sinh viên quốc tế)
+  - label: Chuyên ngành
+    value: Chuyên ngành Tư vấn Quản trị Toàn cầu (chương trình song ngữ), Chuyên ngành Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh)
+  - label: Chỉ tiêu
+    value: 100 người (tổng hai chuyên ngành)
+  - label: Thời điểm nhập học
+    value: Tháng 3 năm 2027 (kỳ xuân). Sinh viên nhập học vào tháng 3 và tháng 9 hằng năm.
+  - label: Đợt tuyển sinh
+    value: Chỉ tuyển trong đợt chính quy, không có đợt tuyển bổ sung.
+  - label: Đơn vị tuyển sinh
+    value: Tuyển theo khoa, không tuyển theo chuyên ngành.
+schedule_title: Lịch tuyển sinh chính quy kỳ xuân 2027
+schedule:
+  - item: Nộp hồ sơ
+    date: 10:00 thứ Tư 14/10 – 17:00 thứ Hai 26/10/2026
+    note: Nộp trực tuyến qua UWAY Apply
+  - item: Phỏng vấn
+    date: 10:00 thứ Bảy 14/11/2026
+    note: Nguyên tắc phỏng vấn trực tiếp; có thể phỏng vấn trực tuyến nếu đang ở nước ngoài hoặc có lý do bất khả kháng
+  - item: Công bố kết quả, thông báo học phí
+    date: 16:00 thứ Ba 01/12/2026 (dự kiến)
+    note: Thông báo trên trang Sau đại học
+  - item: Đăng ký nhập học
+    date: Thứ Sáu 04/12 – 23:00 thứ Năm 10/12/2026
+    note: Nộp qua tài khoản ảo cá nhân của ngân hàng IBK
+  - item: Đăng ký của danh sách dự bị
+    date: Đến thứ Hai 14/12/2026
+    note: ""
+eligibility:
+  - label: Quốc tịch
+    value: Người dự tuyển và cha mẹ đều có quốc tịch nước ngoài (không áp dụng người có hai quốc tịch)
+  - label: Học vấn
+    value: Đã có hoặc sắp có bằng cử nhân từ trường đại học chính quy trong hoặc ngoài Hàn Quốc
+  - label: Tiếng Hàn (Chuyên ngành Tư vấn Quản trị Toàn cầu, chương trình song ngữ)
+    value: TOPIK cấp 3 trở lên
+  - label: Tiếng Anh (Chuyên ngành Tư vấn Quản trị AI Toàn cầu, chương trình tiếng Anh)
+    value: Một trong các chứng chỉ TOEFL iBT 59, IELTS 5.5, CEFR B2, TEPS 600 (NEW TEPS 202) trở lên (tiêu chuẩn năm 2026)
+eligibility_highlight: Chương trình song ngữ yêu cầu TOPIK cấp 3 trở lên khi nhập học, nên sinh viên có thể học, thực tập và chuẩn bị việc làm bằng tiếng Hàn.
+selection:
+  - Xét tuyển bằng hồ sơ và phỏng vấn; kết quả dựa 100% vào điểm phỏng vấn.
+  - Tiêu chí đánh giá gồm kế hoạch học tập, thành tích học tập, ý chí và thành quả nghiên cứu, năng lực ngôn ngữ và năng lực học tập.
+  - Điểm phỏng vấn trung bình dưới 60 hoặc vắng mặt khi phỏng vấn sẽ không trúng tuyển.
+  - Nếu năng lực học tập được đánh giá là không phù hợp, trường có thể không tuyển dù còn chỉ tiêu.
+fees_title: Lệ phí, học phí và học bổng (năm 2026)
+fees:
+  - item: Lệ phí xét tuyển
+    value: 85.000 won
+  - item: Phí nhập học
+    value: 1.000.000 won (học kỳ đầu)
+  - item: Học phí
+    value: 4.000.000 won mỗi học kỳ
+  - item: Học bổng nhập học
+    value: Tối đa 70% học phí, học kỳ đầu
+  - item: Học bổng thành tích
+    value: Tối đa 30% học phí, thuộc 10% thành tích cao nhất của học kỳ trước
+  - item: Học bổng năng lực tiếng Hàn
+    value: Tối đa 30% học phí cho sinh viên chưa có TOPIK khi nhập học và đạt TOPIK cấp 3 (một lần)
+documents:
+  - title: Hồ sơ chung
+    text: Đơn dự tuyển, ảnh thẻ, giấy chứng nhận tốt nghiệp (hoặc dự kiến tốt nghiệp), bảng điểm, bản sao hộ chiếu của người dự tuyển và cha mẹ, giấy chứng nhận quan hệ gia đình, giấy tờ chứng minh tài chính (số dư từ 17.000 USD hoặc 20 triệu won trở lên), bài tự giới thiệu và bản cam kết. Hồ sơ tùy chọn gồm bản sao thẻ người nước ngoài và tối đa hai thư giới thiệu.
+  - title: Bổ sung cho người tốt nghiệp đại học nước ngoài
+    text: Giấy xác nhận trường được công nhận, giấy đồng ý xác minh học lực, bản in trang web của trường đã tốt nghiệp
+  - title: Công chứng
+    text: Giấy tờ nước ngoài cần công chứng và công chứng bản dịch; thủ tục hợp pháp hóa lãnh sự hoặc Apostille khác nhau theo từng quốc gia. Chi tiết vui lòng xem thông báo tuyển sinh chính thức.

@@ -50,4 +50,12 @@ books:
 counts:
   papers: 32
   books: 1
+en:
+  academic: Professor, Accounting & Financial Management Track and Business Analytics Track, Division of Social Sciences, Hansung University
+  keywords:
+  - Management Engineering
+vi:
+  academic: Giáo sư, Chương trình Kế toán – Quản trị tài chính và Chương trình Phân tích kinh doanh, Khoa Khoa học Xã hội, Đại học Hansung
+  keywords:
+  - Kỹ thuật quản trị
 ---

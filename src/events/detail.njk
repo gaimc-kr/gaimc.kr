@@ -1,0 +1,58 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.eventPages
+  size: 1
+  alias: item
+permalink: "{{ item.url }}"
+eleventyComputed:
+  lang: "{{ item.lang }}"
+  title: "{{ item.data.title }}"
+  description: "{{ item.data.summary }}"
+---
+{%- set T = i18n[lang] -%}{%- set E = T.events -%}{%- set d = item.data -%}{%- set X = collections.l10n[lang] -%}
+<div class="page-head">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="{{ T.here }}">
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ '/events/' | L(lang) }}">{{ T.pages.events.title }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ d.title }}</span>
+    </nav>
+    <p class="eyebrow">{{ E.eyebrowUpcoming if d.status == "upcoming" else E.eyebrow }}</p>
+    <h1>{{ d.title }}</h1>
+    {% if d.title_en and lang != "en" %}<p class="lead" lang="en">{{ d.title_en }}</p>{% endif %}
+  </div>
+</div>
+<article class="section">
+  <div class="container narrow">
+    <dl class="info-table">
+      <div><dt>{{ E.date }}</dt><dd><time datetime="{{ item.date | isoDate }}">{{ item.date | lrange(d.end_date, lang) }}</time></dd></div>
+      <div><dt>{{ E.place }}</dt><dd>{{ d.place }}</dd></div>
+      {% if d.partners and d.partners.length %}<div><dt>{{ E.partners }}</dt><dd>{{ d.partners | join(", ") }}</dd></div>{% endif %}
+    </dl>
+    {% if d.summary %}<p class="intro-text">{{ d.summary }}</p>{% endif %}
+    {% if d.cover %}<figure class="cover"><img src="{{ d.cover }}" alt="{{ d.cover_alt }}"></figure>{% endif %}
+    <div class="prose">{{ item.body | safe }}</div>
+    {%- if d.program and d.program.length %}
+    <h2 class="group-title">{{ E.program }}</h2>
+    <ul class="program-list">{% for p in d.program %}<li><span>{{ p.time }}</span>{{ p.text }}</li>{% endfor %}</ul>
+    {%- endif %}
+    {%- if d.topics and d.topics.length %}
+    <h2 class="group-title">{{ E.topics }}</h2>
+    <ul class="check-list">{% for t in d.topics %}<li>{{ t }}</li>{% endfor %}</ul>
+    {%- endif %}
+    {%- if d.speakers and d.speakers.length %}
+    <h2 class="group-title">{{ E.speakers }}</h2>
+    <ul class="speaker-rows">
+      {%- for s in d.speakers %}
+      {%- set f = X.faculty | findBySlug(s.faculty) %}
+      {%- set sname = (f.data.name_en if (f and lang != "ko" and f.data.name_en) else s.name) %}
+      <li>{% if f and f.data.has_profile %}<a href="{{ f.url }}"><strong>{{ sname }}</strong></a>{% else %}<strong>{{ sname }}</strong>{% endif %}<span>{{ s.topic }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+    {%- if d.gallery and d.gallery.length %}
+    <h2 class="group-title">{{ E.gallery }}</h2>
+    <ul class="gallery">{% for g in d.gallery %}<li><img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy"></li>{% endfor %}</ul>
+    {%- endif %}
+    <p class="back"><a class="btn btn-outline" href="{{ '/events/' | L(lang) }}">{{ E.back }}</a></p>
+  </div>
+</article>

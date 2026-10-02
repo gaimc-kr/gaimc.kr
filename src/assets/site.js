@@ -38,11 +38,12 @@
     btn.type = "button";
     btn.className = "more-toggle";
     btn.setAttribute("aria-expanded", "false");
-    btn.textContent = "더 보기 +";
+    var MORE = document.body.dataset.more || "더 보기 +", LESS = document.body.dataset.less || "접기 −";
+    btn.textContent = MORE;
     btn.addEventListener("click", function () {
       var collapsed = list.classList.toggle("is-collapsed");
       btn.setAttribute("aria-expanded", String(!collapsed));
-      btn.textContent = collapsed ? "더 보기 +" : "접기 −";
+      btn.textContent = collapsed ? MORE : LESS;
     });
     list.after(btn);
   });

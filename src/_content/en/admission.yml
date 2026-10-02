@@ -1,0 +1,69 @@
+basis: The 2027 regular admission plan (approved Oct 1, 2026) and the 2026 regular admission guidelines for departments dedicated to international students
+notice: This is a summary. The official Hansung University admission guidelines take precedence.
+pending_text: Admission information for Spring 2027 will be posted here after the university announces the official guidelines (mid-October 2026). Until then, please check the notices on the Hansung University Graduate School website.
+overview:
+  - label: Department
+    value: Department of Global AI Management Consulting, Graduate School of Global Convergence (dedicated to international students)
+  - label: Majors
+    value: Global Management Consulting Major (bilingual track) and Global AI Management Consulting Major (English track)
+  - label: Places
+    value: 100 (both majors combined)
+  - label: Entry
+    value: March 2027 (spring). Students are admitted every March and September.
+  - label: Recruitment
+    value: Regular admission only; there is no rolling admission.
+  - label: Unit of admission
+    value: Applicants are admitted by department, not by major.
+schedule_title: 2027 Spring Regular Admission Schedule
+schedule:
+  - item: Online application
+    date: Oct 14 (Wed) 10:00 – Oct 26 (Mon) 17:00, 2026
+    note: Online via UWAY Apply
+  - item: Interview
+    date: Nov 14 (Sat), 2026, 10:00
+    note: In person as a rule; online interviews are possible for applicants living abroad or with unavoidable circumstances
+  - item: Results and tuition notice
+    date: Dec 1 (Tue), 2026, 16:00 (planned)
+    note: Announced on the Graduate School website
+  - item: Registration
+    date: Dec 4 (Fri) – Dec 10 (Thu), 2026, 23:00
+    note: Payment to a personal IBK virtual account
+  - item: Waitlist registration
+    date: Until Dec 14 (Mon), 2026
+    note: ""
+eligibility:
+  - label: Nationality
+    value: Applicants whose parents are also foreign nationals (dual nationals excluded)
+  - label: Education
+    value: A bachelor's degree, or expected degree, from an accredited university in Korea or abroad
+  - label: Korean (Global Management Consulting Major, bilingual track)
+    value: TOPIK Level 3 or higher
+  - label: English (Global AI Management Consulting Major, English track)
+    value: One of TOEFL iBT 59, IELTS 5.5, CEFR B2, TEPS 600 (NEW TEPS 202) or higher (2026 criteria)
+eligibility_highlight: The bilingual track requires TOPIK Level 3 or higher, so students are ready to study, practice and prepare for work in Korean.
+selection:
+  - Applicants are selected through document review and an interview; the decision is based 100% on the interview score.
+  - Evaluation covers the study plan, grades, research motivation and achievements, language ability and academic ability.
+  - An average interview score below 60 or absence from the interview results in rejection.
+  - Applicants judged academically unsuitable may not be admitted regardless of the number of places.
+fees_title: Application Fee, Tuition and Scholarships (2026)
+fees:
+  - item: Application fee
+    value: KRW 85,000
+  - item: Admission fee
+    value: KRW 1,000,000 (first semester)
+  - item: Tuition
+    value: KRW 4,000,000 per semester
+  - item: Entrance scholarship
+    value: Up to 70% of tuition, first semester
+  - item: Academic scholarship
+    value: Up to 30% of tuition, top 10% in the previous semester
+  - item: Korean proficiency scholarship
+    value: Up to 30% of tuition for students without TOPIK at entry who obtain TOPIK Level 3 (once)
+documents:
+  - title: Common
+    text: Application form, ID photo, (expected) graduation certificate, transcript, copies of the passports of the applicant and parents, family relationship certificate, proof of financial ability (balance of USD 17,000 or KRW 20 million or more), personal statement and pledge. Optional documents are a copy of the alien registration card and up to two recommendation letters.
+  - title: Graduates of foreign universities
+    text: Confirmation of accreditation, consent to verify academic records, and a printout of the university's web page
+  - title: Notarization
+    text: Foreign documents require notarization and notarized translation, and apostille or consular legalization procedures differ by country. Please check the official admission guidelines for details.

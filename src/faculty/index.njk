@@ -1,18 +1,23 @@
 ---
 layout: layouts/page.njk
-title: 교수진
-eyebrow: FACULTY
-lead: 학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합니다.
+pageKey: faculty
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/faculty/"
 ---
-<nav class="subnav container" aria-label="교수진 구분">
-  {%- for c in facultyCategories %}<a href="#cat-{{ loop.index }}">{{ c }}</a>{% endfor %}<a href="#speakers">{{ people.speakers.title }}</a><a href="#researchers">{{ people.researchers.title }}</a>
+{%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
+{%- set F = T.faculty -%}{%- set PP = C.people -%}
+<nav class="subnav container" aria-label="{{ T.pages.faculty.title }}">
+  {%- for c in facultyCategories %}<a href="#cat-{{ loop.index }}">{{ F.categories[c] }}</a>{% endfor %}<a href="#speakers">{{ PP.speakers.title }}</a><a href="#researchers">{{ PP.researchers.title }}</a>
 </nav>
 {%- for c in facultyCategories %}
-{%- set members = collections.faculty | where("category", c) %}
+{%- set members = X.faculty | where("category", c) %}
 {%- if members.length %}
 <section class="section{% if loop.index is even %} section-tint{% endif %}" id="cat-{{ loop.index }}" aria-labelledby="cat-{{ loop.index }}-title">
   <div class="container">
-    <h2 class="group-title" id="cat-{{ loop.index }}-title">{{ c }} <span class="count">{{ members.length }}명</span></h2>
+    <h2 class="group-title" id="cat-{{ loop.index }}-title">{{ F.categories[c] }} <span class="count">{{ F.count(members.length) }}</span></h2>
     <ul class="person-grid">
       {%- for p in members %}{% include "partials/faculty-card.njk" %}{% endfor %}
     </ul>
@@ -20,23 +25,22 @@ lead: 학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합�
 </section>
 {%- endif %}
 {%- endfor %}
-
 <section class="section section-sky" id="speakers" aria-labelledby="speakers-title">
   <div class="container">
     <div class="section-head">
-      <p class="eyebrow">{{ people.speakers.title_en | upper }}</p>
-      <h2 id="speakers-title">{{ people.speakers.title }} <span class="count">{{ people.speakers.count }}명</span></h2>
-      <p class="section-text">{{ people.speakers.text }}</p>
+      <p class="eyebrow">{{ PP.speakers.title_en | upper }}</p>
+      <h2 id="speakers-title">{{ PP.speakers.title }} <span class="count">{{ F.count(PP.speakers.count) }}</span></h2>
+      <p class="section-text">{{ PP.speakers.text }}</p>
     </div>
-    {%- set speakerPages = collections.faculty | where("category", "특강 연사") %}
+    {%- set speakerPages = X.faculty | where("category", "특강 연사") %}
     {%- if speakerPages.length %}
     <ul class="person-grid">
       {%- for p in speakerPages %}{% include "partials/faculty-card.njk" %}{% endfor %}
     </ul>
     {%- endif %}
-    {%- if people.speakers.list.length %}
+    {%- if PP.speakers.list.length %}
     <ul class="speaker-grid">
-      {%- for s in people.speakers.list | sort(false, false, "name") %}
+      {%- for s in PP.speakers.list | sort(false, false, "name") %}
       <li class="speaker-card">
         <p class="person-name">{{ s.name }}</p>
         <p class="person-meta">{{ s.affiliation }}</p>
@@ -45,23 +49,20 @@ lead: 학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합�
       {%- endfor %}
     </ul>
     {%- endif %}
-    {%- if speakerPages.length + people.speakers.list.length < people.speakers.count %}
-    <p class="placeholder-box">{{ people.speakers.pending_text }}</p>
+    {%- if speakerPages.length + PP.speakers.list.length < PP.speakers.count %}
+    <p class="placeholder-box">{{ PP.speakers.pending_text }}</p>
     {%- endif %}
   </div>
 </section>
-
 <section class="section" id="researchers" aria-labelledby="researchers-title">
   <div class="container">
     <div class="section-head">
-      <p class="eyebrow">{{ people.researchers.title_en | upper }}</p>
-      <h2 id="researchers-title">{{ people.researchers.title }}</h2>
-      <p class="section-text">{{ people.researchers.text }}</p>
+      <p class="eyebrow">{{ PP.researchers.title_en | upper }}</p>
+      <h2 id="researchers-title">{{ PP.researchers.title }}</h2>
+      <p class="section-text">{{ PP.researchers.text }}</p>
     </div>
     <ul class="researcher-list">
-      {%- for r in people.researchers.list %}
-      <li><strong>{{ r.name }}</strong><span>{{ r.role }}</span></li>
-      {%- endfor %}
+      {%- for r in PP.researchers.list %}<li><strong>{{ r.name }}</strong><span>{{ r.role }}</span></li>{% endfor %}
     </ul>
   </div>
 </section>
