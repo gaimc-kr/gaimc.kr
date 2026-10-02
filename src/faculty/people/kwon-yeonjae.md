@@ -33,8 +33,4 @@ achievements:
 network:
 - UN ECOSOC 특별자문지위 기구 FLML(Forest Love and Mountain Love) NGO 네트워크
 - (사)한국학점은행평생교육협의회
-email: ''
-office: ''
-phone: ''
-keywords: []
 ---

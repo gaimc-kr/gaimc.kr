@@ -4,14 +4,12 @@ category: 전임교수
 position: 전임교수
 order: 2
 has_profile: true
-memo: 한성대학교 홈페이지 사회과학부 교수소개(prsnInt) 기준 수집(2026. 10. 2.). 학력·주요활동은 학교 홈페이지에 미등록. 이메일은 본인 동의 전 비공개
+memo: 한성대학교 홈페이지 사회과학부 교수소개(prsnInt) 기준 수집(2026. 10. 2.). 학력·주요활동은 학교 홈페이지에 미등록. 이메일은 학교 홈페이지 표기 그대로
 name_en: Lee, Hyoung-yong
 photo: /images/faculty/lee-hyungyong.jpg
-email: ''
-office: ''
+email: leemit@hansung.kr
 phone: 02-760-5960
 academic: 한성대학교 사회과학부 회계·재무경영트랙, 비즈니스애널리틱스트랙 교수
-industry: ''
 keywords:
 - 경영공학
 papers:

@@ -35,8 +35,4 @@ network:
 awards:
 - 2021 자랑스런 한국인대상 경영컨설팅 부문 (대한민국 베스트 브랜드 협회)
 memo: 실무 네트워크 "서울 신용보증기금" 원문 표기 확인
-email: ''
-office: ''
-phone: ''
-keywords: []
 ---

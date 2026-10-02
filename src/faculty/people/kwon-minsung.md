@@ -7,9 +7,6 @@ order: 1
 photo: /images/faculty/kwon-minsung.jpg
 has_profile: true
 email: jaksal34@gmail.com
-office: ''
-phone: ''
-academic: ''
 industry: 상상스토리㈜ 이사
 keywords:
 - 이러닝
@@ -32,8 +29,6 @@ papers:
 books:
 - '[공저] 김자미, 권민성, 김근희, 김윤호, 김주영, 유길상, 한기호 (2017). NCS기반 학습모듈 개발_이러닝콘텐츠개발. 한국직업능력개발원. ISBN 979-11-339-2663-3'
 - '[저서] 권민성 (2011). 이러닝 콘텐츠 개발 전략 수립과 적용. 한국이러닝산업협회. ISBN 978-89-94532-18-9'
-patents: []
-rnd: []
 non_rnd:
 - 이러닝콘텐츠 개발 및 운영관리 용역, 국토교통인재개발원, PM (2026)
 - 사이버환경실무교육 콘텐츠 개발 및 유지관리, 한국환경산업기술원, PM (2025)

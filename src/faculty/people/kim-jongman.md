@@ -35,8 +35,4 @@ network:
 awards:
 - 국회 기획재정위원장 표창장 (2024)
 - 한국경영기술지도사회 회장 표창장 (2020)
-email: ''
-office: ''
-phone: ''
-keywords: []
 ---

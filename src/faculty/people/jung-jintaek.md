@@ -28,8 +28,4 @@ achievements:
 network:
 - '공공 네트워크: KOICA ODA 사업 부문, 서울시 ICT 부문'
 memo: 2026. 8. 세미나 프로필 기준. 대학원장 재임 기간 확인 완료(2026. 10. 2.)
-email: ''
-office: ''
-phone: ''
-keywords: []
 ---
