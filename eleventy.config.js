@@ -18,8 +18,9 @@ export default function (eleventyConfig) {
     api.getFilteredByGlob("src/news/items/*.md").filter((p) => !p.data.draft).sort(byDateDesc)
   );
   // 교수진 표시 순서: 특임명예교수 > 전임교수 > 초빙교수 > 겸임교수, 구분 안에서는 order 후 가나다순
-  const CATEGORY_RANK = { 특임명예교수: 1, 전임교수: 2, 초빙교수: 3, 겸임교수: 4 };
-  eleventyConfig.addGlobalData("facultyCategories", Object.keys(CATEGORY_RANK));
+  // 특강 연사도 같은 폴더에 두고(제출 자료가 있으면 상세 페이지 생성), 교수진 페이지 하단 구역에 따로 표시
+  const CATEGORY_RANK = { 특임명예교수: 1, 전임교수: 2, 초빙교수: 3, 겸임교수: 4, "특강 연사": 5 };
+  eleventyConfig.addGlobalData("facultyCategories", ["특임명예교수", "전임교수", "초빙교수", "겸임교수"]);
   eleventyConfig.addCollection("faculty", (api) =>
     api
       .getFilteredByGlob("src/faculty/people/*.md")

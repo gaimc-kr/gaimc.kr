@@ -9,7 +9,7 @@ layout: layouts/base.njk
 <div class="page-head">
   <div class="container">
     <nav class="breadcrumb" aria-label="현재 위치">
-      <a href="/">홈</a><span aria-hidden="true">›</span><a href="/faculty/">교수진</a><span aria-hidden="true">›</span><span aria-current="page">{{ name }}</span>
+      <a href="/">홈</a><span aria-hidden="true">›</span><a href="/faculty/{{ '#speakers' if category == '특강 연사' }}">{{ "특강 연사" if category == "특강 연사" else "교수진" }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ name }}</span>
     </nav>
   </div>
 </div>
@@ -24,8 +24,8 @@ layout: layouts/base.njk
         <h1>{{ name }}{% if name_en %} <span lang="en">{{ name_en }}</span>{% endif %}</h1>
         <dl class="profile-facts">
           {% if academic %}<div><dt>현직(학계)</dt><dd>{{ academic }}</dd></div>{% endif %}
-          {% if industry %}<div><dt>현직(산업계)</dt><dd>{{ industry }}</dd></div>{% endif %}
-          {% if office %}<div><dt>연구실</dt><dd>{{ office }}{% if phone %} · <a href="tel:{{ phone | replace('-', '') }}">{{ phone }}</a>{% endif %}</dd></div>{% endif %}
+          {% if industry %}<div><dt>{{ "본직" if category == "특강 연사" else "현직(산업계)" }}</dt><dd>{{ industry }}</dd></div>{% endif %}
+          {% if office or phone %}<div><dt>연구실</dt><dd>{{ office }}{% if office and phone %} · {% endif %}{% if phone %}<a href="tel:{{ phone | replace('-', '') }}">{{ phone }}</a>{% endif %}</dd></div>{% endif %}
           {% if email %}<div><dt>이메일</dt><dd><a href="mailto:{{ email }}">{{ email }}</a></dd></div>{% endif %}
         </dl>
         {%- if counts and (counts.papers or counts.books or counts.patents or counts.projects) %}

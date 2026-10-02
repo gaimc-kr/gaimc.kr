@@ -28,6 +28,12 @@ lead: 학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합�
       <h2 id="speakers-title">{{ people.speakers.title }} <span class="count">{{ people.speakers.count }}명</span></h2>
       <p class="section-text">{{ people.speakers.text }}</p>
     </div>
+    {%- set speakerPages = collections.faculty | where("category", "특강 연사") %}
+    {%- if speakerPages.length %}
+    <ul class="person-grid">
+      {%- for p in speakerPages %}{% include "partials/faculty-card.njk" %}{% endfor %}
+    </ul>
+    {%- endif %}
     {%- if people.speakers.list.length %}
     <ul class="speaker-grid">
       {%- for s in people.speakers.list | sort(false, false, "name") %}
@@ -38,7 +44,8 @@ lead: 학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합�
       </li>
       {%- endfor %}
     </ul>
-    {%- else %}
+    {%- endif %}
+    {%- if speakerPages.length + people.speakers.list.length < people.speakers.count %}
     <p class="placeholder-box">{{ people.speakers.pending_text }}</p>
     {%- endif %}
   </div>
