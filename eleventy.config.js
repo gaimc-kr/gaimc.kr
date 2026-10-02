@@ -54,6 +54,11 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("where", (arr, key, value) => (arr || []).filter((x) => x.data?.[key] === value || x[key] === value));
   eleventyConfig.addFilter("uniqueValues", (arr, key) => [...new Set((arr || []).map((x) => x[key]))]);
+  // "[KCI] 제목" 형식의 항목을 구분 표시와 본문으로 나눔
+  eleventyConfig.addFilter("tagSplit", (item) => {
+    const m = String(item).match(/^\[([^\]]{1,12})\]\s*(.*)$/s);
+    return m ? { tag: m[1], text: m[2] } : { tag: "", text: String(item) };
+  });
   eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
   eleventyConfig.addFilter("groupByYear", (arr) => {
     const m = new Map();

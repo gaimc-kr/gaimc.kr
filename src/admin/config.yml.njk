@@ -129,16 +129,19 @@ collections:
         fields:
           - { label: 논문(편), name: papers, widget: number, required: false }
           - { label: 도서(권), name: books, widget: number, required: false }
+          - { label: 특허(건), name: patents, widget: number, required: false }
           - { label: 과제(건), name: projects, widget: number, required: false }
       - { label: 학력, name: education, widget: list, required: false }
       - { label: 주요 경력, name: career, widget: list, required: false }
       - { label: 전문 자격, name: certifications, widget: list, required: false }
-      - { label: 논문, name: papers, widget: list, required: false }
+      - { label: 논문, name: papers, widget: list, required: false, hint: "앞에 [KCI], [학술대회], [학위논문] 등을 붙이면 구분 표시가 나옵니다. 전체 실적을 빠짐없이 입력" }
       - { label: 도서, name: books, widget: list, required: false }
-      - { label: 특허, name: patents, widget: list, required: false }
+      - { label: 특허, name: patents, widget: list, required: false, hint: "앞에 [등록] 또는 [출원]을 붙이면 구분 표시가 나옵니다" }
+      - { label: 상표, name: trademarks, widget: list, required: false }
       - { label: R&D 과제, name: rnd, widget: list, required: false }
       - { label: 비R&D 과제, name: non_rnd, widget: list, required: false }
       - { label: 주요 실적, name: achievements, widget: list, required: false }
+      - { label: 강의·교육, name: lectures, widget: list, required: false }
       - { label: 실무 네트워크, name: network, widget: list, required: false }
       - { label: 상훈·위원 활동, name: awards, widget: list, required: false }
       - { label: 관리 메모(화면 비노출), name: memo, widget: text, required: false }

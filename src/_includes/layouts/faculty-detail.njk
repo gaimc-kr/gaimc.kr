@@ -3,8 +3,8 @@ layout: layouts/base.njk
 ---
 {%- set sections = [
   ["전문 분야", keywords], ["학력", education], ["주요 경력", career], ["전문 자격", certifications],
-  ["논문", papers], ["도서", books], ["특허", patents], ["R&D 과제", rnd], ["비R&D 과제", non_rnd],
-  ["주요 실적", achievements], ["실무 네트워크", network], ["상훈·위원 활동", awards]
+  ["논문", papers], ["도서", books], ["특허", patents], ["상표", trademarks], ["R&D 과제", rnd], ["비R&D 과제", non_rnd],
+  ["주요 실적", achievements], ["강의·교육", lectures], ["실무 네트워크", network], ["상훈·위원 활동", awards]
 ] -%}
 <div class="page-head">
   <div class="container">
@@ -28,10 +28,11 @@ layout: layouts/base.njk
           {% if office %}<div><dt>연구실</dt><dd>{{ office }}{% if phone %} · <a href="tel:{{ phone | replace('-', '') }}">{{ phone }}</a>{% endif %}</dd></div>{% endif %}
           {% if email %}<div><dt>이메일</dt><dd><a href="mailto:{{ email }}">{{ email }}</a></dd></div>{% endif %}
         </dl>
-        {%- if counts and (counts.papers or counts.books or counts.projects) %}
+        {%- if counts and (counts.papers or counts.books or counts.patents or counts.projects) %}
         <ul class="profile-counts">
           {% if counts.papers %}<li><strong>{{ counts.papers }}</strong>논문(편)</li>{% endif %}
           {% if counts.books %}<li><strong>{{ counts.books }}</strong>도서(권)</li>{% endif %}
+          {% if counts.patents %}<li><strong>{{ counts.patents }}</strong>특허(건)</li>{% endif %}
           {% if counts.projects %}<li><strong>{{ counts.projects }}</strong>과제(건)</li>{% endif %}
         </ul>
         {%- endif %}
@@ -39,10 +40,10 @@ layout: layouts/base.njk
     </header>
     <div class="profile-sections">
       {%- for s in sections %}{% if s[1] and s[1].length %}
-      <section class="profile-section">
-        <h2>{{ s[0] }}</h2>
-        <ul class="profile-list{% if s[1].length > 5 %} is-collapsible{% endif %}" {% if s[1].length > 5 %}data-collapsible{% endif %}>
-          {%- for item in s[1] %}<li>{{ item }}</li>{% endfor %}
+      <section class="profile-section{% if s[1].length > 5 %} is-wide{% endif %}">
+        <h2>{{ s[0] }} <span class="count">{{ s[1].length }}</span></h2>
+        <ul class="profile-list" {% if s[1].length > 8 %}data-collapsible{% endif %}>
+          {%- for item in s[1] %}{% set t = item | tagSplit %}<li>{% if t.tag %}<span class="item-tag">{{ t.tag }}</span>{% endif %}{{ t.text }}</li>{% endfor %}
         </ul>
       </section>
       {%- endif %}{% endfor %}

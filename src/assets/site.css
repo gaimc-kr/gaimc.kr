@@ -241,7 +241,11 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 .profile-list { list-style: none; display: grid; gap: 6px; }
 .profile-list li { position: relative; padding-left: 16px; font-size: .97rem; }
 .profile-list li::before { content: ""; position: absolute; left: 0; top: .72em; width: 6px; height: 6px; border-radius: 50%; background: var(--sky); }
-.profile-list.is-collapsed li:nth-child(n+6) { display: none; }
+.profile-section.is-wide { grid-column: 1 / -1; }
+.profile-section.is-wide .profile-list { columns: 2; column-gap: 48px; display: block; }
+.profile-section.is-wide .profile-list li { break-inside: avoid; margin-bottom: 6px; }
+.profile-list.is-collapsed li:nth-child(n+9) { display: none; }
+.item-tag { display: inline-block; font-size: .74rem; font-weight: 700; color: var(--blue); background: var(--bg-sky); border-radius: 4px; padding: 1px 6px; margin-right: 6px; vertical-align: 1px; }
 .more-toggle { margin-top: 10px; background: none; border: 1px solid var(--line); border-radius: 999px; padding: 5px 14px; color: var(--blue); font-weight: 700; cursor: pointer; font: inherit; font-size: .88rem; }
 .back { margin-top: 48px; }
 
@@ -411,6 +415,7 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
   .news-strip .news-title { flex-basis: 100%; order: 3; }
   .greeting, .profile-head { grid-template-columns: 1fr; gap: 24px; }
   .greeting-photo, .profile-photo { max-width: 220px; }
+  .profile-section.is-wide .profile-list { columns: 1; }
   .info-table div, .profile-facts div, .track-card dl div, .speaker-rows li { grid-template-columns: 1fr; gap: 2px; }
   .partner-card { flex-direction: column; gap: 14px; }
   .floating { right: 14px; bottom: 14px; }
