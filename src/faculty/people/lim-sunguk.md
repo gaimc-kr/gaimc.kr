@@ -4,7 +4,7 @@ category: 초빙교수
 position: 초빙교수
 order: 2
 has_profile: true
-memo: 이력서 기준 반영(2026. 10. 2.). 영문 이름은 이력서 표기(Lim Sung-uk). 이력서의 생년월일·주소·전화·개인 이메일은 게재하지 않음. 사진은 인쇄물 촬영본을 보정한 것으로, 원본 사진 받으면 교체
+memo: 이력서 기준 반영(2026. 10. 2.). 영문 이름은 이력서 표기(Lim Sung-uk). 이력서의 생년월일·주소·전화·개인 이메일은 게재하지 않음. 사진은 인쇄물 촬영본(흑백)을 AI로 복원·컬러화한 것(색은 추정). 원본 사진 받으면 교체
 name_en: Lim, Sung-uk
 photo: /images/faculty/lim-sunguk.jpg
 academic: 한성대학교 글로벌AI경영컨설팅학과 초빙교수
