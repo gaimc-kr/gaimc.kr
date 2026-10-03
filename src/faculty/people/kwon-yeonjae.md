@@ -5,6 +5,7 @@ category: 겸임교수
 position: 겸임교수
 photo: /images/faculty/kwon-yeonjae.jpg
 has_profile: true
+memo: 학력 "박사과정 수료"는 박사 학위 취득 여부 확인 후 수정 예정(2026. 8. 박사 학위수여식 참석). 학위 확인되면 한·영·베 모두 "박사"로 변경
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)일성이앤에스 대표
 education:
