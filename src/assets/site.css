@@ -202,8 +202,8 @@ ul, ol { margin: 0; padding: 0; }
 .person-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; }
 .person-link { display: block; text-decoration: none; color: var(--text); flex: 1; }
 a.person-link:hover .person-name { color: var(--blue); text-decoration: underline; }
-.person-photo { aspect-ratio: 1 / 1; background: var(--bg-sky); display: grid; place-items: center; overflow: hidden; }
-.person-photo img { width: 100%; height: 100%; object-fit: cover; }
+.person-photo { aspect-ratio: 4 / 5; background: var(--bg-sky); display: grid; place-items: center; overflow: hidden; }
+.person-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center top; }
 .person-initial { font-size: 3.2rem; font-weight: 800; color: var(--blue); opacity: .55; }
 .person-body { padding: 16px 18px 6px; }
 .person-role { color: var(--blue); font-weight: 700; font-size: .85rem; margin: 0 0 2px; }
@@ -225,8 +225,8 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 
 /* 교수 상세 */
 .profile-head { display: grid; grid-template-columns: 260px 1fr; gap: 40px; align-items: start; margin-bottom: 40px; }
-.profile-photo { aspect-ratio: 1 / 1; border-radius: var(--radius); overflow: hidden; background: var(--bg-sky); display: grid; place-items: center; }
-.profile-photo img { width: 100%; height: 100%; object-fit: cover; }
+.profile-photo { aspect-ratio: 4 / 5; border-radius: var(--radius); overflow: hidden; background: var(--bg-sky); display: grid; place-items: center; }
+.profile-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center top; }
 .profile-id h1 { margin-bottom: 18px; }
 .profile-id h1 span { font-size: .5em; color: var(--muted); font-weight: 600; margin-left: 6px; }
 .profile-facts { margin: 0; display: grid; gap: 8px; }
