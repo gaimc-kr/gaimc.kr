@@ -1,11 +1,11 @@
 ---
 name: 송선정
 name_en: Song, Sunjung
-category: 강의초청교수
-position: 강의초청교수
+category: 특강연사
+position: 특강연사
 photo: /images/faculty/song-sunjung.jpg
 has_profile: true
-memo: 교수 프로필 제출 양식(2026. 10. 4. 제출) 기준. 공개용 이메일은 본인 기재. 사진은 양식에 붙은 작은 흑백 사진(123×139)을 확대한 것이라 원본 사진 받으면 교체
+memo: 교수 프로필 제출 양식(2026. 10. 4. 제출) 기준. 본 학과 직위 "강의초청교수"로 기재했으나 명칭 확정 전 양식이라 특강연사로 표기. 공개용 이메일은 본인 기재. 사진은 양식에 붙은 작은 흑백 사진(123×139)을 확대한 것이라 원본 사진 받으면 교체
 academic: 교육부 국가평생교육진흥원(NILE) 학점은행제 회계학 교수
 industry: 한국생산성본부 소진공과제 전문위원 및 재무컨설턴트
 email: song8212@gmail.com

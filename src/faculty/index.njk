@@ -32,7 +32,7 @@ permalink: "{{ langs.prefix[lang] }}/faculty/"
       <h2 id="speakers-title">{{ PP.speakers.title }} <span class="count">{{ F.count(PP.speakers.count) }}</span></h2>
       <p class="section-text">{{ PP.speakers.text }}</p>
     </div>
-    {%- set speakerPages = X.faculty | where("category", "특강 연사") %}
+    {%- set speakerPages = X.faculty | where("category", "특강연사") %}
     {%- if speakerPages.length %}
     <ul class="person-grid">
       {%- for p in speakerPages %}{% include "partials/faculty-card.njk" %}{% endfor %}

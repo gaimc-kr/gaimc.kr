@@ -1,8 +1,8 @@
 ---
 name: 권민성
 name_en: Kwon, Min-Sung
-category: 특강 연사
-position: 특강 연사
+category: 특강연사
+position: 특강연사
 order: 1
 photo: /images/faculty/kwon-minsung.jpg
 has_profile: true
@@ -42,7 +42,7 @@ counts:
   papers: 2
   books: 2
   projects: 6
-memo: 교수 프로필 제출 양식(2026. 10. 2. 제출) 기준. 본 학과 직위 "강의초청교수"로 기재했으나 지침에 따라 특강 연사로 표기
+memo: 교수 프로필 제출 양식(2026. 10. 2. 제출) 기준. 본 학과 직위 "강의초청교수"로 기재했으나 지침에 따라 특강연사로 표기
 en:
   industry: Director, Sangsang Story Co., Ltd.
   keywords:

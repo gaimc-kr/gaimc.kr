@@ -13,12 +13,12 @@ eleventyComputed:
 {%- set pos = F.positions[d.position] or d.position -%}
 {%- set primaryName = d.name if lang == "ko" or not d.name_en else d.name_en -%}
 {%- set secondName = d.name_en if lang == "ko" else d.name -%}
-{%- set isSpeaker = d.category == "특강 연사" -%}
+{%- set isSpeaker = d.category == "특강연사" -%}
 {%- set sections = ["keywords", "education", "career", "certifications", "papers", "books", "patents", "trademarks", "rnd", "non_rnd", "achievements", "lectures", "network", "awards"] -%}
 <div class="page-head">
   <div class="container">
     <nav class="breadcrumb" aria-label="{{ T.here }}">
-      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ ('/faculty/' + ('#speakers' if isSpeaker else '')) | L(lang) }}">{{ F.categories['특강 연사'] if isSpeaker else T.nav.faculty }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ primaryName }}</span>
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ ('/faculty/' + ('#speakers' if isSpeaker else '')) | L(lang) }}">{{ F.categories['특강연사'] if isSpeaker else T.nav.faculty }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ primaryName }}</span>
     </nav>
   </div>
 </div>

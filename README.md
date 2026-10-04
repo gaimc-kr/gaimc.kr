@@ -24,7 +24,7 @@
 | 글로벌 IPP | `src/_data/ipp.yml` |
 | 협력기관 | `src/_data/partners.yml` |
 | 입학안내 | `src/_data/admission.yml` |
-| 특강 연사, 연구원 | `src/_data/people.yml` |
+| 특강연사, 연구원 | `src/_data/people.yml` |
 | 교수(1인 1파일) | `src/faculty/people/*.md` |
 | 행사(1건 1파일) | `src/events/items/*.md` |
 | 뉴스(1건 1파일) | `src/news/items/*.md` |

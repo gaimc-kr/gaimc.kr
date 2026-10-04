@@ -154,7 +154,7 @@ collections:
       - { label: 이름, name: name, widget: string }
       - { label: 영문 이름, name: name_en, widget: string, required: false }
       - { label: 주소용 영문 이름, name: url_slug, widget: string, required: false, hint: "새 교수를 추가할 때 주소(/faculty/영문이름/)에 쓰입니다. 예 hong-gildong" }
-      - { label: 구분, name: category, widget: select, options: [특임명예교수, 전임교수, 초빙교수, 겸임교수, 강의초청교수, 특강 연사] }
+      - { label: 구분, name: category, widget: select, options: [특임명예교수, 전임교수, 초빙교수, 겸임교수, 특강연사] }
       - { label: 표시 직위, name: position, widget: string, hint: "예 전임교수, 학과장·특임명예교수" }
       - { label: 구분 안 표시 순서, name: order, widget: number, value_type: int, required: false }
       - { label: 사진(정사각형), name: photo, widget: image, required: false }
@@ -473,11 +473,11 @@ collections:
             summary: "{{ '{{title}}' }}"
             fields: [{ label: 구분, name: title, widget: string }, { label: 내용, name: text, widget: text }]
 
-      - label: 특강 연사·연구원
+      - label: 특강연사·연구원
         name: people
         file: {{ R }}src/_data/people.yml
         fields:
-          - label: 특강 연사
+          - label: 특강연사
             name: speakers
             widget: object
             fields:
@@ -603,10 +603,10 @@ collections:
           - { label: 전형료 등 제목, name: fees_title, widget: string, required: false }
           - { label: 전형료·등록금·장학금, name: fees, widget: list, required: false, fields: [{ label: 구분, name: item, widget: string }, { label: 내용, name: value, widget: string }] }
           - { label: 제출 서류, name: documents, widget: list, required: false, fields: [{ label: 구분, name: title, widget: string }, { label: 내용, name: text, widget: text }] }
-      - label: "[{{ L[1] }}] 특강 연사·연구원"
+      - label: "[{{ L[1] }}] 특강연사·연구원"
         name: people_{{ L[0] }}
         file: {{ R }}src/_content/{{ L[0] }}/people.yml
         fields:
-          - { label: 특강 연사, name: speakers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단 공개 전 문구, name: pending_text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 본직, name: affiliation, widget: string }, { label: 전문 분야, name: fields, widget: list, required: false }] }] }
+          - { label: 특강연사, name: speakers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단 공개 전 문구, name: pending_text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 본직, name: affiliation, widget: string }, { label: 전문 분야, name: fields, widget: list, required: false }] }] }
           - { label: 연구원, name: researchers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }] }] }
 {%- endfor %}

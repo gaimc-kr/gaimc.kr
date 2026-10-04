@@ -25,14 +25,14 @@ const ko = {
   footer: { office: "학과 사무실", gradOffice: "대학원교학팀", dept: "학과", hansung: "한성대학교 바로가기", graduate: "대학원 홈페이지", contact: "문의" },
   quick: "QUICK MENU",
   top: "맨 위로",
-  btn: { admission: "입학안내", contact: "문의하기", more: "자세히 보기", viewMore: "View More", courses: "교육과정 보기", allFaculty: "교수진 전체 보기", partners: "협력 현황", speakers: "특강 연사 보기", gradAdmission: "대학원 입학 안내", inquiry: "입학 문의", home: "홈으로" },
+  btn: { admission: "입학안내", contact: "문의하기", more: "자세히 보기", viewMore: "View More", courses: "교육과정 보기", allFaculty: "교수진 전체 보기", partners: "협력 현황", speakers: "특강연사 보기", gradAdmission: "대학원 입학 안내", inquiry: "입학 문의", home: "홈으로" },
   homeSec: {
     audience: "이용자별 바로가기", atGlance: "한눈에 보는 학과", learn: "무엇을 배우나요", recent: "최근 활동", newsroom: "뉴스룸",
     partners: "협력 기관", faculty: "교수진", ctaTitle: "한국에서 배우고, 세계에서 일하세요", ctaText: "입학 자격과 일정, 지원 방법을 확인하고 궁금한 점은 문의해 주십시오.",
   },
   about: { greeting: "학과장 인사말", vision: "비전과 교육목표", features: "학과 특징", history: "연혁" },
   faculty: {
-    categories: { 특임명예교수: "특임명예교수", 전임교수: "전임교수", 초빙교수: "초빙교수", 겸임교수: "겸임교수", 강의초청교수: "강의초청교수", "특강 연사": "특강 연사" },
+    categories: { 특임명예교수: "특임명예교수", 전임교수: "전임교수", 초빙교수: "초빙교수", 겸임교수: "겸임교수", "특강연사": "특강연사" },
     positions: {},
     count: (n) => `${n}명`,
     photo: "사진",
@@ -90,8 +90,8 @@ const en = {
   },
   about: { greeting: "Message from the Chair", vision: "Vision and Educational Goals", features: "Highlights", history: "History" },
   faculty: {
-    categories: { 특임명예교수: "Distinguished Emeritus Professor", 전임교수: "Full-time Faculty", 초빙교수: "Visiting Professors", 겸임교수: "Adjunct Professors", 강의초청교수: "Invited Lecturing Professors", "특강 연사": "Guest Speakers" },
-    positions: { "학과장·특임명예교수": "Department Chair, Distinguished Emeritus Professor", 전임교수: "Professor", 초빙교수: "Visiting Professor", 겸임교수: "Adjunct Professor", 강의초청교수: "Invited Lecturing Professor", "특강 연사": "Guest Speaker" },
+    categories: { 특임명예교수: "Distinguished Emeritus Professor", 전임교수: "Full-time Faculty", 초빙교수: "Visiting Professors", 겸임교수: "Adjunct Professors", "특강연사": "Guest Speakers" },
+    positions: { "학과장·특임명예교수": "Department Chair, Distinguished Emeritus Professor", 전임교수: "Professor", 초빙교수: "Visiting Professor", 겸임교수: "Adjunct Professor", "특강연사": "Guest Speaker" },
     count: (n) => `${n}`,
     photo: "photo",
     academic: "Academic position", industry: "Industry position", primaryJob: "Position", office: "Office", email: "Email",
@@ -148,8 +148,8 @@ const vi = {
   },
   about: { greeting: "Lời chào của Trưởng khoa", vision: "Tầm nhìn và mục tiêu đào tạo", features: "Điểm nổi bật", history: "Lịch sử" },
   faculty: {
-    categories: { 특임명예교수: "Giáo sư danh dự đặc nhiệm", 전임교수: "Giảng viên cơ hữu", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", 강의초청교수: "Giáo sư mời giảng", "특강 연사": "Diễn giả khách mời" },
-    positions: { "학과장·특임명예교수": "Trưởng khoa, Giáo sư danh dự đặc nhiệm", 전임교수: "Giáo sư", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", 강의초청교수: "Giáo sư mời giảng", "특강 연사": "Diễn giả khách mời" },
+    categories: { 특임명예교수: "Giáo sư danh dự đặc nhiệm", 전임교수: "Giảng viên cơ hữu", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", "특강연사": "Diễn giả khách mời" },
+    positions: { "학과장·특임명예교수": "Trưởng khoa, Giáo sư danh dự đặc nhiệm", 전임교수: "Giáo sư", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", "특강연사": "Diễn giả khách mời" },
     count: (n) => `${n}`,
     photo: "ảnh",
     academic: "Chức vụ học thuật", industry: "Chức vụ tại doanh nghiệp", primaryJob: "Chức vụ", office: "Phòng làm việc", email: "Email",
