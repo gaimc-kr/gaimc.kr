@@ -4,9 +4,9 @@ hero:
   subtitle: Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung đào tạo thạc sĩ Chuyên ngành Tư vấn Quản trị Toàn cầu (chương trình song ngữ) và Chuyên ngành Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh). Sinh viên học phương pháp tư vấn ứng dụng AI cùng với thực hành tại doanh nghiệp.
 stats:
   - label: Giảng viên
-    value: "14"
+    value: "15"
     unit: người
-    detail: 1 giáo sư danh dự đặc nhiệm, 4 cơ hữu, 3 thỉnh giảng, 6 kiêm nhiệm
+    detail: 1 giáo sư danh dự đặc nhiệm, 4 cơ hữu, 3 thỉnh giảng, 6 kiêm nhiệm, 1 mời giảng
   - label: Diễn giả khách mời
     value: "20"
     unit: người

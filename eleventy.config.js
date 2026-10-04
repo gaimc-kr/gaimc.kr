@@ -10,8 +10,8 @@ const PREFIX = { ko: "", en: "/en", vi: "/vi" };
 const md = markdownIt({ html: true, linkify: false, breaks: false });
 const toDate = (d) => (d instanceof Date ? d : new Date(d));
 
-// 교수진 표시 순서: 특임명예교수 > 전임교수 > 초빙교수 > 겸임교수 > 특강 연사, 구분 안에서는 order 후 가나다순
-const CATEGORY_RANK = { 특임명예교수: 1, 전임교수: 2, 초빙교수: 3, 겸임교수: 4, "특강 연사": 5 };
+// 교수진 표시 순서: 특임명예교수 > 전임교수 > 초빙교수 > 겸임교수 > 강의초청교수 > 특강 연사, 구분 안에서는 order 후 가나다순
+const CATEGORY_RANK = { 특임명예교수: 1, 전임교수: 2, 초빙교수: 3, 겸임교수: 4, 강의초청교수: 5, "특강 연사": 6 };
 
 // 콘텐츠 항목(교수·행사·뉴스)을 언어별로 바꿈: 파일 안의 en:/vi: 묶음이 한국어 값을 덮어씀
 function localize(item, lang, section) {
@@ -54,7 +54,7 @@ export default function (eleventyConfig) {
           (a.data.order ?? 999) - (b.data.order ?? 999) ||
           a.data.name.localeCompare(b.data.name, "ko")
       );
-  eleventyConfig.addGlobalData("facultyCategories", ["특임명예교수", "전임교수", "초빙교수", "겸임교수"]);
+  eleventyConfig.addGlobalData("facultyCategories", ["특임명예교수", "전임교수", "초빙교수", "겸임교수", "강의초청교수"]);
 
   // 언어별 목록: collections.l10n.ko.events 처럼 사용
   eleventyConfig.addCollection("l10n", (api) => {

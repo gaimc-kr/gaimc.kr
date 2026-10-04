@@ -32,7 +32,7 @@ const ko = {
   },
   about: { greeting: "학과장 인사말", vision: "비전과 교육목표", features: "학과 특징", history: "연혁" },
   faculty: {
-    categories: { 특임명예교수: "특임명예교수", 전임교수: "전임교수", 초빙교수: "초빙교수", 겸임교수: "겸임교수", "특강 연사": "특강 연사" },
+    categories: { 특임명예교수: "특임명예교수", 전임교수: "전임교수", 초빙교수: "초빙교수", 겸임교수: "겸임교수", 강의초청교수: "강의초청교수", "특강 연사": "특강 연사" },
     positions: {},
     count: (n) => `${n}명`,
     photo: "사진",
@@ -90,8 +90,8 @@ const en = {
   },
   about: { greeting: "Message from the Chair", vision: "Vision and Educational Goals", features: "Highlights", history: "History" },
   faculty: {
-    categories: { 특임명예교수: "Distinguished Emeritus Professor", 전임교수: "Full-time Faculty", 초빙교수: "Visiting Professors", 겸임교수: "Adjunct Professors", "특강 연사": "Guest Speakers" },
-    positions: { "학과장·특임명예교수": "Department Chair, Distinguished Emeritus Professor", 전임교수: "Professor", 초빙교수: "Visiting Professor", 겸임교수: "Adjunct Professor", "특강 연사": "Guest Speaker" },
+    categories: { 특임명예교수: "Distinguished Emeritus Professor", 전임교수: "Full-time Faculty", 초빙교수: "Visiting Professors", 겸임교수: "Adjunct Professors", 강의초청교수: "Invited Lecturing Professors", "특강 연사": "Guest Speakers" },
+    positions: { "학과장·특임명예교수": "Department Chair, Distinguished Emeritus Professor", 전임교수: "Professor", 초빙교수: "Visiting Professor", 겸임교수: "Adjunct Professor", 강의초청교수: "Invited Lecturing Professor", "특강 연사": "Guest Speaker" },
     count: (n) => `${n}`,
     photo: "photo",
     academic: "Academic position", industry: "Industry position", primaryJob: "Position", office: "Office", email: "Email",
@@ -148,8 +148,8 @@ const vi = {
   },
   about: { greeting: "Lời chào của Trưởng khoa", vision: "Tầm nhìn và mục tiêu đào tạo", features: "Điểm nổi bật", history: "Lịch sử" },
   faculty: {
-    categories: { 특임명예교수: "Giáo sư danh dự đặc nhiệm", 전임교수: "Giảng viên cơ hữu", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", "특강 연사": "Diễn giả khách mời" },
-    positions: { "학과장·특임명예교수": "Trưởng khoa, Giáo sư danh dự đặc nhiệm", 전임교수: "Giáo sư", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", "특강 연사": "Diễn giả khách mời" },
+    categories: { 특임명예교수: "Giáo sư danh dự đặc nhiệm", 전임교수: "Giảng viên cơ hữu", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", 강의초청교수: "Giáo sư mời giảng", "특강 연사": "Diễn giả khách mời" },
+    positions: { "학과장·특임명예교수": "Trưởng khoa, Giáo sư danh dự đặc nhiệm", 전임교수: "Giáo sư", 초빙교수: "Giáo sư thỉnh giảng", 겸임교수: "Giáo sư kiêm nhiệm", 강의초청교수: "Giáo sư mời giảng", "특강 연사": "Diễn giả khách mời" },
     count: (n) => `${n}`,
     photo: "ảnh",
     academic: "Chức vụ học thuật", industry: "Chức vụ tại doanh nghiệp", primaryJob: "Chức vụ", office: "Phòng làm việc", email: "Email",

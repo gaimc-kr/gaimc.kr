@@ -7,9 +7,9 @@ hero:
 # 한눈에 보는 학과
 stats:
   - label: 교수진
-    value: "14"
+    value: "15"
     unit: 명
-    detail: 특임명예교수 1, 전임교수 4, 초빙교수 3, 겸임교수 6
+    detail: 특임명예교수 1, 전임교수 4, 초빙교수 3, 겸임교수 6, 강의초청교수 1
   - label: 특강 연사
     value: "20"
     unit: 명
