@@ -19,7 +19,7 @@ career:
 - KOICA 기술평가위원 (2013. 1. ~ 현재)
 papers:
 - A Study on Characteristics of Toll Nonpayment Associated with Expressway High-pass (International Journal of Pharma & Science)
-- A Study on the Effect of Patent Indicator on the Company Innovation Index (Research J. Pharm. and Tech)
+- A Study on the Effect of Patent Indicator on the Company Innovation Index (Research J. Pharm. and Tech) https://doi.org/10.5958/0974-360x.2017.00446.2
 - A Study on Effects of Project Manager Consultants Competencies on Consulting Performance and Satisfaction (Indian Journal of Science and Technology)
 achievements:
 - 라오스 디지털 중소기업 혁신센터 설립사업 기획조사 및 예비타당성 조사

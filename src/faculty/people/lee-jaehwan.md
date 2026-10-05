@@ -20,8 +20,8 @@ certifications:
 papers:
 - 장애인의 인공지능 서비스 활용이 인공지능 기술에 대한 인식에 미치는 영향 (한성대학교 박사학위 논문)
 - 적정기술을 기반으로 한 이러닝 환경 설계 (한국방송통신대학교 석사학위 논문)
-- '장애인의 디지털기기정보 활용역량이 일상생활 만족도에 미치는 영향: 디지털 조력의 매개효과를 중심으로 (한국융합기술연구학회)'
-- Empirical Case Study of AI Service and Application for People with Disabilities (Springer)
+- '장애인의 디지털기기정보 활용역량이 일상생활 만족도에 미치는 영향: 디지털 조력의 매개효과를 중심으로 (한국융합기술연구학회) https://doi.org/10.47116/apjcri.2024.11.11'
+- Empirical Case Study of AI Service and Application for People with Disabilities (Springer) https://doi.org/10.1007/978-3-031-75599-6_1
 patents:
 - 다중출력 컨버터의 출력간 레귤레이션 보상회로 등 특허 1건 등록
 achievements:
