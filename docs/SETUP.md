@@ -96,3 +96,24 @@
 - 학교 공식 모집요강 공고(10월 중순) 후: 입학안내 수치 대조 → 관리자 화면에서 배너·입학 세부 공개 스위치 켜기
 - 캠퍼스 사진: 관리자 화면 > 페이지 내용·설정 > 사이트 설정 > 첫 화면 사진
 - Google Search Console에 `https://gaimc.kr/sitemap.xml` 등록(검색 노출)
+
+## 7. 검색엔진 등록과 접속 통계
+
+사이트에는 검색 노출용 설정(robots.txt, 전체 페이지 사이트맵 `https://gaimc.kr/sitemap.xml`, 언어별 연결 정보)이 이미 들어 있습니다. 아래 등록만 하면 됩니다.
+
+### 7-1. Google Search Console(구글 검색 등록)
+1. https://search.google.com/search-console 에 학과 관리용 Google 계정으로 로그인 → **속성 추가**
+2. **도메인** 방식에 `gaimc.kr` 입력 → 화면에 나온 TXT 값을 가비아 DNS에 추가(호스트 `@`, 타입 TXT) → **확인**
+   - DNS가 번거로우면 **URL 접두어** 방식(`https://gaimc.kr`) → **HTML 태그** 선택 → `content="..."` 안의 값만 관리자 화면 > 사이트 설정 > 검색엔진 등록·접속 통계 > Google Search Console 확인 코드에 입력·저장 → 1~2분 뒤 **확인**
+3. 왼쪽 **Sitemaps** → `sitemap.xml` 입력 → 제출
+4. **URL 검사**에 `https://gaimc.kr/` 입력 → **색인 생성 요청**(첫 노출까지 보통 며칠~2주)
+
+### 7-2. 네이버 서치어드바이저(네이버 검색 등록)
+1. https://searchadvisor.naver.com → 웹마스터 도구 → 사이트 등록 `https://gaimc.kr`
+2. **HTML 태그** 방식 → content 값을 관리자 화면 > 네이버 서치어드바이저 확인 코드에 입력 → 확인
+3. 요청 > 사이트맵 제출 `https://gaimc.kr/sitemap.xml`
+
+### 7-3. Google 애널리틱스(접속 통계)
+1. https://analytics.google.com → 계정·속성 만들기(웹 스트림 `https://gaimc.kr`)
+2. 측정 ID(`G-`로 시작)를 관리자 화면 > Google 애널리틱스 측정 ID에 입력·저장 → 모든 페이지에 자동 적용
+3. 통계는 analytics.google.com(방문자·페이지별 조회·국가·유입 경로), 검색어·노출은 Search Console에서 확인. 다른 직원에게는 각 서비스의 **사용자 관리**에서 Google 계정으로 보기 권한 부여
