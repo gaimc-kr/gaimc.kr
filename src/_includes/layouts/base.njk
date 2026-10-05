@@ -27,6 +27,14 @@
   <meta property="og:url" content="{{ S.url }}{{ page.url }}">
   <meta property="og:image" content="{{ S.url }}/assets/og-image.png">
   <meta name="theme-color" content="#0047BB">
+  {%- set A = loc.ko.site.analytics or {} %}
+  {%- if A.google_verification %}
+  <meta name="google-site-verification" content="{{ A.google_verification }}">{% endif %}
+  {%- if A.naver_verification %}
+  <meta name="naver-site-verification" content="{{ A.naver_verification }}">{% endif %}
+  {%- if A.ga4_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ A.ga4_id }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ A.ga4_id }}');</script>{% endif %}
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">

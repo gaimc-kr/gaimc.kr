@@ -44,6 +44,13 @@ links:
 
 disclaimer: 본 사이트는 학과 홍보 사이트이며 학사·입학 등 공식 정보는 한성대학교 공식 홈페이지를 따릅니다.
 
+# 검색엔진 등록·접속 통계(값을 넣으면 모든 페이지에 자동 적용, 비어 있으면 미적용)
+analytics:
+  ga4_id: ""
+  google_verification: ""
+  naver_verification: ""
+  memo: ga4_id는 Google 애널리틱스 측정 ID(G-로 시작). 검색엔진 확인 코드는 HTML 태그 방식의 content 값만 입력
+
 # 관리자 화면(/admin) 연결 정보: 학과 GitHub 조직 저장소
 cms:
   repo: gaimc-kr/gaimc.kr

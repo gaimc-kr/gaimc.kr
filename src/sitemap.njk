@@ -2,10 +2,15 @@
 permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
+{%- set base = loc.ko.site.url -%}
+{%- set paths = ["/", "/about/", "/faculty/", "/courses/", "/ipp/", "/partners/", "/events/", "/news/", "/admission/", "/contact/"] -%}
+{%- for p in collections.l10n.ko.faculty %}{% if p.data.has_profile %}{% set paths = (paths.push(p.url), paths) %}{% endif %}{% endfor -%}
+{%- for p in collections.l10n.ko.events %}{% set paths = (paths.push(p.url), paths) %}{% endfor -%}
+{%- for p in collections.l10n.ko.news %}{% set paths = (paths.push(p.url), paths) %}{% endfor -%}
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-{%- for p in collections.all %}{% if p.url and p.url.endsWith('/') and not p.url.startsWith('/admin') %}
-  <url><loc>{{ loc.ko.site.url }}{{ p.url }}</loc><lastmod>{{ build.time | isoDate }}</lastmod>
-    {%- for l in langs.codes %}<xhtml:link rel="alternate" hreflang="{{ l }}" href="{{ loc.ko.site.url }}{{ p.url | switchLang(l) }}"/>{% endfor %}</url>
-{%- endif %}{% endfor %}
+{%- for path in paths %}{% for cur in langs.codes %}
+  <url><loc>{{ base }}{{ path | switchLang(cur) }}</loc><lastmod>{{ build.time | isoDate }}</lastmod>
+    {%- for l in langs.codes %}<xhtml:link rel="alternate" hreflang="{{ l }}" href="{{ base }}{{ path | switchLang(l) }}"/>{% endfor %}<xhtml:link rel="alternate" hreflang="x-default" href="{{ base }}{{ path }}"/></url>
+{%- endfor %}{% endfor %}
 </urlset>
