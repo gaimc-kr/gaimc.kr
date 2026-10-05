@@ -8,6 +8,9 @@ backend:
   name: github
   repo: {{ site.cms.repo }}
   branch: {{ site.cms.branch }}
+  {%- if site.cms.auth_url %}
+  base_url: {{ site.cms.auth_url }}
+  {%- endif %}
   commit_messages:
     create: "콘텐츠 추가: {{ '{{collection}}' }} {{ '{{slug}}' }}"
     update: "콘텐츠 수정: {{ '{{collection}}' }} {{ '{{slug}}' }}"
@@ -279,6 +282,7 @@ collections:
               - { label: 저장소(조직/저장소), name: repo, widget: string }
               - { label: 브랜치, name: branch, widget: string }
               - { label: 사이트 폴더 경로, name: root, widget: string, required: false }
+              - { label: GitHub 로그인 중계 서버 주소, name: auth_url, widget: string, required: false }
 
       - label: 메인 페이지
         name: home

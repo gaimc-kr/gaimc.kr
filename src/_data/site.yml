@@ -56,3 +56,5 @@ cms:
   repo: gaimc-kr/gaimc.kr
   branch: main
   root: ""
+  # GitHub 아이디·비번 로그인 중계 서버(Cloudflare Workers, sveltia-cms-auth)
+  auth_url: https://sveltia-cms-auth.restless-grass-0743.workers.dev
