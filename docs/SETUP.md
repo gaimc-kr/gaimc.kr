@@ -74,21 +74,33 @@
 3. **Custom domain**에 `gaimc.kr` 입력 → **Save** → DNS 확인이 끝나면 초록색 체크
 4. **Enforce HTTPS** 체크(인증서 발급에 최대 1시간 정도 걸릴 수 있음)
 
-## 5. 관리자 화면(/admin) 로그인 토큰
+## 5. 관리자 화면(/admin) 로그인
 
-사람마다 본인 GitHub 계정으로 만듭니다. 공용 계정·공용 비밀번호는 만들지 않습니다.
+### 5-1. 기본 방법: GitHub 아이디·비밀번호 (2026. 10. 5. 설정 완료)
+1. `https://gaimc.kr/admin/` → **GitHub(으)로 로그인**
+2. GitHub 아이디·비밀번호 입력(처음 한 번은 **Authorize** 승인, gaimc-kr 옆 **Grant**가 보이면 함께 누름)
 
-1. GitHub **Settings** → 맨 아래 **Developer settings** → **Personal access tokens** → **Fine-grained tokens** → **Generate new token**
-2. Token name: `gaimc.kr 관리자 화면`, Expiration: 1년 이내
-3. **Resource owner: gaimc-kr**, Repository access: **Only select repositories** → `gaimc.kr`
-4. **Permissions → Repository permissions → Contents: Read and write** (Metadata: Read-only는 자동 선택)
-5. **Generate token** → 나온 토큰을 복사
-6. `https://gaimc.kr/admin/` → **Sign In Using Access Token** → 붙여넣기
-   - 토큰은 그 브라우저에만 저장됩니다. 공용 PC에서는 사용 후 로그아웃하십시오
-   - Resource owner 목록에 `gaimc-kr`가 없거나 승인 대기로 나오면, 조직 **Settings → Personal access tokens**에서 fine-grained 토큰을 허용하거나 요청을 승인합니다
-7. 다른 교직원에게 권한을 줄 때: 조직 **People → Invite member**로 초대(역할 Member) → 저장소 `gaimc.kr` **Settings → Collaborators and teams**에서 Write 권한 → 그분이 1~6을 직접 진행
+구성(변경 시 참고)
+- GitHub OAuth 앱: gaimc-kr 조직 Settings → OAuth Apps → "gaimc.kr 관리자 화면"
+  - Redirect URI: `https://sveltia-cms-auth.parkys.workers.dev/callback`
+- 로그인 중계 서버: Cloudflare(학교 계정 parkys@hansung.ac.kr) → Workers 및 Pages → `sveltia-cms-auth`
+  - 설정 → 런타임 변수: `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`(비밀), `ALLOWED_DOMAINS`=`gaimc.kr`
+  - 코드 저장소: gaimc-kr/sveltia-cms-auth(비공개)
+- 사이트 쪽 연결: 관리자 화면 > 사이트 설정 > 관리자 화면 연결 > GitHub 로그인 중계 서버 주소
+- `incorrect_client_credentials` 오류가 나면: GitHub에서 Client Secret을 새로 만들어(복사 아이콘 사용, 공백 주의) Cloudflare 값 교체 후 배포
 
-> 매번 토큰 대신 "Sign In with GitHub" 버튼으로 로그인하려면 GitHub OAuth 앱과 무료 인증 중계 서버(Cloudflare Workers의 sveltia-cms-auth)를 추가로 설정합니다. 운영이 안정된 뒤 필요하면 진행합니다.
+### 5-2. 다른 직원에게 권한 주기(믿을 수 있는 소수만)
+1. 그분이 github.com에서 무료 계정 생성
+2. github.com/orgs/gaimc-kr/people → **Invite member** → 역할 Member
+3. 저장소 gaimc.kr → **Settings → Collaborators and teams** → 그분에게 **Write**
+4. 그분이 5-1 방법으로 로그인. 권한을 거둘 때는 2·3에서 제거
+- 로그인한 사람은 사이트 전체를 수정할 수 있으며(게시판만 따로 권한 분리 불가), 모든 수정은 GitHub에 기록되어 되돌릴 수 있습니다.
+
+### 5-3. 예비 방법: 액세스 토큰
+중계 서버에 문제가 있을 때 **액세스 토큰으로 로그인**을 사용합니다.
+1. GitHub **Settings** → **Developer settings** → **Personal access tokens** → **Fine-grained tokens** → **Generate new token**
+2. Resource owner: gaimc-kr, Repository access: Only select → `gaimc.kr`, Permissions: Contents **Read and write**
+3. 생성된 토큰을 `https://gaimc.kr/admin/`의 **액세스 토큰으로 로그인**에 붙여넣기
 
 ## 6. 이후 할 일
 
