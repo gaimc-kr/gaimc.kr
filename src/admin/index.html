@@ -12,7 +12,36 @@ eleventyExcludeFromCollections: true
   <link href="/admin/config.yml" type="application/yaml" rel="cms-config-url">
 </head>
 <body>
-  <a href="/admin/stats/" style="position:fixed;left:12px;bottom:20px;z-index:9999;width:216px;display:flex;align-items:center;gap:10px;background:#0047bb;color:#fff;font:700 15px/1.2 'Noto Sans KR',sans-serif;padding:13px 16px;border-radius:10px;text-decoration:none;box-shadow:0 4px 14px rgba(0,0,0,.16)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" aria-hidden="true"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>접속 통계 보기</a>
+  <a id="stats-link" href="/admin/stats/" style="display:none;position:fixed;z-index:9999;align-items:center;gap:10px;box-sizing:border-box;background:#0047bb;color:#fff;font:700 15px/1.2 'Noto Sans KR',sans-serif;padding:12px 14px;border-radius:10px;text-decoration:none;box-shadow:0 4px 14px rgba(0,0,0,.16)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" aria-hidden="true"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>접속 통계 보기</a>
+  <script>
+    // 왼쪽 컬렉션 메뉴의 마지막 항목(페이지 내용 번역) 바로 아래에 '접속 통계 보기' 버튼을 붙임.
+    // 메뉴가 보이지 않는 화면(항목 편집 중 등)에서는 버튼을 숨김.
+    (function () {
+      var LAST = "페이지 내용 번역";
+      var btn = document.getElementById("stats-link");
+      function findRow() {
+        var w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+        var n;
+        while ((n = w.nextNode())) {
+          if (n.nodeValue.indexOf(LAST) === -1 || !n.parentElement || btn.contains(n.parentElement)) continue;
+          var el = n.parentElement.closest("a, button, [role]") || n.parentElement;
+          var r = el.getBoundingClientRect();
+          if (r.width > 0 && r.height > 0 && r.left < 360) return r;
+        }
+        return null;
+      }
+      function place() {
+        var r = findRow();
+        if (!r) { btn.style.display = "none"; return; }
+        btn.style.display = "flex";
+        btn.style.left = r.left + "px";
+        btn.style.top = (r.bottom + 14) + "px";
+        btn.style.width = Math.max(r.width, 200) + "px";
+      }
+      setInterval(place, 400);
+      window.addEventListener("resize", place);
+    })();
+  </script>
   <!-- Sveltia CMS: Decap CMS 호환 오픈소스 CMS. GitHub 개인 계정으로 로그인 -->
   <script src="https://unpkg.com/@sveltia/cms@0.227.2/dist/sveltia-cms.js"></script>
 </body>
