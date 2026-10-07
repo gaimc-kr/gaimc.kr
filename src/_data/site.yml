@@ -50,7 +50,7 @@ analytics:
   ga4_id: "G-BYYLVH7XNJ"
   google_verification: ""
   naver_verification: "85dcea07b4fb1683e1e40b20632847050f5859ff"
-  dashboard_url: ""
+  dashboard_url: "https://datastudio.google.com/embed/reporting/a7e4c092-6040-48fa-897c-3bf7f35671ef/page/kIV1C"
   memo: ga4_id는 Google 애널리틱스 측정 ID(G-로 시작). 검색엔진 확인 코드는 HTML 태그 방식의 content 값만 입력
 
 # 관리자 화면(/admin) 연결 정보: 학과 GitHub 조직 저장소
