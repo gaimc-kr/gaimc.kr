@@ -24,7 +24,9 @@ eleventyExcludeFromCollections: true
         var n;
         while ((n = w.nextNode())) {
           if (n.nodeValue.indexOf(LAST) === -1 || !n.parentElement || btn.contains(n.parentElement)) continue;
-          var el = n.parentElement.closest("a, button, [role]") || n.parentElement;
+          // 글자 칸이 아니라 아이콘까지 포함한 메뉴 한 줄 전체(폭 190px 이상)를 기준으로 맞춤
+          var el = n.parentElement;
+          while (el.parentElement && el.getBoundingClientRect().width < 190) el = el.parentElement;
           var r = el.getBoundingClientRect();
           if (r.width > 0 && r.height > 0 && r.left < 360) return r;
         }
@@ -36,7 +38,7 @@ eleventyExcludeFromCollections: true
         btn.style.display = "flex";
         btn.style.left = r.left + "px";
         btn.style.top = (r.bottom + 14) + "px";
-        btn.style.width = Math.max(r.width, 200) + "px";
+        btn.style.width = Math.min(Math.max(r.width, 200), 260) + "px";
       }
       setInterval(place, 400);
       window.addEventListener("resize", place);
