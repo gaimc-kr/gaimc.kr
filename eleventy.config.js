@@ -38,6 +38,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
+  eleventyConfig.ignores.add("src/google*.html");
+  eleventyConfig.addPassthroughCopy({ "src/google67cc7790e635c46d.html": "google67cc7790e635c46d.html" });
   eleventyConfig.addWatchTarget("src/_content/");
 
   // 원본 컬렉션(한국어 파일)

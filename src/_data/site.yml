@@ -16,7 +16,7 @@ banner:
   memo: 학교 공식 모집요강 공고(10월 중순) 후 일정 대조하고 show를 true로 변경
 
 # 첫 화면 사진(없으면 파란 그라데이션). 캠퍼스 사진을 /images/uploads/에 올리고 경로 입력
-hero_image: ""
+hero_image: /images/site/hero-campus.jpg
 hero_image_alt: 한성대학교 캠퍼스 전경
 
 # 메뉴 노출

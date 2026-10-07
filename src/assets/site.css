@@ -422,6 +422,7 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
   .brand-ko { font-size: .88rem; }
   html:not([lang="ko"]) .brand-ko { font-size: .76rem; line-height: 1.2; }
   .hero { min-height: auto; padding: 48px 0 88px; }
+  .hero.has-image::before { background: linear-gradient(180deg, rgba(0, 71, 187, .86) 0%, rgba(0, 71, 187, .7) 100%); }
   .audience { margin-top: -40px; }
   .audience-grid, .event-cards, .track-grid, .course-list, .goal-list, .contact-grid, .profile-sections, .feature-grid.cols-3, .gallery { grid-template-columns: 1fr; }
   .learn-grid, .feature-grid { grid-template-columns: 1fr; }
