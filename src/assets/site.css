@@ -366,7 +366,10 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 .footer-links { list-style: none; display: grid; gap: 8px; }
 .footer-links a { display: inline-block; padding: 8px 14px; border: 1px solid #c5d3e4; border-radius: 4px; background: #fff; color: var(--dark-blue); font-weight: 700; text-decoration: none; font-size: .88rem; }
 .footer-links a:hover { border-color: var(--blue); color: var(--blue); }
-.footer-copy { margin-top: 28px; padding-top: 18px; border-top: 1px solid var(--line); font-size: .8rem; }
+.footer-copy { margin-top: 28px; padding-top: 18px; border-top: 1px solid var(--line); font-size: .8rem; display: flex; flex-wrap: wrap; gap: 6px 20px; align-items: center; }
+.footer-copy a { color: inherit; font-weight: 600; text-decoration: none; }
+.footer-copy a:hover { text-decoration: underline; }
+.footer-copy .footer-privacy { color: var(--blue); font-weight: 800; }
 
 /* QUICK, 맨 위로 */
 .floating { position: fixed; right: 20px; bottom: 20px; z-index: 90; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; }

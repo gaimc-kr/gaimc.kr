@@ -17,5 +17,9 @@
       <li><a href="{{ '/contact/' | L(lang) }}">{{ T.footer.contact }}</a></li>
     </ul>
   </div>
-  <div class="container footer-copy">© {{ build.year }} Hansung University · {{ S.name_en }}</div>
+  <div class="container footer-copy">
+    <a class="footer-privacy" href="{{ S.links.privacy }}" target="_blank" rel="noopener">{{ T.footer.privacy }}<span class="sr-only">{{ T.newWin }}</span></a>
+    <a href="{{ S.links.email_policy }}" target="_blank" rel="noopener">{{ T.footer.emailPolicy }}<span class="sr-only">{{ T.newWin }}</span></a>
+    <span>© {{ build.year }} Hansung University · {{ S.name_en }}</span>
+  </div>
 </footer>

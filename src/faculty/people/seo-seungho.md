@@ -32,12 +32,12 @@ network:
 - '공공 네트워크: 대법원 법원공무원교육원, 축산환경관리원, 한국환경산업기술원, 한국국제협력단, 농식품식품문화정보원, 한국의약품안전관리원'
 en:
   academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
-  industry: Head of New Business Division, S-On System Co., Ltd.
+  industry: Head of New Business Division, S-ON SYSTEM, Inc.
   education:
   - Ph.D. in Smart Convergence Consulting, Hansung University
   - Master's in EduTech, Korea National Open University
   career:
-  - Head of New Business Division, S-On System Co., Ltd.
+  - Head of New Business Division, S-ON SYSTEM, Inc.
   - Senior Managing Director, World Vertex Co., Ltd.
   - General Manager, SEA Networks Co., Ltd.
   - General Manager, AKIS Co., Ltd.
@@ -54,12 +54,12 @@ en:
   - 'Public network: Judicial Officials Training Institute of the Supreme Court, Institute of Livestock Environmental Management, Korea Environmental Industry & Technology Institute, KOICA, Korea Agency of Education, Promotion and Information Service in Food, Agriculture, Forestry and Fisheries, Korea Institute of Drug Safety & Risk Management'
 vi:
   academic: Giáo sư kiêm nhiệm, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
-  industry: Trưởng khối Kinh doanh mới, S-On System Co., Ltd.
+  industry: Trưởng khối Kinh doanh mới, S-ON SYSTEM, Inc.
   education:
   - Tiến sĩ Tư vấn Hội tụ Thông minh, Đại học Hansung
   - Thạc sĩ Công nghệ giáo dục (EduTech), Đại học Mở Quốc gia Hàn Quốc
   career:
-  - Trưởng khối Kinh doanh mới, S-On System Co., Ltd.
+  - Trưởng khối Kinh doanh mới, S-ON SYSTEM, Inc.
   - Giám đốc điều hành cấp cao, World Vertex Co., Ltd.
   - Trưởng phòng, SEA Networks Co., Ltd.
   - Trưởng phòng, AKIS Co., Ltd.
