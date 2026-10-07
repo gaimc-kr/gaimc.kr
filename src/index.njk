@@ -120,7 +120,7 @@ permalink: "{{ langs.prefix[lang] }}/"
   <div class="container">
     <div class="section-head with-more">
       <div>
-        <p class="eyebrow">GLOBAL PARTNERS</p>
+        <p class="eyebrow">PARTNERS</p>
         <h2 id="partners-title">{{ T.homeSec.partners }}</h2>
         <p class="section-text">{{ H.partners_text }}</p>
       </div>
@@ -134,6 +134,15 @@ permalink: "{{ langs.prefix[lang] }}/"
       </li>
       {%- endif %}{% endfor %}
     </ul>
+    {%- set PT = C.partners %}
+    {%- if PT.domestic and PT.domestic.length %}
+    <h3 class="company-logos-title">{{ T.partners.domestic }}</h3>
+    <ul class="company-logos">
+      {%- for d in PT.domestic %}
+      <li><span class="company-logo"><img src="{{ d.logo }}" alt="" loading="lazy"></span><span class="company-name">{{ d.name }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
   </div>
 </section>
 

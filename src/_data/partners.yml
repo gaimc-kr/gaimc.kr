@@ -1,4 +1,5 @@
-# 글로벌 협력 (/partners/)
+# 협력 기관 (/partners/)
+# domestic: 국내 산학협력 기업(로고·회사명만 표시, 가나다순). 로고는 /images/partners/
 # status: signed(협약 체결) 만 메인에 노출. logo는 /images/uploads/ 경로(없으면 약칭 배지)
 intro: 베트남과 방글라데시의 대학, 국내 기관·기업과 함께 학생의 학업과 현장 경험을 설계합니다.
 list:
@@ -32,5 +33,24 @@ list:
     description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
     event: bangladesh-korea-seminar
     url: ""
+domestic:
+  - name: "드림플러스"
+    name_en: "Dream Plus"
+    logo: /images/partners/dreamplus.png
+  - name: "비즈스타일리스트(주)"
+    name_en: "Biz Stylist Co., Ltd."
+    logo: /images/partners/bizstylist.png
+  - name: "(주)서진테크놀로지"
+    name_en: "Seojin Technology Co., Ltd."
+    logo: /images/partners/seojin-tech.png
+  - name: "아이티씨지(주)"
+    name_en: "ITCG Co., Ltd."
+    logo: /images/partners/itcg.png
+  - name: "(주)에스온시스템"
+    name_en: "S-On System Co., Ltd."
+    logo: /images/partners/son-system.png
+  - name: "(주)일성이앤에스"
+    name_en: "ILSUNG E&S Co., Ltd."
+    logo: /images/partners/ilsung-ens.png
 domestic_text: 현장 실습, 기업 상담, 특강을 함께하는 국내 기업·기관은 게재에 동의한 곳부터 소개합니다.
-memo: 추가 협약 대학 명단, 국내 협력 기관(게재 동의된 곳만) 추가. 추진 중인 사업은 확정 전까지 게재하지 않음
+memo: 추가 협약 대학 명단. 국내 기업은 겸임교수 소속 회사(2026. 10. 7. 반영, 아이쎄오는 폐업으로 제외). 추진 중인 사업은 확정 전까지 게재하지 않음

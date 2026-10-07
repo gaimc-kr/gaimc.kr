@@ -30,4 +30,17 @@ list:
     description: Agreement signed. Co-hosted the 2026 Bangladesh–Korea Global AI Business Joint Seminar (Aug 18, 2026).
     event: bangladesh-korea-seminar
     url: ""
+domestic:
+  - name: "Dream Plus"
+    logo: /images/partners/dreamplus.png
+  - name: "Biz Stylist Co., Ltd."
+    logo: /images/partners/bizstylist.png
+  - name: "Seojin Technology Co., Ltd."
+    logo: /images/partners/seojin-tech.png
+  - name: "ITCG Co., Ltd."
+    logo: /images/partners/itcg.png
+  - name: "S-On System Co., Ltd."
+    logo: /images/partners/son-system.png
+  - name: "ILSUNG E&S Co., Ltd."
+    logo: /images/partners/ilsung-ens.png
 domestic_text: Companies and organizations in Korea that work with us on practicums, company consultations and special lectures will be introduced once they agree to be listed.

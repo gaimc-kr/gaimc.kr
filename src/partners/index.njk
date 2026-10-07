@@ -31,6 +31,14 @@ permalink: "{{ langs.prefix[lang] }}/partners/"
     </ul>
     {%- endfor %}
     <h2 class="group-title">{{ T.partners.domestic }}</h2>
+    {%- if PT.domestic and PT.domestic.length %}
+    <ul class="company-logos">
+      {%- for d in PT.domestic %}
+      <li><span class="company-logo"><img src="{{ d.logo }}" alt="" loading="lazy"></span><span class="company-name">{{ d.name }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- else %}
     <p class="placeholder-box">{{ PT.domestic_text }}</p>
+    {%- endif %}
   </div>
 </section>

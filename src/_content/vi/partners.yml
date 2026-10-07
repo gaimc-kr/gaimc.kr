@@ -30,4 +30,17 @@ list:
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo chung Bangladesh – Hàn Quốc về Kinh doanh AI Toàn cầu 2026 (18/8/2026).
     event: bangladesh-korea-seminar
     url: ""
+domestic:
+  - name: "Dream Plus"
+    logo: /images/partners/dreamplus.png
+  - name: "Biz Stylist Co., Ltd."
+    logo: /images/partners/bizstylist.png
+  - name: "Seojin Technology Co., Ltd."
+    logo: /images/partners/seojin-tech.png
+  - name: "ITCG Co., Ltd."
+    logo: /images/partners/itcg.png
+  - name: "S-On System Co., Ltd."
+    logo: /images/partners/son-system.png
+  - name: "ILSUNG E&S Co., Ltd."
+    logo: /images/partners/ilsung-ens.png
 domestic_text: Các doanh nghiệp, tổ chức tại Hàn Quốc cùng thực hiện thực tập, tư vấn doanh nghiệp và bài giảng chuyên đề sẽ được giới thiệu khi đồng ý công bố.
