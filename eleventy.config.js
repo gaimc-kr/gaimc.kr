@@ -34,6 +34,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
   eleventyConfig.addGlobalData("langs", { codes: LANGS, prefix: PREFIX });
 
+  // 배포마다 바뀌는 버전 값: CSS·JS·첫 화면 사진 주소 뒤에 붙여 브라우저 캐시를 새로 고침
+  eleventyConfig.addGlobalData("buildVer", Date.now().toString(36));
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });

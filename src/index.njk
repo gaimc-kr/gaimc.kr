@@ -9,7 +9,7 @@ permalink: "{{ langs.prefix[lang] }}/"
 ---
 {%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set H = C.home -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
 <section class="hero{% if S.hero_image %} has-image{% endif %}" aria-labelledby="hero-title">
-  {% if S.hero_image %}<img class="hero-bg" src="{{ S.hero_image }}" alt="{{ S.hero_image_alt }}">{% endif %}
+  {% if S.hero_image %}<img class="hero-bg" src="{{ S.hero_image }}?v={{ buildVer }}" alt="{{ S.hero_image_alt }}">{% endif %}
   <div class="hero-deco" aria-hidden="true"></div>
   <div class="container hero-inner">
     <p class="hero-eyebrow">{{ H.hero.eyebrow }}</p>
