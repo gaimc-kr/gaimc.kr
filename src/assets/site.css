@@ -74,7 +74,8 @@ ul, ol { margin: 0; padding: 0; }
 .hero { position: relative; overflow: hidden; color: #fff; background: linear-gradient(115deg, var(--blue) 0%, #0a5cc9 45%, var(--sky) 115%); min-height: min(78vh, 640px); display: flex; align-items: center; padding: 72px 0 96px; }
 .hero.has-image { background: var(--blue); }
 .hero-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-.hero.has-image::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0, 71, 187, .82) 0%, rgba(0, 71, 187, .45) 60%, rgba(0, 71, 187, .15) 100%); z-index: 1; }
+.hero.has-image::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(8, 28, 72, .7) 0%, rgba(8, 28, 72, .58) 40%, rgba(8, 28, 72, .28) 62%, rgba(8, 28, 72, 0) 82%); z-index: 1; }
+.hero.has-image .hero-eyebrow, .hero.has-image h1, .hero.has-image .hero-sub { text-shadow: 0 1px 14px rgba(4, 16, 44, .55); }
 .hero-deco { position: absolute; inset: 0; pointer-events: none; z-index: 1;
   background:
     radial-gradient(circle at 85% 20%, rgba(255,255,255,.18) 0 120px, transparent 121px),
@@ -422,7 +423,7 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
   .brand-ko { font-size: .88rem; }
   html:not([lang="ko"]) .brand-ko { font-size: .76rem; line-height: 1.2; }
   .hero { min-height: auto; padding: 48px 0 88px; }
-  .hero.has-image::before { background: linear-gradient(180deg, rgba(0, 71, 187, .86) 0%, rgba(0, 71, 187, .7) 100%); }
+  .hero.has-image::before { background: linear-gradient(180deg, rgba(8, 28, 72, .62) 0%, rgba(8, 28, 72, .5) 100%); }
   .audience { margin-top: -40px; }
   .audience-grid, .event-cards, .track-grid, .course-list, .goal-list, .contact-grid, .profile-sections, .feature-grid.cols-3, .gallery { grid-template-columns: 1fr; }
   .learn-grid, .feature-grid { grid-template-columns: 1fr; }
