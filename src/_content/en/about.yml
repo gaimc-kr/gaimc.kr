@@ -1,7 +1,7 @@
 greeting:
   paragraphs:
     - Thank you for visiting the website of the Department of Global AI Management Consulting.
-    - Our department took its first step in September 2024, welcoming international students as the Global Management Consulting Major of the Graduate School of Knowledge Service & Consulting, and became the Department of Global AI Management Consulting in March 2026. We are now preparing for a new leap as part of the Graduate School of Global Convergence, opening in March 2027. Students from Vietnam and Bangladesh study together in the Global Management Consulting Major (bilingual track) and the Global AI Management Consulting Major (English track), and our student body is expanding to Nepal, India and beyond.
+    - Our department took its first step in September 2024, welcoming international students as the Global Management Consulting Major of the Graduate School of Knowledge Service & Consulting, and became the Department of Global AI Management Consulting in March 2026. Students from Vietnam and Bangladesh study together in the Global Management Consulting Major (bilingual track) and the Global AI Management Consulting Major (English track), and our student body is expanding to Nepal, India and beyond.
     - We teach management consulting for the age of AI. We educate consultants who use AI as a tool to diagnose and analyze business problems and who design and carry out management innovation, including AI transformation (AX). The curriculum runs from consulting fundamentals, problem solving, entrepreneurship, venture creation and SME consulting to human resource development, statistical analysis and R&D consulting, and is completed through a research paper and a practicum. Students learn not only knowledge but the mindset and methods of consultants who deliver results in the field.
     - Our faculty, who have experience in both academia and industry, support the growth of every student. Full-time, visiting and adjunct professors, together with guest speakers active in industry, generously share AI management consulting cases and practical know-how.
     - We are growing programs with companies and organizations, including the Global IPP, so that students can move beyond their studies to field experience, employment and work that connects their home countries with Korea. Our partnerships with Hanoi University of Industry, University of South Asia and Shanto-Mariam University of Creative Technology are part of this effort.
@@ -48,7 +48,4 @@ history:
   - period: Sep 2026
     text: Fifth cohort admitted
     count: 73 (Vietnam 7, Bangladesh 66)
-  - period: Oct 2026
-    text: Reorganized under the Graduate School of Global Convergence (opening March 2027)
-    count: ""
 history_note: Students are admitted every March and September.
