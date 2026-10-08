@@ -5,7 +5,7 @@ category: 특강연사
 position: 특강연사
 photo: /images/faculty/yang-heejung.jpg
 has_profile: true
-memo: 본인 제출 국문 양식(교수_프로필_제출_양식_v4_양희정, 2026. 10. 8. 18:40 재제출본, 사진 포함)과 영문 양식(Faculty_Profile_v4_HeejungYang_EN) 기준. 2026. 10. 8. 오후 영문 양식 기준으로 우선 게시했다가 국문 양식 도착 후 국문 표기(에코로드㈜, ㈜자미원에프앤지, 삼아코리아㈜, 광양 청매실농원, ㈜나래기획, 제주경제과학진흥원 등)를 본인 기재대로 교체. 본 학과 직위는 양식에 공란 → 특강연사(2026. 10. 8. 학과장 지시, 이후 제출자 모두 특강연사). 연구실 유선번호는 게재하지 않음. 석사논문은 RISS(T17080094, 중앙대학교 신문방송대학원 신문방송학과 출판잡지전공, 2024. 8.)와 DOI 확인 후 연결, 제목은 RISS 표기(부제 포함). 학술대회 발표 2건(2026 춘계)은 RISS 미등재라 본인 기재대로 링크 없이 기재. 도서 2권은 ISBN으로 알라딘 대조(『ESG 경영, A에서 Z까지』 공저자에 양희정 확인, 『ESG 경영의 이해와 실제』는 판매 페이지에 대표 저자만 표시되어 공저 여부 미확인이나 본인 기재대로 공저). 자격 발급기관 "한국농업기술원"은 본인 기재대로. 사진은 국문 양식에 삽입된 346×461 이미지를 400×500으로 확대(가로 1,000px 이상 원본 받으면 교체)
+memo: 본인 제출 국문 양식(교수_프로필_제출_양식_v4_양희정, 2026. 10. 8. 18:40 재제출본, 사진 포함)과 영문 양식(Faculty_Profile_v4_HeejungYang_EN) 기준. 2026. 10. 8. 오후 영문 양식 기준으로 우선 게시했다가 국문 양식 도착 후 국문 표기(에코로드㈜, ㈜자미원에프앤지, 삼아코리아㈜, 광양 청매실농원, ㈜나래기획, 제주경제과학진흥원 등)를 본인 기재대로 교체. 본 학과 직위는 양식에 공란 → 특강연사(2026. 10. 8. 학과장 지시, 이후 제출자 모두 특강연사). 연구실 유선번호는 게재하지 않음. 석사논문은 RISS(T17080094, 중앙대학교 신문방송대학원 신문방송학과 출판잡지전공, 2024. 8.)와 DOI 확인 후 연결, 제목은 RISS 표기(부제 포함). 학술대회 발표 2건(2026 춘계)은 RISS 미등재라 본인 기재대로 링크 없이 기재. 도서 2권은 ISBN으로 알라딘 대조(『ESG 경영, A에서 Z까지』 공저자에 양희정 확인, 『ESG 경영의 이해와 실제』는 판매 페이지에 대표 저자만 표시되어 공저 여부 미확인이나 본인 기재대로 공저). 자격 발급기관 "한국농업기술원"은 본인 기재대로. 사진은 국문 양식에 삽입된 346×461 이미지를 400×500으로 확대(가로 1,000px 이상 원본 받으면 교체). 2026. 10. 8. 본인 요청으로 광양 청매실농원 직위 대표이사 → 부사장 수정
 academic: 한성대학교 대학원 박사과정 ESG 융합컨설팅 전공 연구원
 industry: 에코로드㈜ 연구소 소장(이사)
 email: ipgold@naver.com
@@ -26,7 +26,7 @@ career:
 - 에코로드㈜ 연구소 소장(이사) (2017. 6. ~ 현재)
 - ㈜자미원에프앤지(친환경 식품회사) 대표이사 (2007. 10. ~ 2016. 11.)
 - 삼아코리아㈜ 해외 수출 담당 본부장 (2003. 9. ~ 2005. 5.)
-- 광양 청매실농원 대표이사 (2002. 5. ~ 2003. 6.)
+- 광양 청매실농원 부사장 (2002. 5. ~ 2003. 6.)
 - ㈜나래기획(광고 기획) 차장 (1990. 9. ~ 1998. 10.)
 certifications:
 - 경영지도사, 중소벤처기업부 (2021)
@@ -72,7 +72,7 @@ en:
   - Director (Executive Director), R&D Institute, Ecoroad Co., Ltd. (Jun 2017–present)
   - CEO, Jamiwon F&G Co., Ltd. (eco-friendly food company) (Oct 2007–Nov 2016)
   - Head of Overseas Export Division, Sama Korea Co., Ltd. (Sep 2003–May 2005)
-  - CEO, Gwangyang Cheongmaesil Farm (May 2002–Jun 2003)
+  - Vice President, Gwangyang Cheongmaesil Farm (May 2002–Jun 2003)
   - Deputy General Manager, Advertising Planning, Narae Planning Co., Ltd. (Sep 1990–Oct 1998)
   certifications:
   - Certified Management Consultant, Ministry of SMEs and Startups (2021)
@@ -114,7 +114,7 @@ vi:
   - Giám đốc (Giám đốc điều hành), Viện R&D, Ecoroad Co., Ltd. (6/2017–nay)
   - Tổng giám đốc, Jamiwon F&G Co., Ltd. (công ty thực phẩm thân thiện môi trường) (10/2007–11/2016)
   - Giám đốc khối Xuất khẩu, Sama Korea Co., Ltd. (9/2003–5/2005)
-  - Tổng giám đốc, Trang trại mơ xanh Gwangyang (5/2002–6/2003)
+  - Phó Tổng giám đốc, Trang trại mơ xanh Gwangyang (5/2002–6/2003)
   - Phó trưởng phòng Kế hoạch quảng cáo, Narae Planning Co., Ltd. (9/1990–10/1998)
   certifications:
   - Chuyên gia tư vấn quản trị được chứng nhận, Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp (2021)
