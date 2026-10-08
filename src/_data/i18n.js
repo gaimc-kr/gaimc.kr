@@ -99,7 +99,7 @@ const en = {
     sections: { keywords: "Areas of Expertise", education: "Education", career: "Career", certifications: "Certifications", papers: "Papers", books: "Books", patents: "Patents", trademarks: "Trademarks", rnd: "R&D Projects", non_rnd: "Consulting and Other Projects", achievements: "Key Achievements", lectures: "Lectures and Training", network: "Professional Network", awards: "Awards and Committees" },
     more: "Show more +", less: "Show less −",
     back: "Back to faculty",
-    tags: { 국내: "Domestic", 국제: "International", 학술대회: "Conference", 학위논문: "Dissertation", 저서: "Book", 공저: "Co-author", 영문판: "English ed.", 등록: "Registered", 출원: "Pending", 위원: "Committee", 한국화재조사학회: "Korean Inst. of Fire Investigation", 학술지: "Journal", 연구보고서: "Research report", "포럼 발표": "Forum", 교재: "Training textbook" },
+    tags: { 국내: "Domestic", 국제: "International", 학술대회: "Conference", 학위논문: "Dissertation", 저서: "Book", 공저: "Co-author", 영문판: "English ed.", 등록: "Registered", 출원: "Pending", 위원: "Committee", 한국화재조사학회: "Korean Inst. of Fire Investigation", 학술지: "Journal", 연구보고서: "Research report", "포럼 발표": "Forum", 교재: "Training textbook", 기고: "Magazine article" },
     pubsNote: "Papers, books, patents and trademarks are listed in their original language.",
   },
   courses: {
@@ -157,7 +157,7 @@ const vi = {
     sections: { keywords: "Lĩnh vực chuyên môn", education: "Học vấn", career: "Kinh nghiệm", certifications: "Chứng chỉ", papers: "Bài báo", books: "Sách", patents: "Bằng sáng chế", trademarks: "Nhãn hiệu", rnd: "Dự án R&D", non_rnd: "Dự án tư vấn và dự án khác", achievements: "Thành tích chính", lectures: "Giảng dạy và đào tạo", network: "Mạng lưới chuyên môn", awards: "Giải thưởng và hoạt động ủy ban" },
     more: "Xem thêm +", less: "Thu gọn −",
     back: "Danh sách giảng viên",
-    tags: { 국내: "Trong nước", 국제: "Quốc tế", 학술대회: "Hội thảo", 학위논문: "Luận án", 저서: "Sách", 공저: "Đồng tác giả", 영문판: "Bản tiếng Anh", 등록: "Đã cấp", 출원: "Đang xét", 위원: "Ủy ban", 한국화재조사학회: "Hội Điều tra Cháy Hàn Quốc", 학술지: "Tạp chí", 연구보고서: "Báo cáo nghiên cứu", "포럼 발표": "Diễn đàn", 교재: "Giáo trình" },
+    tags: { 국내: "Trong nước", 국제: "Quốc tế", 학술대회: "Hội thảo", 학위논문: "Luận án", 저서: "Sách", 공저: "Đồng tác giả", 영문판: "Bản tiếng Anh", 등록: "Đã cấp", 출원: "Đang xét", 위원: "Ủy ban", 한국화재조사학회: "Hội Điều tra Cháy Hàn Quốc", 학술지: "Tạp chí", 연구보고서: "Báo cáo nghiên cứu", "포럼 발표": "Diễn đàn", 교재: "Giáo trình", 기고: "Bài viết tạp chí" },
     pubsNote: "Bài báo, sách, bằng sáng chế và nhãn hiệu được giữ nguyên ngôn ngữ gốc.",
   },
   courses: {
