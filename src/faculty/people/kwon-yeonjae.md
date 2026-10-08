@@ -5,11 +5,11 @@ category: 겸임교수
 position: 겸임교수
 photo: /images/faculty/kwon-yeonjae.jpg
 has_profile: true
-memo: 학력 "박사과정 수료"는 박사 학위 취득 여부 확인 후 수정 예정(2026. 8. 박사 학위수여식 참석). 학위 확인되면 한·영·베 모두 "박사"로 변경
+memo: 학력은 2026. 10. 8. 본인 확인(학과장 경유)으로 "박사과정 수료" → "박사"로 수정(한·영·베). 2026. 8. 한성대학교 박사 학위수여
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)일성이앤에스 대표
 education:
-- 한성대학교 스마트융합컨설팅학과 박사과정 수료
+- 한성대학교 스마트융합컨설팅학과 박사
 - 가천대학교 사회적기업학과 석사
 - 한신대학교 경영학과 학사
 career:
@@ -38,7 +38,7 @@ en:
   academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
   industry: CEO, ILSUNG E&S Co., Ltd.
   education:
-  - Ph.D. coursework completed in Smart Convergence Consulting, Hansung University
+  - Ph.D. in Smart Convergence Consulting, Hansung University
   - Master's in Social Enterprise, Gachon University
   - Bachelor's in Business Administration, Hanshin University
   career:
@@ -64,7 +64,7 @@ vi:
   academic: Giáo sư kiêm nhiệm, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
   industry: Giám đốc, ILSUNG E&S Co., Ltd.
   education:
-  - Hoàn thành chương trình tiến sĩ Tư vấn Hội tụ Thông minh, Đại học Hansung
+  - Tiến sĩ Tư vấn Hội tụ Thông minh, Đại học Hansung
   - Thạc sĩ Doanh nghiệp xã hội, Đại học Gachon
   - Cử nhân Quản trị kinh doanh, Đại học Hanshin
   career:
