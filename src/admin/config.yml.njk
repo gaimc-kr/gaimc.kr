@@ -440,6 +440,13 @@ collections:
             required: false
             summary: "{{ '{{title}}' }}"
             fields: [{ label: 단계, name: title, widget: string }, { label: 내용, name: text, widget: text }, { label: 관련 행사(행사 주소 끝부분), name: event, widget: string, required: false }]
+          - label: 졸업 후 체류·취업 경로
+            name: visa_paths
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 경로, name: title, widget: string }, { label: 내용, name: text, widget: text }]
+          - { label: 체류·취업 경로 안내 문구, name: visa_note, widget: text, required: false }
           - label: 운영 원칙
             name: principles
             widget: list
@@ -667,6 +674,13 @@ collections:
             required: false
             summary: "{{ '{{title}}' }}"
             fields: [{ label: 단계, name: title, widget: string, required: false }, { label: 내용, name: text, widget: text, required: false }, { label: 관련 행사(행사 주소 끝부분), name: event, widget: string, required: false }]
+          - label: 졸업 후 체류·취업 경로
+            name: visa_paths
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 경로, name: title, widget: string }, { label: 내용, name: text, widget: text }]
+          - { label: 체류·취업 경로 안내 문구, name: visa_note, widget: text, required: false }
           - label: 운영 원칙
             name: principles
             widget: list

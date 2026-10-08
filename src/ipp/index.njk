@@ -79,6 +79,13 @@ permalink: "{{ langs.prefix[lang] }}/ipp/"
       {%- endfor %}
     </ol>
     {%- endif %}
+    {%- if I.visa_paths and I.visa_paths.length %}
+    <h2 class="group-title">{{ TI.visa }}</h2>
+    <ul class="feature-grid cols-3">
+      {%- for v in I.visa_paths %}<li class="feature-card"><h3 class="h3">{{ v.title }}</h3><p>{{ v.text }}</p></li>{% endfor %}
+    </ul>
+    {% if I.visa_note %}<p class="note ipp-visa-note">{{ I.visa_note }}</p>{% endif %}
+    {%- endif %}
     {%- if I.principles and I.principles.length %}
     <h2 class="group-title">{{ TI.principles }}</h2>
     <ul class="feature-grid cols-2">

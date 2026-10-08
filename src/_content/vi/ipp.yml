@@ -61,6 +61,14 @@ steps:
     text: "Gặp gỡ tại doanh nghiệp và phỏng vấn kết nối, sau đó rà soát các điều khoản hợp đồng lao động."
   - title: Hỗ trợ định cư
     text: "Trước và sau tốt nghiệp, hướng dẫn thủ tục chuyển đổi tư cách lưu trú và xác nhận việc nhận việc, ổn định cuộc sống."
+visa_paths:
+  - title: Thị thực đặc thù vùng (F-2-R)
+    text: "Lộ trình làm việc tại doanh nghiệp địa phương do chính quyền địa phương giới thiệu và định cư tại địa phương đó. Từ tháng 8 năm 2026, yêu cầu tiếng Hàn được điều chỉnh thành TOPIK cấp 3 hoặc cấp 3 của Chương trình Hội nhập Xã hội (KIIP), mở rộng cánh cửa cho sinh viên quốc tế đã được xác minh về học tập và lưu trú tại Hàn Quốc."
+  - title: Thị thực hoạt động đặc định (E-7)
+    text: "Lộ trình khi được doanh nghiệp tuyển dụng vào vị trí chuyên môn liên quan đến chuyên ngành. Xét theo công việc và yêu cầu của doanh nghiệp, không phụ thuộc vào khu vực."
+  - title: Thị thực tìm việc (D-10)
+    text: "Lộ trình lưu trú hợp pháp để tìm việc sau tốt nghiệp. Khi được tuyển dụng, sinh viên chuyển sang thị thực lao động."
+visa_note: "Khoa hướng dẫn sinh viên lộ trình phù hợp với trình độ tiếng Hàn, chuyên ngành, khu vực và công việc mong muốn. Thực tập và hoạt động trong thời gian học nằm trong phạm vi được phép hoạt động ngoài tư cách lưu trú; hồ sơ xin thị thực do sinh viên và doanh nghiệp tự đứng tên nộp với sự tư vấn của chuyên gia (hành chính viên). Chế độ và yêu cầu có thể thay đổi, nên áp dụng theo hướng dẫn của Bộ Tư pháp tại thời điểm nộp hồ sơ."
 principles:
   - title: Giáo dục là trung tâm
     text: "Việc làm được thiết kế là kết quả của chương trình chính quy. Hoạt động trong thời gian học nằm trong lịch học vụ và phạm vi cho phép của tư cách lưu trú."

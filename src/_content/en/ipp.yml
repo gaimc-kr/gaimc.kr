@@ -61,6 +61,14 @@ steps:
     text: "Company visits and matching interviews lead to a review of employment contract terms."
   - title: Settlement support
     text: "Around graduation, the department guides the procedures for changing residence status and confirms that students have started work and settled in."
+visa_paths:
+  - title: Region-specific visa (F-2-R)
+    text: "A path to take a job at a regional company recommended by a local government and settle in that region. From August 2026 the Korean language requirement was adjusted to TOPIK level 3 or level 3 of the Korea Immigration and Integration Program (KIIP), widening the door for international students whose study and residence in Korea are verified."
+  - title: Specific Activities visa (E-7)
+    text: "A path for employment in a professional job related to the student's major. It is based on the job and the employer's requirements, regardless of region."
+  - title: Job Seeker visa (D-10)
+    text: "A path to stay lawfully and look for a job after graduation. Once hired, the student changes to a work visa."
+visa_note: "The department guides each student to the path that fits their Korean level, major, and preferred region and job. Practicums and activities during enrollment stay within the scope of permitted activities outside the residence status, and visa applications are filed by students and companies in their own names with professional (administrative agent) advice. Rules and requirements may change, so the Ministry of Justice guidance at the time of application applies."
 principles:
   - title: Education first
     text: "Employment is designed as an outcome of the regular curriculum. Activities during enrollment stay within the academic calendar and the scope allowed by students' residence status."
