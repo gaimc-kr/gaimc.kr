@@ -23,3 +23,4 @@
 | 교수_프로필_박종각_20261001.docx, Park_Jong_Gak_Faculty_Profile_EN (1).docx, 사진_박종각.jpg | 2026-10-08 08:03 | 반영 | park-jonggak |
 | 교수_프로필_제출_양식_v4_양희정.docx | 2026-10-08 08:01 | 빈 양식 | 미작성 양식 — 국문 재제출 대기 |
 | Faculty_Profile_v4_HeejungYang_EN.docx | 2026-10-08 08:01 | 반영 | yang-heejung (사진 대기) |
+| 교수_프로필_제출_양식_v4_김도균.docx, 사진_김도균.jpg | 2026-10-08 08:45 | 반영 | kim-dokyun (사진 저해상도 → 원본 대기) |
