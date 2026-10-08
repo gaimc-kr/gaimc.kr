@@ -29,10 +29,10 @@ stats:
     unit: 개국
     detail: 베트남, 방글라데시 (2027학년도 전기 지원자는 네팔, 인도까지 확대)
     memo: 입학 확정 후 재학생 국적 수 수정
-  - label: 협약 해외 대학
-    value: "3"
-    unit: 개교
-    detail: 베트남 1, 방글라데시 2
+  - label: 협력 기관
+    auto: partners
+    unit: 곳
+    memo: 수치·세부 문구는 협력 기관 목록(해외·국내)에서 자동 계산
   - label: 수업 연한
     value: "5"
     unit: 학기

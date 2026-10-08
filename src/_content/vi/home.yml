@@ -23,10 +23,9 @@ stats:
     value: "2"
     unit: nước
     detail: Việt Nam, Bangladesh (ứng viên kỳ xuân 2027 có thêm Nepal, Ấn Độ)
-  - label: Trường đối tác nước ngoài
-    value: "3"
-    unit: trường
-    detail: 1 tại Việt Nam, 2 tại Bangladesh
+  - label: Cơ sở hợp tác
+    auto: partners
+    unit: ""
   - label: Thời gian đào tạo
     value: "5"
     unit: học kỳ

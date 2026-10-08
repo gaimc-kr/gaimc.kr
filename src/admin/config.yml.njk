@@ -302,9 +302,10 @@ collections:
             summary: "{{ '{{label}} {{value}}{{unit}}' }}"
             fields:
               - { label: 항목, name: label, widget: string }
-              - { label: 수치, name: value, widget: string }
-              - { label: 단위, name: unit, widget: string }
-              - { label: 설명, name: detail, widget: string, required: false }
+              - { label: 자동 계산(협력 기관 수는 목록에서 자동), name: auto, widget: select, required: false, options: [{ label: "협력 기관 수 자동", value: partners }] }
+              - { label: 수치(자동 계산 항목은 비워 둠), name: value, widget: string, required: false }
+              - { label: 단위, name: unit, widget: string, required: false }
+              - { label: 설명(자동 계산 항목은 비워 둠), name: detail, widget: string, required: false }
               - { label: 관리 메모, name: memo, widget: string, required: false }
           - label: 글로벌 IPP 소개
             name: ipp
@@ -560,7 +561,7 @@ collections:
         file: {{ R }}src/_content/{{ L[0] }}/home.yml
         fields:
           - { label: 첫 화면, name: hero, widget: object, required: false, fields: [{ label: 영문 소제목, name: eyebrow, widget: string, required: false }, { label: 제목, name: title, widget: string, required: false }, { label: 부제, name: subtitle, widget: text, required: false }] }
-          - { label: 한눈에 보는 학과, name: stats, widget: list, required: false, summary: "{{ '{{label}}' }}", fields: [{ label: 항목, name: label, widget: string }, { label: 수치, name: value, widget: string }, { label: 단위, name: unit, widget: string, required: false }, { label: 설명, name: detail, widget: string, required: false }] }
+          - { label: 한눈에 보는 학과, name: stats, widget: list, required: false, summary: "{{ '{{label}}' }}", fields: [{ label: 항목, name: label, widget: string }, { label: 자동 계산, name: auto, widget: select, required: false, options: [{ label: "협력 기관 수 자동", value: partners }] }, { label: 수치, name: value, widget: string, required: false }, { label: 단위, name: unit, widget: string, required: false }, { label: 설명, name: detail, widget: string, required: false }] }
           - { label: 글로벌 IPP 소개, name: ipp, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }] }
           - { label: 무엇을 배우나요, name: learn, widget: list, required: false, summary: "{{ '{{title}}' }}", fields: [{ label: 제목, name: title, widget: string }, { label: 문구, name: text, widget: text }] }
           - { label: 협력 기관 문구, name: partners_text, widget: text, required: false }

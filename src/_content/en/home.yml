@@ -23,10 +23,9 @@ stats:
     value: "2"
     unit: ""
     detail: Vietnam and Bangladesh (2027 spring applicants also from Nepal and India)
-  - label: Partner universities abroad
-    value: "3"
+  - label: Partner institutions
+    auto: partners
     unit: ""
-    detail: 1 in Vietnam, 2 in Bangladesh
   - label: Program length
     value: "5"
     unit: semesters

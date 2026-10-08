@@ -45,10 +45,16 @@ permalink: "{{ langs.prefix[lang] }}/"
     </div>
     <ul class="stats">
       {%- for s in H.stats %}
+      {%- set sv = s.value %}{% set sd = s.detail %}
+      {%- if s.auto == "partners" %}
+        {%- set nI = C.partners.list.length %}{% set nD = (C.partners.domestic or []).length %}
+        {%- set sv = nI + nD %}
+        {%- set sd = T.partners.statDetail | replace("{i}", nI) | replace("{c}", (C.partners.list | uniqueValues("country")).length) | replace("{d}", nD) %}
+      {%- endif %}
       <li class="stat">
         <p class="stat-label">{{ s.label }}</p>
-        <p class="stat-value"><strong>{{ s.value }}</strong><span>{{ s.unit }}</span></p>
-        <p class="stat-detail">{{ s.detail }}</p>
+        <p class="stat-value"><strong>{{ sv }}</strong><span>{{ s.unit }}</span></p>
+        <p class="stat-detail">{{ sd }}</p>
       </li>
       {%- endfor %}
     </ul>
@@ -127,12 +133,12 @@ permalink: "{{ langs.prefix[lang] }}/"
       <a class="view-more" href="{{ '/partners/' | L(lang) }}">{{ T.btn.partners }} <span aria-hidden="true">+</span></a>
     </div>
     <ul class="partner-logos">
-      {%- for p in C.partners.list %}{% if p.status == "signed" %}
+      {%- for p in C.partners.list %}
       <li>
         {%- if p.logo %}<img src="{{ p.logo }}" alt="" width="64" height="64" loading="lazy">{% else %}<span class="partner-badge" aria-hidden="true">{{ p.abbr }}</span>{% endif %}
-        <span class="partner-name"><strong>{{ p.name }}</strong><span>{{ p.country }}</span></span>
+        <span class="partner-name"><strong>{{ p.name }}</strong><span>{{ p.country }}{% if p.status == "active" %} · {{ T.partners.statusActive }}{% elif p.status == "intent" %} · {{ T.partners.statusIntent }}{% endif %}</span></span>
       </li>
-      {%- endif %}{% endfor %}
+      {%- endfor %}
     </ul>
     {%- set PT = C.partners %}
     {%- if PT.domestic and PT.domestic.length %}
