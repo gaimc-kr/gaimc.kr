@@ -30,6 +30,16 @@ list:
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo chung Bangladesh – Hàn Quốc về Kinh doanh AI Toàn cầu 2026 (18/8/2026).
     event: bangladesh-korea-seminar
     url: ""
+  - country: Lào
+    name: "Bộ Công Thương Lào (MOIC)"
+    name_en: Ministry of Industry and Commerce, Lao PDR (MOIC)
+    name_local: ກະຊວງອຸດສາຫະກຳ ແລະ ການຄ້າ
+    abbr: MOIC
+    logo: /images/partners/moic-lao.png
+    status: intent
+    description: "Đã xác nhận ý định hợp tác. Qua thư của Bộ trưởng Bộ Công Thương Lào (24/9/2019), Bộ bày tỏ ý định cùng triển khai Dự án phát triển doanh nghiệp vừa và nhỏ và khởi nghiệp thanh niên dựa trên ICT với Trường Sau đại học Dịch vụ Tri thức & Tư vấn, Đại học Hansung."
+    event: ""
+    url: https://www.moic.gov.la
 domestic:
   - name: "Dream Plus"
     logo: /images/partners/dreamplus.png
@@ -37,10 +47,17 @@ domestic:
     logo: /images/partners/bizstylist.png
   - name: "Seojin Technology Co., Ltd."
     logo: /images/partners/seojin-tech.png
+  - name: "Cơ quan Xúc tiến Công nghiệp Seongnam (SNIP)"
+    logo: /images/partners/snip.png
   - name: "ITCG Co., Ltd."
     logo: /images/partners/itcg.png
   - name: "S-ON SYSTEM, Inc."
     logo: /images/partners/son-system.png
   - name: "ILSUNG E&S Co., Ltd."
     logo: /images/partners/ilsung-ens.png
+  - name: "Hợp tác xã Trung tâm Tư vấn Hải quan và Thương mại Quốc tế cho DNVVN (ICTC)"
+    abbr: ICTC
+    logo: ""
+  - name: "KY Co., Ltd."
+    logo: /images/partners/ky.png
 domestic_text: Các doanh nghiệp, tổ chức tại Hàn Quốc cùng thực hiện thực tập, tư vấn doanh nghiệp và bài giảng chuyên đề sẽ được giới thiệu khi đồng ý công bố.

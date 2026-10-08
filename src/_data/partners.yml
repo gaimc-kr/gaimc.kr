@@ -33,6 +33,16 @@ list:
     description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
     event: bangladesh-korea-seminar
     url: ""
+  - country: 라오스
+    name: 라오스 산업통상부
+    name_en: Ministry of Industry and Commerce, Lao PDR (MOIC)
+    name_local: ກະຊວງອຸດສາຫະກຳ ແລະ ການຄ້າ
+    abbr: MOIC
+    logo: /images/partners/moic-lao.png
+    status: intent
+    description: 협력 의향 확인. 라오스 산업통상부 장관 명의 서한(2019. 9. 24.)으로 'ICT 기반 중소기업·청년창업 육성 사업' 공동 추진 의향을 밝힘(한성대학교 지식서비스&컨설팅대학원)
+    event: ""
+    url: https://www.moic.gov.la
 domestic:
   - name: "드림플러스"
     name_en: "Dream Plus"
@@ -43,6 +53,9 @@ domestic:
   - name: "(주)서진테크놀로지"
     name_en: "Seojin Technology Co., Ltd."
     logo: /images/partners/seojin-tech.png
+  - name: "성남산업진흥원"
+    name_en: "Seongnam Industry Promotion Agency (SNIP)"
+    logo: /images/partners/snip.png
   - name: "아이티씨지(주)"
     name_en: "ITCG Co., Ltd."
     logo: /images/partners/itcg.png
@@ -52,5 +65,18 @@ domestic:
   - name: "(주)일성이앤에스"
     name_en: "ILSUNG E&S Co., Ltd."
     logo: /images/partners/ilsung-ens.png
+  - name: "중소기업 국제관세무역자문센터 협동조합"
+    name_en: "SME International Customs & Trade Consulting Center Cooperative (ICTC)"
+    abbr: ICTC
+    logo: ""
+  - name: "㈜케이와이"
+    name_en: "KY Co., Ltd."
+    logo: /images/partners/ky.png
 domestic_text: 현장 실습, 기업 상담, 특강을 함께하는 국내 기업·기관은 게재에 동의한 곳부터 소개합니다.
-memo: 추가 협약 대학 명단. 국내 기업은 겸임교수 소속 회사(2026. 10. 7. 반영, 아이쎄오는 폐업으로 제외). 추진 중인 사업은 확정 전까지 게재하지 않음
+memo: >-
+  추가 협약 대학 명단. 국내 기업은 겸임교수 소속 회사(2026. 10. 7. 반영, 아이쎄오는 폐업으로 제외)와 지식서비스&컨설팅대학원 MOU 기관(2026. 10. 8. 반영):
+  성남산업진흥원·중소기업 국제관세무역자문센터 협동조합(3자 업무협약 2025. 7. 10., 2년), ㈜케이와이(산학협력 업무제휴 2026. 1. 21., 3년).
+  라오스 산업통상부는 MOU가 아니라 장관 명의 협력 의향 서한(2019. 9. 24.)이라 status를 intent(협력 의향)로 두어 메인에는 표시하지 않음.
+  보류: 한국에듀테크산업협회(2025. 1. 14. 체결, 제6조②에 명칭 공개 시 사전 동의 조항), 한국ESG경영개발원(한글 파일 초안만 있고 서명본 없음, 같은 동의 조항),
+  인도네시아 BRIN(2022 서명 전 초안, 제22조 7항 명칭 사용 사전 서면 동의 조항). 제외: 태광그룹·미국한의사협회 MOU(학과와 무관).
+  ICTC 영문명은 공식 표기 미확인(약칭 ICTC는 언론 보도로 확인). 추진 중인 사업은 확정 전까지 게재하지 않음

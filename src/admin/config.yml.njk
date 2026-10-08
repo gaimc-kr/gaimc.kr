@@ -439,11 +439,11 @@ collections:
               - { label: 현지어 기관명, name: name_local, widget: string, required: false }
               - { label: 약칭(로고 없을 때 표시), name: abbr, widget: string }
               - { label: 로고, name: logo, widget: image, required: false }
-              - { label: 상태, name: status, widget: select, options: [{ label: 협약 체결, value: signed }, { label: 협력 중, value: active }] }
+              - { label: 상태, name: status, widget: select, options: [{ label: 협약 체결, value: signed }, { label: 협력 중, value: active }, { label: 협력 의향, value: intent }] }
               - { label: 협력 내용 한 줄, name: description, widget: text }
               - { label: 관련 행사(행사 주소 이름, 예 korea-vietnam-seminar), name: event, widget: string, required: false }
               - { label: 홈페이지, name: url, widget: string, required: false }
-          - label: 국내 산학협력 기업(로고·회사명)
+          - label: 국내 협력 기관·기업(로고·이름)
             name: domestic
             widget: list
             required: false
@@ -451,7 +451,8 @@ collections:
             fields:
               - { label: 회사명, name: name, widget: string }
               - { label: 영문 회사명, name: name_en, widget: string, required: false }
-              - { label: 로고, name: logo, widget: image }
+              - { label: 로고(없으면 약칭 표시), name: logo, widget: image, required: false }
+              - { label: 약칭(로고 없을 때), name: abbr, widget: string, required: false }
           - { label: 국내 협력 안내 문구, name: domestic_text, widget: text }
           - { label: 관리 메모, name: memo, widget: text, required: false }
 
@@ -608,13 +609,13 @@ collections:
             widget: list
             required: false
             summary: "{{ '{{name}}' }}"
-            fields: [{ label: 국가, name: country, widget: string }, { label: 기관명, name: name, widget: string }, { label: 영문 기관명, name: name_en, widget: string, required: false }, { label: 현지어 기관명, name: name_local, widget: string, required: false }, { label: 약칭, name: abbr, widget: string }, { label: 로고, name: logo, widget: image, required: false }, { label: 상태, name: status, widget: select, options: [{ label: 협약 체결, value: signed }, { label: 협력 중, value: active }] }, { label: 협력 내용 한 줄, name: description, widget: text }, { label: 관련 행사, name: event, widget: string, required: false }, { label: 홈페이지, name: url, widget: string, required: false }]
-          - label: 국내 산학협력 기업(한국어 목록과 같은 순서·개수)
+            fields: [{ label: 국가, name: country, widget: string }, { label: 기관명, name: name, widget: string }, { label: 영문 기관명, name: name_en, widget: string, required: false }, { label: 현지어 기관명, name: name_local, widget: string, required: false }, { label: 약칭, name: abbr, widget: string }, { label: 로고, name: logo, widget: image, required: false }, { label: 상태, name: status, widget: select, options: [{ label: 협약 체결, value: signed }, { label: 협력 중, value: active }, { label: 협력 의향, value: intent }] }, { label: 협력 내용 한 줄, name: description, widget: text }, { label: 관련 행사, name: event, widget: string, required: false }, { label: 홈페이지, name: url, widget: string, required: false }]
+          - label: 국내 협력 기관·기업(한국어 목록과 같은 순서·개수)
             name: domestic
             widget: list
             required: false
             summary: "{{ '{{name}}' }}"
-            fields: [{ label: 회사명, name: name, widget: string }, { label: 로고, name: logo, widget: image }]
+            fields: [{ label: 이름, name: name, widget: string }, { label: 로고, name: logo, widget: image, required: false }, { label: 약칭, name: abbr, widget: string, required: false }]
           - { label: 국내 협력 안내 문구, name: domestic_text, widget: text, required: false }
       - label: "[{{ L[1] }}] 입학안내"
         name: admission_{{ L[0] }}

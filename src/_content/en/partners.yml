@@ -30,6 +30,16 @@ list:
     description: Agreement signed. Co-hosted the 2026 Bangladesh–Korea Global AI Business Joint Seminar (Aug 18, 2026).
     event: bangladesh-korea-seminar
     url: ""
+  - country: Laos
+    name: "Ministry of Industry and Commerce, Lao PDR (MOIC)"
+    name_en: Ministry of Industry and Commerce, Lao PDR (MOIC)
+    name_local: ກະຊວງອຸດສາຫະກຳ ແລະ ການຄ້າ
+    abbr: MOIC
+    logo: /images/partners/moic-lao.png
+    status: intent
+    description: "Intent to cooperate confirmed. In a letter from the Minister of Industry and Commerce (Sep 24, 2019), the Ministry expressed its intention to jointly pursue the Project for the ICT-based SME and Youth Startup Development Initiative with the Graduate School of Knowledge Service & Consulting, Hansung University."
+    event: ""
+    url: https://www.moic.gov.la
 domestic:
   - name: "Dream Plus"
     logo: /images/partners/dreamplus.png
@@ -37,10 +47,17 @@ domestic:
     logo: /images/partners/bizstylist.png
   - name: "Seojin Technology Co., Ltd."
     logo: /images/partners/seojin-tech.png
+  - name: "Seongnam Industry Promotion Agency (SNIP)"
+    logo: /images/partners/snip.png
   - name: "ITCG Co., Ltd."
     logo: /images/partners/itcg.png
   - name: "S-ON SYSTEM, Inc."
     logo: /images/partners/son-system.png
   - name: "ILSUNG E&S Co., Ltd."
     logo: /images/partners/ilsung-ens.png
+  - name: "SME International Customs & Trade Consulting Center Cooperative (ICTC)"
+    abbr: ICTC
+    logo: ""
+  - name: "KY Co., Ltd."
+    logo: /images/partners/ky.png
 domestic_text: Companies and organizations in Korea that work with us on practicums, company consultations and special lectures will be introduced once they agree to be listed.
