@@ -8,7 +8,7 @@ list:
     name_en: Hanoi University of Industry (HaUI)
     name_local: Đại học Công nghiệp Hà Nội
     abbr: HaUI
-    logo: ""
+    logo: /images/partners/haui.png
     status: signed
     description: 협약 체결. 2026 한국-베트남 글로벌 AI 비즈니스 산학협력 공동 세미나(2026. 8. 6.~7.) 공동 개최
     event: korea-vietnam-seminar
@@ -18,7 +18,7 @@ list:
     name_en: University of South Asia
     name_local: ""
     abbr: UoSA
-    logo: ""
+    logo: /images/partners/uosa.png
     status: signed
     description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
     event: bangladesh-korea-seminar
@@ -28,7 +28,7 @@ list:
     name_en: Shanto-Mariam University of Creative Technology
     name_local: ""
     abbr: SMUCT
-    logo: ""
+    logo: /images/partners/smuct.png
     status: signed
     description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
     event: bangladesh-korea-seminar
@@ -96,4 +96,5 @@ memo: >-
   해외: 인도네시아 BRIN(드라이브에는 2022 서명 전 초안만 있어 체결일 미기재, status active. 제22조 7항 명칭 사용 동의 2026. 10. 8. 받음. 서명본 확인되면 signed로 바꾸면 메인에도 표시),
   라오스 산업통상부(MOU가 아니라 장관 명의 협력 의향 서한 2019. 9. 24., status intent).
   방글라데시 대학 링크 확인(2026. 10. 8.): UoSA www.southasiauni.ac.bd, SMUCT smuct.ac.bd(smuct.edu.bd에서 이동).
+  로고 출처(2026. 10. 8.): HaUI·UoSA·SMUCT·BRIN·라오스 산업통상부·성남산업진흥원은 각 기관 공식 홈페이지, 케이와이·한국에듀테크산업협회·한국ESG경영개발원은 협약서에 실린 로고. 정사각 칸용으로 HaUI는 엠블럼, BRIN은 심벌만 사용.
   제외: 태광그룹·미국한의사협회 MOU(학과와 무관). ICTC·한국ESG경영개발원 영문명은 공식 표기 미확인(번역 표기). 추진 중인 사업은 확정 전까지 게재하지 않음

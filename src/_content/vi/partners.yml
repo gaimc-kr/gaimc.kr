@@ -5,7 +5,7 @@ list:
     name_en: Hanoi University of Industry (HaUI)
     name_local: ""
     abbr: HaUI
-    logo: ""
+    logo: /images/partners/haui.png
     status: signed
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo hợp tác Hàn Quốc – Việt Nam về Kinh doanh AI Toàn cầu 2026 (6–7/8/2026).
     event: korea-vietnam-seminar
@@ -15,7 +15,7 @@ list:
     name_en: University of South Asia
     name_local: ""
     abbr: UoSA
-    logo: ""
+    logo: /images/partners/uosa.png
     status: signed
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo chung Bangladesh – Hàn Quốc về Kinh doanh AI Toàn cầu 2026 (18/8/2026).
     event: bangladesh-korea-seminar
@@ -25,7 +25,7 @@ list:
     name_en: Shanto-Mariam University of Creative Technology
     name_local: ""
     abbr: SMUCT
-    logo: ""
+    logo: /images/partners/smuct.png
     status: signed
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo chung Bangladesh – Hàn Quốc về Kinh doanh AI Toàn cầu 2026 (18/8/2026).
     event: bangladesh-korea-seminar

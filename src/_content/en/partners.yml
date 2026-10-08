@@ -5,7 +5,7 @@ list:
     name_en: Hanoi University of Industry (HaUI)
     name_local: Đại học Công nghiệp Hà Nội
     abbr: HaUI
-    logo: ""
+    logo: /images/partners/haui.png
     status: signed
     description: Agreement signed. Co-hosted the 2026 Korea–Vietnam Global AI Business Industry-Academia Joint Seminar (Aug 6–7, 2026).
     event: korea-vietnam-seminar
@@ -15,7 +15,7 @@ list:
     name_en: University of South Asia
     name_local: ""
     abbr: UoSA
-    logo: ""
+    logo: /images/partners/uosa.png
     status: signed
     description: Agreement signed. Co-hosted the 2026 Bangladesh–Korea Global AI Business Joint Seminar (Aug 18, 2026).
     event: bangladesh-korea-seminar
@@ -25,7 +25,7 @@ list:
     name_en: Shanto-Mariam University of Creative Technology
     name_local: ""
     abbr: SMUCT
-    logo: ""
+    logo: /images/partners/smuct.png
     status: signed
     description: Agreement signed. Co-hosted the 2026 Bangladesh–Korea Global AI Business Joint Seminar (Aug 18, 2026).
     event: bangladesh-korea-seminar
