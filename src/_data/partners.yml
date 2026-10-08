@@ -22,7 +22,7 @@ list:
     status: signed
     description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
     event: bangladesh-korea-seminar
-    url: ""
+    url: https://www.southasiauni.ac.bd
   - country: 방글라데시
     name: Shanto-Mariam University of Creative Technology
     name_en: Shanto-Mariam University of Creative Technology
@@ -32,7 +32,17 @@ list:
     status: signed
     description: 협약 체결. 2026 방글라데시-한국 글로벌 AI 비즈니스 공동 세미나(2026. 8. 18.) 공동 개최
     event: bangladesh-korea-seminar
-    url: ""
+    url: https://smuct.ac.bd
+  - country: 인도네시아
+    name: "인도네시아 국가연구혁신청(BRIN)"
+    name_en: National Research and Innovation Agency (BRIN), Indonesia
+    name_local: Badan Riset dan Inovasi Nasional
+    abbr: BRIN
+    logo: /images/partners/brin.png
+    status: active
+    description: "협력 중. BRIN 과학기술인재부(Deputy for Human Resources of Science and Technology)와 한성대학교 지식서비스&컨설팅대학원 간 연구 기반 석·박사 공동 지도 프로그램(HANS-BRIN Program) 협력"
+    event: ""
+    url: https://www.brin.go.id
   - country: 라오스
     name: 라오스 산업통상부
     name_en: Ministry of Industry and Commerce, Lao PDR (MOIC)
@@ -72,11 +82,18 @@ domestic:
   - name: "㈜케이와이"
     name_en: "KY Co., Ltd."
     logo: /images/partners/ky.png
+  - name: "(사)한국ESG경영개발원"
+    name_en: "Korea ESG Management Development Institute"
+    logo: /images/partners/korea-esg.png
+  - name: "(사)한국에듀테크산업협회"
+    name_en: "Korea EdTech Industry Association (KETIA)"
+    logo: /images/partners/ketia.png
 domestic_text: 현장 실습, 기업 상담, 특강을 함께하는 국내 기업·기관은 게재에 동의한 곳부터 소개합니다.
 memo: >-
   추가 협약 대학 명단. 국내 기업은 겸임교수 소속 회사(2026. 10. 7. 반영, 아이쎄오는 폐업으로 제외)와 지식서비스&컨설팅대학원 MOU 기관(2026. 10. 8. 반영):
-  성남산업진흥원·중소기업 국제관세무역자문센터 협동조합(3자 업무협약 2025. 7. 10., 2년), ㈜케이와이(산학협력 업무제휴 2026. 1. 21., 3년).
-  라오스 산업통상부는 MOU가 아니라 장관 명의 협력 의향 서한(2019. 9. 24.)이라 status를 intent(협력 의향)로 두어 메인에는 표시하지 않음.
-  보류: 한국에듀테크산업협회(2025. 1. 14. 체결, 제6조②에 명칭 공개 시 사전 동의 조항), 한국ESG경영개발원(한글 파일 초안만 있고 서명본 없음, 같은 동의 조항),
-  인도네시아 BRIN(2022 서명 전 초안, 제22조 7항 명칭 사용 사전 서면 동의 조항). 제외: 태광그룹·미국한의사협회 MOU(학과와 무관).
-  ICTC 영문명은 공식 표기 미확인(약칭 ICTC는 언론 보도로 확인). 추진 중인 사업은 확정 전까지 게재하지 않음
+  성남산업진흥원·중소기업 국제관세무역자문센터 협동조합(3자 업무협약 2025. 7. 10., 2년), ㈜케이와이(산학협력 업무제휴 2026. 1. 21., 3년),
+  한국에듀테크산업협회(2025. 1. 14. 체결, 제6조② 명칭 공개 동의 조항 → 2026. 10. 8. 동의 받음), 한국ESG경영개발원(드라이브에는 서명 전 한글 초안만 있음, 명칭 공개 동의 2026. 10. 8. 받음).
+  해외: 인도네시아 BRIN(드라이브에는 2022 서명 전 초안만 있어 체결일 미기재, status active. 제22조 7항 명칭 사용 동의 2026. 10. 8. 받음. 서명본 확인되면 signed로 바꾸면 메인에도 표시),
+  라오스 산업통상부(MOU가 아니라 장관 명의 협력 의향 서한 2019. 9. 24., status intent).
+  방글라데시 대학 링크 확인(2026. 10. 8.): UoSA www.southasiauni.ac.bd, SMUCT smuct.ac.bd(smuct.edu.bd에서 이동).
+  제외: 태광그룹·미국한의사협회 MOU(학과와 무관). ICTC·한국ESG경영개발원 영문명은 공식 표기 미확인(번역 표기). 추진 중인 사업은 확정 전까지 게재하지 않음

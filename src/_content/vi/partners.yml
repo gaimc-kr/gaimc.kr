@@ -19,7 +19,7 @@ list:
     status: signed
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo chung Bangladesh – Hàn Quốc về Kinh doanh AI Toàn cầu 2026 (18/8/2026).
     event: bangladesh-korea-seminar
-    url: ""
+    url: https://www.southasiauni.ac.bd
   - country: Bangladesh
     name: Shanto-Mariam University of Creative Technology
     name_en: Shanto-Mariam University of Creative Technology
@@ -29,7 +29,17 @@ list:
     status: signed
     description: Đã ký thỏa thuận hợp tác. Đồng tổ chức Hội thảo chung Bangladesh – Hàn Quốc về Kinh doanh AI Toàn cầu 2026 (18/8/2026).
     event: bangladesh-korea-seminar
-    url: ""
+    url: https://smuct.ac.bd
+  - country: Indonesia
+    name: "Cơ quan Nghiên cứu và Đổi mới Quốc gia Indonesia (BRIN)"
+    name_en: National Research and Innovation Agency (BRIN), Indonesia
+    name_local: Badan Riset dan Inovasi Nasional
+    abbr: BRIN
+    logo: /images/partners/brin.png
+    status: active
+    description: "Đang hợp tác. Hợp tác chương trình thạc sĩ, tiến sĩ định hướng nghiên cứu với hình thức đồng hướng dẫn (HANS-BRIN Program) giữa Phó Chủ tịch phụ trách Nguồn nhân lực Khoa học và Công nghệ của BRIN và Trường Sau đại học Dịch vụ Tri thức & Tư vấn, Đại học Hansung."
+    event: ""
+    url: https://www.brin.go.id
   - country: Lào
     name: "Bộ Công Thương Lào (MOIC)"
     name_en: Ministry of Industry and Commerce, Lao PDR (MOIC)
@@ -60,4 +70,8 @@ domestic:
     logo: ""
   - name: "KY Co., Ltd."
     logo: /images/partners/ky.png
+  - name: "Viện Phát triển Quản trị ESG Hàn Quốc"
+    logo: /images/partners/korea-esg.png
+  - name: "Hiệp hội Công nghiệp EdTech Hàn Quốc (KETIA)"
+    logo: /images/partners/ketia.png
 domestic_text: Các doanh nghiệp, tổ chức tại Hàn Quốc cùng thực hiện thực tập, tư vấn doanh nghiệp và bài giảng chuyên đề sẽ được giới thiệu khi đồng ý công bố.
