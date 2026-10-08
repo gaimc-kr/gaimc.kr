@@ -284,6 +284,25 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 .goal-no { color: var(--blue); font-weight: 800; font-size: 1.3rem; }
 .feature-grid { list-style: none; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
 .feature-grid.cols-3 { grid-template-columns: repeat(3, 1fr); margin-bottom: 32px; }
+.feature-grid.cols-2 { grid-template-columns: repeat(2, 1fr); margin-bottom: 32px; }
+.feature-card .view-more { display: inline-block; margin-top: 12px; }
+.ipp-text { max-width: 48em; margin: 0 0 8px; }
+.stage-grid { list-style: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 8px; }
+.stage-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; }
+.stage-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 4px; }
+.stage-head h3 { margin: 0; }
+.stage-status { font-size: .78rem; font-weight: 800; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+.stage-status.is-done { background: #e6f4ea; color: #1e7d3a; }
+.stage-status.is-active { background: var(--bg-sky); color: var(--blue); }
+.stage-status.is-vision { background: #f1f2f4; color: var(--grey); }
+.stage-period { color: var(--muted); font-size: .9rem; margin: 0 0 10px; }
+.stage-card p:last-child { margin: 0; }
+.flow-steps { list-style: none; counter-reset: step; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 8px; }
+.flow-steps li { counter-increment: step; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 22px 20px; }
+.flow-steps li::before { content: counter(step); display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--blue); color: #fff; font-weight: 800; margin-bottom: 12px; }
+.flow-steps h3 { font-size: 1.08rem; margin: 0 0 6px; }
+.flow-steps p { margin: 0; font-size: .95rem; color: #3a3d3f; }
+.flow-steps .view-more { display: inline-block; margin-top: 12px; }
 .feature-card { border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; background: #fff; border-top: 4px solid var(--blue); }
 .feature-card p { margin: 0; font-size: .96rem; color: #3a3d3f; }
 .timeline { list-style: none; position: relative; padding-left: 28px; border-left: 2px solid #b9d3ee; }
@@ -431,7 +450,7 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
   .hero.has-image::before { background: linear-gradient(180deg, rgba(8, 28, 72, .62) 0%, rgba(8, 28, 72, .5) 100%); }
   .audience { margin-top: -40px; }
   .audience-grid, .event-cards, .track-grid, .course-list, .goal-list, .contact-grid, .profile-sections, .feature-grid.cols-3, .gallery { grid-template-columns: 1fr; }
-  .learn-grid, .feature-grid { grid-template-columns: 1fr; }
+  .learn-grid, .feature-grid, .feature-grid.cols-2, .stage-grid, .flow-steps { grid-template-columns: 1fr; }
   .person-grid, .speaker-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .person-body { padding: 12px 12px 4px; }
   .person-email { padding: 0 12px 12px; }

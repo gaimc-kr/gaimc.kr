@@ -1,10 +1,118 @@
 preparing_text: Details of the Global IPP program are being prepared and will be posted here once confirmed.
-intro: The Global IPP is a field-linked program that the department designs with companies and organizations so that international students can move from study to work experience and employment in Korea.
-blocks:
-  - title: How it works
-    text: Students, the department, partner companies and organizations, and guest speakers run the program together.
-  - title: Career support
-    text: Special lectures, company consultations, practicum (field placement) and career counseling support students' careers.
-  - title: Relationship with Hansung IPP
-    text: Builds on Hansung University's work-study (IPP) experience and extends it to international students.
+intro: "The Global IPP is a field-linked system that the department designs with companies and organizations and runs directly, so that international students move from study (Off-JT) to work experience (OJT) and employment in Korea (job placement). It is not a separate job program but the framework that ties education, student support and career guidance into one flow."
+background: "Since it began admitting international students in September 2024, the department has run on the Global IPP model. It benchmarks the experience of Hansung University's work-study program (IPP), while the department itself operates the program through its faculty and researchers. As policies such as the region-specific visa broaden the paths for international students to work and settle in Korean regions, the department aims to connect this environment to students' career plans."
+structure_text: "The three-stage structure of Hansung University's work-study program (IPP), education → field → job placement, is applied to graduate international students."
+compare:
+  - item: Target
+    hansung: Korean undergraduates (3rd–4th year)
+    global: International master's students (final-semester students first)
+  - item: Off-JT (education)
+    hansung: On-campus job training
+    global: Regular curriculum, practical training, special lectures
+  - item: OJT (field)
+    hansung: Training at partner companies
+    global: Company consultations, practicum, company visits
+  - item: Job placement
+    hansung: Regular employment at the training company
+    global: Matching interviews and hiring; support for changing residence status after graduation
+  - item: Operator
+    hansung: Hansung IPP Center
+    global: The department (faculty and researchers)
+stages:
+  - name: Preparation
+    period: Spring 2026
+    status: done
+    text: Set up the curriculum, built student portfolios, and established networks with partner universities abroad and organizations in Korea
+  - name: Implementation
+    period: Fall 2026
+    status: active
+    text: Field contact, company sourcing, matching and hiring, and settlement support after graduation
+  - name: Expansion
+    period: 2027 onward
+    status: vision
+    text: Institutionalization, links with external programs, and more partner universities and recruiting countries
+done:
+  - title: Regular curriculum
+    text: "The 5-semester, 30-credit program covers AI management consulting, consulting methodology, data and R&D consulting, and global competence (bilingual and English tracks), with a research paper and a practicum as graduation requirements."
+  - title: Practical training in AI business automation
+    text: "Hands-on work with AI agents and no-code automation gives students job skills they can explain to employers."
+  - title: 2026 AI Art & Business Festival
+    text: "June 24–29, Maru Art Center, Insa-dong. AI creation and business education for multinational students and an exhibition of their work built student portfolios and widened contacts with institutions."
+    event: ai-art-business-festival
+  - title: Korea–Vietnam joint seminar
+    text: "August 6–7, Hanoi University of Industry. Laid the groundwork for guiding admission and career paths together with the partner university."
+    event: korea-vietnam-seminar
+  - title: Bangladesh–Korea joint seminar
+    text: "August 18, Dhaka, with the University of South Asia and Shanto-Mariam University of Creative Technology."
+    event: bangladesh-korea-seminar
+  - title: Operating base
+    text: "14 faculty members, 20 guest speakers, 2 researchers dedicated by nationality, 16 partner institutions (5 abroad, 11 in Korea) and a department website in three languages."
+steps:
+  - title: Assessment
+    text: "Check each interested student's Korean level, major, and preferred region and job to set an individual career path."
+  - title: Preparation
+    text: "Standardize résumés and cover letters based on the official course titles on the transcript, and prepare Korean–English profiles. Korean language support runs in parallel."
+  - title: Field contact
+    text: "Students meet companies in person, for example at the group visit and company consultations at the 2026 Industrial AI EXPO (October 21–23, KINTEX), and present what they learned."
+    event: industrial-ai-expo
+  - title: Company sourcing
+    text: "Working with regional bodies such as technoparks, the industrial complex corporation and chambers of commerce, the department finds companies that want to hire international graduates and introduces only those whose working conditions have been checked."
+  - title: Matching and hiring
+    text: "Company visits and matching interviews lead to a review of employment contract terms."
+  - title: Settlement support
+    text: "Around graduation, the department guides the procedures for changing residence status and confirms that students have started work and settled in."
+principles:
+  - title: Education first
+    text: "Employment is designed as an outcome of the regular curriculum. Activities during enrollment stay within the academic calendar and the scope allowed by students' residence status."
+  - title: One profile per student
+    text: "Attendance, grades, Korean level and preferred job are managed in one place, and a researcher for each nationality and a faculty member for each cohort look after the students."
+  - title: Based on student consent
+    text: "Company matching and sharing of information proceed with the student's consent, and a record is kept of what personal data was provided."
+  - title: No fees
+    text: "The department takes no placement fee from students or companies."
+  - title: Verified companies
+    text: "Only companies whose employment stability and working conditions have been checked are introduced to students."
+  - title: Clear roles
+    text: "The department provides education, connections and guidance. Legal procedures such as visa applications are carried out by students and companies with professional advice."
+team:
+  - role: Department
+    text: Planning, operation and performance management; liaison with companies and organizations
+  - role: Dean of the Graduate School
+    text: Accompanies meetings with external partners and provides graduate-school-level support
+  - role: Faculty
+    text: Résumé review, company referrals, interview and event supervision, cohort advising
+  - role: Two researchers
+    text: Dedicated support and administration for Vietnamese and Bangladeshi students
+  - role: 20 guest speakers
+    text: Industry lectures and company introductions
+  - role: Partner institutions
+    text: Partner universities abroad (admission and career links), companies and organizations in Korea (field contact and company sourcing), and regional bodies (technoparks, the industrial complex corporation, chambers of commerce and local governments)
+  - role: Hansung University IPP Center
+    text: Benchmark for work-study program operation
+future:
+  - title: Institutionalization
+    text: Broaden the target group and formalize cooperation with local governments and institutions; organize the systems for partner companies and student management.
+    when: "2027"
+  - title: External programs
+    text: Consider taking part in local and national government programs that support international students' employment and settlement.
+    when: 2027–2028
+  - title: More partner universities and countries
+    text: Guide career paths after graduation together with Hanoi University of Industry, the University of South Asia and Shanto-Mariam University of Creative Technology from the recruiting stage, and expand recruiting to Nepal and India from 2027.
+    when: "2027"
+  - title: Link with Hansung IPP
+    text: Discuss linking the graduate international student track with the Hansung University IPP Center.
+    when: "2027"
+  - title: Joint operation
+    text: Consider joint operation with other universities and sharing of partner company information.
+    when: "2028"
+benefits:
+  - who: Students
+    text: Plan a lawful path to employment and settlement after graduation and show job skills through a standardized profile.
+  - who: Companies
+    text: Meet master's-level talent with verified study and residence records through prior consultations.
+  - who: Regions
+    text: Connect regional companies' demand for talent with the settlement of international graduates.
+  - who: Hansung University
+    text: Clear career prospects after graduation help attract new international students and broaden the industry–academia–government network.
 experts_text: Guest speakers from industry and academia take part in the Global IPP.
+status_note: This page describes the status as of October 2026. Results of the implementation phase and detailed plans will be updated as they are confirmed.

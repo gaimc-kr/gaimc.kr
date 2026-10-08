@@ -8,22 +8,122 @@ pagination:
 permalink: "{{ langs.prefix[lang] }}/ipp/"
 ---
 {%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
-{%- set I = C.ipp -%}
+{%- set I = C.ipp -%}{%- set TI = T.ipp -%}
 <section class="section">
-  <div class="container narrow">
-    {% if I.preparing %}<p class="placeholder-box"><strong>{{ T.ipp.preparing }}</strong> {{ I.preparing_text }}</p>{% endif %}
+  <div class="container">
+    {% if I.preparing %}<p class="placeholder-box"><strong>{{ TI.preparing }}</strong> {{ I.preparing_text }}</p>{% endif %}
     <p class="intro-text">{{ I.intro }}</p>
+    {%- if I.background %}
+    <h2 class="group-title">{{ TI.background }}</h2>
+    <p class="ipp-text">{{ I.background }}</p>
+    {%- endif %}
+    {%- if I.compare and I.compare.length %}
+    <h2 class="group-title">{{ TI.structure }}</h2>
+    {% if I.structure_text %}<p class="ipp-text">{{ I.structure_text }}</p>{% endif %}
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead><tr>{% for c in TI.col %}<th scope="col">{{ c }}</th>{% endfor %}</tr></thead>
+        <tbody>
+          {%- for r in I.compare %}
+          <tr><th scope="row">{{ r.item }}</th><td>{{ r.hansung }}</td><td>{{ r.global }}</td></tr>
+          {%- endfor %}
+        </tbody>
+      </table>
+    </div>
+    {%- endif %}
+    {%- if I.stages and I.stages.length %}
+    <h2 class="group-title">{{ TI.stages }}</h2>
+    <ol class="stage-grid">
+      {%- for s in I.stages %}
+      <li class="stage-card">
+        <div class="stage-head"><h3>{{ s.name }}</h3><span class="stage-status is-{{ s.status }}">{% if s.status == "done" %}{{ TI.statusDone }}{% elif s.status == "active" %}{{ TI.statusActive }}{% else %}{{ TI.statusVision }}{% endif %}</span></div>
+        <p class="stage-period">{{ s.period }}</p>
+        <p>{{ s.text }}</p>
+      </li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+  </div>
+</section>
+
+{%- if I.done and I.done.length %}
+<section class="section section-tint" aria-labelledby="ipp-done-title">
+  <div class="container">
+    <div class="section-head"><p class="eyebrow">PHASE 1</p><h2 id="ipp-done-title">{{ TI.done }}</h2></div>
     <ul class="feature-grid cols-3">
-      {%- for b in I.blocks %}<li class="feature-card"><h2 class="h3">{{ b.title }}</h2><p>{{ b.text }}</p></li>{% endfor %}
+      {%- for d in I.done %}
+      <li class="feature-card">
+        <h3 class="h3">{{ d.title }}</h3>
+        <p>{{ d.text }}</p>
+        {%- set ev = null %}{% if d.event %}{% set ev = X.events | findBySlug(d.event) %}{% endif %}
+        {%- if ev %}<a class="view-more" href="{{ ev.url }}">{{ TI.related }} <span aria-hidden="true">+</span></a>{% endif %}
+      </li>
+      {%- endfor %}
     </ul>
+  </div>
+</section>
+{%- endif %}
+
+<section class="section" aria-labelledby="ipp-flow-title">
+  <div class="container">
+    {%- if I.steps and I.steps.length %}
+    <div class="section-head"><p class="eyebrow">PHASE 2</p><h2 id="ipp-flow-title">{{ TI.flow }}</h2></div>
+    <ol class="flow-steps">
+      {%- for st in I.steps %}
+      <li>
+        <h3>{{ st.title }}</h3>
+        <p>{{ st.text }}</p>
+        {%- set ev = null %}{% if st.event %}{% set ev = X.events | findBySlug(st.event) %}{% endif %}
+        {%- if ev %}<a class="view-more" href="{{ ev.url }}">{{ TI.related }} <span aria-hidden="true">+</span></a>{% endif %}
+      </li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+    {%- if I.principles and I.principles.length %}
+    <h2 class="group-title">{{ TI.principles }}</h2>
+    <ul class="feature-grid cols-2">
+      {%- for p in I.principles %}<li class="feature-card"><h3 class="h3">{{ p.title }}</h3><p>{{ p.text }}</p></li>{% endfor %}
+    </ul>
+    {%- endif %}
+    {%- if I.team and I.team.length %}
+    <h2 class="group-title">{{ TI.team }}</h2>
+    <dl class="info-table">
+      {%- for m in I.team %}<div><dt>{{ m.role }}</dt><dd>{{ m.text }}</dd></div>{% endfor %}
+    </dl>
+    {%- endif %}
+  </div>
+</section>
+
+<section class="section section-tint" aria-labelledby="ipp-future-title">
+  <div class="container">
+    {%- if I.future and I.future.length %}
+    <div class="section-head"><p class="eyebrow">PHASE 3</p><h2 id="ipp-future-title">{{ TI.future }}</h2></div>
+    <ol class="timeline">
+      {%- for f in I.future %}
+      <li><p class="timeline-date">{{ f.when }}</p><p class="timeline-text"><strong>{{ f.title }}</strong> · {{ f.text }}</p></li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+    {%- if I.benefits and I.benefits.length %}
+    <h2 class="group-title">{{ TI.benefits }}</h2>
+    <ul class="feature-grid">
+      {%- for b in I.benefits %}<li class="feature-card"><h3 class="h3">{{ b.who }}</h3><p>{{ b.text }}</p></li>{% endfor %}
+    </ul>
+    {%- endif %}
+    {% if I.status_note %}<p class="note">{{ I.status_note }}</p>{% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
     <div class="feature-band">
       <div>
         <p class="eyebrow">EXPERTS</p>
-        <h2>{{ T.ipp.experts }}</h2>
+        <h2>{{ TI.experts }}</h2>
         <p>{{ I.experts_text }}</p>
       </div>
       <a class="btn btn-primary" href="{{ '/faculty/#speakers' | L(lang) }}">{{ T.btn.speakers }} <span aria-hidden="true">+</span></a>
     </div>
-    <p class="note">{{ T.ipp.officialPre }}<a href="{{ S.links.ipp }}" target="_blank" rel="noopener">{{ T.ipp.officialLink }}<span class="sr-only">{{ T.newWin }}</span></a>{{ T.ipp.officialPost }}</p>
+    <p class="note">{{ TI.officialPre }}<a href="{{ S.links.ipp }}" target="_blank" rel="noopener">{{ TI.officialLink }}<span class="sr-only">{{ T.newWin }}</span></a>{{ TI.officialPost }}</p>
   </div>
 </section>

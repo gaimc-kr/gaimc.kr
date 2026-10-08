@@ -1,10 +1,118 @@
 preparing_text: Nội dung chi tiết của chương trình Global IPP đang được chuẩn bị và sẽ được đăng tại đây khi hoàn tất.
-intro: Global IPP là chương trình gắn kết thực tế do khoa thiết kế cùng doanh nghiệp và tổ chức, giúp sinh viên quốc tế đi từ học tập đến trải nghiệm thực tế và việc làm tại Hàn Quốc.
-blocks:
-  - title: Cơ cấu vận hành
-    text: Sinh viên, khoa, doanh nghiệp và tổ chức hợp tác cùng các diễn giả khách mời cùng vận hành chương trình.
-  - title: Hỗ trợ nghề nghiệp
-    text: Hỗ trợ sinh viên qua các bài giảng chuyên đề, tư vấn với doanh nghiệp, thực tập (practicum) và tư vấn việc làm.
-  - title: Quan hệ với IPP của Đại học Hansung
-    text: Dựa trên kinh nghiệm vừa học vừa làm (IPP) của Đại học Hansung và mở rộng cho sinh viên quốc tế.
+intro: "Global IPP là hệ thống gắn kết thực tế do khoa thiết kế cùng doanh nghiệp, tổ chức và trực tiếp vận hành, giúp sinh viên quốc tế đi từ học tập (Off-JT) đến trải nghiệm thực tế (OJT) và việc làm tại Hàn Quốc (chuyển sang tuyển dụng). Đây không phải là một chương trình việc làm riêng lẻ mà là khung vận hành của khoa, gắn giáo dục, quản lý sinh viên và hỗ trợ nghề nghiệp thành một dòng chảy."
+background: "Kể từ khi bắt đầu tuyển sinh viên quốc tế vào tháng 9 năm 2024, khoa đã lấy Global IPP làm định hướng vận hành. Khoa tham khảo kinh nghiệm chương trình vừa học vừa làm (IPP) của Đại học Hansung, còn việc vận hành do chính khoa đảm nhiệm với đội ngũ giảng viên và nghiên cứu viên. Khi các chính sách như thị thực đặc thù vùng mở rộng con đường làm việc và định cư tại các địa phương Hàn Quốc cho sinh viên quốc tế, khoa hướng tới kết nối môi trường này với kế hoạch nghề nghiệp của sinh viên."
+structure_text: "Cấu trúc ba bước của chương trình vừa học vừa làm (IPP) tại Đại học Hansung, đào tạo → thực tế → chuyển sang tuyển dụng, được áp dụng cho học viên quốc tế bậc sau đại học."
+compare:
+  - item: Đối tượng
+    hansung: Sinh viên đại học Hàn Quốc năm 3–4
+    global: Học viên thạc sĩ quốc tế (ưu tiên học kỳ cuối)
+  - item: Off-JT (đào tạo)
+    hansung: Đào tạo nghiệp vụ trong trường
+    global: Chương trình chính quy, đào tạo thực hành, bài giảng chuyên đề
+  - item: OJT (thực tế)
+    hansung: Đào tạo tại doanh nghiệp đối tác
+    global: Tư vấn với doanh nghiệp, thực tập (practicum), tham quan doanh nghiệp
+  - item: Chuyển sang tuyển dụng
+    hansung: Trở thành nhân viên chính thức tại doanh nghiệp đào tạo
+    global: Phỏng vấn kết nối và tuyển dụng; hỗ trợ chuyển đổi tư cách lưu trú sau tốt nghiệp
+  - item: Đơn vị vận hành
+    hansung: Trung tâm IPP Hansung
+    global: Khoa (giảng viên và nghiên cứu viên)
+stages:
+  - name: Giai đoạn chuẩn bị
+    period: Học kỳ 1 năm 2026
+    status: done
+    text: Hoàn thiện hệ thống đào tạo, xây dựng hồ sơ năng lực của sinh viên và mạng lưới với các trường đối tác nước ngoài, tổ chức trong nước
+  - name: Giai đoạn triển khai
+    period: Học kỳ 2 năm 2026
+    status: active
+    text: Tiếp xúc thực tế, tìm kiếm doanh nghiệp, kết nối và tuyển dụng, hỗ trợ định cư sau tốt nghiệp
+  - name: Giai đoạn mở rộng
+    period: Từ năm 2027
+    status: vision
+    text: Thể chế hóa, liên kết với các chương trình bên ngoài, mở rộng trường đối tác và quốc gia tuyển sinh
+done:
+  - title: Chương trình chính quy
+    text: "Chương trình 5 học kỳ, 30 tín chỉ gồm tư vấn quản trị AI, phương pháp luận tư vấn, tư vấn dữ liệu và R&D, năng lực toàn cầu (song ngữ và tiếng Anh), với tiểu luận và thực tập là điều kiện tốt nghiệp."
+  - title: Đào tạo thực hành tự động hóa kinh doanh bằng AI
+    text: "Thực hành với AI agent và tự động hóa no-code giúp sinh viên có năng lực nghiệp vụ để trình bày với doanh nghiệp."
+  - title: 2026 AI Art & Business Festival
+    text: "24–29/6, Trung tâm Nghệ thuật Maru, Insa-dong. Đào tạo sáng tạo và kinh doanh AI cho sinh viên quốc tế đa quốc tịch cùng triển lãm tác phẩm, qua đó xây dựng hồ sơ năng lực và mở rộng quan hệ với các cơ quan."
+    event: ai-art-business-festival
+  - title: Hội thảo chung Hàn Quốc – Việt Nam
+    text: "6–7/8, Đại học Công nghiệp Hà Nội. Tạo nền tảng cùng trường đối tác hướng dẫn lộ trình nhập học và nghề nghiệp."
+    event: korea-vietnam-seminar
+  - title: Hội thảo chung Bangladesh – Hàn Quốc
+    text: "18/8, Dhaka, cùng University of South Asia và Shanto-Mariam University of Creative Technology."
+    event: bangladesh-korea-seminar
+  - title: Nền tảng vận hành
+    text: "14 giảng viên, 20 diễn giả khách mời, 2 nghiên cứu viên phụ trách theo quốc tịch, 16 cơ sở hợp tác (5 nước ngoài, 11 trong nước) và trang web khoa bằng ba ngôn ngữ."
+steps:
+  - title: Đánh giá
+    text: "Xác định trình độ tiếng Hàn, chuyên ngành, khu vực và công việc mong muốn của sinh viên có nguyện vọng để định lộ trình nghề nghiệp cho từng người."
+  - title: Chuẩn bị
+    text: "Chuẩn hóa sơ yếu lý lịch và thư giới thiệu bản thân dựa trên tên môn học chính thức trong bảng điểm, lập hồ sơ Hàn – Anh. Song song bổ trợ tiếng Hàn."
+  - title: Tiếp xúc thực tế
+    text: "Sinh viên trực tiếp gặp doanh nghiệp, ví dụ tại chương trình tham quan theo đoàn và tư vấn với doanh nghiệp ở Triển lãm AI Công nghiệp 2026 (21–23/10, KINTEX), và trình bày kết quả."
+    event: industrial-ai-expo
+  - title: Tìm kiếm doanh nghiệp
+    text: "Phối hợp với các cơ quan địa phương như technopark, Tổng công ty Khu công nghiệp, phòng thương mại để tìm doanh nghiệp có nhu cầu tuyển sinh viên quốc tế, và chỉ giới thiệu doanh nghiệp đã được xác minh điều kiện làm việc."
+  - title: Kết nối và tuyển dụng
+    text: "Gặp gỡ tại doanh nghiệp và phỏng vấn kết nối, sau đó rà soát các điều khoản hợp đồng lao động."
+  - title: Hỗ trợ định cư
+    text: "Trước và sau tốt nghiệp, hướng dẫn thủ tục chuyển đổi tư cách lưu trú và xác nhận việc nhận việc, ổn định cuộc sống."
+principles:
+  - title: Giáo dục là trung tâm
+    text: "Việc làm được thiết kế là kết quả của chương trình chính quy. Hoạt động trong thời gian học nằm trong lịch học vụ và phạm vi cho phép của tư cách lưu trú."
+  - title: Mỗi sinh viên một hồ sơ
+    text: "Chuyên cần, điểm số, trình độ tiếng Hàn và công việc mong muốn được quản lý tập trung; nghiên cứu viên theo quốc tịch và giảng viên phụ trách theo khóa theo sát sinh viên."
+  - title: Dựa trên sự đồng ý của sinh viên
+    text: "Kết nối doanh nghiệp và cung cấp thông tin được thực hiện với sự đồng ý của sinh viên, có ghi nhận lịch sử cung cấp thông tin cá nhân."
+  - title: Không thu phí
+    text: "Khoa không nhận bất kỳ khoản phí giới thiệu việc làm nào từ sinh viên hay doanh nghiệp."
+  - title: Doanh nghiệp đã xác minh
+    text: "Chỉ giới thiệu cho sinh viên những doanh nghiệp đã được xác minh về tính ổn định việc làm và điều kiện làm việc."
+  - title: Phân định vai trò
+    text: "Khoa đảm nhiệm đào tạo, kết nối và hướng dẫn. Các thủ tục pháp lý như xin thị thực do sinh viên và doanh nghiệp thực hiện với sự tư vấn của chuyên gia."
+team:
+  - role: Khoa
+    text: Lập kế hoạch, vận hành, quản lý kết quả; làm việc với doanh nghiệp và tổ chức bên ngoài
+  - role: Viện trưởng Sau đại học
+    text: Cùng tham dự các buổi gặp đối tác bên ngoài, hỗ trợ ở cấp trường sau đại học
+  - role: Giảng viên
+    text: Thẩm định sơ yếu lý lịch, giới thiệu doanh nghiệp, dẫn đoàn phỏng vấn và sự kiện, phụ trách sinh viên theo khóa
+  - role: 2 nghiên cứu viên
+    text: Phụ trách và hỗ trợ hành chính cho sinh viên Việt Nam và Bangladesh
+  - role: 20 diễn giả khách mời
+    text: Bài giảng chuyên đề từ thực tiễn và giới thiệu doanh nghiệp
+  - role: Cơ sở hợp tác
+    text: Trường đối tác nước ngoài (kết nối nhập học và nghề nghiệp), doanh nghiệp và tổ chức trong nước (tiếp xúc thực tế, tìm kiếm doanh nghiệp), cơ quan địa phương (technopark, Tổng công ty Khu công nghiệp, phòng thương mại, chính quyền địa phương)
+  - role: Trung tâm IPP Đại học Hansung
+    text: Tham khảo kinh nghiệm vận hành chương trình vừa học vừa làm
+future:
+  - title: Thể chế hóa
+    text: Mở rộng đối tượng và thể chế hóa hợp tác với chính quyền địa phương, các cơ quan; hoàn thiện hệ thống doanh nghiệp đối tác và quản lý sinh viên.
+    when: Năm 2027
+  - title: Liên kết chương trình bên ngoài
+    text: Xem xét tham gia các chương trình của chính quyền địa phương và trung ương hỗ trợ việc làm, định cư cho sinh viên quốc tế.
+    when: 2027–2028
+  - title: Mở rộng trường đối tác và quốc gia tuyển sinh
+    text: Cùng Đại học Công nghiệp Hà Nội, University of South Asia và Shanto-Mariam University of Creative Technology hướng dẫn lộ trình sau tốt nghiệp ngay từ khâu tuyển sinh; mở rộng tuyển sinh sang Nepal và Ấn Độ từ năm 2027.
+    when: Năm 2027
+  - title: Liên kết với IPP Hansung
+    text: Thảo luận liên kết chương trình dành cho học viên quốc tế sau đại học với Trung tâm IPP Đại học Hansung.
+    when: Năm 2027
+  - title: Vận hành chung
+    text: Xem xét vận hành chung với các trường đại học khác và chia sẻ thông tin doanh nghiệp đối tác.
+    when: Năm 2028
+benefits:
+  - who: Sinh viên
+    text: Thiết kế lộ trình làm việc và định cư hợp pháp sau tốt nghiệp, thể hiện năng lực nghiệp vụ qua hồ sơ chuẩn hóa.
+  - who: Doanh nghiệp
+    text: Gặp gỡ nhân lực trình độ thạc sĩ đã được xác minh về học tập và lưu trú thông qua tư vấn trước.
+  - who: Địa phương
+    text: Kết nối nhu cầu nhân lực của doanh nghiệp địa phương với việc định cư của sinh viên quốc tế tốt nghiệp.
+  - who: Đại học Hansung
+    text: Lộ trình nghề nghiệp rõ ràng sau tốt nghiệp góp phần thu hút sinh viên quốc tế mới và mở rộng mạng lưới hợp tác trường – doanh nghiệp – chính quyền.
 experts_text: Các diễn giả khách mời từ doanh nghiệp và học thuật cùng tham gia Global IPP.
+status_note: Nội dung này phản ánh tình hình tính đến tháng 10 năm 2026. Kết quả giai đoạn triển khai và kế hoạch chi tiết sẽ được cập nhật khi được xác nhận.

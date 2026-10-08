@@ -411,19 +411,62 @@ collections:
         name: ipp
         file: {{ R }}src/_data/ipp.yml
         fields:
-          - { label: 준비 중 표시, name: preparing, widget: boolean }
+          - { label: 준비 중 표시(켜면 상단에 준비 중 안내), name: preparing, widget: boolean }
           - { label: 준비 중 문구, name: preparing_text, widget: text }
           - { label: 소개, name: intro, widget: text }
-          - label: 구성
-            name: blocks
+          - { label: 추진 배경, name: background, widget: text, required: false }
+          - { label: 구조 설명 한 줄, name: structure_text, widget: text, required: false }
+          - label: 구조 비교(한성대 IPP ↔ 글로벌 IPP)
+            name: compare
             widget: list
+            required: false
+            summary: "{{ '{{item}}' }}"
+            fields: [{ label: 구분, name: item, widget: string }, { label: 한성대 IPP, name: hansung, widget: string }, { label: 글로벌 IPP, name: global, widget: string }]
+          - label: 추진 단계
+            name: stages
+            widget: list
+            required: false
+            summary: "{{ '{{name}} ({{period}})' }}"
+            fields: [{ label: 단계명, name: name, widget: string }, { label: 시기, name: period, widget: string }, { label: 상태, name: status, widget: select, options: [{ label: 완료, value: done }, { label: 진행 중, value: active }, { label: 비전, value: vision }] }, { label: 내용, name: text, widget: text }]
+          - label: 준비단계 성과
+            name: done
+            widget: list
+            required: false
             summary: "{{ '{{title}}' }}"
-            fields:
-              - { label: 제목, name: title, widget: string }
-              - { label: 내용, name: text, widget: text }
+            fields: [{ label: 제목, name: title, widget: string }, { label: 내용, name: text, widget: text }, { label: 관련 행사(행사 주소 끝부분), name: event, widget: string, required: false }]
+          - label: 실행단계 흐름
+            name: steps
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 단계, name: title, widget: string }, { label: 내용, name: text, widget: text }, { label: 관련 행사(행사 주소 끝부분), name: event, widget: string, required: false }]
+          - label: 운영 원칙
+            name: principles
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 제목, name: title, widget: string }, { label: 내용, name: text, widget: text }]
+          - label: 추진 체계
+            name: team
+            widget: list
+            required: false
+            summary: "{{ '{{role}}' }}"
+            fields: [{ label: 주체, name: role, widget: string }, { label: 역할, name: text, widget: text }]
+          - label: 향후 방향
+            name: future
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 방향, name: title, widget: string }, { label: 내용, name: text, widget: text }, { label: 시기, name: when, widget: string, required: false }]
+          - label: 기대 효과
+            name: benefits
+            widget: list
+            required: false
+            summary: "{{ '{{who}}' }}"
+            fields: [{ label: 대상, name: who, widget: string }, { label: 내용, name: text, widget: text }]
           - { label: 함께하는 전문가 문구, name: experts_text, widget: text }
+          - { label: 기준 시점 안내(하단), name: status_note, widget: text, required: false }
           - { label: 관리 메모, name: memo, widget: text, required: false }
-
       - label: 협력 기관(해외 대학·국내 기업)
         name: partners
         file: {{ R }}src/_data/partners.yml
@@ -597,9 +640,59 @@ collections:
         file: {{ R }}src/_content/{{ L[0] }}/ipp.yml
         fields:
           - { label: 준비 중 문구, name: preparing_text, widget: text, required: false }
-          - { label: 소개, name: intro, widget: text, required: false }
-          - { label: 구성, name: blocks, widget: list, required: false, fields: [{ label: 제목, name: title, widget: string }, { label: 내용, name: text, widget: text }] }
+          - { label: 소개(목록 항목은 한국어와 같은 순서·개수), name: intro, widget: text, required: false }
+          - { label: 추진 배경, name: background, widget: text, required: false }
+          - { label: 구조 설명 한 줄, name: structure_text, widget: text, required: false }
+          - label: 구조 비교(한성대 IPP ↔ 글로벌 IPP)
+            name: compare
+            widget: list
+            required: false
+            summary: "{{ '{{item}}' }}"
+            fields: [{ label: 구분, name: item, widget: string, required: false }, { label: 한성대 IPP, name: hansung, widget: string, required: false }, { label: 글로벌 IPP, name: global, widget: string, required: false }]
+          - label: 추진 단계
+            name: stages
+            widget: list
+            required: false
+            summary: "{{ '{{name}} ({{period}})' }}"
+            fields: [{ label: 단계명, name: name, widget: string, required: false }, { label: 시기, name: period, widget: string, required: false }, { label: 상태, name: status, widget: select, options: [{ label: 완료, value: done }, { label: 진행 중, value: active }, { label: 비전, value: vision }] }, { label: 내용, name: text, widget: text, required: false }]
+          - label: 준비단계 성과
+            name: done
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 내용, name: text, widget: text, required: false }, { label: 관련 행사(행사 주소 끝부분), name: event, widget: string, required: false }]
+          - label: 실행단계 흐름
+            name: steps
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 단계, name: title, widget: string, required: false }, { label: 내용, name: text, widget: text, required: false }, { label: 관련 행사(행사 주소 끝부분), name: event, widget: string, required: false }]
+          - label: 운영 원칙
+            name: principles
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 내용, name: text, widget: text, required: false }]
+          - label: 추진 체계
+            name: team
+            widget: list
+            required: false
+            summary: "{{ '{{role}}' }}"
+            fields: [{ label: 주체, name: role, widget: string, required: false }, { label: 역할, name: text, widget: text, required: false }]
+          - label: 향후 방향
+            name: future
+            widget: list
+            required: false
+            summary: "{{ '{{title}}' }}"
+            fields: [{ label: 방향, name: title, widget: string, required: false }, { label: 내용, name: text, widget: text, required: false }, { label: 시기, name: when, widget: string, required: false }]
+          - label: 기대 효과
+            name: benefits
+            widget: list
+            required: false
+            summary: "{{ '{{who}}' }}"
+            fields: [{ label: 대상, name: who, widget: string, required: false }, { label: 내용, name: text, widget: text, required: false }]
           - { label: 함께하는 전문가 문구, name: experts_text, widget: text, required: false }
+          - { label: 기준 시점 안내(하단), name: status_note, widget: text, required: false }
       - label: "[{{ L[1] }}] 협력 기관"
         name: partners_{{ L[0] }}
         file: {{ R }}src/_content/{{ L[0] }}/partners.yml
