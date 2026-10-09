@@ -580,6 +580,7 @@ collections:
               - { label: 제목, name: title, widget: string }
               - { label: 영문 제목, name: title_en, widget: string }
               - { label: 문구, name: text, widget: text }
+              - { label: 연구실(호실), name: office, widget: string, required: false }
               - label: 명단
                 name: list
                 widget: list
@@ -748,5 +749,5 @@ collections:
         file: {{ R }}src/_content/{{ L[0] }}/people.yml
         fields:
           - { label: 특강연사, name: speakers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단 공개 전 문구, name: pending_text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 본직, name: affiliation, widget: string }, { label: 전문 분야, name: fields, widget: list, required: false }] }] }
-          - { label: 연구원, name: researchers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }] }] }
+          - { label: 연구원, name: researchers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 연구실(호실), name: office, widget: string, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }] }] }
 {%- endfor %}
