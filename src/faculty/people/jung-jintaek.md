@@ -22,9 +22,6 @@ career:
 - 미국 뉴욕주 정부 Tax & Finance System Modernization Project Analyst
 papers:
 - '[KCI] 박양수, 정진택 (2025). 생성형 AI 사용경험이 AI 역량에 미치는 영향: 정보화교육 이수수준을 중심으로. 컴퓨터교육학회 논문지, 28(12), 55-64. https://doi.org/10.32431/kace.2025.28.12.006'
-- '[학술대회] 김재중, 김윤미, 정진택 (2025). MCP 기반 AI 에이전트를 활용한 중소기업 디지털 컨설팅 프레임워크 고도화 방안 연구. 한국통상정보학회 춘계학술대회, 225-236. https://www.riss.kr/link?id=A109855249'
-- '[학술대회] 강성오, 정병호, 정진택 (2025). 고객여정지도를 기반으로 한 소규모 음식점의 입지와 정보기술 간 상호작용에 관한 연구. 한국통상정보학회 춘계학술대회, 237-247. https://www.riss.kr/link?id=A109855241'
-- '[학술대회] 정용, 정진택 (2025). ESG 조세지원을 받은 중소기업의 재무적 성과를 위한 외부 컨설팅 필요 연구. 한국통상정보학회 춘계학술대회, 202-211. https://www.riss.kr/link?id=A109855247'
 - '[KCI] 김내영, 정진택 (2024). 결혼이민자의 인공지능 활용이 일상생활 만족도에 미치는 영향: 사회적 자본의 매개효과를 중심으로. 아시아태평양융합연구교류논문지, 10(12), 11-24. https://doi.org/10.47116/apjcri.2024.12.02'
 - '[KCI] 이재환, 정진택 (2024). 장애인의 디지털기기정보 활용역량이 일상생활 만족도에 미치는 영향: 디지털 조력의 매개효과를 중심으로. 아시아태평양융합연구교류논문지, 10(11), 135-147. https://doi.org/10.47116/apjcri.2024.11.11'
 - '[KCI] 서승호, 정진택 (2024). 고령자의 디지털기기 이용성과가 삶의 만족도에 미치는 영향: 디지털 조력자의 매개효과를 중심으로. 아시아태평양융합연구교류논문지, 10(7), 401-413. https://doi.org/10.47116/apjcri.2024.07.30'
@@ -36,12 +33,12 @@ papers:
 - '[KCI] 이현준, 정진택 (2020). 온라인수출지원 사업에서 컨설턴트의 역량과 서비스품질이 사업성과에 미치는 영향. 디지털융복합연구, 18(10), 119-128. https://doi.org/10.14400/JDC.2020.18.10.119'
 - '[KCI] 정복훈, 정진택 (2019). 수출 중소기업의 온라인상거래 활성화를 위한 연구. 한국융합학회논문지, 10(11), 335-343. https://doi.org/10.15207/JKCS.2019.10.11.335'
 - '[국제] Kim, K.-O., You, Y.-Y., & Jung, J.-T. (2018). A study on collaboration performance based on convergence business and technology commercialization on innovative enterprise. Indian Journal of Public Health Research & Development, 9(8), 474. https://doi.org/10.5958/0976-5506.2018.00779.9'
-- '[국제] Yoon, T.-H., You, Y.-Y., & Jung, J.-T. (2018). A study on the intention to use Korean Internet-Only Bank Service: Based on technology acceptance model. Indian Journal of Public Health Research & Development, 9(8), 609. https://doi.org/10.5958/0976-5506.2018.00800.8'
-- '[국제] Lee, J.-H., Na, D.-S., & Jung, J.-T. (2018). A study on the impact of intangible assets on corporate value. Indian Journal of Public Health Research & Development, 9(9), 422. https://doi.org/10.5958/0976-5506.2018.01035.5'
-- '[국제] Lee, J.-H., Na, D.-S., & Jung, J.-T. (2017). A Study on the Effect of Patent Indicator on the Company Innovation Index. Research Journal of Pharmacy and Technology, 10(8), 2522. https://doi.org/10.5958/0974-360x.2017.00446.2'
+- '[국제] Yoon, T.-H., You, Y.-Y., & Jung, J.-T. (2018). A study on the intention to use Korean Internet-Only Bank Service: Based on technology acceptance model. Indian Journal of Public Health Research & Development, 9(8), 609-615. https://doi.org/10.5958/0976-5506.2018.00800.8'
+- '[국제] Lee, J.-H., Na, D.-S., & Jung, J.-T. (2018). A study on the impact of intangible assets on corporate value. Indian Journal of Public Health Research & Development, 9(9), 422-427. https://doi.org/10.5958/0976-5506.2018.01035.5'
+- '[국제] Lee, J.-H., Na, D.-S., & Jung, J.-T. (2017). A Study on the Effect of Patent Indicator on the Company Innovation Index. Research Journal of Pharmacy and Technology, 10(8), 2522-2526. https://doi.org/10.5958/0974-360x.2017.00446.2'
 - '[국제] (2017). A Study on Characteristics of Toll Nonpayment Associated with Expressway High-pass. International Journal of Pharma & Science.'
-- '[국제] Kang, M.-J., Jung, J.-T., & Hong, J.-W. (2016). A Study on Policy Effects on Boosting R&D Intensity of Domestic Companies. Indian Journal of Science and Technology, 9(26). https://doi.org/10.17485/ijst/2016/v9i26/97413'
-- '[국제] (2016). A Study on Effects of Project Manager Consultants'' Competencies on Consulting Performance and Satisfaction. Indian Journal of Science and Technology.'
+- '[국제] Kang, M.-J., Jung, J.-T., & Hong, J.-W. (2016). A Study on Policy Effects on Boosting R&D Intensity of Domestic Companies. Indian Journal of Science and Technology, 9(26), 1-9. https://doi.org/10.17485/ijst/2016/v9i26/97413'
+- '[국제] Kim, J.-M., Jung, J.-T., & Lee, S.-K. (2016). A Study on Effects of Project Manager Consultants'' Competencies on Consulting Performance and Satisfaction: Focused on Moderating Effects on Client Enterprises'' Level of Participation. Indian Journal of Science and Technology, 9(46), 1-10. https://doi.org/10.17485/ijst/2016/v9i46/107345'
 - '[KCI] 윤영호, 나도성, 정진택 (2015). 컨설턴트의 전문지식과 컨설팅 지식이전의 관계에 관한 경험적 연구: FTA컨설팅을 중심으로. 디지털융복합연구, 13(11), 119-132. https://doi.org/10.14400/JDC.2015.13.11.119'
 - '[국제] Han, J. H., Jung, J. T., & Joo, H. K. (2015). A Study on Effects of Creativity to Organizational Innovation. Indian Journal of Science and Technology, 8(24). https://doi.org/10.17485/ijst/2015/v8i24/80245'
 - '[국제] Han, J. H., You, Y. Y., & Jung, J. T. (2015). The Impact of Leadership on Individual Creativity and Organizational Innovation. Indian Journal of Science and Technology, 8(24). https://doi.org/10.17485/ijst/2015/v8i24/80246'
@@ -59,12 +56,7 @@ papers:
 - '[KCI] 정진택 (2008). 웹기반 정보시스템 이용자정보만족도(Flow) 측정모델의 교차문화 검증에 관한 연구. 디지털정책연구, 6(2), 157-164. https://www.riss.kr/link?id=A101186173'
 - '[KCI] 노규성, 정진택 (2008). 차세대 전자정부의 대민통합서비스 모델 연구. 디지털정책연구, 6(2), 13-21. https://www.riss.kr/link?id=A101186065'
 - '[학술지] 정진택 (2008). 디지털미디어자산관리시스템 사례분석에 관한 연구. 한국디지털콘텐츠학회논문지, 9(2), 235-244. https://www.riss.kr/link?id=A103872437'
-- '[국제] Song, I.-Y., & Jung, J.-T. (2004). Preface to DGOV 2004. Conceptual Modeling for Advanced Application Domains (ER 2004 Workshops), Lecture Notes in Computer Science, 541. https://doi.org/10.1007/978-3-540-30466-1_49'
-- '[학술대회] 정진택 (2004). IT 산업 분야 정부조직 개편방안. 한국행정학회 학술발표논문집, 172-184. https://www.riss.kr/link?id=A109310702'
-- '[학술대회] 정진택 (2004). 디지털미디어자산관리시스템 구축모형에 관한 연구. 한국디지털정책학회 학술대회 발표논문집, 491-512. https://www.riss.kr/link?id=A75265769'
 - '[KCI] 정진택 (2003). 전자정부 성공도 측정수단 및 측정수단에 관한 연구. 디지털정책연구, 1(1), 45-67. https://www.riss.kr/link?id=A101186019'
-- '[학술대회] 정진택 (2003). CRM 데이터 웨어 하우스 구축 모형에 관한 연구. 한국디지털정책학회 학술대회 발표논문집, 11-24. https://www.riss.kr/link?id=A75265605'
-- '[학술대회] 정진택 (2000). 지식정부조직 성공도 측정수단 및 측정수단에 관한 연구. 한국행정학회 학술발표논문집, 171-185. https://www.riss.kr/link?id=A82716379'
 - '[학위논문] Jung, J. T. (1997). Measuring user success in the digital library environment(디지털라이브러리 성공도 측정모델 및 측정수단에 관한 연구). Drexel University 박사학위논문. https://doi.org/10.17918/00009827'
 non_rnd:
 - '[ODA] 라오스 디지털 중소기업 혁신센터 설립사업 기획조사, 라오스, KOICA, 2022. 1., 기술평가전문위원'
@@ -94,7 +86,7 @@ committees:
 - 기획재정부 공기업 주요사업 평가위원
 - 입법고등고시 출제위원(정보체계론)
 - 한국디지털정책학회 편집위원장
-memo: '2026. 8. 세미나 프로필 기준. 대학원장 재임 기간 확인 완료(2026. 10. 2.). 2026. 10. 9. 논문·ODA 보강: ORCID(0009-0002-4674-5430, 한성대 Dean·Drexel Ph.D.)는 등록 논문 0건이라, 드라이브 이력서(이력서-정진택.hwp, 2023. 8.)·강의자료(교재.pptx, 정진택_발표자료_7_9.pptx의 교수 소개)·RISS·Crossref로 수집. RISS의 동명이인(고려대 기계공학, 항공우주 JinTaeg Jung, 한국복지대학·한국재활복지대학 광고홍보과, 군장대학·경복대학, 송원대, 방위사업청, 의학·토목 등)은 제외하고, 저자 소속 한성대학교 또는 이력서 기재 논문, 한성대 공저자(박양수·이재환·서승호·김내영·주형근·유연우 등) 논문만 수록. 이력서의 SCI 논문 중 Toll Nonpayment(2017)는 Crossref 미등재, Project Manager Consultants(2016, IJST)는 Crossref 저자에 정진택이 없어 링크 없이 기재. 이력서 ''디지털정책 연구''·''디지털융복합연구''는 같은 학술지(한국디지털정책학회)의 시기별 명칭이라 발행 연도 기준 명칭으로 표기. 주요 실적(ODA 3건)은 이력서의 ODA 실적 20건으로 대체(비R&D 과제). 이력서의 연락처·주소는 게재하지 않음'
+memo: '2026. 8. 세미나 프로필 기준. 대학원장 재임 기간 확인 완료(2026. 10. 2.). 2026. 10. 9. 논문·ODA 보강: ORCID(0009-0002-4674-5430, 한성대 Dean·Drexel Ph.D.)는 등록 논문 0건이라, 드라이브 이력서(이력서-정진택.hwp, 2023. 8.)·강의자료(교재.pptx, 정진택_발표자료_7_9.pptx의 교수 소개)·RISS·Crossref로 수집. RISS의 동명이인(고려대 기계공학, 항공우주 JinTaeg Jung, 한국복지대학·한국재활복지대학 광고홍보과, 군장대학·경복대학, 송원대, 방위사업청, 의학·토목 등)은 제외하고, 2026. 10. 9. 학과장 지시로 저자 소속이 한성대학교로 확인된 논문만 수록(RISS·KCI·earticle·학술지 원문 페이지·OpenAlex에서 정진택 본인의 한성대 소속 또는 jungjt@hansung.ac.kr 확인, 박사논문은 Drexel). 이력서의 SCI 논문 중 Toll Nonpayment(2017)는 Crossref 미등재, Project Manager Consultants(2016, IJST)는 Crossref 저자 정보는 누락이나 학술지 원문 페이지에서 공저자·한성대 소속 확인 후 연결. 이력서 ''''디지털정책 연구''''·''''디지털융복합연구''''는 같은 학술지(한국디지털정책학회)의 시기별 명칭이라 발행 연도 기준 명칭으로 표기. 주요 실적(ODA 3건)은 이력서의 ODA 실적 20건으로 대체(비R&D 과제). 이력서의 연락처·주소는 게재하지 않음. 소속 미확인으로 보류(원장 확인 시 추가): 한국통상정보학회 2025 춘계학술대회 3편(김재중·김윤미 / 강성오·정병호 / 정용 공저), Preface to DGOV 2004(LNCS, Il-Yeol Song 공저), 한국행정학회 2004 「IT 산업 분야 정부조직 개편방안」·2000 「지식정부조직 성공도 측정수단…」, 한국디지털정책학회 학술대회 2004 「디지털미디어자산관리시스템 구축모형…」·2003 「CRM 데이터 웨어 하우스 구축 모형…」'
 en:
   academic: Department Chair and Distinguished Emeritus Professor, Department of Global AI Management Consulting, Hansung University
   industry: Chair, ICT Investment Attraction Advisory Committee, Seoul Metropolitan Government
