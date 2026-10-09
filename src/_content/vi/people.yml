@@ -5,9 +5,10 @@ speakers:
 researchers:
   title: Nghiên cứu viên
   text: Phụ trách hỗ trợ sinh viên quốc tế của khoa.
-  office: 604-1 và 604-2, tòa Sangsang
   list:
     - name: Nguyễn Thị Hà
       role: Hỗ trợ sinh viên Việt Nam
+      office: Phòng 604-1, tòa Sangsang
     - name: Hasan Md Kamrul
       role: Hỗ trợ sinh viên Bangladesh
+      office: Phòng 604-2, tòa Sangsang

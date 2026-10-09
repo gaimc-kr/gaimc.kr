@@ -478,5 +478,4 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
   .hero { color: var(--dark-blue); background: none; min-height: 0; padding: 20px 0; }
   .hero h1 { color: var(--dark-blue); }
 }
-.researcher-office { margin-top: 8px; color: var(--text-sub, #4a5568); }
-.researcher-office strong { color: var(--dark-blue); margin-right: 6px; }
+.researcher-room { display: block; margin-top: 4px; font-size: .9rem; color: var(--text-sub, #4a5568); }

@@ -60,12 +60,9 @@ permalink: "{{ langs.prefix[lang] }}/faculty/"
       <p class="eyebrow">{{ PP.researchers.title_en | upper }}</p>
       <h2 id="researchers-title">{{ PP.researchers.title }}</h2>
       <p class="section-text">{{ PP.researchers.text }}</p>
-      {%- if PP.researchers.office %}
-      <p class="researcher-office"><strong>{{ F.office }}</strong> {{ PP.researchers.office }}</p>
-      {%- endif %}
     </div>
     <ul class="researcher-list">
-      {%- for r in PP.researchers.list %}<li><strong>{{ r.name }}</strong><span>{{ r.role }}</span></li>{% endfor %}
+      {%- for r in PP.researchers.list %}<li><strong>{{ r.name }}</strong><span>{{ r.role }}</span>{% if r.office %}<span class="researcher-room">{{ r.office }}</span>{% endif %}</li>{% endfor %}
     </ul>
   </div>
 </section>
