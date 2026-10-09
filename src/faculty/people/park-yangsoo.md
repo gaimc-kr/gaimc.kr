@@ -58,17 +58,17 @@ papers:
 - '[학술대회] 기술이전사업화 사례 연구. 2022년 기술경영경제학회 하계학술대회, 2022. 7.'
 - '[학위논문] 공공기관 기술이전 기업 사례연구(A Case Study of Companies That Have Transferred Technology from Public Institutions). 한국기술교육대학교 석사학위 논문, 2022. 6. 29.'
 books:
-- '[저서] 『에니어그램을 활용한 창업자의 성공전략』, 2026. 6. 12., 170쪽' https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013094757
-- '[저서] 『AI 경영전략 노코드 자동화 방법론 1권(진단 편)』, 2026. 4. 9., 310쪽' https://product.kyobobook.co.kr/detail/S000219753823
-- '[저서] 『AI 경영전략 노코드 자동화 방법론 2권(구축 편)』, 2026. 4. 9., 503쪽' https://product.kyobobook.co.kr/detail/S000219753838
-- '[저서] 『AI 경영전략 노코드 자동화 방법론 3권(성장 편)』, 2026. 4. 9., 340쪽' https://product.kyobobook.co.kr/detail/S000219753837
-- '[저서] 『AI 경영전략 노코드 자동화 방법론 4권(혁신 편)』, 2026. 4. 9., 327쪽' https://product.kyobobook.co.kr/detail/S000219753836
-- '[영문판] 『AI: The Sixth Sense of Business』, 2026. 3. 27., 248쪽' https://product.kyobobook.co.kr/detail/S000219546824
-- '[저서] 『AI는 기업의 여섯 번째 감각』, 2026. 3. 5., 266쪽' https://product.kyobobook.co.kr/detail/S000219383662
-- '[저서] 『AI 기반 시장분석: 감(Feeling)을 확신으로』, 2026. 2. 27., 210쪽' https://product.kyobobook.co.kr/detail/S000219383666
-- '[저서] 『AI 기반 비즈니스 모델의 재구성』, 2026. 2. 27., 286쪽' https://product.kyobobook.co.kr/detail/S000219408488
-- '[저서] 『AI 에이전트 기반 사업계획서의 기술』, 2026. 2. 27., 310쪽' https://product.kyobobook.co.kr/detail/S000219408487
-- '[저서] 『AI 기반 마케팅과 실행 프레임워크』, 2026. 2. 27., 290쪽' https://product.kyobobook.co.kr/detail/S000219383665
+- '[저서] 『에니어그램을 활용한 창업자의 성공전략』, 2026. 6. 12., 170쪽 https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013094757'
+- '[저서] 『AI 경영전략 노코드 자동화 방법론 1권(진단 편)』, 2026. 4. 9., 310쪽 https://product.kyobobook.co.kr/detail/S000219753823'
+- '[저서] 『AI 경영전략 노코드 자동화 방법론 2권(구축 편)』, 2026. 4. 9., 503쪽 https://product.kyobobook.co.kr/detail/S000219753838'
+- '[저서] 『AI 경영전략 노코드 자동화 방법론 3권(성장 편)』, 2026. 4. 9., 340쪽 https://product.kyobobook.co.kr/detail/S000219753837'
+- '[저서] 『AI 경영전략 노코드 자동화 방법론 4권(혁신 편)』, 2026. 4. 9., 327쪽 https://product.kyobobook.co.kr/detail/S000219753836'
+- '[영문판] 『AI: The Sixth Sense of Business』, 2026. 3. 27., 248쪽 https://product.kyobobook.co.kr/detail/S000219546824'
+- '[저서] 『AI는 기업의 여섯 번째 감각』, 2026. 3. 5., 266쪽 https://product.kyobobook.co.kr/detail/S000219383662'
+- '[저서] 『AI 기반 시장분석: 감(Feeling)을 확신으로』, 2026. 2. 27., 210쪽 https://product.kyobobook.co.kr/detail/S000219383666'
+- '[저서] 『AI 기반 비즈니스 모델의 재구성』, 2026. 2. 27., 286쪽 https://product.kyobobook.co.kr/detail/S000219408488'
+- '[저서] 『AI 에이전트 기반 사업계획서의 기술』, 2026. 2. 27., 310쪽 https://product.kyobobook.co.kr/detail/S000219408487'
+- '[저서] 『AI 기반 마케팅과 실행 프레임워크』, 2026. 2. 27., 290쪽 https://product.kyobobook.co.kr/detail/S000219383665'
 patents:
 - '[등록] 통계모형을 이용한 시장규모 추정 장치 및 그 방법, 등록 제10-2727169호 (2024)'
 - '[등록] 공급망관리 시스템의 자동 큐레이션 방법, 등록 제10-1782588호 (2017)'
