@@ -3,6 +3,7 @@ name: 서승호
 name_en: Seo, Seungho
 category: 겸임교수
 position: 겸임교수
+memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 학술지명·권호·쪽은 Crossref·RISS 기록으로 보완.'
 photo: /images/faculty/seo-seungho.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
@@ -22,9 +23,9 @@ career:
 certifications:
 - 이러닝지도사 2급
 papers:
-- Empirical Study on the Use of Artificial General Intelligence Healthcare in the Elderly https://doi.org/10.1007/978-3-031-75599-6_6
-- A Design and Implementation of an Online Video Lecture System based on Facial Expression Recognition https://doi.org/10.18517/ijaseit.14.3.18115
-- 'The Effects of the Elderly''s Digital Device Utilization on Life Satisfaction: Focusing on the Mediating Effects of Digital Assistant https://doi.org/10.47116/apjcri.2024.07.30'
+- '[국제] Empirical Study on the Use of Artificial General Intelligence Healthcare in the Elderly. (2024). Advances in Conceptual Modeling, Lecture Notes in Computer Science, 87-98. https://doi.org/10.1007/978-3-031-75599-6_6'
+- '[국제] A Design and Implementation of an Online Video Lecture System based on Facial Expression Recognition. (2024). International Journal on Advanced Science, Engineering and Information Technology, 14(3), 866-872. https://doi.org/10.18517/ijaseit.14.3.18115'
+- '[KCI] The Effects of the Elderly''s Digital Device Utilization on Life Satisfaction: Focusing on the Mediating Effects of Digital Assistant. (2024). 아시아태평양융합연구교류논문지, 10(7), 401-413. https://doi.org/10.47116/apjcri.2024.07.30'
 achievements:
 - 한국국제협력단 개발협력 커리어센터 시스템 구축 PM (2023 ~ 2024)
 - 대법원 법원공무원교육원 통합교육시스템 PM (2015 ~ 2025)

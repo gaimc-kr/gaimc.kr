@@ -3,6 +3,7 @@ name: 김종만
 name_en: Kim, Jongman
 category: 겸임교수
 position: 겸임교수
+memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사·석사논문 RISS 링크(T17174505·T16073327) 추가, 학술지 권호·쪽 RISS 보완.'
 photo: /images/faculty/kim-jongman.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
@@ -23,9 +24,9 @@ certifications:
 - 인공지능 산업컨설턴트
 - 공인중개사
 papers:
-- 지역세무서의 효율성 측정 및 효율성 변동요인에 대한 분석
-- 농산물 도매시장법인의 동태적 생산성 변동 분석 https://doi.org/10.22716/sckt.2023.11.1.003
-- 창업자의 창업자정신이 창업성과에 미치는 영향에 관한 연구
+- '[학위논문] 지역세무서의 효율성 측정 및 효율성 변동요인에 대한 분석. (2025). 한성대학교 박사학위논문. https://www.riss.kr/link?id=T17174505'
+- '[KCI] 농산물 도매시장법인의 동태적 생산성 변동 분석. (2023). 융복합지식학회논문지, 11(1), 25-37. https://doi.org/10.22716/sckt.2023.11.1.003'
+- '[학위논문] 창업자의 창업자정신이 창업성과에 미치는 영향에 관한 연구. (2022). 한성대학교 석사학위논문. https://www.riss.kr/link?id=T16073327'
 books:
 - 사업의 모멘텀이 되는 인문학 https://www.riss.kr/link?id=M17106089
 achievements:

@@ -5,7 +5,7 @@ category: 겸임교수
 position: 겸임교수
 photo: /images/faculty/kwon-yeonjae.jpg
 has_profile: true
-memo: 학력은 2026. 10. 8. 본인 확인(학과장 경유)으로 "박사과정 수료" → "박사"로 수정(한·영·베). 2026. 8. 한성대학교 박사 학위수여
+memo: '학력은 2026. 10. 8. 본인 확인(학과장 경유)으로 "박사과정 수료" → "박사"로 수정(한·영·베). 2026. 8. 한성대학교 박사 학위수여 2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 학술대회 2건은 RISS 기록 없음.'
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)일성이앤에스 대표
 counts:
@@ -28,8 +28,8 @@ certifications:
 - ESG컨설턴트(공기업 및 제조 분야)
 - 에너지컨설턴트
 papers:
-- 장애인의 사회적 자본과 디지털 역량이 삶의 만족에 미치는 영향 (2022 춘계공동학술대회)
-- Case Studies of Corporate Carbon Reduction (with a Focus on Scope 3) (H2 MEET - CDC 2023)
+- '[학술대회] 장애인의 사회적 자본과 디지털 역량이 삶의 만족에 미치는 영향. (2022). 2022 춘계공동학술대회.'
+- '[학술대회] Case Studies of Corporate Carbon Reduction (with a Focus on Scope 3). (2023). H2 MEET - CDC 2023.'
 achievements:
 - ㈜한국원격평생교육원 온라인 평생교육원 운영 총괄 (2015 ~ 2024)
 - 중소기업·소상공인 경영컨설팅 (2024 ~ 2025)

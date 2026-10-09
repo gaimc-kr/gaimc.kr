@@ -5,7 +5,7 @@ category: 특강연사
 position: 특강연사
 photo: /images/faculty/kim-sujin.jpg
 has_profile: true
-memo: 교수 프로필 제출 양식(2026. 10. 5. 제출, 대화창 첨부) 기준. 공개용 이메일은 본인 기재
+memo: '교수 프로필 제출 양식(2026. 10. 5. 제출, 대화창 첨부) 기준. 공개용 이메일은 본인 기재 2026. 10. 9. 석사논문 RISS 링크(T13567779) 추가, 2019 국제개발협력연구 쪽수(61-78) Crossref 보완.'
 industry: 주식회사 포리스컴퍼니 대표
 email: ceo@foriscompany.com
 counts:
@@ -32,7 +32,7 @@ career:
 certifications:
 - PRINCE2 Practitioner Certificate in Project Management, PeopleCert (United Kingdom) (2019. 4.)
 papers:
-- '[KCI] 박종남, **김수진** (2019). 사하라이남 아프리카에서 민주주의ODA와 평화관계: 패널 2SLS분석을 이용하여. 국제개발협력연구, 11(3). https://doi.org/10.32580/idcr.2019.11.3.61'
+- '[KCI] 박종남, **김수진** (2019). 사하라이남 아프리카에서 민주주의ODA와 평화관계: 패널 2SLS분석을 이용하여. 국제개발협력연구, 11(3), 61-78. https://doi.org/10.32580/idcr.2019.11.3.61'
 - '[학술지] **김수진** (2020). 장애포괄적 개발협력을 위한 2018 DAC 장애마커 자발적 보고현황 분석(An Analysis of 2018 Reporting of the DAC Marker on Disability to Trace Disability Inclusion in International Development Cooperation). 국제개발협력, 15(1), 145-188.'
 - '[학술지] **김수진** (2018). SDGs 세부목표와 인권 연계 수준 분석: 인권기준 및 취약그룹별 접근을 중심으로. 국제개발협력, 2018-2, 109-170.'
 - '[학술지] **김수진** (2017). 선진공여기관의 분쟁 취약국 지원전략 및 성과관리. 국제개발협력, 2017-2, 23-74. https://www.riss.kr/link?id=A103232251'
@@ -56,7 +56,7 @@ papers:
 - '[연구보고서] **김수진** (2015. 12.). 정치경제분석법(Political Economy Analysis)에 기반한 국별협력전략 작성 개선방안 고찰: DFID 및 Sida 사례를 중심으로. 한국국제협력단.'
 - '[연구보고서] **김수진** (2015. 7.). 목표16. 지속가능발전을 위한 평화롭고 포용적인 사회 촉진, 사법 접근성 확보, 모든 차원에서 효과적이고 신뢰할 수 있는 포용적인 제도 구축. 지속가능개발목표(SDGs) 수립현황과 대응방안. 한국국제협력단.'
 - '[학위논문] **김수진** (2024). Impact of Resilience on Conflict: Evidence from Borno State, Nigeria and Northern Region, Uganda. 고려대학교 국제대학원 박사학위논문. https://doi.org/10.23186/korea.000000279596.11009.0000385'
-- '[학위논문] **김수진** (2014). Critical Overview of UNCAC’s Impact on Combating Political Corruption: Case Study of Malaysia through Political Economy Analysis (PEA). 고려대학교 석사학위논문.'
+- '[학위논문] **김수진** (2014). Critical Overview of UNCAC’s Impact on Combating Political Corruption: Case Study of Malaysia through Political Economy Analysis (PEA). 고려대학교 석사학위논문. https://www.riss.kr/link?id=T13567779'
 - '[학위논문] **김수진** (2012). 원조와 부패: 인도네시아 고토판장댐 사례를 중심으로. 한국외국어대학교 학사학위논문.'
 - '[포럼 발표] **김수진** (2024. 7. 10.). 정치적 제약 상황에서의 공여국의 민주적 거버넌스 지원 현황. KOICA 제58회 개발협력포럼, KOICA 본관 대강당.'
 - '[학술대회] **김수진** (2024. 6. 14.). 복원력 이론과 개발협력: 이주민의 복원력 강화와 분쟁의 관계. 국제개발협력학회(KAIDEC) 하계학술대회, 서울대학교 국제대학원.'

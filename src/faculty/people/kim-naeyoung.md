@@ -23,9 +23,9 @@ certifications:
 - 조달계약사
 - ESG심사원
 papers:
-- Impact of Digital Activities on Life Satisfaction of Marriage Immigrants before and after COVID-19
-- A Study on Carbon Taxation Based on Carbon Emissions of Small and Medium-Sized Enterprises (SMEs)
-- A Study on the Utilization of Fly Ash as an Additive for Cement
+- '[학위논문] Impact of Digital Activities on Life Satisfaction of Marriage Immigrants before and after COVID-19. (2025). 한성대학교 박사학위논문. https://www.riss.kr/link?id=T17174400'
+- 'A Study on Carbon Taxation Based on Carbon Emissions of Small and Medium-Sized Enterprises (SMEs).'
+- 'A Study on the Utilization of Fly Ash as an Additive for Cement.'
 achievements:
 - 희망리턴패키지 전담 PM
 - 소상공인 역량강화 컨설턴트
@@ -36,7 +36,7 @@ network:
 - 중소벤처기업부, 경기테크노파크, 소상공인시장진흥공단, 신용보증기금
 awards:
 - 2021 자랑스런 한국인대상 경영컨설팅 부문 (대한민국 베스트 브랜드 협회)
-memo: 실무 네트워크 "서울 신용보증기금" 원문 표기 확인
+memo: '실무 네트워크 "서울 신용보증기금" 원문 표기 확인 2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 1번은 박사학위논문(RISS T17174400) 영문 제목. 2·3번은 RISS·Crossref 기록 없음(제출 그대로).'
 en:
   academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
   industry: CEO, Dream Plus
