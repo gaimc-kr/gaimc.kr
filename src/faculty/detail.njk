@@ -14,7 +14,7 @@ eleventyComputed:
 {%- set primaryName = d.name if lang == "ko" or not d.name_en else d.name_en -%}
 {%- set secondName = d.name_en if lang == "ko" else d.name -%}
 {%- set isSpeaker = d.category == "특강연사" -%}
-{%- set sections = ["keywords", "education", "career", "certifications", "papers", "supervision", "books", "patents", "trademarks", "rnd", "non_rnd", "achievements", "lectures", "network", "awards", "committees"] -%}
+{%- set sections = ["keywords", "education", "career", "certifications", "papers", "books", "patents", "trademarks", "rnd", "non_rnd", "achievements", "lectures", "network", "awards", "committees"] -%}
 <div class="page-head">
   <div class="container">
     <nav class="breadcrumb" aria-label="{{ T.here }}">
@@ -39,9 +39,6 @@ eleventyComputed:
         </dl>
         {#- 수치 타일: counts에 값이 있으면 그 값, 없으면 각 목록의 항목 수(과제 = R&D + 비R&D) -#}
         {%- set c = d.counts or {} %}
-        {#- 학위논문 지도: [박사]/[석사] 태그별 집계(반복문 안 set은 밖으로 나오지 않아 배열 push 사용) -#}
-        {%- set supPhd = [] %}{%- set supMs = [] %}
-        {%- for it in (d.supervision or []) %}{% if it.startsWith("[박사]") %}{% set _x = supPhd.push(1) %}{% elif it.startsWith("[석사]") %}{% set _x = supMs.push(1) %}{% endif %}{% endfor %}
         {%- set auto = {
           papers: (d.papers or []) | length,
           books: (d.books or []) | length,
@@ -50,12 +47,10 @@ eleventyComputed:
           achievements: (d.achievements or []) | length,
           certifications: (d.certifications or []) | length,
           awards: (d.awards or []) | length,
-          committees: (d.committees or []) | length,
-          supervision_phd: supPhd.length,
-          supervision_ms: supMs.length
+          committees: (d.committees or []) | length
         } %}
         {%- set tiles = [] %}
-        {%- for k in ["papers", "books", "patents", "projects", "supervision_phd", "supervision_ms", "achievements", "certifications", "awards", "committees"] %}{% set v = c[k] or auto[k] %}{% if v %}{% set tiles = (tiles.push([k, v]), tiles) %}{% endif %}{% endfor %}
+        {%- for k in ["papers", "books", "patents", "projects", "achievements", "certifications", "awards", "committees"] %}{% set v = c[k] or auto[k] %}{% if v %}{% set tiles = (tiles.push([k, v]), tiles) %}{% endif %}{% endfor %}
         {%- if tiles.length %}
         <ul class="profile-counts">
           {%- for t in tiles %}<li><strong>{{ t[1] }}</strong>{{ F.counts[t[0]] }}</li>{% endfor %}
