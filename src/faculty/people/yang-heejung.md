@@ -53,9 +53,10 @@ network:
 - 경기도 사회적경제원, 경기도 농수산진흥원, 한국농수산식품유통공사, 축산물 품질평가원, 축산환경관리원, 한국농업기술원, 소상공인진흥공단, 중소기업진흥공단
 awards:
 - 2023년 친환경축산 대상 농림축산식품부 장관 표창, 농림축산식품부 (2023)
-- '[위원] 농촌융복합산업 6차인증 전문위원, 경기도농수산진흥원 (2021 ~ 현재)'
-- '[위원] 친환경농산물유통센터 운영위원, 경기도농수산진흥원 (2026 ~ 현재)'
-- '[위원] 희망리턴 재기사업화 전담PM 위원, 소상공인진흥공단 (2026 ~ 현재)'
+committees:
+- '농촌융복합산업 6차인증 전문위원, 경기도농수산진흥원 (2021 ~ 현재)'
+- '친환경농산물유통센터 운영위원, 경기도농수산진흥원 (2026 ~ 현재)'
+- '희망리턴 재기사업화 전담PM 위원, 소상공인진흥공단 (2026 ~ 현재)'
 en:
   academic: Researcher, Ph.D. Program in ESG Convergence Consulting, Graduate School, Hansung University
   industry: Director (Executive Director), R&D Institute, Ecoroad Co., Ltd.
@@ -95,9 +96,10 @@ en:
   - Gyeonggi Social Economy Center; Gyeonggi Agro-Fisheries Promotion Agency; Korea Agro-Fisheries & Food Trade Corporation (aT); Korea Institute for Animal Products Quality Evaluation (KAPE); Livestock Environment Management Institute (LEMI); Korea Agriculture Technology Promotion Agency (KOAT); Small Enterprise and Market Service (SEMAS); Korea SMEs and Startups Agency (KOSME)
   awards:
   - Minister's Commendation, 2023 Eco-friendly Livestock Grand Award, Ministry of Agriculture, Food and Rural Affairs (2023)
-  - '[위원] Expert committee member, 6th-Industry (Rural Convergence Industry) Certification, Gyeonggi Agro-Fisheries Promotion Agency (2021–present)'
-  - '[위원] Steering committee member, Eco-friendly Agricultural Products Distribution Center, Gyeonggi Agro-Fisheries Promotion Agency (2026–present)'
-  - '[위원] Dedicated PM committee member, Hope Return Business Restart Program, Small Enterprise and Market Service (SEMAS) (2026–present)'
+  committees:
+  - 'Expert committee member, 6th-Industry (Rural Convergence Industry) Certification, Gyeonggi Agro-Fisheries Promotion Agency (2021–present)'
+  - 'Steering committee member, Eco-friendly Agricultural Products Distribution Center, Gyeonggi Agro-Fisheries Promotion Agency (2026–present)'
+  - 'Dedicated PM committee member, Hope Return Business Restart Program, Small Enterprise and Market Service (SEMAS) (2026–present)'
 vi:
   academic: Nghiên cứu viên, Chương trình Tiến sĩ Tư vấn Hội tụ ESG, Trường Sau đại học, Đại học Hansung
   industry: Giám đốc (Giám đốc điều hành), Viện R&D, Ecoroad Co., Ltd.
@@ -137,7 +139,8 @@ vi:
   - Trung tâm Kinh tế Xã hội Gyeonggi; Cơ quan Xúc tiến Nông thủy sản Gyeonggi; Tổng công ty Thương mại Nông thủy sản và Thực phẩm Hàn Quốc (aT); Viện Đánh giá Chất lượng Sản phẩm Chăn nuôi Hàn Quốc (KAPE); Viện Quản lý Môi trường Chăn nuôi (LEMI); Cơ quan Xúc tiến Công nghệ Nông nghiệp Hàn Quốc (KOAT); Cơ quan Hỗ trợ Doanh nghiệp nhỏ và Thị trường (SEMAS); Cơ quan Hỗ trợ DNVVN và Khởi nghiệp Hàn Quốc (KOSME)
   awards:
   - Bằng khen của Bộ trưởng, Giải thưởng lớn Chăn nuôi thân thiện môi trường 2023, Bộ Nông nghiệp, Thực phẩm và Nông thôn (2023)
-  - '[위원] Ủy viên chuyên gia, Chứng nhận ngành công nghiệp thứ 6 (ngành hội tụ nông thôn), Cơ quan Xúc tiến Nông thủy sản Gyeonggi (2021–nay)'
-  - '[위원] Ủy viên điều hành, Trung tâm Phân phối Nông sản thân thiện môi trường, Cơ quan Xúc tiến Nông thủy sản Gyeonggi (2026–nay)'
-  - '[위원] Ủy viên PM chuyên trách, Chương trình tái khởi nghiệp Hope Return, Cơ quan Hỗ trợ Doanh nghiệp nhỏ và Thị trường (SEMAS) (2026–nay)'
+  committees:
+  - 'Ủy viên chuyên gia, Chứng nhận ngành công nghiệp thứ 6 (ngành hội tụ nông thôn), Cơ quan Xúc tiến Nông thủy sản Gyeonggi (2021–nay)'
+  - 'Ủy viên điều hành, Trung tâm Phân phối Nông sản thân thiện môi trường, Cơ quan Xúc tiến Nông thủy sản Gyeonggi (2026–nay)'
+  - 'Ủy viên PM chuyên trách, Chương trình tái khởi nghiệp Hope Return, Cơ quan Hỗ trợ Doanh nghiệp nhỏ và Thị trường (SEMAS) (2026–nay)'
 ---

@@ -54,12 +54,14 @@ non_rnd:
 network:
 - 노사발전재단, 테크노파크(광주·전남·전북), 경기 일자리지원센터, 한국산업단지공단, 국가뿌리산업진흥센터
 awards:
-- '[위원] 대한행정사회 정회원 (현)'
-- '[위원] 스마트팩토리 수준 심사원 (현)'
-- '[위원] 조선이공대학교 RISE 교육과정 자문위원 (전)'
-- '[위원] 조선이공대학교 LINC 3.0 교육과정 운영위원 (전)'
-- 조선이공대학교 기계과 팀티칭 강의 (전)
 - 국방부장관 표창
+committees:
+- '대한행정사회 정회원 (현)'
+- '스마트팩토리 수준 심사원 (현)'
+- '조선이공대학교 RISE 교육과정 자문위원 (전)'
+- '조선이공대학교 LINC 3.0 교육과정 운영위원 (전)'
+lectures:
+- 조선이공대학교 기계과 팀티칭 강의 (전)
 en:
   industry: Representative Administrative Agent, Sustainable Administrative Agent Office
   keywords:
@@ -100,12 +102,14 @@ en:
   network:
   - Korea Labor Foundation; Technoparks (Gwangju, Jeonnam, Jeonbuk); Gyeonggi Job Support Center; Korea Industrial Complex Corporation; Korea National Ppuri Industry Center
   awards:
-  - '[위원] Regular member, Korea Association of Administrative Agents (current)'
-  - '[위원] Smart factory level assessor (current)'
-  - '[위원] Advisory committee member, RISE curriculum, Chosun College of Science & Technology (former)'
-  - '[위원] Steering committee member, LINC 3.0 curriculum, Chosun College of Science & Technology (former)'
-  - Team-teaching lecturer, Department of Mechanical Engineering, Chosun College of Science & Technology (former)
   - Commendation from the Minister of National Defense
+  committees:
+  - 'Regular member, Korea Association of Administrative Agents (current)'
+  - 'Smart factory level assessor (current)'
+  - 'Advisory committee member, RISE curriculum, Chosun College of Science & Technology (former)'
+  - 'Steering committee member, LINC 3.0 curriculum, Chosun College of Science & Technology (former)'
+  lectures:
+  - Team-teaching lecturer, Department of Mechanical Engineering, Chosun College of Science & Technology (former)
 vi:
   industry: Đại diện – Hành chính viên, Văn phòng Hành chính viên Bền vững
   keywords:
@@ -146,10 +150,12 @@ vi:
   network:
   - Quỹ Phát triển Lao động – Quản lý Hàn Quốc; Technopark (Gwangju, Jeonnam, Jeonbuk); Trung tâm Hỗ trợ Việc làm Gyeonggi; Tổng công ty Khu công nghiệp Hàn Quốc; Trung tâm Xúc tiến Công nghiệp Nền tảng Quốc gia
   awards:
-  - '[위원] Hội viên chính thức, Hiệp hội Hành chính viên Hàn Quốc (hiện tại)'
-  - '[위원] Thẩm định viên cấp độ nhà máy thông minh (hiện tại)'
-  - '[위원] Thành viên hội đồng tư vấn chương trình RISE, Trường Cao đẳng Khoa học và Công nghệ Chosun (trước đây)'
-  - '[위원] Thành viên ban điều hành chương trình LINC 3.0, Trường Cao đẳng Khoa học và Công nghệ Chosun (trước đây)'
-  - Giảng viên đồng giảng dạy, Khoa Cơ khí, Trường Cao đẳng Khoa học và Công nghệ Chosun (trước đây)
   - Bằng khen của Bộ trưởng Bộ Quốc phòng
+  committees:
+  - 'Hội viên chính thức, Hiệp hội Hành chính viên Hàn Quốc (hiện tại)'
+  - 'Thẩm định viên cấp độ nhà máy thông minh (hiện tại)'
+  - 'Thành viên hội đồng tư vấn chương trình RISE, Trường Cao đẳng Khoa học và Công nghệ Chosun (trước đây)'
+  - 'Thành viên ban điều hành chương trình LINC 3.0, Trường Cao đẳng Khoa học và Công nghệ Chosun (trước đây)'
+  lectures:
+  - Giảng viên đồng giảng dạy, Khoa Cơ khí, Trường Cao đẳng Khoa học và Công nghệ Chosun (trước đây)
 ---

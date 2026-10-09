@@ -53,15 +53,16 @@ papers:
 awards:
 - 과학기술정보통신부장관 표창 (2022)
 - 중소벤처기업부장관 표창 (2024)
-- '[위원] 산업자원부/한국산업기술평가관리원 평가위원 – 산업기술혁신평가 (2019~)'
-- '[위원] 중소벤처기업부/중소기업기술정보진흥원 평가위원 – 기술개발지원사업 평가 (2020~)'
-- '[위원] 정보통신부/정보통신기획평가원 평가위원 – 정보통신·방송 연구 평가 (2020~)'
-- '[위원] 정보통신부/정보통신산업진흥원 평가위원 – 4차산업 기술 평가 (2020~)'
-- '[위원] 기후에너지환경부/환경산업기술원 평가위원 – 환경기자재 국산화 평가 (2022~)'
-- '[위원] 기후에너지환경부/한국에너지기술평가원 평가위원 – 기술개발사업 평가 (2022~)'
-- '[위원] 중소벤처기업부/중기부 스마트제조혁신단 평가위원 – 스마트공장지원 평가 (2019~)'
-- '[위원] 산업자원부/국가연구시설장비진흥센터 평가위원 – 연구장비도입심의평가 (2023~)'
-- '[위원] 생산기술연구원/국가뿌리산업진흥센터 전문가 – 공정자동화 컨설턴트 (2026~)'
+committees:
+- '산업자원부/한국산업기술평가관리원 평가위원 – 산업기술혁신평가 (2019~)'
+- '중소벤처기업부/중소기업기술정보진흥원 평가위원 – 기술개발지원사업 평가 (2020~)'
+- '정보통신부/정보통신기획평가원 평가위원 – 정보통신·방송 연구 평가 (2020~)'
+- '정보통신부/정보통신산업진흥원 평가위원 – 4차산업 기술 평가 (2020~)'
+- '기후에너지환경부/환경산업기술원 평가위원 – 환경기자재 국산화 평가 (2022~)'
+- '기후에너지환경부/한국에너지기술평가원 평가위원 – 기술개발사업 평가 (2022~)'
+- '중소벤처기업부/중기부 스마트제조혁신단 평가위원 – 스마트공장지원 평가 (2019~)'
+- '산업자원부/국가연구시설장비진흥센터 평가위원 – 연구장비도입심의평가 (2023~)'
+- '생산기술연구원/국가뿌리산업진흥센터 전문가 – 공정자동화 컨설턴트 (2026~)'
 en:
   academic: Adjunct Professor, Department of Smart Manufacturing Consulting, Hansung University
   industry: Director and Head of the Corporate R&D Institute, Sundoo Electronics Co., Ltd.
@@ -99,15 +100,16 @@ en:
   awards:
   - Commendation from the Minister of Science and ICT (2022)
   - Commendation from the Minister of SMEs and Startups (2024)
-  - '[위원] Evaluation committee member, Korea Evaluation Institute of Industrial Technology (MOTIE) – industrial technology innovation evaluation (2019–)'
-  - '[위원] Evaluation committee member, Korea Technology and Information Promotion Agency for SMEs (MSS) – technology development support program evaluation (2020–)'
-  - '[위원] Evaluation committee member, Institute of Information & Communications Technology Planning & Evaluation – ICT and broadcasting research evaluation (2020–)'
-  - '[위원] Evaluation committee member, National IT Industry Promotion Agency – 4th Industrial Revolution technology evaluation (2020–)'
-  - '[위원] Evaluation committee member, Korea Environmental Industry & Technology Institute (Ministry of Climate, Energy and Environment) – localization of environmental equipment (2022–)'
-  - '[위원] Evaluation committee member, Korea Institute of Energy Technology Evaluation and Planning (Ministry of Climate, Energy and Environment) – technology development project evaluation (2022–)'
-  - '[위원] Evaluation committee member, Smart Manufacturing Innovation Office, Ministry of SMEs and Startups – smart factory support program evaluation (2019–)'
-  - '[위원] Evaluation committee member, National Research Facilities & Equipment Center (MOTIE) – research equipment acquisition review (2023–)'
-  - '[위원] Expert, Korea National Ppuri Industry Center, Korea Institute of Industrial Technology – process automation consultant (2026–)'
+  committees:
+  - 'Evaluation committee member, Korea Evaluation Institute of Industrial Technology (MOTIE) – industrial technology innovation evaluation (2019–)'
+  - 'Evaluation committee member, Korea Technology and Information Promotion Agency for SMEs (MSS) – technology development support program evaluation (2020–)'
+  - 'Evaluation committee member, Institute of Information & Communications Technology Planning & Evaluation – ICT and broadcasting research evaluation (2020–)'
+  - 'Evaluation committee member, National IT Industry Promotion Agency – 4th Industrial Revolution technology evaluation (2020–)'
+  - 'Evaluation committee member, Korea Environmental Industry & Technology Institute (Ministry of Climate, Energy and Environment) – localization of environmental equipment (2022–)'
+  - 'Evaluation committee member, Korea Institute of Energy Technology Evaluation and Planning (Ministry of Climate, Energy and Environment) – technology development project evaluation (2022–)'
+  - 'Evaluation committee member, Smart Manufacturing Innovation Office, Ministry of SMEs and Startups – smart factory support program evaluation (2019–)'
+  - 'Evaluation committee member, National Research Facilities & Equipment Center (MOTIE) – research equipment acquisition review (2023–)'
+  - 'Expert, Korea National Ppuri Industry Center, Korea Institute of Industrial Technology – process automation consultant (2026–)'
 vi:
   academic: Giảng viên kiêm nhiệm, Khoa Tư vấn Sản xuất Thông minh, Đại học Hansung
   industry: Giám đốc kiêm Viện trưởng Viện Nghiên cứu Doanh nghiệp, Sundoo Electronics Co., Ltd.
@@ -145,13 +147,14 @@ vi:
   awards:
   - Bằng khen của Bộ trưởng Bộ Khoa học và CNTT (2022)
   - Bằng khen của Bộ trưởng Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp (2024)
-  - '[위원] Ủy viên hội đồng đánh giá, Viện Đánh giá Công nghệ Công nghiệp Hàn Quốc (MOTIE) – đánh giá đổi mới công nghệ công nghiệp (2019–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Cơ quan Xúc tiến Công nghệ và Thông tin cho DNVVN (MSS) – đánh giá chương trình hỗ trợ phát triển công nghệ (2020–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Viện Quy hoạch và Đánh giá CNTT-Truyền thông – đánh giá nghiên cứu CNTT và phát thanh truyền hình (2020–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Cơ quan Xúc tiến Công nghiệp CNTT Quốc gia – đánh giá công nghệ Cách mạng công nghiệp 4.0 (2020–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Viện Công nghệ và Công nghiệp Môi trường Hàn Quốc (Bộ Khí hậu, Năng lượng và Môi trường) – nội địa hóa thiết bị môi trường (2022–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Viện Đánh giá và Quy hoạch Công nghệ Năng lượng Hàn Quốc (Bộ Khí hậu, Năng lượng và Môi trường) – đánh giá dự án phát triển công nghệ (2022–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Văn phòng Đổi mới Sản xuất Thông minh, Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp – đánh giá chương trình hỗ trợ nhà máy thông minh (2019–)'
-  - '[위원] Ủy viên hội đồng đánh giá, Trung tâm Cơ sở và Thiết bị Nghiên cứu Quốc gia (MOTIE) – thẩm định mua sắm thiết bị nghiên cứu (2023–)'
-  - '[위원] Chuyên gia, Trung tâm Xúc tiến Công nghiệp Nền tảng Quốc gia, Viện Công nghệ Công nghiệp Hàn Quốc – tư vấn tự động hóa quy trình (2026–)'
+  committees:
+  - 'Ủy viên hội đồng đánh giá, Viện Đánh giá Công nghệ Công nghiệp Hàn Quốc (MOTIE) – đánh giá đổi mới công nghệ công nghiệp (2019–)'
+  - 'Ủy viên hội đồng đánh giá, Cơ quan Xúc tiến Công nghệ và Thông tin cho DNVVN (MSS) – đánh giá chương trình hỗ trợ phát triển công nghệ (2020–)'
+  - 'Ủy viên hội đồng đánh giá, Viện Quy hoạch và Đánh giá CNTT-Truyền thông – đánh giá nghiên cứu CNTT và phát thanh truyền hình (2020–)'
+  - 'Ủy viên hội đồng đánh giá, Cơ quan Xúc tiến Công nghiệp CNTT Quốc gia – đánh giá công nghệ Cách mạng công nghiệp 4.0 (2020–)'
+  - 'Ủy viên hội đồng đánh giá, Viện Công nghệ và Công nghiệp Môi trường Hàn Quốc (Bộ Khí hậu, Năng lượng và Môi trường) – nội địa hóa thiết bị môi trường (2022–)'
+  - 'Ủy viên hội đồng đánh giá, Viện Đánh giá và Quy hoạch Công nghệ Năng lượng Hàn Quốc (Bộ Khí hậu, Năng lượng và Môi trường) – đánh giá dự án phát triển công nghệ (2022–)'
+  - 'Ủy viên hội đồng đánh giá, Văn phòng Đổi mới Sản xuất Thông minh, Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp – đánh giá chương trình hỗ trợ nhà máy thông minh (2019–)'
+  - 'Ủy viên hội đồng đánh giá, Trung tâm Cơ sở và Thiết bị Nghiên cứu Quốc gia (MOTIE) – thẩm định mua sắm thiết bị nghiên cứu (2023–)'
+  - 'Chuyên gia, Trung tâm Xúc tiến Công nghiệp Nền tảng Quốc gia, Viện Công nghệ Công nghiệp Hàn Quốc – tư vấn tự động hóa quy trình (2026–)'
 ---

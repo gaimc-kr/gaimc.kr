@@ -39,8 +39,8 @@ rnd:
 - 건설·인프라 프로젝트 파이낸싱 외, 법무법인 제이엘, 참여 (2022 ~ 2025)
 non_rnd:
 - 소상공인의 금융활용방안 교육, 서울미래교육원, 대표 (2026)
-awards:
-- '[위원] 서정대학교 캡스톤 평가위원 (2025)'
+committees:
+- '서정대학교 캡스톤 평가위원 (2025)'
 en:
   academic: Full-time Professor, Seoul Future Education Institute
   industry: CEO, Shinhan Partners Co., Ltd.; Financial Expert Advisor, JL Law Firm
@@ -65,8 +65,8 @@ en:
   - Construction and infrastructure project financing and other projects, JL Law Firm, Participant (2022 – 2025)
   non_rnd:
   - Financial literacy education for small business owners, Seoul Future Education Institute, Lead (2026)
-  awards:
-  - '[위원] Capstone evaluation committee member, Seojeong University (2025)'
+  committees:
+  - 'Capstone evaluation committee member, Seojeong University (2025)'
 vi:
   academic: Giáo sư chuyên trách, Viện Giáo dục Tương lai Seoul
   industry: Giám đốc điều hành, Shinhan Partners Co., Ltd.; Chuyên gia tài chính, Công ty Luật JL
@@ -91,6 +91,6 @@ vi:
   - Tài trợ dự án xây dựng, hạ tầng và các dự án khác, Công ty Luật JL, thành viên tham gia (2022 – 2025)
   non_rnd:
   - Đào tạo phương án sử dụng tài chính cho tiểu thương, Viện Giáo dục Tương lai Seoul, phụ trách (2026)
-  awards:
-  - '[위원] Thành viên hội đồng đánh giá Capstone, Đại học Seojeong (2025)'
+  committees:
+  - 'Thành viên hội đồng đánh giá Capstone, Đại học Seojeong (2025)'
 ---

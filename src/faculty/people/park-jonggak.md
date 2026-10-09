@@ -57,8 +57,9 @@ awards:
 - 2024 지방자치어워드 자치최우수입법상 (2024)
 - 2023년 대한민국 지방자치평가 의정정책대상 (2023)
 - 2022년 대한민국 지방자치평가 의정정책비전대상 최우수상 (2022)
-- '[위원] 중앙안전관리 민관협력위원회 위원, 안전행정부 (2013. 5. 15. ~ 2015. 5. 14.)'
-- '[위원] 정부업무평가 국정과제 평가지원단 위원, 정부업무평가위원회 (2014. 11. 28.)'
+committees:
+- '중앙안전관리 민관협력위원회 위원, 안전행정부 (2013. 5. 15. ~ 2015. 5. 14.)'
+- '정부업무평가 국정과제 평가지원단 위원, 정부업무평가위원회 (2014. 11. 28.)'
 en:
   academic: Visiting Professor, Department of Business Administration, Gachon University
   industry: Director, Korea Startup Management Strategy Institute; Mentor and Advisor, Gyeonggi Center for Creative Economy and Innovation
@@ -103,8 +104,9 @@ en:
   - Highest Award, Local Legislation Category, Local Autonomy Awards (2024)
   - Korea Local Autonomy Evaluation Legislative Policy Award (2023)
   - Korea Local Autonomy Evaluation Legislative Policy Vision Award, Grand Prize (2022)
-  - '[위원] Member, Central Public–Private Cooperation Committee for Safety Management, Ministry of Security and Public Administration (15 May 2013–14 May 2015)'
-  - '[위원] Member, National Policy Task Evaluation Support Group, Government Performance Evaluation Committee (28 Nov 2014)'
+  committees:
+  - 'Member, Central Public–Private Cooperation Committee for Safety Management, Ministry of Security and Public Administration (15 May 2013–14 May 2015)'
+  - 'Member, National Policy Task Evaluation Support Group, Government Performance Evaluation Committee (28 Nov 2014)'
 vi:
   academic: Giáo sư thỉnh giảng, Khoa Quản trị Kinh doanh, Đại học Gachon
   industry: Viện trưởng Viện Nghiên cứu Chiến lược Quản trị Khởi nghiệp Hàn Quốc; Cố vấn – Chuyên gia hướng dẫn, Trung tâm Đổi mới Kinh tế Sáng tạo Gyeonggi
@@ -149,6 +151,7 @@ vi:
   - Giải Lập pháp xuất sắc nhất, Giải thưởng Tự trị địa phương 2024 (2024)
   - Giải Chính sách nghị sự, Đánh giá Tự trị địa phương Hàn Quốc 2023 (2023)
   - Giải xuất sắc nhất, Giải Tầm nhìn chính sách nghị sự, Đánh giá Tự trị địa phương Hàn Quốc 2022 (2022)
-  - '[위원] Ủy viên, Ủy ban Hợp tác công – tư về quản lý an toàn trung ương, Bộ An toàn và Hành chính công (15/5/2013–14/5/2015)'
-  - '[위원] Ủy viên, Nhóm hỗ trợ đánh giá nhiệm vụ chính sách quốc gia, Ủy ban Đánh giá hoạt động Chính phủ (28/11/2014)'
+  committees:
+  - 'Ủy viên, Ủy ban Hợp tác công – tư về quản lý an toàn trung ương, Bộ An toàn và Hành chính công (15/5/2013–14/5/2015)'
+  - 'Ủy viên, Nhóm hỗ trợ đánh giá nhiệm vụ chính sách quốc gia, Ủy ban Đánh giá hoạt động Chính phủ (28/11/2014)'
 ---

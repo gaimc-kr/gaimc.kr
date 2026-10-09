@@ -207,14 +207,15 @@ awards:
 - 한국통상정보학회 우수논문상, 2025년 동계공동학술대회 박사부문(제2025-통상-45호), 「디지털 역량 프레임워크 기반 글로벌 AI 컨설팅 학습모듈 개발 연구」 (2025. 12.)
 - 특허청장 표창장, 지식재산 서비스업 활성화 유공 (2022. 12.)
 - 한국라이센싱협회 표창장, 특허경영대상 (2015. 11.)
-- '[위원] 한국기술거래사회 수석부회장 (2021. 3. ~ 2024. 12.)'
-- '[위원] 한국지식재산서비스협회 이사 (2022. 3. ~ 2024. 12.)'
-- '[위원] 한국대학기술이전협회 기술사업화전문가 (2017. 5. ~ 현재)'
-- '[위원] 한국지식재산센터 전문가 Pool 위원 (2016. 6. ~ 현재)'
-- '[위원] (사)이노비즈협회 자문위원 (2016. 4. ~ 현재)'
-- '[위원] 대한민국 기술사업화단 자문위원 (2016. 1. ~ 현재)'
-- '[위원] 한국과학기술정보연구원 과학기술정보협의회 위원 (2014. 1. ~ 현재)'
-- '[위원] 기업·기술가치평가협회 평가전문위원 (2009. 3. ~ 현재)'
+committees:
+- '한국기술거래사회 수석부회장 (2021. 3. ~ 2024. 12.)'
+- '한국지식재산서비스협회 이사 (2022. 3. ~ 2024. 12.)'
+- '한국대학기술이전협회 기술사업화전문가 (2017. 5. ~ 현재)'
+- '한국지식재산센터 전문가 Pool 위원 (2016. 6. ~ 현재)'
+- '(사)이노비즈협회 자문위원 (2016. 4. ~ 현재)'
+- '대한민국 기술사업화단 자문위원 (2016. 1. ~ 현재)'
+- '한국과학기술정보연구원 과학기술정보협의회 위원 (2014. 1. ~ 현재)'
+- '기업·기술가치평가협회 평가전문위원 (2009. 3. ~ 현재)'
 memo: 2026. 9. 이력서 기준 전체 반영. 아이쎄오는 2026. 8. 31. 폐업(전직 표기)
 en:
   academic: Professor, Department of Global AI Management Consulting, Hansung University
@@ -260,14 +261,15 @@ en:
   - Excellent Paper Award, Ph.D. category, 2025 Winter Joint Conference, Korea Association for International Commerce and Information (No. 2025-통상-45), "Development of Global AI Consulting Learning Modules Based on a Digital Competency Framework" (Dec 2025)
   - Commendation from the Commissioner of the Korean Intellectual Property Office for promoting the IP service industry (Dec 2022)
   - Commendation, Patent Management Award, Licensing Executives Society Korea (Nov 2015)
-  - '[위원] Senior Vice President, Korea Technology Transfer Agents Association (Mar 2021 – Dec 2024)'
-  - '[위원] Director, Korea Intellectual Property Service Association (Mar 2022 – Dec 2024)'
-  - '[위원] Technology Commercialization Expert, Korea Association of University Technology Transfer (May 2017 – present)'
-  - '[위원] Expert Pool Member, Korea Intellectual Property Center (Jun 2016 – present)'
-  - '[위원] Advisory Committee Member, Inno-Biz Association (Apr 2016 – present)'
-  - '[위원] Advisory Committee Member, Korea Technology Commercialization Group (Jan 2016 – present)'
-  - '[위원] Member, Science and Technology Information Council, Korea Institute of Science and Technology Information (Jan 2014 – present)'
-  - '[위원] Valuation Expert Committee Member, Korea Business and Technology Valuation Association (Mar 2009 – present)'
+  committees:
+  - 'Senior Vice President, Korea Technology Transfer Agents Association (Mar 2021 – Dec 2024)'
+  - 'Director, Korea Intellectual Property Service Association (Mar 2022 – Dec 2024)'
+  - 'Technology Commercialization Expert, Korea Association of University Technology Transfer (May 2017 – present)'
+  - 'Expert Pool Member, Korea Intellectual Property Center (Jun 2016 – present)'
+  - 'Advisory Committee Member, Inno-Biz Association (Apr 2016 – present)'
+  - 'Advisory Committee Member, Korea Technology Commercialization Group (Jan 2016 – present)'
+  - 'Member, Science and Technology Information Council, Korea Institute of Science and Technology Information (Jan 2014 – present)'
+  - 'Valuation Expert Committee Member, Korea Business and Technology Valuation Association (Mar 2009 – present)'
   non_rnd:
   - Technology assessment, commercialization strategy and technology valuation of a portable wild ginseng detection device, Kihyun Mold Tech (Feb 2026)
   - Database development for the Gangwon bio-health specialized industry promotion projects, Gangwon Technopark (Nov 2025 – Dec 2025)
@@ -430,14 +432,15 @@ vi:
   - Giải bài báo xuất sắc hạng mục tiến sĩ, Hội thảo chung mùa đông 2025, Hội Thông tin Thương mại Quốc tế Hàn Quốc (số 2025-통상-45), “Nghiên cứu phát triển học phần tư vấn AI toàn cầu dựa trên khung năng lực số” (12/2025)
   - Bằng khen của Cục trưởng Cục Sở hữu trí tuệ Hàn Quốc vì đóng góp phát triển ngành dịch vụ sở hữu trí tuệ (12/2022)
   - Bằng khen, Giải thưởng Quản trị Sáng chế, Licensing Executives Society Korea (11/2015)
-  - '[위원] Phó Chủ tịch thường trực, Hội Môi giới Chuyển giao Công nghệ Hàn Quốc (03/2021 – 12/2024)'
-  - '[위원] Ủy viên Hội đồng quản trị, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc (03/2022 – 12/2024)'
-  - '[위원] Chuyên gia thương mại hóa công nghệ, Hiệp hội Chuyển giao Công nghệ Đại học Hàn Quốc (05/2017 – nay)'
-  - '[위원] Thành viên nhóm chuyên gia, Trung tâm Sở hữu trí tuệ Hàn Quốc (06/2016 – nay)'
-  - '[위원] Ủy viên cố vấn, Hiệp hội Inno-Biz (04/2016 – nay)'
-  - '[위원] Ủy viên cố vấn, Đoàn Thương mại hóa Công nghệ Hàn Quốc (01/2016 – nay)'
-  - '[위원] Thành viên Hội đồng Thông tin Khoa học Công nghệ, Viện Thông tin Khoa học và Công nghệ Hàn Quốc (01/2014 – nay)'
-  - '[위원] Ủy viên chuyên gia định giá, Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc (03/2009 – nay)'
+  committees:
+  - 'Phó Chủ tịch thường trực, Hội Môi giới Chuyển giao Công nghệ Hàn Quốc (03/2021 – 12/2024)'
+  - 'Ủy viên Hội đồng quản trị, Hiệp hội Dịch vụ Sở hữu trí tuệ Hàn Quốc (03/2022 – 12/2024)'
+  - 'Chuyên gia thương mại hóa công nghệ, Hiệp hội Chuyển giao Công nghệ Đại học Hàn Quốc (05/2017 – nay)'
+  - 'Thành viên nhóm chuyên gia, Trung tâm Sở hữu trí tuệ Hàn Quốc (06/2016 – nay)'
+  - 'Ủy viên cố vấn, Hiệp hội Inno-Biz (04/2016 – nay)'
+  - 'Ủy viên cố vấn, Đoàn Thương mại hóa Công nghệ Hàn Quốc (01/2016 – nay)'
+  - 'Thành viên Hội đồng Thông tin Khoa học Công nghệ, Viện Thông tin Khoa học và Công nghệ Hàn Quốc (01/2014 – nay)'
+  - 'Ủy viên chuyên gia định giá, Hội Định giá Doanh nghiệp và Công nghệ Hàn Quốc (03/2009 – nay)'
   non_rnd:
   - Đánh giá công nghệ, chiến lược thương mại hóa và định giá công nghệ thiết bị dò sâm núi cầm tay, Kihyun Mold Tech (02/2026)
   - Xây dựng cơ sở dữ liệu cho các dự án phát triển ngành công nghiệp đặc thù sức khỏe sinh học Gangwon, Khu công nghệ Gangwon (11/2025 – 12/2025)

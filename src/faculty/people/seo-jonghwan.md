@@ -46,8 +46,8 @@ non_rnd:
 - 한-아세안 사이버대학 구축을 위한 CLMV 역량강화 사업, 한국국제협력단, 2011~2013, LMS부문총괄
 network:
 - 한국국제협력단, 대한무역투자진흥공사, 한국디지털교육협회, 한국에듀테크산업협회
-awards:
-- '[위원] 한국디지털교육협회 글로벌분과 위원 (2026 ~)'
+committees:
+- '한국디지털교육협회 글로벌분과 위원 (2026 ~)'
 en:
   academic: Ph.D. student, Smart Convergence Consulting, Hansung University
   industry: Head of Strategic Business Division (Managing Director), Head of Vietnam Representative Office, and Head of Futurenuri Uz, Futurenuri Co., Ltd.
@@ -82,8 +82,8 @@ en:
   - CLMV capacity building for the Korea–ASEAN Cyber University, KOICA, 2011–2013, LMS lead
   network:
   - KOICA; KOTRA; Korea Digital Education Association; Korea EdTech Industry Association
-  awards:
-  - '[위원] Member, Global Committee, Korea Digital Education Association (2026–)'
+  committees:
+  - 'Member, Global Committee, Korea Digital Education Association (2026–)'
 vi:
   academic: Nghiên cứu sinh Tiến sĩ, Tư vấn Hội tụ Thông minh, Đại học Hansung
   industry: Giám đốc khối Kinh doanh chiến lược (Giám đốc điều hành), Trưởng Văn phòng đại diện tại Việt Nam, Giám đốc Futurenuri Uz, Futurenuri Co., Ltd.
@@ -118,6 +118,6 @@ vi:
   - Nâng cao năng lực CLMV cho Đại học Trực tuyến Hàn Quốc – ASEAN, KOICA, 2011–2013, Phụ trách mảng LMS
   network:
   - KOICA; KOTRA; Hiệp hội Giáo dục Số Hàn Quốc; Hiệp hội Ngành Công nghệ Giáo dục Hàn Quốc
-  awards:
-  - '[위원] Ủy viên Phân ban Toàn cầu, Hiệp hội Giáo dục Số Hàn Quốc (2026–)'
+  committees:
+  - 'Ủy viên Phân ban Toàn cầu, Hiệp hội Giáo dục Số Hàn Quốc (2026–)'
 ---

@@ -189,7 +189,8 @@ collections:
       - { label: 주요 실적, name: achievements, widget: list, required: false }
       - { label: 강의·교육, name: lectures, widget: list, required: false }
       - { label: 실무 네트워크, name: network, widget: list, required: false }
-      - { label: 상훈·위원 활동, name: awards, widget: list, required: false }
+      - { label: 상훈, name: awards, widget: list, required: false }
+      - { label: 위원 활동, name: committees, widget: list, required: false }
 {%- for L in [['en', '영어(English)'], ['vi', '베트남어(Tiếng Việt)']] %}
       - label: "{{ L[1] }} 번역"
         name: {{ L[0] }}
@@ -211,7 +212,8 @@ collections:
           - { label: 주요 실적, name: achievements, widget: list, required: false }
           - { label: 강의·교육, name: lectures, widget: list, required: false }
           - { label: 실무 네트워크, name: network, widget: list, required: false }
-          - { label: 상훈·위원 활동, name: awards, widget: list, required: false }
+          - { label: 상훈, name: awards, widget: list, required: false }
+          - { label: 위원 활동, name: committees, widget: list, required: false }
 {%- endfor %}
       - { label: 관리 메모(화면 비노출), name: memo, widget: text, required: false }
       - { label: 비공개, name: draft, widget: boolean, default: false, required: false }

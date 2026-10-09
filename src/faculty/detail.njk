@@ -14,7 +14,7 @@ eleventyComputed:
 {%- set primaryName = d.name if lang == "ko" or not d.name_en else d.name_en -%}
 {%- set secondName = d.name_en if lang == "ko" else d.name -%}
 {%- set isSpeaker = d.category == "특강연사" -%}
-{%- set sections = ["keywords", "education", "career", "certifications", "papers", "books", "patents", "trademarks", "rnd", "non_rnd", "achievements", "lectures", "network", "awards"] -%}
+{%- set sections = ["keywords", "education", "career", "certifications", "papers", "books", "patents", "trademarks", "rnd", "non_rnd", "achievements", "lectures", "network", "awards", "committees"] -%}
 <div class="page-head">
   <div class="container">
     <nav class="breadcrumb" aria-label="{{ T.here }}">
@@ -46,10 +46,11 @@ eleventyComputed:
           projects: ((d.rnd or []) | length) + ((d.non_rnd or []) | length),
           achievements: (d.achievements or []) | length,
           certifications: (d.certifications or []) | length,
-          awards: (d.awards or []) | length
+          awards: (d.awards or []) | length,
+          committees: (d.committees or []) | length
         } %}
         {%- set tiles = [] %}
-        {%- for k in ["papers", "books", "patents", "projects", "achievements", "certifications", "awards"] %}{% set v = c[k] or auto[k] %}{% if v %}{% set tiles = (tiles.push([k, v]), tiles) %}{% endif %}{% endfor %}
+        {%- for k in ["papers", "books", "patents", "projects", "achievements", "certifications", "awards", "committees"] %}{% set v = c[k] or auto[k] %}{% if v %}{% set tiles = (tiles.push([k, v]), tiles) %}{% endif %}{% endfor %}
         {%- if tiles.length %}
         <ul class="profile-counts">
           {%- for t in tiles %}<li><strong>{{ t[1] }}</strong>{{ F.counts[t[0]] }}</li>{% endfor %}

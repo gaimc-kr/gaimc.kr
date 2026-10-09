@@ -85,6 +85,7 @@ rnd:
 awards:
 - 광주시청 표창장, 광주시청 (2019. 10.)
 - 외교부장관 표창장(대한민국긴급구호대 파견 활동 공적), 외교부 (2018. 12.)
+committees:
 - SDG16+ 분과간사, 국제개발협력학회(KAIDEC) (2019)
 en:
   industry: CEO, FORIS Company Co., Ltd.
@@ -113,6 +114,7 @@ en:
   awards:
   - Commendation, Gwangju City Hall (Oct 2019)
   - Minister of Foreign Affairs Commendation for service with the Korea Disaster Relief Team, Ministry of Foreign Affairs (Dec 2018)
+  committees:
   - Secretary, SDG16+ Division, Korea Association of International Development and Cooperation (KAIDEC) (2019)
 vi:
   industry: Giám đốc điều hành, Công ty TNHH FORIS Company
@@ -141,5 +143,6 @@ vi:
   awards:
   - Bằng khen của Tòa thị chính thành phố Gwangju (10/2019)
   - Bằng khen của Bộ trưởng Bộ Ngoại giao vì đóng góp trong Đội cứu trợ khẩn cấp Hàn Quốc, Bộ Ngoại giao (12/2018)
+  committees:
   - Thư ký Phân ban SDG16+, Hội Hợp tác Phát triển Quốc tế Hàn Quốc (KAIDEC) (2019)
 ---
