@@ -37,10 +37,22 @@ eleventyComputed:
           {% if d.office or d.phone %}<div><dt>{{ F.office }}</dt><dd>{{ d.office }}{% if d.office and d.phone %} · {% endif %}{% if d.phone %}<a href="tel:{{ d.phone | replace('-', '') }}">{{ d.phone }}</a>{% endif %}</dd></div>{% endif %}
           {% if d.email %}<div><dt>{{ F.email }}</dt><dd><a href="mailto:{{ d.email }}">{{ d.email }}</a></dd></div>{% endif %}
         </dl>
+        {#- 수치 타일: counts에 값이 있으면 그 값, 없으면 각 목록의 항목 수(과제 = R&D + 비R&D) -#}
         {%- set c = d.counts or {} %}
-        {%- if c.papers or c.books or c.patents or c.projects %}
+        {%- set auto = {
+          papers: (d.papers or []) | length,
+          books: (d.books or []) | length,
+          patents: (d.patents or []) | length,
+          projects: ((d.rnd or []) | length) + ((d.non_rnd or []) | length),
+          achievements: (d.achievements or []) | length,
+          certifications: (d.certifications or []) | length,
+          awards: (d.awards or []) | length
+        } %}
+        {%- set tiles = [] %}
+        {%- for k in ["papers", "books", "patents", "projects", "achievements", "certifications", "awards"] %}{% set v = c[k] or auto[k] %}{% if v %}{% set tiles = (tiles.push([k, v]), tiles) %}{% endif %}{% endfor %}
+        {%- if tiles.length %}
         <ul class="profile-counts">
-          {%- for k in ["papers", "books", "patents", "projects"] %}{% if c[k] %}<li><strong>{{ c[k] }}</strong>{{ F.counts[k] }}</li>{% endif %}{% endfor %}
+          {%- for t in tiles %}<li><strong>{{ t[1] }}</strong>{{ F.counts[t[0]] }}</li>{% endfor %}
         </ul>
         {%- endif %}
       </div>

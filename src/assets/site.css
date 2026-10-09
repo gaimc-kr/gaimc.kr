@@ -242,7 +242,7 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 .profile-facts div { display: grid; grid-template-columns: 110px 1fr; gap: 12px; }
 .profile-facts dt { font-weight: 700; color: var(--dark-blue); }
 .profile-facts dd { margin: 0; }
-.profile-counts { list-style: none; display: flex; gap: 12px; margin-top: 20px; }
+.profile-counts { list-style: none; display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
 .profile-counts li { background: var(--bg-sky); border-radius: 10px; padding: 10px 18px; color: var(--dark-blue); font-size: .9rem; }
 .profile-counts strong { display: block; font-size: 1.6rem; color: var(--blue); }
 .profile-sections { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0 48px; }
