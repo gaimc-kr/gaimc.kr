@@ -7,6 +7,8 @@ photo: /images/faculty/hong-sungsuk.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: 비즈스타일리스트㈜ 대표이사
+counts:
+  papers: 2
 education:
 - 한성대학교 스마트융합컨설팅학과 컨설팅학 박사
 - 한국공학대학교 전자제어공학과 석사

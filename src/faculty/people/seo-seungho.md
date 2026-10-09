@@ -7,6 +7,8 @@ photo: /images/faculty/seo-seungho.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)에스온시스템 신사업본부장
+counts:
+  papers: 3
 education:
 - 한성대학교 스마트융합컨설팅학과 박사
 - 한국방송통신대학교 에듀테크학과 석사

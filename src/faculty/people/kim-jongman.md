@@ -7,6 +7,9 @@ photo: /images/faculty/kim-jongman.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: 아이티씨지(주) 컨설팅사업본부 실장
+counts:
+  papers: 3
+  books: 1
 education:
 - 한성대학교 스마트융합컨설팅학과 박사
 - 한성대학교 스마트융합컨설팅학과 석사

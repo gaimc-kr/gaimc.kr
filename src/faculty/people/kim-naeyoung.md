@@ -7,6 +7,8 @@ photo: /images/faculty/kim-naeyoung.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: 드림플러스 대표
+counts:
+  papers: 3
 education:
 - 한성대학교 대학원 스마트융합컨설팅학과 박사
 - 숭실대학교 대학원 환경화학공학과

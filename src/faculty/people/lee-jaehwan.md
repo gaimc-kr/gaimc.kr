@@ -7,6 +7,9 @@ photo: /images/faculty/lee-jaehwan.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)서진테크놀로지 상무
+counts:
+  papers: 4
+  patents: 1
 education:
 - 한성대학교 지식서비스&컨설팅학과 컨설팅학 박사
 - 한국방송통신대학교 에듀테크학과 이학 석사
