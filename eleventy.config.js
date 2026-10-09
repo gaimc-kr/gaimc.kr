@@ -117,8 +117,11 @@ export default function (eleventyConfig) {
   });
   // 목록 항목 안의 DOI·URL을 새 창 링크로 바꿈(나머지 글자는 이스케이프)
   const esc = (x) => String(x).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  // URL은 링크로, **굵게**는 <strong>으로(논문 목록에서 본인 이름 강조용)
   eleventyConfig.addFilter("linkify", (text, newWin = "(새 창)") =>
-    esc(text).replace(/https?:\/\/[^\s<]+[^\s<.,)]/g, (u) => `<a href="${u}" target="_blank" rel="noopener">${u}<span class="sr-only">${newWin}</span></a>`)
+    esc(text)
+      .replace(/https?:\/\/[^\s<]+[^\s<.,)]/g, (u) => `<a href="${u}" target="_blank" rel="noopener">${u}<span class="sr-only">${newWin}</span></a>`)
+      .replace(/\*\*([^*\n]+?)\*\*/g, "<strong>$1</strong>")
   );
   eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
   eleventyConfig.addFilter("groupByYear", (arr) => {
