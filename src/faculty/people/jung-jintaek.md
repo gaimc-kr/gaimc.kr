@@ -102,7 +102,7 @@ en:
   - B.A. in Public Administration, Hankuk University of Foreign Studies
   career:
   - Dean, Graduate School of Knowledge Service & Consulting, Hansung University (Jan 2009 – present)
-  - Former President, Korea Consulting Association
+  - Former President, Korea Consulting Society (KOCOS)
   - Chair, ICT Investment Attraction Advisory Committee, Seoul Metropolitan Government (Jan 2013 – present)
   - Technology Evaluation Committee Member, KOICA (Jan 2013 – present)
   - Professor, Department of Public Administration, Hansung University
