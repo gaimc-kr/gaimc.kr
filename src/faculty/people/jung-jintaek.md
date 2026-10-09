@@ -14,7 +14,7 @@ education:
 - 한국외국어대학교 행정학 학사
 career:
 - 한성대학교 지식서비스&컨설팅대학원 대학원장 (2009. 1. ~ 현재)
-- 한국컨설팅학회 학회장 (2016. 3. ~ 현재)
+- 한국컨설팅학회 전 학회장
 - 서울시 ICT 투자유치 자문위원장 (2013. 1. ~ 현재)
 - KOICA 기술평가위원 (2013. 1. ~ 현재)
 - 한성대학교 행정학과 교수
@@ -92,7 +92,7 @@ committees:
 - 기획재정부 공기업 주요사업 평가위원
 - 입법고등고시 출제위원(정보체계론)
 - 한국디지털정책학회 편집위원장
-memo: '2026. 8. 세미나 프로필 기준. 대학원장 재임 기간 확인 완료(2026. 10. 2.). 2026. 10. 9. 논문·ODA 보강: ORCID(0009-0002-4674-5430, 한성대 Dean·Drexel Ph.D.)는 등록 논문 0건이라, 드라이브 이력서(이력서-정진택.hwp, 2023. 8.)·강의자료(교재.pptx, 정진택_발표자료_7_9.pptx의 교수 소개)·RISS·Crossref로 수집. RISS의 동명이인(고려대 기계공학, 항공우주 JinTaeg Jung, 한국복지대학·한국재활복지대학 광고홍보과, 군장대학·경복대학, 송원대, 방위사업청, 의학·토목 등)은 제외하고, 2026. 10. 9. 학과장 지시로 저자 소속이 한성대학교로 확인된 논문만 수록(RISS·KCI·earticle·학술지 원문 페이지·OpenAlex에서 정진택 본인의 한성대 소속 또는 jungjt@hansung.ac.kr 확인, 박사논문은 Drexel). 이력서의 SCI 논문 중 Toll Nonpayment(2017)는 Crossref 미등재, Project Manager Consultants(2016, IJST)는 Crossref 저자 정보는 누락이나 학술지 원문 페이지에서 공저자·한성대 소속 확인 후 연결. 이력서 ''''''''''''''''''''''''''''''''디지털정책 연구''''''''''''''''''''''''''''''''·''''''''''''''''''''''''''''''''디지털융복합연구''''''''''''''''''''''''''''''''는 같은 학술지(한국디지털정책학회)의 시기별 명칭이라 발행 연도 기준 명칭으로 표기. 주요 실적(ODA 3건)은 이력서의 ODA 실적 20건으로 대체(비R&D 과제). 이력서의 연락처·주소는 게재하지 않음. 2026. 10. 9. 학과장 확인: Drexel 박사(1997) 이후 줄곧 한성대 재직이므로 소속 한성대 기준으로 수록, 광고·방송 분야 동명이인(한국복지대학·군장대학 등) 논문 제외 확정. 한국행정학회(2000·2004)·한국디지털정책학회(2003·2004) 학술대회 발표는 활동 분야라 수록. DGOV 2004 서문은 LNCS 3289 조직위 명단에서 Program Co-chair ''''Jin-Taek Jung, Hansung University, Korea''''로 확인해 수록. RISS 지도교수 ''''정진택'''' 학위논문 51편(박사 18·석사 33)은 수집했으나 다른 전임교수와 통일해 게재하지 않음(학과장 결정). 한국통상정보학회 2025 춘계학술대회 발표 3편은 RISS에 소속 표기가 없으나 같은 학술대회에서 정진택이 환영사(A109855271)를 했고 공저자 김재중·강성오가 한성대 지식서비스&컨설팅대학원 석사(RISS 학위논문)로 확인되어 수록(정용은 소속 미확인). 2026. 10. 9. 학과장 확인: 한국통상정보학회 발표 논문 포함 확정'
+memo: '2026. 8. 세미나 프로필 기준. 대학원장 재임 기간 확인 완료(2026. 10. 2.). 2026. 10. 9. 논문·ODA 보강: ORCID(0009-0002-4674-5430, 한성대 Dean·Drexel Ph.D.)는 등록 논문 0건이라, 드라이브 이력서(이력서-정진택.hwp, 2023. 8.)·강의자료(교재.pptx, 정진택_발표자료_7_9.pptx의 교수 소개)·RISS·Crossref로 수집. RISS의 동명이인(고려대 기계공학, 항공우주 JinTaeg Jung, 한국복지대학·한국재활복지대학 광고홍보과, 군장대학·경복대학, 송원대, 방위사업청, 의학·토목 등)은 제외하고, 2026. 10. 9. 학과장 지시로 저자 소속이 한성대학교로 확인된 논문만 수록(RISS·KCI·earticle·학술지 원문 페이지·OpenAlex에서 정진택 본인의 한성대 소속 또는 jungjt@hansung.ac.kr 확인, 박사논문은 Drexel). 이력서의 SCI 논문 중 Toll Nonpayment(2017)는 Crossref 미등재, Project Manager Consultants(2016, IJST)는 Crossref 저자 정보는 누락이나 학술지 원문 페이지에서 공저자·한성대 소속 확인 후 연결. 이력서 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''디지털정책 연구''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''·''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''디지털융복합연구''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''는 같은 학술지(한국디지털정책학회)의 시기별 명칭이라 발행 연도 기준 명칭으로 표기. 주요 실적(ODA 3건)은 이력서의 ODA 실적 20건으로 대체(비R&D 과제). 이력서의 연락처·주소는 게재하지 않음. 2026. 10. 9. 학과장 확인: Drexel 박사(1997) 이후 줄곧 한성대 재직이므로 소속 한성대 기준으로 수록, 광고·방송 분야 동명이인(한국복지대학·군장대학 등) 논문 제외 확정. 한국행정학회(2000·2004)·한국디지털정책학회(2003·2004) 학술대회 발표는 활동 분야라 수록. DGOV 2004 서문은 LNCS 3289 조직위 명단에서 Program Co-chair ''''''''Jin-Taek Jung, Hansung University, Korea''''''''로 확인해 수록. RISS 지도교수 ''''''''정진택'''''''' 학위논문 51편(박사 18·석사 33)은 수집했으나 다른 전임교수와 통일해 게재하지 않음(학과장 결정). 한국통상정보학회 2025 춘계학술대회 발표 3편은 RISS에 소속 표기가 없으나 같은 학술대회에서 정진택이 환영사(A109855271)를 했고 공저자 김재중·강성오가 한성대 지식서비스&컨설팅대학원 석사(RISS 학위논문)로 확인되어 수록(정용은 소속 미확인). 2026. 10. 9. 학과장 확인: 한국통상정보학회 발표 논문 포함 확정. 2026. 10. 9. 한국컨설팅학회: 본인 이력서(2023. 8.)·2026. 8. 세미나 프로필에는 ''학회장(2016. 3.~현재)''이나 학회 홈페이지(kocos.biz 임원진) 현 학회장은 김태성(금오공대)이고 역대 회장 명단이 없어 학과장 지시로 기간 없이 ''전 학회장''으로 표기(퇴임 시기 확인되면 기간 추가)'
 en:
   academic: Department Chair and Distinguished Emeritus Professor, Department of Global AI Management Consulting, Hansung University
   industry: Chair, ICT Investment Attraction Advisory Committee, Seoul Metropolitan Government
@@ -102,7 +102,7 @@ en:
   - B.A. in Public Administration, Hankuk University of Foreign Studies
   career:
   - Dean, Graduate School of Knowledge Service & Consulting, Hansung University (Jan 2009 – present)
-  - President, Korea Consulting Association (Mar 2016 – present)
+  - Former President, Korea Consulting Association
   - Chair, ICT Investment Attraction Advisory Committee, Seoul Metropolitan Government (Jan 2013 – present)
   - Technology Evaluation Committee Member, KOICA (Jan 2013 – present)
   - Professor, Department of Public Administration, Hansung University
@@ -145,7 +145,7 @@ vi:
   - Cử nhân Hành chính công, Đại học Ngoại ngữ Hankuk
   career:
   - Hiệu trưởng Trường Sau đại học Dịch vụ Tri thức & Tư vấn, Đại học Hansung (01/2009 – nay)
-  - Chủ tịch Hội Tư vấn Hàn Quốc (03/2016 – nay)
+  - Nguyên Chủ tịch Hội Tư vấn Hàn Quốc
   - Chủ tịch Ủy ban cố vấn thu hút đầu tư ICT, Thành phố Seoul (01/2013 – nay)
   - Ủy viên đánh giá công nghệ, KOICA (01/2013 – nay)
   - Giáo sư, Khoa Hành chính công, Đại học Hansung
