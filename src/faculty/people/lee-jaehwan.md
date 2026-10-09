@@ -3,7 +3,7 @@ name: 이재환
 name_en: Lee, Jae Hwan
 category: 겸임교수
 position: 겸임교수
-memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사·석사논문 RISS 링크(T17174489·T15664172) 추가, 학술지명·권호·쪽 보완.'
+memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사·석사논문 RISS 링크(T17174489·T15664172) 추가, 학술지명·권호·쪽 보완. 2026. 10. 9. 한성대 학위논문 링크를 한성대 dCollection 상세 주소(원문 제공)로 교체.'
 photo: /images/faculty/lee-jaehwan.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
@@ -22,7 +22,7 @@ career:
 certifications:
 - e러닝지도사
 papers:
-- '[학위논문] 장애인의 인공지능 서비스 활용이 인공지능 기술에 대한 인식에 미치는 영향. (2025). 한성대학교 박사학위논문. https://www.riss.kr/link?id=T17174489'
+- '[학위논문] 장애인의 인공지능 서비스 활용이 인공지능 기술에 대한 인식에 미치는 영향. (2025). 한성대학교 박사학위논문. https://hansung.dcollection.net/srch/srchDetail/200000862680'
 - '[학위논문] 적정기술을 기반으로 한 이러닝 환경 설계. (2020). 한국방송통신대학교 석사학위논문. https://www.riss.kr/link?id=T15664172'
 - '[KCI] 장애인의 디지털기기정보 활용역량이 일상생활 만족도에 미치는 영향: 디지털 조력의 매개효과를 중심으로. (2024). 아시아태평양융합연구교류논문지, 10(11), 135-147. https://doi.org/10.47116/apjcri.2024.11.11'
 - '[국제] Empirical Case Study of AI Service and Application for People with Disabilities. (2024). Advances in Conceptual Modeling, Lecture Notes in Computer Science, 5-20. https://doi.org/10.1007/978-3-031-75599-6_1'
