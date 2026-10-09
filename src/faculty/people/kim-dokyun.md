@@ -30,8 +30,8 @@ career:
 - Autonomus Engineering, LLC 대표 (2021. 2. ~ 2022. 9.)
 - 성균관대학교 의료기기산업학과 겸임교수 (2022. 8. ~ 2025. 12.)
 papers:
-- '[SSCI] Kim, D., Yim, H., & Huber, T. P. (2026). Developing key ESG performance indicators for sustainable healthcare institutions: A modified Delphi study in South Korea. Journal of Health Organization and Management, 1-22 (advance online publication). https://doi.org/10.1108/JHOM-11-2025-0780'
-- '[KCI] Kim, D. (2026). A comparative case study of foreign market expansion strategies of AI-based Software as a Medical Device (SaMD) firms: The cases of VUNO and Lunit. Journal of Creativity and Innovation, 19, 118-188.'
+- '[SSCI] **Kim, D.**, Yim, H., & Huber, T. P. (2026). Developing key ESG performance indicators for sustainable healthcare institutions: A modified Delphi study in South Korea. Journal of Health Organization and Management, 1-22 (advance online publication). https://doi.org/10.1108/JHOM-11-2025-0780'
+- '[KCI] **Kim, D.** (2026). A comparative case study of foreign market expansion strategies of AI-based Software as a Medical Device (SaMD) firms: The cases of VUNO and Lunit. Journal of Creativity and Innovation, 19, 118-188.'
 books:
 - '[공저] 『ESG 완전정복 2』, 디자인하우스, 2025'
 - '[저서] 『의료기기 경영전략』, 2023'

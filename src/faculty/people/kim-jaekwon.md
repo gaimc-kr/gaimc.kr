@@ -32,9 +32,9 @@ certifications:
 - ESG 공급망 실사 전문가, 한국생산성본부
 - 소상공인 시장 매니저, 소상공인시장진흥공단
 papers:
-- '[KCI] 김재권, 주형근 (2026). AI 기반 텍스트 분석을 활용한 ESG 정보 공시 가독성이 수출 성과에 미치는 영향: 글로벌 공급망 관점을 중심으로. 무역경영연구, (41), 73-92. https://doi.org/10.66189/jgtm.41.4'
-- '[학위논문] 김재권 (2026). ESG 공시 가독성이 기업가치와 수출성과에 미치는 영향: 지배구조와 정보비대칭 완화의 매개효과 및 DX 역량의 조절효과(The Impact of ESG Disclosure Readability on Firm Value and Export Performance: Mediating Roles of Governance and Information Asymmetry Mitigation and Moderating Effect of DX Capability). 한성대학교 박사학위논문. https://www.riss.kr/link?id=T17551780'
-- '[학술대회] 김재권, 주형근 (2025). AI 기반의 ESG경영이 중소기업의 경쟁력에 미치는 영향: 경영진 의지 매개효과 중심으로. 한국통상정보학회 춘계학술대회, 146-151. https://www.riss.kr/link?id=A109855245'
+- '[KCI] **김재권**, 주형근 (2026). AI 기반 텍스트 분석을 활용한 ESG 정보 공시 가독성이 수출 성과에 미치는 영향: 글로벌 공급망 관점을 중심으로. 무역경영연구, (41), 73-92. https://doi.org/10.66189/jgtm.41.4'
+- '[학위논문] **김재권** (2026). ESG 공시 가독성이 기업가치와 수출성과에 미치는 영향: 지배구조와 정보비대칭 완화의 매개효과 및 DX 역량의 조절효과(The Impact of ESG Disclosure Readability on Firm Value and Export Performance: Mediating Roles of Governance and Information Asymmetry Mitigation and Moderating Effect of DX Capability). 한성대학교 박사학위논문. https://www.riss.kr/link?id=T17551780'
+- '[학술대회] **김재권**, 주형근 (2025). AI 기반의 ESG경영이 중소기업의 경쟁력에 미치는 영향: 경영진 의지 매개효과 중심으로. 한국통상정보학회 춘계학술대회, 146-151. https://www.riss.kr/link?id=A109855245'
 - '[학위논문] 김재권. 중소 금형업체에 맞는 스마트팩토리 구축에 관한 연구(사례 중심으로). 석사학위논문.'
 rnd:
 - 지역기업혁신성장 R&D지원사업, 중소벤처기업부, PM
