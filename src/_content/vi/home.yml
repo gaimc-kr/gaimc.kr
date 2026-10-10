@@ -8,7 +8,7 @@ stats:
     unit: người
     detail: 1 giáo sư danh dự đặc nhiệm, 4 cơ hữu, 3 thỉnh giảng, 6 kiêm nhiệm
   - label: Diễn giả khách mời
-    value: "20"
+    value: "12"
     unit: người
     detail: Chuyên gia từ doanh nghiệp và học thuật
   - label: Sinh viên

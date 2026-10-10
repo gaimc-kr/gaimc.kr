@@ -3,11 +3,11 @@ speakers:
   title: 특강연사
   title_en: Guest Speakers
   text: 학생들의 교육과 글로벌 IPP 활동에 함께하는 전문가들입니다.
-  count: 20
+  count: 12
   pending_text: 특강연사 명단은 프로필이 확정되는 대로 게재합니다.
   # 카드: name(이름), affiliation(본직, 예 ○○대학교 교수), fields(전문 분야 2~3개). 가나다순, "교수" 직함은 붙이지 않음
   list: []
-  memo: 20명 프로필 확정 후 list에 입력하고 count 수정
+  memo: count는 게재된 특강연사 프로필 수(2026. 10. 10. 12명, 예정 인원 약 20명). 프로필이 추가되면 함께 수정
 
 researchers:
   title: 연구원

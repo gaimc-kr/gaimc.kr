@@ -8,7 +8,7 @@ stats:
     unit: ""
     detail: 1 distinguished emeritus, 4 full-time, 3 visiting and 6 adjunct professors
   - label: Guest speakers
-    value: "20"
+    value: "12"
     unit: ""
     detail: Experts from industry and academia
   - label: Students
