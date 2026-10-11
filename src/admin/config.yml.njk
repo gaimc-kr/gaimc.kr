@@ -86,6 +86,7 @@ collections:
       - { label: 시작일, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 종료일, name: end_date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: false }
       - { label: 장소, name: place, widget: string }
+      - { label: 공식 홈페이지, name: website, widget: string, required: false, hint: "외부 행사의 공식 사이트 주소(https://…). 행사 정보 표에 새 창 링크로 표시" }
       - { label: 한 줄 요약, name: summary, widget: text }
       - { label: 상태, name: status, widget: select, options: [{ label: 예정, value: upcoming }, { label: 종료, value: done }], default: done }
       - { label: 대표 사진, name: cover, widget: image, required: false }

@@ -26,6 +26,7 @@ eleventyComputed:
     <dl class="info-table">
       <div><dt>{{ E.date }}</dt><dd><time datetime="{{ item.date | isoDate }}">{{ item.date | lrange(d.end_date, lang) }}</time></dd></div>
       <div><dt>{{ E.place }}</dt><dd>{{ d.place }}</dd></div>
+      {% if d.website %}<div><dt>{{ E.website }}</dt><dd><a href="{{ d.website }}" target="_blank" rel="noopener">{{ d.website | replace("https://", "") }}<span class="sr-only">{{ T.newWin }}</span></a></dd></div>{% endif %}
       {% if d.partners and d.partners.length %}<div><dt>{{ E.partners }}</dt><dd>{{ d.partners | join(", ") }}</dd></div>{% endif %}
     </dl>
     {% if d.summary %}<p class="intro-text">{{ d.summary }}</p>{% endif %}
