@@ -7,8 +7,8 @@ place: 일산 킨텍스(KINTEX) 제1전시장 2홀, 경기 고양
 website: https://industrialaiexpo.or.kr/main.asp
 summary: 재학생이 산업 현장의 AI 기술과 기업을 직접 만나는 단체 참관과 기업 상담 프로그램입니다.
 status: upcoming
-cover: ''
-cover_alt: ''
+cover: /images/events/industrial-ai-expo-2026.jpg
+cover_alt: '2026 산업AI EXPO 공식 홍보 이미지: 주제 Embodied AI: Beyond Physical AI, 2026. 10. 21.~23. 일산 킨텍스 제1전시장'
 gallery: []
 program:
 - time: 10. 21.(수)
@@ -29,10 +29,11 @@ topics:
 speakers: []
 faculty: []
 partners: []
-memo: '행사 정보는 산업AI EXPO 공식 홈페이지(industrialaiexpo.or.kr, 행사개요·전체일정 페이지, 2026. 10. 11. 확인) 기준. 주관은 한국산업지능화협회(KOIIA, 공식 사이트 문구), 주최 기관은 로고로만 표시되어 기재하지 않음. 일정은 공식 사이트에 "추후 변경될 수 있음"으로 안내됨. 학과 참관 계획(일자·참가 대상·집결 장소) 확정 시 본문 보완, 행사 후 결과로 전환(status를 done으로, 사진 추가)'
+memo: '행사 정보는 산업AI EXPO 공식 홈페이지(industrialaiexpo.or.kr, 행사개요·전체일정 페이지, 2026. 10. 11. 확인) 기준. 주관은 한국산업지능화협회(KOIIA, 공식 사이트 문구), 주최 기관은 로고로만 표시되어 기재하지 않음. 일정은 공식 사이트에 "추후 변경될 수 있음"으로 안내됨. 학과 참관 계획(일자·참가 대상·집결 장소) 확정 시 본문 보완, 행사 후 결과로 전환(status를 done으로, 사진 추가). 대표 이미지는 공식 홈페이지의 메인 비주얼·2026 배너를 합성한 홍보 이미지(2026. 10. 11.), 참관 사진으로 교체 예정'
 en:
   title: '2026 Industrial AI EXPO: Student Group Visit and Company Consultations'
   place: 'KINTEX Exhibition Center 1, Hall 2, Goyang, Gyeonggi-do'
+  cover_alt: '2026 Industrial AI EXPO official promotional image: theme "Embodied AI: Beyond Physical AI", October 21–23, 2026, KINTEX Exhibition Center 1'
   summary: A group visit and company consultation program in which students meet industrial AI technologies and companies in person.
   program:
   - time: Oct 21 (Wed)
@@ -63,6 +64,7 @@ en:
 vi:
   title: 'Triển lãm AI Công nghiệp 2026 (Industrial AI EXPO): tham quan theo đoàn và tư vấn với doanh nghiệp'
   place: 'KINTEX, Khu triển lãm 1, Sảnh 2, Goyang, tỉnh Gyeonggi'
+  cover_alt: 'Hình ảnh quảng bá chính thức của Industrial AI EXPO 2026: chủ đề "Embodied AI: Beyond Physical AI", 21–23/10/2026, KINTEX Khu triển lãm 1'
   summary: Chương trình tham quan theo đoàn và tư vấn với doanh nghiệp, giúp sinh viên trực tiếp tiếp cận công nghệ AI công nghiệp và doanh nghiệp.
   program:
   - time: 21/10 (thứ Tư)
