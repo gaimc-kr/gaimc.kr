@@ -13,7 +13,7 @@ overview:
   - label: Đợt tuyển sinh
     value: Chỉ tuyển trong đợt chính quy, không có đợt tuyển bổ sung.
   - label: Đơn vị tuyển sinh
-    value: Chỉ tiêu được tuyển theo tổng chỉ tiêu cấp cho khoa, và thí sinh được tuyển vào một trong hai chuyên ngành: Tư vấn Quản trị Toàn cầu (chương trình song ngữ) hoặc Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh).
+    value: "Chỉ tiêu được tuyển theo tổng chỉ tiêu cấp cho khoa, và thí sinh được tuyển vào một trong hai chuyên ngành: Tư vấn Quản trị Toàn cầu (chương trình song ngữ) hoặc Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh)."
 schedule_title: Lịch tuyển sinh chính quy kỳ xuân 2027
 schedule:
   - item: Nộp hồ sơ
