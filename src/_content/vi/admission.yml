@@ -13,7 +13,7 @@ overview:
   - label: Đợt tuyển sinh
     value: Chỉ tuyển trong đợt chính quy, không có đợt tuyển bổ sung.
   - label: Đơn vị tuyển sinh
-    value: Tuyển theo khoa, không tuyển theo chuyên ngành.
+    value: Tuyển theo 2 chuyên ngành, không tuyển theo khoa.
 schedule_title: Lịch tuyển sinh chính quy kỳ xuân 2027
 schedule:
   - item: Nộp hồ sơ
