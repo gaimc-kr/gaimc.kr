@@ -7,13 +7,13 @@ overview:
   - label: Chuyên ngành
     value: Chuyên ngành Tư vấn Quản trị Toàn cầu (chương trình song ngữ), Chuyên ngành Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh)
   - label: Chỉ tiêu
-    value: 100 người (tổng hai chuyên ngành)
+    value: 100 người (tổng chỉ tiêu của khoa)
   - label: Thời điểm nhập học
     value: Tháng 3 năm 2027 (kỳ xuân). Sinh viên nhập học vào tháng 3 và tháng 9 hằng năm.
   - label: Đợt tuyển sinh
     value: Chỉ tuyển trong đợt chính quy, không có đợt tuyển bổ sung.
   - label: Đơn vị tuyển sinh
-    value: Tuyển theo 2 chuyên ngành, không tuyển theo khoa.
+    value: Chỉ tiêu được tuyển theo tổng chỉ tiêu cấp cho khoa, và thí sinh được tuyển vào một trong hai chuyên ngành: Tư vấn Quản trị Toàn cầu (chương trình song ngữ) hoặc Tư vấn Quản trị AI Toàn cầu (chương trình tiếng Anh).
 schedule_title: Lịch tuyển sinh chính quy kỳ xuân 2027
 schedule:
   - item: Nộp hồ sơ
