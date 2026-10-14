@@ -5,7 +5,7 @@ category: 특강연사
 position: 특강연사
 photo: /images/faculty/kim-hyunsik.jpg
 has_profile: true
-memo: '2026. 10. 14. 드라이브 교직원 폴더의 「교수_프로필_제출_김현식.docx」(양식 프로필) 기준으로 전면 갱신(최초 게재는 2026. 10. 12. 「김현식_이력서_영남대학교 제출.pdf」 기준). 영문 성명은 양식 표기(Hyunsik Kim). 공개용 이메일은 양식에 기재된 것(integral_kim@naver.com). 현직은 양식 기준 학계 한성대학교 박사과정, 산업계 ㈜포브크리에이트(이력서 영문 표기 POV Creator) ESG센터장. 경력은 양식 5건(기간 포함)으로 교체하고, 이력서의 업무 설명은 같은 경력에만 유지. 이력서에만 있던 aSSIST 노사ESG 부주임교수는 비R&D(노사ESG 최고위과정), 한국인터텍 ESG 고문·한국생산성본부 자문위원은 위원 활동(양식 기준 명칭·기간)으로 옮기고, 한국경영기술지도사회 ESG 경영지원단 단장은 양식에 없어 제외. 자격은 양식대로 경영지도사만(이력서의 "공공망ESG평가사"·AI리터러시 지도자는 양식에 없어 제외). 석사학위논문은 RISS(T14184806, 경북대학교 경영학과 2016. 8.)로 확인해 공식 제목으로 기재(양식 표기 "CSV(Creating Shared Value)핵심요인 분석을…", 2015. 12.). 학술지 논문은 DOI(10.71429/kmcr.2026.26.01.13, 공저 차종석)로 확인. 도서 4권은 교보문고로 확인한 공식 서명·출판사 유지(양식 표기: 『노동과 ESG』 경제경영출판사 → 공식 서울경제경영, 『우리 회사는 왜 안될까? - CSR잘하는 기업 만들기』 → 공식 『우리 회사는 왜 안 될까?: CSR 잘하는 회사 만들기』). 사진: 2026. 10. 14. 새 증명사진(김현식_증명사진_2026.jpg, 1800×2400) 받음, 학과장 판단 전까지 기존 사진(이력서 PDF 내 사진 확대) 유지'
+memo: '2026. 10. 14. 드라이브 교직원 폴더의 「교수_프로필_제출_김현식.docx」(양식 프로필) 기준으로 전면 갱신(최초 게재는 2026. 10. 12. 「김현식_이력서_영남대학교 제출.pdf」 기준). 영문 성명은 양식 표기(Hyunsik Kim). 공개용 이메일은 양식에 기재된 것(integral_kim@naver.com). 현직은 양식 기준 학계 한성대학교 박사과정, 산업계 ㈜포브크리에이트(이력서 영문 표기 POV Creator) ESG센터장. 경력은 양식 5건(기간 포함)으로 교체하고, 이력서의 업무 설명은 같은 경력에만 유지. 이력서에만 있던 aSSIST 노사ESG 부주임교수는 비R&D(노사ESG 최고위과정), 한국인터텍 ESG 고문·한국생산성본부 자문위원은 위원 활동(양식 기준 명칭·기간)으로 옮기고, 한국경영기술지도사회 ESG 경영지원단 단장은 양식에 없어 제외. 자격은 양식의 경영지도사에 이력서의 "공공망ESG평가사"(이력서 표기 그대로, 공식 자격명 미확인)·AI리터러시 지도자를 더해 3개(2026. 10. 14. 학과장 지시로 복원). 석사학위논문은 RISS(T14184806, 경북대학교 경영학과 2016. 8.)로 확인해 공식 제목으로 기재(양식 표기 "CSV(Creating Shared Value)핵심요인 분석을…", 2015. 12.). 학술지 논문은 DOI(10.71429/kmcr.2026.26.01.13, 공저 차종석)로 확인. 도서 4권은 교보문고로 확인한 공식 서명·출판사 유지(양식 표기: 『노동과 ESG』 경제경영출판사 → 공식 서울경제경영, 『우리 회사는 왜 안될까? - CSR잘하는 기업 만들기』 → 공식 『우리 회사는 왜 안 될까?: CSR 잘하는 회사 만들기』). 사진: 2026. 10. 14. 학과장 지시로 새 증명사진(김현식_증명사진_2026.jpg, 1800×2400)을 400×500으로 맞춰 교체'
 industry: ㈜포브크리에이트 ESG센터장
 academic: 한성대학교 지식서비스&컨설팅학과 박사과정
 email: integral_kim@naver.com
@@ -25,6 +25,8 @@ career:
 - LG전자㈜ 조직문화그룹장 (2007. 1. ~ 2009. 7.) – 조직가치 내재화, 임직원 참여 프로그램, 사내 캠페인과 변화관리 주도
 certifications:
 - 경영지도사(인적자원관리), 중소벤처기업부 (2018. 1.)
+- 공공망ESG평가사, 한국생산성본부 (2026. 1.)
+- AI리터러시 지도자, 상상우리 (2026. 8.)
 papers:
 - '[KCI] **김현식**, 차종석 (2026). 한국 10대 기업의 지속가능 인적자원관리에 관한 탐색적 연구: ROC 모델과 ESG 공시 자료에 근거. 경영컨설팅연구, 26(1), 147-159. https://doi.org/10.71429/kmcr.2026.26.01.13'
 - '[학위논문] **김현식** (2016). ‘CSV(Creating Shared Value) 핵심요인’ 분석을 통한 한국기업 활동에 대한 실증적 고찰. 경북대학교 석사학위논문. https://www.riss.kr/link?id=T14184806'
@@ -66,6 +68,8 @@ en:
   - Head, Organizational Culture Group, LG Electronics (Jan 2007 – Jul 2009) – embedding corporate values, employee engagement programs, internal campaigns and change management
   certifications:
   - Certified Management Consultant (Human Resource Management), Ministry of SMEs and Startups (Jan 2018)
+  - 'ESG assessor certificate ("공공망ESG평가사"), Korea Productivity Center (Jan 2026)'
+  - AI Literacy Instructor, Sangsangwoori (Aug 2026)
   non_rnd:
   - Developing a family-friendly management training program, Korea Institute for Healthy Family, lead (2026)
   - Mid- to long-term ESG strategy, EP Camtech Co., Ltd., lead (2025)
@@ -99,6 +103,8 @@ vi:
   - Trưởng Nhóm Văn hóa tổ chức, LG Electronics (1/2007 – 7/2009) – lan tỏa giá trị tổ chức, chương trình gắn kết nhân viên, chiến dịch nội bộ và quản lý thay đổi
   certifications:
   - Chuyên gia tư vấn quản lý (Quản trị nhân sự), Bộ Doanh nghiệp vừa và nhỏ và Khởi nghiệp (1/2018)
+  - 'Chứng chỉ đánh giá viên ESG ("공공망ESG평가사"), Trung tâm Năng suất Hàn Quốc (1/2026)'
+  - Giảng viên năng lực AI (AI Literacy), Sangsangwoori (8/2026)
   non_rnd:
   - Phát triển chương trình đào tạo quản trị thân thiện với gia đình, Viện Gia đình Lành mạnh Hàn Quốc, chủ nhiệm (2026)
   - Xây dựng chiến lược ESG trung và dài hạn, EP Camtech Co., Ltd., chủ nhiệm (2025)
