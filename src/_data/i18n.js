@@ -25,7 +25,7 @@ const ko = {
   footer: { office: "학과 사무실", gradOffice: "대학원교학팀", dept: "학과", hansung: "한성대학교 바로가기", graduate: "대학원 홈페이지", contact: "문의", privacy: "개인정보처리방침", emailPolicy: "이메일무단수집거부" },
   quick: "QUICK MENU",
   top: "맨 위로",
-  btn: { admission: "입학안내", contact: "문의하기", more: "자세히 보기", viewMore: "View More", courses: "교육과정 보기", allFaculty: "교수진 전체 보기", partners: "협력 현황", speakers: "특강연사 보기", gradAdmission: "대학원 입학 안내", inquiry: "입학 문의", home: "홈으로" },
+  btn: { admission: "입학안내", contact: "문의하기", more: "자세히 보기", viewMore: "View More", courses: "교육과정 보기", allFaculty: "교수진 전체 보기", partners: "협력 현황", speakers: "특강연사 보기", adjuncts: "겸임교수 보기", gradAdmission: "대학원 입학 안내", inquiry: "입학 문의", home: "홈으로" },
   homeSec: {
     audience: "이용자별 바로가기", atGlance: "한눈에 보는 학과", learn: "무엇을 배우나요", recent: "최근 활동", newsroom: "뉴스룸",
     partners: "협력 기관", faculty: "교수진", ctaTitle: "한국에서 배우고, 세계에서 일하세요", ctaText: "입학 자격과 일정, 지원 방법을 확인하고 궁금한 점은 문의해 주십시오.",
@@ -83,7 +83,7 @@ const en = {
   footer: { office: "Department office", gradOffice: "Graduate School Academic Affairs Team", dept: "Department", hansung: "Hansung University", graduate: "Graduate School", contact: "Contact", privacy: "Privacy Policy", emailPolicy: "No Unauthorized Email Collection" },
   quick: "QUICK MENU",
   top: "Back to top",
-  btn: { admission: "Admission", contact: "Contact us", more: "Learn more", viewMore: "View More", courses: "View curriculum", allFaculty: "All faculty", partners: "Our partners", speakers: "Guest speakers", gradAdmission: "Graduate admission", inquiry: "Admission inquiry", home: "Go to home" },
+  btn: { admission: "Admission", contact: "Contact us", more: "Learn more", viewMore: "View More", courses: "View curriculum", allFaculty: "All faculty", partners: "Our partners", speakers: "Guest speakers", adjuncts: "Adjunct professors", gradAdmission: "Graduate admission", inquiry: "Admission inquiry", home: "Go to home" },
   homeSec: {
     audience: "Quick links by visitor", atGlance: "At a Glance", learn: "What You Learn", recent: "Recent Activities", newsroom: "News",
     partners: "Partner Institutions", faculty: "Faculty", ctaTitle: "Study in Korea, work around the world", ctaText: "Check eligibility, schedules and how to apply, and contact us with any questions.",
@@ -141,7 +141,7 @@ const vi = {
   footer: { office: "Văn phòng khoa", gradOffice: "Phòng Đào tạo Sau đại học", dept: "Khoa", hansung: "Đại học Hansung", graduate: "Trang Sau đại học", contact: "Liên hệ", privacy: "Chính sách bảo mật", emailPolicy: "Từ chối thu thập email trái phép" },
   quick: "QUICK MENU",
   top: "Lên đầu trang",
-  btn: { admission: "Tuyển sinh", contact: "Liên hệ", more: "Xem thêm", viewMore: "View More", courses: "Xem chương trình", allFaculty: "Toàn bộ giảng viên", partners: "Đối tác hợp tác", speakers: "Diễn giả khách mời", gradAdmission: "Tuyển sinh sau đại học", inquiry: "Hỏi về tuyển sinh", home: "Về trang chủ" },
+  btn: { admission: "Tuyển sinh", contact: "Liên hệ", more: "Xem thêm", viewMore: "View More", courses: "Xem chương trình", allFaculty: "Toàn bộ giảng viên", partners: "Đối tác hợp tác", speakers: "Diễn giả khách mời", adjuncts: "Giáo sư kiêm nhiệm", gradAdmission: "Tuyển sinh sau đại học", inquiry: "Hỏi về tuyển sinh", home: "Về trang chủ" },
   homeSec: {
     audience: "Lối tắt theo đối tượng", atGlance: "Tổng quan về khoa", learn: "Bạn sẽ học gì", recent: "Hoạt động gần đây", newsroom: "Tin tức",
     partners: "Cơ sở hợp tác", faculty: "Giảng viên", ctaTitle: "Học tại Hàn Quốc, làm việc trên toàn thế giới", ctaText: "Hãy xem điều kiện, lịch tuyển sinh và cách nộp hồ sơ, và liên hệ với chúng tôi nếu có thắc mắc.",

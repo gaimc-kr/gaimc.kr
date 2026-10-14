@@ -129,7 +129,7 @@ permalink: "{{ langs.prefix[lang] }}/ipp/"
         <h2>{{ TI.experts }}</h2>
         <p>{{ I.experts_text }}</p>
       </div>
-      <a class="btn btn-primary" href="{{ '/faculty/#speakers' | L(lang) }}">{{ T.btn.speakers }} <span aria-hidden="true">+</span></a>
+      <div class="btn-row"><a class="btn btn-primary" href="{{ '/faculty/#cat-4' | L(lang) }}">{{ T.btn.adjuncts }} <span aria-hidden="true">+</span></a> <a class="btn btn-outline" href="{{ '/faculty/#speakers' | L(lang) }}">{{ T.btn.speakers }} <span aria-hidden="true">+</span></a></div>
     </div>
     <p class="note">{{ TI.officialPre }}<a href="{{ S.links.ipp }}" target="_blank" rel="noopener">{{ TI.officialLink }}<span class="sr-only">{{ T.newWin }}</span></a>{{ TI.officialPost }}</p>
   </div>

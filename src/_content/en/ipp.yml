@@ -1,6 +1,6 @@
 preparing_text: Details of the Global IPP program are being prepared and will be posted here once confirmed.
-intro: "The Global IPP is a field-linked system that the department designs with companies and organizations and runs directly, so that international students move from study (Off-JT) to work experience (OJT) and employment in Korea (job placement). It is not a separate job program but the framework that ties education, student support and career guidance into one flow."
-background: "Since it began admitting international students in September 2024, the department has run on the Global IPP model. It benchmarks the experience of Hansung University's work-study program (IPP), while the department itself operates the program through its faculty and researchers. As policies such as the region-specific visa broaden the paths for international students to work and settle in Korean regions, the department aims to connect this environment to students' career plans."
+intro: "The Global IPP is a field-linked system that the department designs with companies and organizations and runs directly, so that international students move from study (Off-JT) to work experience (OJT) and employment in Korea (job placement). It is not a separate job program but the framework that ties education, student support and career guidance into one flow. Field links are led by adjunct professors who run companies or work in industry, and guest speakers join them in connecting students to jobs."
+background: "Since it began admitting international students in September 2024, the department has run on the Global IPP model. It benchmarks the experience of Hansung University's work-study program (IPP), while the department itself runs the program: adjunct professors from industry lead the field links and researchers dedicated by nationality support student management. As policies such as the region-specific visa broaden the paths for international students to work and settle in Korean regions, the department aims to connect this environment to students' career plans."
 structure_text: "The three-stage structure of Hansung University's work-study program (IPP), education → field → job placement, is applied to graduate international students."
 compare:
   - item: Target
@@ -8,16 +8,16 @@ compare:
     global: International master's students (final-semester students first)
   - item: Off-JT (education)
     hansung: On-campus job training
-    global: Regular curriculum, practical training, special lectures
+    global: Regular curriculum, practical mentoring by adjunct professors, special lectures
   - item: OJT (field)
     hansung: Training at partner companies
-    global: Company consultations, practicum, company visits
+    global: Company consultations through adjunct professors, practicum, company visits
   - item: Job placement
     hansung: Regular employment at the training company
     global: Matching interviews and hiring; support for changing residence status after graduation
   - item: Operator
     hansung: Hansung IPP Center
-    global: The department (faculty and researchers)
+    global: The department (faculty led by adjunct professors, and researchers)
 stages:
   - name: Preparation
     period: Spring 2026
@@ -53,12 +53,12 @@ steps:
   - title: Preparation
     text: "Standardize résumés and cover letters based on the official course titles on the transcript, and prepare Korean–English profiles. Korean language support runs in parallel."
   - title: Field contact
-    text: "Students meet companies in person, for example at the group visit and company consultations at the 2026 Industrial AI EXPO (October 21–23, KINTEX), and present what they learned."
+    text: "Students meet companies in person, for example on company visits led by adjunct professors and at the group visit and company consultations at the 2026 Industrial AI EXPO (October 21–23, KINTEX), and present what they learned."
     event: industrial-ai-expo
   - title: Company sourcing
-    text: "Working with regional bodies such as technoparks, the industrial complex corporation and chambers of commerce, the department finds companies that want to hire international graduates and introduces only those whose working conditions have been checked."
+    text: "Drawing mainly on the industry networks of adjunct professors, together with guest speakers and regional bodies such as technoparks, the industrial complex corporation and chambers of commerce, the department finds companies that want to hire international graduates and introduces only those whose working conditions have been checked."
   - title: Matching and hiring
-    text: "Company visits and matching interviews lead to a review of employment contract terms."
+    text: "Adjunct professors join company visits and matching interviews, and employment contract terms are reviewed."
   - title: Settlement support
     text: "Around graduation, the department guides the procedures for changing residence status and confirms that students have started work and settled in."
 visa_paths:
@@ -87,12 +87,14 @@ team:
     text: Planning, operation and performance management; liaison with companies and organizations
   - role: Dean of the Graduate School
     text: Accompanies meetings with external partners and provides graduate-school-level support
-  - role: Faculty
-    text: Résumé review, company referrals, interview and event supervision, cohort advising
+  - role: Adjunct professors
+    text: Lead field-linked employment; practical mentoring, sourcing and referring companies through their industry networks, and joining company visits and matching interviews
+  - role: Full-time and visiting professors
+    text: Curriculum, résumé review, event supervision and cohort advising
   - role: Researchers
     text: Dedicated support and administration for Vietnamese and Bangladeshi students
   - role: Guest speakers
-    text: Industry lectures and company introductions
+    text: Industry lectures, job mentoring and company introductions together with adjunct professors
   - role: Partner institutions
     text: Partner universities abroad (admission and career links), companies and organizations in Korea (field contact and company sourcing), and regional bodies (technoparks, the industrial complex corporation, chambers of commerce and local governments)
   - role: Hansung University IPP Center
@@ -117,10 +119,10 @@ benefits:
   - who: Students
     text: Plan a lawful path to employment and settlement after graduation and show job skills through a standardized profile.
   - who: Companies
-    text: Meet master's-level talent with verified study and residence records through prior consultations.
+    text: Meet master's-level talent with verified study and residence records through prior consultations with adjunct professors.
   - who: Regions
     text: Connect regional companies' demand for talent with the settlement of international graduates.
   - who: Hansung University
     text: Clear career prospects after graduation help attract new international students and broaden the industry–academia–government network.
-experts_text: Guest speakers from industry and academia take part in the Global IPP.
+experts_text: Adjunct professors who run companies and work in industry lead field-linked employment, joined by guest speakers from industry and academia.
 status_note: This page describes the status as of October 2026. Results of the implementation phase and detailed plans will be updated as they are confirmed.

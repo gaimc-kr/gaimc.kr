@@ -142,6 +142,7 @@ ul, ol { margin: 0; padding: 0; }
 .feature-band h2 { margin-bottom: .35em; }
 .feature-band p { margin: 0; max-width: 46em; }
 .feature-band .btn { flex-shrink: 0; }
+.feature-band .btn-row { margin-top: 0; flex-shrink: 0; }
 
 /* 무엇을 배우나요 */
 .learn-grid { list-style: none; display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
