@@ -3,11 +3,12 @@ name: 이재환
 name_en: Lee, Jae Hwan
 category: 겸임교수
 position: 겸임교수
-memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사·석사논문 RISS 링크(T17174489·T15664172) 추가, 학술지명·권호·쪽 보완. 2026. 10. 9. 한성대 학위논문 링크를 한성대 dCollection 상세 주소(원문 제공)로 교체.'
+memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사·석사논문 RISS 링크(T17174489·T15664172) 추가, 학술지명·권호·쪽 보완. 2026. 10. 9. 한성대 학위논문 링크를 한성대 dCollection 상세 주소(원문 제공)로 교체. 2026. 10. 14. 학과장 지시로 공개용 이메일 게재(jh4126@naver.com, 출처: 드라이브 「발제자소개_이재환_한글.docx」).'
 photo: /images/faculty/lee-jaehwan.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)서진테크놀로지 상무
+email: jh4126@naver.com
 counts:
   papers: 4
   patents: 1

@@ -479,3 +479,4 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
   .hero h1 { color: var(--dark-blue); }
 }
 .researcher-room { display: block; margin-top: 4px; font-size: .9rem; color: var(--text-sub, #4a5568); }
+.researcher-email { margin-top: 4px; font-size: .9rem; word-break: break-all; }

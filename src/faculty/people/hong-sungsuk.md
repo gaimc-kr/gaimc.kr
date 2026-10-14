@@ -3,11 +3,12 @@ name: 홍성숙
 name_en: Hong, Sung Suk
 category: 겸임교수
 position: 겸임교수
-memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사논문 RISS 링크(T17174467) 추가, 학술지 연도·권호·쪽 RISS 보완. 2026. 10. 9. 한성대 학위논문 링크를 한성대 dCollection 상세 주소(원문 제공)로 교체.'
+memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 박사논문 RISS 링크(T17174467) 추가, 학술지 연도·권호·쪽 RISS 보완. 2026. 10. 9. 한성대 학위논문 링크를 한성대 dCollection 상세 주소(원문 제공)로 교체. 2026. 10. 14. 학과장 지시로 공개용 이메일 게재(mevivian@naver.com, 출처: 드라이브 「발제자소개_홍성숙_한글영문.docx」).'
 photo: /images/faculty/hong-sungsuk.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: 비즈스타일리스트㈜ 대표이사
+email: mevivian@naver.com
 counts:
   papers: 2
 education:

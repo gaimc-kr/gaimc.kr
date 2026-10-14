@@ -3,11 +3,12 @@ name: 서승호
 name_en: Seo, Seungho
 category: 겸임교수
 position: 겸임교수
-memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 학술지명·권호·쪽은 Crossref·RISS 기록으로 보완.'
+memo: '2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 학술지명·권호·쪽은 Crossref·RISS 기록으로 보완. 2026. 10. 14. 학과장 지시로 공개용 이메일 게재(hiena28@naver.com, 출처: 드라이브 「발제자소개_서승호_한글.docx」).'
 photo: /images/faculty/seo-seungho.jpg
 has_profile: true
 academic: 한성대학교 글로벌AI경영컨설팅학과 겸임교수
 industry: (주)에스온시스템 신사업본부장
+email: hiena28@naver.com
 counts:
   papers: 3
 education:
