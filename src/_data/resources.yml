@@ -10,28 +10,28 @@ groups:
         files:
           - label: A4 4면 보기용
             file: /files/brochure/gaimc-brochure-ko-a4.pdf
-            info: PDF · 4쪽 · 318KB
+            info: PDF · 4쪽 · 357KB
           - label: A3 양면 인쇄용
             file: /files/brochure/gaimc-brochure-ko-a3.pdf
-            info: PDF · 2쪽 · 321KB
+            info: PDF · 2쪽 · 358KB
       - lang_label: English
         lang: en
         cover: /images/resources/brochure-en.jpg
         files:
           - label: A4 4면 보기용
             file: /files/brochure/gaimc-brochure-en-a4.pdf
-            info: PDF · 4쪽 · 263KB
+            info: PDF · 4쪽 · 301KB
           - label: A3 양면 인쇄용
             file: /files/brochure/gaimc-brochure-en-a3.pdf
-            info: PDF · 2쪽 · 266KB
+            info: PDF · 2쪽 · 301KB
       - lang_label: Tiếng Việt
         lang: vi
         cover: /images/resources/brochure-vi.jpg
         files:
           - label: A4 4면 보기용
             file: /files/brochure/gaimc-brochure-vi-a4.pdf
-            info: PDF · 4쪽 · 280KB
+            info: PDF · 4쪽 · 319KB
           - label: A3 양면 인쇄용
             file: /files/brochure/gaimc-brochure-vi-a3.pdf
-            info: PDF · 2쪽 · 283KB
-memo: 2026. 10. 16. 학과장 요청으로 개설. 브로셔 원본은 드라이브 '학과브로셔' 폴더(2026. 10. 15. PDF 6개, 편집용 pptx 3개). 브로셔가 바뀌면 같은 파일 이름으로 교체
+            info: PDF · 2쪽 · 318KB
+memo: 2026. 10. 16. 학과장 요청으로 개설. 브로셔 원본은 드라이브 '학과브로셔' 폴더(2026. 10. 15. PDF 6개, 편집용 pptx 3개). 브로셔가 바뀌면 같은 파일 이름으로 교체. 2026. 10. 16. 학과장 지시로 3면(글로벌 IPP) 수정본으로 교체 — 운영 원칙 '취업 알선 비용 없음' → '겸임교수 현장 연계', 겸임교수 중심 현장 연계(소개·STEP 1·2·운영 주체·기업 발굴·매칭) 반영

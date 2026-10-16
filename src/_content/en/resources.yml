@@ -9,27 +9,27 @@ groups:
         files:
           - label: A4 four-page (screen)
             file: /files/brochure/gaimc-brochure-ko-a4.pdf
-            info: PDF · 4 pages · 318 KB
+            info: PDF · 4 pages · 357 KB
           - label: A3 double-sided (print)
             file: /files/brochure/gaimc-brochure-ko-a3.pdf
-            info: PDF · 2 pages · 321 KB
+            info: PDF · 2 pages · 358 KB
       - lang_label: English
         lang: en
         cover: /images/resources/brochure-en.jpg
         files:
           - label: A4 four-page (screen)
             file: /files/brochure/gaimc-brochure-en-a4.pdf
-            info: PDF · 4 pages · 263 KB
+            info: PDF · 4 pages · 301 KB
           - label: A3 double-sided (print)
             file: /files/brochure/gaimc-brochure-en-a3.pdf
-            info: PDF · 2 pages · 266 KB
+            info: PDF · 2 pages · 301 KB
       - lang_label: Tiếng Việt (Vietnamese)
         lang: vi
         cover: /images/resources/brochure-vi.jpg
         files:
           - label: A4 four-page (screen)
             file: /files/brochure/gaimc-brochure-vi-a4.pdf
-            info: PDF · 4 pages · 280 KB
+            info: PDF · 4 pages · 319 KB
           - label: A3 double-sided (print)
             file: /files/brochure/gaimc-brochure-vi-a3.pdf
-            info: PDF · 2 pages · 283 KB
+            info: PDF · 2 pages · 318 KB
