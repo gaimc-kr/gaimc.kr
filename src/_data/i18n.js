@@ -10,7 +10,7 @@ const ko = {
   home: "홈",
   here: "현재 위치",
   homeAria: "홈",
-  nav: { about: "학과소개", faculty: "교수진", courses: "교육과정", ipp: "글로벌 IPP", partners: "협력 기관", events: "활동·행사", news: "뉴스룸", admission: "입학안내", contact: "문의" },
+  nav: { about: "학과소개", faculty: "교수진", courses: "교육과정", ipp: "글로벌 IPP", partners: "협력 기관", events: "활동·행사", news: "뉴스룸", admission: "입학안내", contact: "문의", resources: "자료실" },
   pages: {
     about: { title: "학과소개", eyebrow: "ABOUT", lead: "AI와 컨설팅으로 글로벌 학생과 산업 현장을 연결합니다." },
     faculty: { title: "교수진", eyebrow: "FACULTY", lead: "학술 연구와 산업 현장 경험을 겸비한 교수진이 함께합니다." },
@@ -21,6 +21,7 @@ const ko = {
     news: { title: "뉴스룸", eyebrow: "NEWSROOM", lead: "행사 결과, 협력 소식, 수상, 언론 보도 등 학과 소식을 전합니다." },
     admission: { title: "입학안내", eyebrow: "ADMISSION", lead: "글로벌AI경영컨설팅학과는 외국인유학생 전담학과입니다." },
     contact: { title: "문의", eyebrow: "CONTACT", lead: "입학, 협력, 학과 활동에 관한 문의를 받습니다." },
+    resources: { title: "자료실", eyebrow: "RESOURCES", lead: "학과 브로셔 등 학과 소개 자료를 내려받을 수 있습니다." },
   },
   footer: { office: "학과 사무실", gradOffice: "대학원교학팀", dept: "학과", hansung: "한성대학교 바로가기", graduate: "대학원 홈페이지", contact: "문의", privacy: "개인정보처리방침", emailPolicy: "이메일무단수집거부" },
   quick: "QUICK MENU",
@@ -53,6 +54,7 @@ const ko = {
   events: { upcoming: "예정", eyebrowUpcoming: "UPCOMING", eyebrow: "EVENT", date: "일시", place: "장소", website: "공식 홈페이지", partners: "함께한 기관", program: "프로그램", topics: "발표 주제", speakers: "연사·발표자", gallery: "활동 사진", back: "활동·행사 목록" },
   news: { related: "관련 링크", back: "뉴스룸 목록", officialPre: "학사·입학·장학 등 공식 공지는 ", officialLink: "한성대학교 대학원 홈페이지", officialPost: "에서 확인해 주십시오." },
   admission: { overview: "모집 개요", item: "구분", schedule: "일정", note: "비고", eligibility: "지원 자격", selection: "전형 방법", documents: "제출 서류(요약)", basis: "기준" },
+  resources: { cover: "표지", download: "내려받기" },
   contact: { deptOffice: "학과 사무실", phone: "전화", email: "이메일", fax: "팩스", gradOffice: "대학원교학팀", gradOfficeText: "입학·학사 문의", lab: "교수 연구실", labText: "협력·학과 활동 문의", directions: "찾아오시는 길", address: "주소" },
   notFound: { title: "페이지를 찾을 수 없습니다", text: "주소가 바뀌었거나 삭제된 페이지입니다." },
 };
@@ -68,7 +70,7 @@ const en = {
   home: "Home",
   here: "You are here",
   homeAria: "Home",
-  nav: { about: "About", faculty: "Faculty", courses: "Curriculum", ipp: "Global IPP", partners: "Partners", events: "Events", news: "News", admission: "Admission", contact: "Contact" },
+  nav: { about: "About", faculty: "Faculty", courses: "Curriculum", ipp: "Global IPP", partners: "Partners", events: "Events", news: "News", admission: "Admission", contact: "Contact", resources: "Resources" },
   pages: {
     about: { title: "About", eyebrow: "ABOUT", lead: "Connecting global students with industry through AI and consulting." },
     faculty: { title: "Faculty", eyebrow: "FACULTY", lead: "Our faculty combine academic research with hands-on industry experience." },
@@ -79,6 +81,7 @@ const en = {
     news: { title: "News", eyebrow: "NEWSROOM", lead: "Event results, partnership news, awards and press coverage." },
     admission: { title: "Admission", eyebrow: "ADMISSION", lead: "The Department of Global AI Management Consulting is dedicated to international students." },
     contact: { title: "Contact", eyebrow: "CONTACT", lead: "We welcome inquiries about admission, partnerships and department activities." },
+    resources: { title: "Resources", eyebrow: "RESOURCES", lead: "Download the department brochure and other materials." },
   },
   footer: { office: "Department office", gradOffice: "Graduate School Academic Affairs Team", dept: "Department", hansung: "Hansung University", graduate: "Graduate School", contact: "Contact", privacy: "Privacy Policy", emailPolicy: "No Unauthorized Email Collection" },
   quick: "QUICK MENU",
@@ -111,6 +114,7 @@ const en = {
   events: { upcoming: "Upcoming", eyebrowUpcoming: "UPCOMING", eyebrow: "EVENT", date: "Date", place: "Venue", website: "Official website", partners: "Partners", program: "Program", topics: "Topics", speakers: "Speakers", gallery: "Photos", back: "Back to events" },
   news: { related: "Related links", back: "Back to news", officialPre: "For official notices on academics, admission and scholarships, please visit the ", officialLink: "Hansung University Graduate School website", officialPost: "." },
   admission: { overview: "Overview", item: "Item", schedule: "Schedule", note: "Note", eligibility: "Eligibility", selection: "Selection", documents: "Required Documents (Summary)", basis: "Based on" },
+  resources: { cover: "cover", download: "download" },
   contact: { deptOffice: "Department Office", phone: "Tel", email: "Email", fax: "Fax", gradOffice: "Graduate School Academic Affairs Team", gradOfficeText: "Admission and academic inquiries", lab: "Faculty office", labText: "Partnerships and department activities", directions: "Location", address: "Address" },
   notFound: { title: "Page not found", text: "The page may have moved or been removed." },
 };
@@ -126,7 +130,7 @@ const vi = {
   home: "Trang chủ",
   here: "Vị trí hiện tại",
   homeAria: "Trang chủ",
-  nav: { about: "Giới thiệu", faculty: "Giảng viên", courses: "Chương trình", ipp: "Global IPP", partners: "Hợp tác", events: "Hoạt động", news: "Tin tức", admission: "Tuyển sinh", contact: "Liên hệ" },
+  nav: { about: "Giới thiệu", faculty: "Giảng viên", courses: "Chương trình", ipp: "Global IPP", partners: "Hợp tác", events: "Hoạt động", news: "Tin tức", admission: "Tuyển sinh", contact: "Liên hệ", resources: "Tài liệu" },
   pages: {
     about: { title: "Giới thiệu", eyebrow: "ABOUT", lead: "Kết nối sinh viên quốc tế với doanh nghiệp thông qua AI và tư vấn." },
     faculty: { title: "Giảng viên", eyebrow: "FACULTY", lead: "Đội ngũ giảng viên kết hợp nghiên cứu học thuật với kinh nghiệm thực tiễn tại doanh nghiệp." },
@@ -137,6 +141,7 @@ const vi = {
     news: { title: "Tin tức", eyebrow: "NEWSROOM", lead: "Kết quả sự kiện, tin hợp tác, giải thưởng và tin báo chí của khoa." },
     admission: { title: "Tuyển sinh", eyebrow: "ADMISSION", lead: "Khoa Tư vấn Quản trị AI Toàn cầu là khoa chuyên đào tạo sinh viên quốc tế." },
     contact: { title: "Liên hệ", eyebrow: "CONTACT", lead: "Chúng tôi tiếp nhận các câu hỏi về tuyển sinh, hợp tác và hoạt động của khoa." },
+    resources: { title: "Tài liệu", eyebrow: "RESOURCES", lead: "Tải về tờ giới thiệu khoa và các tài liệu giới thiệu khác." },
   },
   footer: { office: "Văn phòng khoa", gradOffice: "Phòng Đào tạo Sau đại học", dept: "Khoa", hansung: "Đại học Hansung", graduate: "Trang Sau đại học", contact: "Liên hệ", privacy: "Chính sách bảo mật", emailPolicy: "Từ chối thu thập email trái phép" },
   quick: "QUICK MENU",
@@ -169,6 +174,7 @@ const vi = {
   events: { upcoming: "Sắp diễn ra", eyebrowUpcoming: "UPCOMING", eyebrow: "EVENT", date: "Thời gian", place: "Địa điểm", website: "Trang web chính thức", partners: "Đơn vị phối hợp", program: "Chương trình", topics: "Chủ đề trình bày", speakers: "Diễn giả", gallery: "Hình ảnh", back: "Danh sách hoạt động" },
   news: { related: "Liên kết liên quan", back: "Danh sách tin tức", officialPre: "Thông báo chính thức về học vụ, tuyển sinh và học bổng có tại ", officialLink: "trang Sau đại học của Đại học Hansung", officialPost: "." },
   admission: { overview: "Thông tin tuyển sinh", item: "Hạng mục", schedule: "Lịch trình", note: "Ghi chú", eligibility: "Điều kiện dự tuyển", selection: "Phương thức xét tuyển", documents: "Hồ sơ cần nộp (tóm tắt)", basis: "Căn cứ" },
+  resources: { cover: "trang bìa", download: "tải về" },
   contact: { deptOffice: "Văn phòng khoa", phone: "Điện thoại", email: "Email", fax: "Fax", gradOffice: "Phòng Đào tạo Sau đại học", gradOfficeText: "Hỏi về tuyển sinh và học vụ", lab: "Phòng giảng viên", labText: "Hợp tác và hoạt động của khoa", directions: "Địa chỉ", address: "Địa chỉ" },
   notFound: { title: "Không tìm thấy trang", text: "Trang có thể đã được chuyển hoặc xóa." },
 };

@@ -1,0 +1,35 @@
+intro: Tất cả tài liệu là tệp PDF và có thể chia sẻ tự do cho mục đích giới thiệu, quảng bá khoa.
+groups:
+  - title: Tờ giới thiệu khoa
+    text: Tờ giới thiệu 4 trang về khoa, chương trình đào tạo, Global IPP, đội ngũ giảng viên và các cơ sở hợp tác. Chọn bản A4 4 trang để xem trên màn hình hoặc gửi qua email, và bản in hai mặt A3 để in (in hai mặt trên giấy A3 rồi gấp đôi).
+    items:
+      - lang_label: 한국어 (Tiếng Hàn)
+        lang: ko
+        cover: /images/resources/brochure-ko.jpg
+        files:
+          - label: A4 4 trang (xem)
+            file: /files/brochure/gaimc-brochure-ko-a4.pdf
+            info: PDF · 4 trang · 318 KB
+          - label: A3 in hai mặt (in)
+            file: /files/brochure/gaimc-brochure-ko-a3.pdf
+            info: PDF · 2 trang · 321 KB
+      - lang_label: English (Tiếng Anh)
+        lang: en
+        cover: /images/resources/brochure-en.jpg
+        files:
+          - label: A4 4 trang (xem)
+            file: /files/brochure/gaimc-brochure-en-a4.pdf
+            info: PDF · 4 trang · 263 KB
+          - label: A3 in hai mặt (in)
+            file: /files/brochure/gaimc-brochure-en-a3.pdf
+            info: PDF · 2 trang · 266 KB
+      - lang_label: Tiếng Việt
+        lang: vi
+        cover: /images/resources/brochure-vi.jpg
+        files:
+          - label: A4 4 trang (xem)
+            file: /files/brochure/gaimc-brochure-vi-a4.pdf
+            info: PDF · 4 trang · 280 KB
+          - label: A3 in hai mặt (in)
+            file: /files/brochure/gaimc-brochure-vi-a3.pdf
+            info: PDF · 2 trang · 283 KB

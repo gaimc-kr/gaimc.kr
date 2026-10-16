@@ -1,0 +1,35 @@
+intro: All files are PDFs and may be shared freely for promoting and introducing the department.
+groups:
+  - title: Department brochure
+    text: A four-page brochure covering the department, curriculum, Global IPP, faculty and partners. Choose the A4 four-page version for reading on screen or sending by email, and the A3 double-sided version for printing (print both sides on A3 paper and fold in half).
+    items:
+      - lang_label: 한국어 (Korean)
+        lang: ko
+        cover: /images/resources/brochure-ko.jpg
+        files:
+          - label: A4 four-page (screen)
+            file: /files/brochure/gaimc-brochure-ko-a4.pdf
+            info: PDF · 4 pages · 318 KB
+          - label: A3 double-sided (print)
+            file: /files/brochure/gaimc-brochure-ko-a3.pdf
+            info: PDF · 2 pages · 321 KB
+      - lang_label: English
+        lang: en
+        cover: /images/resources/brochure-en.jpg
+        files:
+          - label: A4 four-page (screen)
+            file: /files/brochure/gaimc-brochure-en-a4.pdf
+            info: PDF · 4 pages · 263 KB
+          - label: A3 double-sided (print)
+            file: /files/brochure/gaimc-brochure-en-a3.pdf
+            info: PDF · 2 pages · 266 KB
+      - lang_label: Tiếng Việt (Vietnamese)
+        lang: vi
+        cover: /images/resources/brochure-vi.jpg
+        files:
+          - label: A4 four-page (screen)
+            file: /files/brochure/gaimc-brochure-vi-a4.pdf
+            info: PDF · 4 pages · 280 KB
+          - label: A3 double-sided (print)
+            file: /files/brochure/gaimc-brochure-vi-a3.pdf
+            info: PDF · 2 pages · 283 KB

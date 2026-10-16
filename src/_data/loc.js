@@ -4,7 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
 
-const FILES = ["site", "home", "about", "courses", "ipp", "partners", "admission", "people"];
+const FILES = ["site", "home", "about", "courses", "ipp", "partners", "admission", "people", "resources"];
 const read = (p) => (fs.existsSync(p) ? yaml.load(fs.readFileSync(p, "utf8")) || {} : {});
 const isObj = (x) => x && typeof x === "object" && !Array.isArray(x);
 // 번역 값이 비어 있거나(빈 문자열·빈 목록), 켜기/끄기·숫자 같은 설정값이면 한국어 원본을 그대로 씀

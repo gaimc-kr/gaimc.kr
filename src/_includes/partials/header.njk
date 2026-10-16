@@ -24,6 +24,8 @@
         </ul>
       </nav>
       <ul class="util-list" aria-label="{{ T.subNav }}">
+        {%- set rhref = "/resources/" | L(lang) %}
+        <li><a href="{{ rhref }}"{% if curUrl.startsWith(rhref) %} aria-current="page"{% endif %}>{{ T.nav.resources }}</a></li>
         {%- set chref = "/contact/" | L(lang) %}
         <li><a href="{{ chref }}"{% if curUrl.startsWith(chref) %} aria-current="page"{% endif %}>{{ T.nav.contact }}</a></li>
         <li class="lang-switch">

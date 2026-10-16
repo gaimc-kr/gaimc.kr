@@ -1,0 +1,35 @@
+---
+layout: layouts/page.njk
+pageKey: resources
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/resources/"
+---
+{%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set R = C.resources -%}
+<section class="section">
+  <div class="container">
+    {% if R.intro %}<p class="section-text">{{ R.intro }}</p>{% endif %}
+    {%- for g in R.groups %}
+    <h2 class="group-title">{{ g.title }}</h2>
+    {% if g.text %}<p class="resource-text">{{ g.text }}</p>{% endif %}
+    <ul class="resource-grid">
+      {%- set ordered = (g.items | selectattr("lang", "equalto", lang) | list).concat(g.items | rejectattr("lang", "equalto", lang) | list) %}
+      {%- for it in ordered %}
+      <li class="resource-card">
+        <a class="resource-cover" href="{{ it.files[0].file }}" target="_blank" rel="noopener"><img src="{{ it.cover }}" alt="{{ g.title }} {{ it.lang_label }} {{ T.resources.cover }}" width="560" height="792" loading="lazy"><span class="sr-only">{{ T.newWin }}</span></a>
+        <div class="resource-body">
+          <h3 class="h3" lang="{{ it.lang }}">{{ it.lang_label }}</h3>
+          <ul class="resource-files">
+            {%- for f in it.files %}
+            <li><a class="btn btn-outline btn-download" href="{{ f.file }}" download><span>{{ f.label }}</span><span class="resource-info">{{ f.info }}</span><span class="sr-only"> {{ T.resources.download }}</span></a></li>
+            {%- endfor %}
+          </ul>
+        </div>
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endfor %}
+  </div>
+</section>

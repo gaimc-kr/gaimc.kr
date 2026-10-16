@@ -1,0 +1,37 @@
+# 자료실 (/resources/) — 내려받기 자료. 파일은 src/files/ 아래에 둠
+intro: 모든 자료는 PDF 파일이며, 학과 홍보와 안내 목적으로 자유롭게 배포할 수 있습니다.
+groups:
+  - title: 학과 브로셔
+    text: 학과 소개, 교육과정, 글로벌 IPP, 교수진, 협력 기관을 4면에 담은 학과 브로셔입니다. 화면으로 보거나 메일로 보낼 때는 A4 4면 보기용을, 인쇄해 배포할 때는 A3 양면 인쇄용(A3 용지에 양면 인쇄한 뒤 반으로 접기)을 받으세요.
+    items:
+      - lang_label: 한국어
+        lang: ko
+        cover: /images/resources/brochure-ko.jpg
+        files:
+          - label: A4 4면 보기용
+            file: /files/brochure/gaimc-brochure-ko-a4.pdf
+            info: PDF · 4쪽 · 318KB
+          - label: A3 양면 인쇄용
+            file: /files/brochure/gaimc-brochure-ko-a3.pdf
+            info: PDF · 2쪽 · 321KB
+      - lang_label: English
+        lang: en
+        cover: /images/resources/brochure-en.jpg
+        files:
+          - label: A4 4면 보기용
+            file: /files/brochure/gaimc-brochure-en-a4.pdf
+            info: PDF · 4쪽 · 263KB
+          - label: A3 양면 인쇄용
+            file: /files/brochure/gaimc-brochure-en-a3.pdf
+            info: PDF · 2쪽 · 266KB
+      - lang_label: Tiếng Việt
+        lang: vi
+        cover: /images/resources/brochure-vi.jpg
+        files:
+          - label: A4 4면 보기용
+            file: /files/brochure/gaimc-brochure-vi-a4.pdf
+            info: PDF · 4쪽 · 280KB
+          - label: A3 양면 인쇄용
+            file: /files/brochure/gaimc-brochure-vi-a3.pdf
+            info: PDF · 2쪽 · 283KB
+memo: 2026. 10. 16. 학과장 요청으로 개설. 브로셔 원본은 드라이브 '학과브로셔' 폴더(2026. 10. 15. PDF 6개, 편집용 pptx 3개). 브로셔가 바뀌면 같은 파일 이름으로 교체

@@ -3,7 +3,7 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 {%- set base = loc.ko.site.url -%}
-{%- set paths = ["/", "/about/", "/faculty/", "/courses/", "/ipp/", "/partners/", "/events/", "/news/", "/admission/", "/contact/"] -%}
+{%- set paths = ["/", "/about/", "/faculty/", "/courses/", "/ipp/", "/partners/", "/events/", "/news/", "/admission/", "/resources/", "/contact/"] -%}
 {%- for p in collections.l10n.ko.faculty %}{% if p.data.has_profile %}{% set paths = (paths.push(p.url), paths) %}{% endif %}{% endfor -%}
 {%- for p in collections.l10n.ko.events %}{% set paths = (paths.push(p.url), paths) %}{% endfor -%}
 {%- for p in collections.l10n.ko.news %}{% set paths = (paths.push(p.url), paths) %}{% endfor -%}
