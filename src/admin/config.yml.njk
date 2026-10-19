@@ -584,7 +584,7 @@ collections:
               - label: 명단
                 name: list
                 widget: list
-                fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }, { label: 호실(예 상상관 604-1호), name: office, widget: string, required: false }, { label: 이메일, name: email, widget: string, required: false }]
+                fields: [{ label: 이름, name: name, widget: string, required: false }, { label: 담당 업무, name: role, widget: string }, { label: 호실(예 상상관 604-1호), name: office, widget: string, required: false }, { label: 이메일, name: email, widget: string, required: false }]
               - { label: 관리 메모, name: memo, widget: text, required: false }
 
       - label: 자료실
@@ -776,7 +776,7 @@ collections:
         file: {{ R }}src/_content/{{ L[0] }}/people.yml
         fields:
           - { label: 특강연사, name: speakers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단 공개 전 문구, name: pending_text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 본직, name: affiliation, widget: string }, { label: 전문 분야, name: fields, widget: list, required: false }] }] }
-          - { label: 연구원, name: researchers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string }, { label: 담당 업무, name: role, widget: string }, { label: 호실(예 상상관 604-1호), name: office, widget: string, required: false }, { label: 이메일, name: email, widget: string, required: false }] }] }
+          - { label: 연구원, name: researchers, widget: object, required: false, fields: [{ label: 제목, name: title, widget: string, required: false }, { label: 문구, name: text, widget: text, required: false }, { label: 명단, name: list, widget: list, required: false, fields: [{ label: 이름, name: name, widget: string, required: false }, { label: 담당 업무, name: role, widget: string }, { label: 호실(예 상상관 604-1호), name: office, widget: string, required: false }, { label: 이메일, name: email, widget: string, required: false }] }] }
       - label: "[{{ L[1] }}] 자료실"
         name: resources_{{ L[0] }}
         file: {{ R }}src/_content/{{ L[0] }}/resources.yml
