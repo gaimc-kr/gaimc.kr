@@ -17,9 +17,6 @@ gallery:
 - image: /images/events/20261021_aiexpo_02.jpg
   alt: AI-Tech 세미나 무대
   caption: AI-Tech 세미나 무대
-- image: /images/events/20261021_aiexpo_03.jpg
-  alt: AI-Tech 세미나에 참석한 학생과 교수진
-  caption: AI-Tech 세미나에 참석한 학생과 교수진
 - image: /images/events/20261021_aiexpo_04.jpg
   alt: 전시장 발표 무대의 Physical AI 로봇 기술 발표
   caption: 전시장 발표 무대의 Physical AI 로봇 기술 발표
@@ -112,7 +109,7 @@ links:
   url: https://www.newsworks.co.kr/en/articleView.html?idxno=900455
 - label: 산업 AI EXPO 공식 홈페이지
   url: https://industrialaiexpo.or.kr/main.asp
-memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장), 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
+memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제(갤러리 26장), 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
 en:
   title: Field Learning at Industrial AI EXPO 2026
   place: KINTEX Exhibition Center 1, Hall 2, Goyang, Gyeonggi-do
@@ -126,9 +123,6 @@ en:
   - image: /images/events/20261021_aiexpo_02.jpg
     alt: The AI-Tech Seminar stage
     caption: The AI-Tech Seminar stage
-  - image: /images/events/20261021_aiexpo_03.jpg
-    alt: Students and faculty attending the AI-Tech Seminar
-    caption: Students and faculty attending the AI-Tech Seminar
   - image: /images/events/20261021_aiexpo_04.jpg
     alt: A Physical AI robotics presentation on an exhibition stage
     caption: A Physical AI robotics presentation on an exhibition stage
@@ -246,9 +240,6 @@ vi:
   - image: /images/events/20261021_aiexpo_02.jpg
     alt: Sân khấu Hội thảo AI-Tech
     caption: Sân khấu Hội thảo AI-Tech
-  - image: /images/events/20261021_aiexpo_03.jpg
-    alt: Sinh viên và giảng viên tham dự Hội thảo AI-Tech
-    caption: Sinh viên và giảng viên tham dự Hội thảo AI-Tech
   - image: /images/events/20261021_aiexpo_04.jpg
     alt: Bài trình bày về công nghệ robot Physical AI tại sân khấu triển lãm
     caption: Bài trình bày về công nghệ robot Physical AI tại sân khấu triển lãm
