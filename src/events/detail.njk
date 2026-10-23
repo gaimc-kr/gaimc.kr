@@ -26,6 +26,7 @@ eleventyComputed:
     <dl class="info-table">
       <div><dt>{{ E.date }}</dt><dd><time datetime="{{ item.date | isoDate }}">{{ item.date | lrange(d.end_date, lang) }}</time></dd></div>
       <div><dt>{{ E.place }}</dt><dd>{{ d.place }}</dd></div>
+      {% if d.participants %}<div><dt>{{ E.participants }}</dt><dd>{{ d.participants }}</dd></div>{% endif %}
       {% if d.website %}<div><dt>{{ E.website }}</dt><dd><a href="{{ d.website }}" target="_blank" rel="noopener">{{ d.website | replace("https://", "") }}<span class="sr-only">{{ T.newWin }}</span></a></dd></div>{% endif %}
       {% if d.partners and d.partners.length %}<div><dt>{{ E.partners }}</dt><dd>{{ d.partners | join(", ") }}</dd></div>{% endif %}
     </dl>
@@ -52,7 +53,11 @@ eleventyComputed:
     {%- endif %}
     {%- if d.gallery and d.gallery.length %}
     <h2 class="group-title">{{ E.gallery }}</h2>
-    <ul class="gallery">{% for g in d.gallery %}<li><img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy"></li>{% endfor %}</ul>
+    <ul class="gallery{% if d.gallery[0].caption %} gallery-captioned{% endif %}">{% for g in d.gallery %}<li>{% if g.caption %}<figure><img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy"><figcaption>{{ g.caption }}</figcaption></figure>{% else %}<img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy">{% endif %}</li>{% endfor %}</ul>
+    {%- endif %}
+    {%- if d.links and d.links.length %}
+    <h2 class="group-title">{{ E.links }}</h2>
+    <ul class="link-list">{% for l in d.links %}<li><a href="{{ l.url | L(lang) }}"{% if l.url.startsWith("http") %} target="_blank" rel="noopener"{% endif %}>{{ l.label }}{% if l.url.startsWith("http") %}<span class="sr-only">{{ T.newWin }}</span>{% endif %}</a></li>{% endfor %}</ul>
     {%- endif %}
     <p class="back"><a class="btn btn-outline" href="{{ '/events/' | L(lang) }}">{{ E.back }}</a></p>
   </div>
