@@ -139,6 +139,10 @@ gallery:
   alt: 3일차, 출발 전 학교 상상관 계단에서 찍은 단체사진
   caption: 출발 전 학교 상상관 계단에서 찍은 단체사진
   group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_42.jpg
+  alt: 3일차, 킨텍스 현장 전체 단체사진
+  caption: 킨텍스 현장 전체 단체사진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 - image: /images/events/20261023_aiexpo_40.jpg
   alt: 3일차, 행사장 앞 그룹별 단체사진
   caption: 행사장 앞 그룹별 단체사진
@@ -146,6 +150,34 @@ gallery:
 - image: /images/events/20261023_aiexpo_25.jpg
   alt: 3일차, 방글라데시 학생들과 교수진
   caption: 방글라데시 학생들과 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_43.jpg
+  alt: 3일차, 로봇 기업 관계자의 시연을 지켜보는 학생과 교수진
+  caption: 로봇 기업 관계자의 시연을 지켜보는 학생과 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_44.jpg
+  alt: 3일차, 로봇 부스에서 학생들에게 설명하는 교수진
+  caption: 로봇 부스에서 학생들에게 설명하는 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_45.jpg
+  alt: 3일차, 로봇 기업 부스 앞에서 함께한 학생과 교수진
+  caption: 로봇 기업 부스 앞에서 함께한 학생과 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_46.jpg
+  alt: 3일차, 기업 관계자의 설명을 듣는 학생들
+  caption: 기업 관계자의 설명을 듣는 학생들
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_47.jpg
+  alt: 3일차, 부스에서 학생들을 인솔하는 교수진
+  caption: 부스에서 학생들을 인솔하는 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_48.jpg
+  alt: 3일차, 4족 보행 로봇 시연을 지켜보는 학생과 교수진
+  caption: 4족 보행 로봇 시연을 지켜보는 학생과 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
+- image: /images/events/20261023_aiexpo_49.jpg
+  alt: 3일차, 부스 상담에 참여한 학생들
+  caption: 부스 상담에 참여한 학생들
   group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 - image: /images/events/20261023_aiexpo_26.jpg
   alt: 3일차, 피지컬 AI 인프라 기업 부스의 방글라데시 학생들
@@ -175,7 +207,7 @@ links:
   url: https://www.newsworks.co.kr/en/articleView.html?idxno=900455
 - label: 산업 AI EXPO 공식 홈페이지
   url: https://industrialaiexpo.or.kr/main.asp
-memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제 → 2026. 10. 24. 학과장 요청으로 1·2·3일차 전체 단체사진(상상관 1·2층 사이 계단, 행사장)과 행사장 앞 그룹별 단체사진 13장 추가, 부스 사진 4장(04·08·21·22) 제외(갤러리 35장). 1일차 킨텍스 현장 단체사진(민낫 File2911, 대표 사진과 같은 장소의 다른 컷) 갤러리 추가(2026. 10. 24.). 같은 날 사진을 1·2·3일차 소제목(날짜·참가 학기)으로 묶어 표시(2026. 10. 24.). 1·2·3일차 참가 학생은 모두 다름. 3일차 사진은 학과장이 추가 확보 후 공유 예정, 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
+memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제 → 2026. 10. 24. 학과장 요청으로 1·2·3일차 전체 단체사진(상상관 1·2층 사이 계단, 행사장)과 행사장 앞 그룹별 단체사진 13장 추가, 부스 사진 4장(04·08·21·22) 제외(갤러리 35장). 1일차 킨텍스 현장 단체사진(민낫 File2911, 대표 사진과 같은 장소의 다른 컷) 갤러리 추가(2026. 10. 24.). 3일차 사진_민낫_23일 폴더(89장, 2026. 10. 24. 공유)에서 8장 추가 — 앞쪽 개인 연속 촬영 34장 제외. 같은 날 사진을 1·2·3일차 소제목(날짜·참가 학기)으로 묶어 표시(2026. 10. 24.). 1·2·3일차 참가 학생은 모두 다름. 3일차 사진은 학과장이 추가 확보 후 공유 예정, 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
 en:
   title: Field Learning at Industrial AI EXPO 2026
   place: KINTEX Exhibition Center 1, Hall 2, Goyang, Gyeonggi-do
@@ -311,6 +343,10 @@ en:
     alt: Day 3, Group photo on the Sangsang Hall stairs before departure
     caption: Group photo on the Sangsang Hall stairs before departure
     group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_42.jpg
+    alt: Day 3, Full group photo on site at KINTEX
+    caption: Full group photo on site at KINTEX
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   - image: /images/events/20261023_aiexpo_40.jpg
     alt: Day 3, Group photo by group in front of the venue
     caption: Group photo by group in front of the venue
@@ -318,6 +354,34 @@ en:
   - image: /images/events/20261023_aiexpo_25.jpg
     alt: Day 3, Bangladeshi students and faculty
     caption: Bangladeshi students and faculty
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_43.jpg
+    alt: Day 3, Students and faculty watching a robot demonstration by company staff
+    caption: Students and faculty watching a robot demonstration by company staff
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_44.jpg
+    alt: Day 3, Faculty explaining to students at a robotics booth
+    caption: Faculty explaining to students at a robotics booth
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_45.jpg
+    alt: Day 3, Students and faculty in front of a robotics company booth
+    caption: Students and faculty in front of a robotics company booth
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_46.jpg
+    alt: Day 3, Students hearing an explanation from company staff
+    caption: Students hearing an explanation from company staff
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_47.jpg
+    alt: Day 3, Faculty guiding students at a booth
+    caption: Faculty guiding students at a booth
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_48.jpg
+    alt: Day 3, Students and faculty watching a quadruped robot demonstration
+    caption: Students and faculty watching a quadruped robot demonstration
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
+  - image: /images/events/20261023_aiexpo_49.jpg
+    alt: Day 3, Students in a booth consultation
+    caption: Students in a booth consultation
     group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   - image: /images/events/20261023_aiexpo_26.jpg
     alt: Day 3, Bangladeshi students at a physical AI infrastructure booth
@@ -494,6 +558,10 @@ vi:
     alt: Ngày 3, Ảnh tập thể tại cầu thang tòa Sangsang trước khi khởi hành
     caption: Ảnh tập thể tại cầu thang tòa Sangsang trước khi khởi hành
     group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_42.jpg
+    alt: Ngày 3, Ảnh tập thể toàn đoàn tại hiện trường KINTEX
+    caption: Ảnh tập thể toàn đoàn tại hiện trường KINTEX
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   - image: /images/events/20261023_aiexpo_40.jpg
     alt: Ngày 3, Ảnh tập thể theo nhóm trước khu triển lãm
     caption: Ảnh tập thể theo nhóm trước khu triển lãm
@@ -501,6 +569,34 @@ vi:
   - image: /images/events/20261023_aiexpo_25.jpg
     alt: Ngày 3, Sinh viên Bangladesh và giảng viên
     caption: Sinh viên Bangladesh và giảng viên
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_43.jpg
+    alt: Ngày 3, Sinh viên và giảng viên xem nhân viên doanh nghiệp trình diễn robot
+    caption: Sinh viên và giảng viên xem nhân viên doanh nghiệp trình diễn robot
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_44.jpg
+    alt: Ngày 3, Giảng viên giải thích cho sinh viên tại gian hàng robot
+    caption: Giảng viên giải thích cho sinh viên tại gian hàng robot
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_45.jpg
+    alt: Ngày 3, Sinh viên và giảng viên trước gian hàng doanh nghiệp robot
+    caption: Sinh viên và giảng viên trước gian hàng doanh nghiệp robot
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_46.jpg
+    alt: Ngày 3, Sinh viên nghe nhân viên doanh nghiệp giải thích
+    caption: Sinh viên nghe nhân viên doanh nghiệp giải thích
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_47.jpg
+    alt: Ngày 3, Giảng viên dẫn sinh viên tại gian hàng
+    caption: Giảng viên dẫn sinh viên tại gian hàng
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_48.jpg
+    alt: Ngày 3, Sinh viên và giảng viên xem trình diễn robot bốn chân
+    caption: Sinh viên và giảng viên xem trình diễn robot bốn chân
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
+  - image: /images/events/20261023_aiexpo_49.jpg
+    alt: Ngày 3, Sinh viên tham gia tư vấn tại gian hàng
+    caption: Sinh viên tham gia tư vấn tại gian hàng
     group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   - image: /images/events/20261023_aiexpo_26.jpg
     alt: Ngày 3, Sinh viên Bangladesh tại gian hàng doanh nghiệp hạ tầng Physical AI
