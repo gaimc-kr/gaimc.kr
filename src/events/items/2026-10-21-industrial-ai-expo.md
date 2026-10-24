@@ -15,6 +15,10 @@ gallery:
   alt: 1일차, 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
   caption: 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
   group: 1일차 · 10. 21.(수) · 베트남 3·4학기
+- image: /images/events/20261021_aiexpo_41.jpg
+  alt: 1일차, 킨텍스 현장 단체사진
+  caption: 킨텍스 현장 단체사진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_01.jpg
   alt: 1일차, 집결 장소에서 학생들과 이야기를 나누는 교수진
   caption: 집결 장소에서 학생들과 이야기를 나누는 교수진
@@ -171,7 +175,7 @@ links:
   url: https://www.newsworks.co.kr/en/articleView.html?idxno=900455
 - label: 산업 AI EXPO 공식 홈페이지
   url: https://industrialaiexpo.or.kr/main.asp
-memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제 → 2026. 10. 24. 학과장 요청으로 1·2·3일차 전체 단체사진(상상관 1·2층 사이 계단, 행사장)과 행사장 앞 그룹별 단체사진 13장 추가, 부스 사진 4장(04·08·21·22) 제외(갤러리 35장). 같은 날 사진을 1·2·3일차 소제목(날짜·참가 학기)으로 묶어 표시(2026. 10. 24.). 1·2·3일차 참가 학생은 모두 다름. 3일차 사진은 학과장이 추가 확보 후 공유 예정, 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
+memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제 → 2026. 10. 24. 학과장 요청으로 1·2·3일차 전체 단체사진(상상관 1·2층 사이 계단, 행사장)과 행사장 앞 그룹별 단체사진 13장 추가, 부스 사진 4장(04·08·21·22) 제외(갤러리 35장). 1일차 킨텍스 현장 단체사진(민낫 File2911, 대표 사진과 같은 장소의 다른 컷) 갤러리 추가(2026. 10. 24.). 같은 날 사진을 1·2·3일차 소제목(날짜·참가 학기)으로 묶어 표시(2026. 10. 24.). 1·2·3일차 참가 학생은 모두 다름. 3일차 사진은 학과장이 추가 확보 후 공유 예정, 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
 en:
   title: Field Learning at Industrial AI EXPO 2026
   place: KINTEX Exhibition Center 1, Hall 2, Goyang, Gyeonggi-do
@@ -182,6 +186,10 @@ en:
   - image: /images/events/20261021_aiexpo_28.jpg
     alt: Day 1, Full group photo on the stairs between the first and second floors of Sangsang Hall before departure
     caption: Full group photo on the stairs between the first and second floors of Sangsang Hall before departure
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
+  - image: /images/events/20261021_aiexpo_41.jpg
+    alt: Day 1, Group photo on site at KINTEX
+    caption: Group photo on site at KINTEX
     group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_01.jpg
     alt: Day 1, Faculty talking with students at the meeting point
@@ -361,6 +369,10 @@ vi:
   - image: /images/events/20261021_aiexpo_28.jpg
     alt: Ngày 1, Ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành
     caption: Ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
+  - image: /images/events/20261021_aiexpo_41.jpg
+    alt: Ngày 1, Ảnh tập thể tại hiện trường KINTEX
+    caption: Ảnh tập thể tại hiện trường KINTEX
     group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_01.jpg
     alt: Ngày 1, Giảng viên trò chuyện với sinh viên tại điểm tập trung
