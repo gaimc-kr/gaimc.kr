@@ -12,110 +12,145 @@ cover: /images/events/20261021_aiexpo_00.jpg
 cover_alt: 첫날(10. 21.) 킨텍스 제1전시장에서 현수막을 들고 함께한 학과 교수진과 대학원생 단체사진
 gallery:
 - image: /images/events/20261021_aiexpo_28.jpg
-  alt: 첫날(10. 21.) 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
-  caption: 첫날(10. 21.) 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
+  alt: 1일차, 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
+  caption: 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_01.jpg
-  alt: 첫날 집결 장소에서 학생들과 이야기를 나누는 교수진
-  caption: 첫날 집결 장소에서 학생들과 이야기를 나누는 교수진
+  alt: 1일차, 집결 장소에서 학생들과 이야기를 나누는 교수진
+  caption: 집결 장소에서 학생들과 이야기를 나누는 교수진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_02.jpg
-  alt: AI-Tech 세미나 무대
+  alt: 1일차, AI-Tech 세미나 무대
   caption: AI-Tech 세미나 무대
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_05.jpg
-  alt: 기업 소개 자료를 함께 살펴보는 학생들
+  alt: 1일차, 기업 소개 자료를 함께 살펴보는 학생들
   caption: 기업 소개 자료를 함께 살펴보는 학생들
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_29.jpg
-  alt: 첫날 행사장 앞 그룹별 단체사진
-  caption: 첫날 행사장 앞 그룹별 단체사진
+  alt: 1일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_30.jpg
-  alt: 첫날 행사장 앞 그룹별 단체사진
-  caption: 첫날 행사장 앞 그룹별 단체사진
+  alt: 1일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_31.jpg
-  alt: 첫날 전시장 안 그룹별 단체사진
-  caption: 첫날 전시장 안 그룹별 단체사진
+  alt: 1일차, 전시장 안 그룹별 단체사진
+  caption: 전시장 안 그룹별 단체사진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_06.jpg
-  alt: 전시 부스 앞에서 함께한 학생과 교수진
+  alt: 1일차, 전시 부스 앞에서 함께한 학생과 교수진
   caption: 전시 부스 앞에서 함께한 학생과 교수진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_07.jpg
-  alt: 휴머노이드 로봇 시연을 지켜보는 학생들
+  alt: 1일차, 휴머노이드 로봇 시연을 지켜보는 학생들
   caption: 휴머노이드 로봇 시연을 지켜보는 학생들
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_09.jpg
-  alt: 시흥Made 소공인 공동관에서 함께한 학생과 교수진
+  alt: 1일차, 시흥Made 소공인 공동관에서 함께한 학생과 교수진
   caption: 시흥Made 소공인 공동관에서 함께한 학생과 교수진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_10.jpg
-  alt: 교수진과 함께 부스 설명을 듣는 학생들
+  alt: 1일차, 교수진과 함께 부스 설명을 듣는 학생들
   caption: 교수진과 함께 부스 설명을 듣는 학생들
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_11.jpg
-  alt: 상담 부스에서 교수진과 함께 기업 설명을 듣는 학생들
+  alt: 1일차, 상담 부스에서 교수진과 함께 기업 설명을 듣는 학생들
   caption: 상담 부스에서 교수진과 함께 기업 설명을 듣는 학생들
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261021_aiexpo_12.jpg
-  alt: AI 에이전트 기업 부스 앞에서 함께한 학생과 교수진
+  alt: 1일차, AI 에이전트 기업 부스 앞에서 함께한 학생과 교수진
   caption: AI 에이전트 기업 부스 앞에서 함께한 학생과 교수진
+  group: 1일차 · 10. 21.(수) · 베트남 3·4학기
 - image: /images/events/20261022_aiexpo_13.jpg
-  alt: 둘째 날(10. 22.) 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
-  caption: 둘째 날(10. 22.) 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
+  alt: 2일차, 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
+  caption: 출발 전 학교 상상관 1·2층 사이 계단에서 찍은 전체 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_14.jpg
-  alt: 둘째 날 킨텍스 제1전시장에서 찍은 전체 단체사진
-  caption: 둘째 날 킨텍스 제1전시장에서 찍은 전체 단체사진
+  alt: 2일차, 킨텍스 제1전시장에서 찍은 전체 단체사진
+  caption: 킨텍스 제1전시장에서 찍은 전체 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_15.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_16.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_32.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_33.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_34.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_17.jpg
-  alt: 부스에서 학생들을 인솔하는 교수진
+  alt: 2일차, 부스에서 학생들을 인솔하는 교수진
   caption: 부스에서 학생들을 인솔하는 교수진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_18.jpg
-  alt: 로봇 부스에서 설명을 듣는 교수진과 학생들
+  alt: 2일차, 로봇 부스에서 설명을 듣는 교수진과 학생들
   caption: 로봇 부스에서 설명을 듣는 교수진과 학생들
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_19.jpg
-  alt: 기업 관계자의 제품 설명을 듣는 학생들
+  alt: 2일차, 기업 관계자의 제품 설명을 듣는 학생들
   caption: 기업 관계자의 제품 설명을 듣는 학생들
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_20.jpg
-  alt: 기업 관계자에게 적용 사례를 묻는 학생
+  alt: 2일차, 기업 관계자에게 적용 사례를 묻는 학생
   caption: 기업 관계자에게 적용 사례를 묻는 학생
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_23.jpg
-  alt: 협동로봇 시연 부스에서 설명을 듣는 학생들
+  alt: 2일차, 협동로봇 시연 부스에서 설명을 듣는 학생들
   caption: 협동로봇 시연 부스에서 설명을 듣는 학생들
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_35.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_36.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_37.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_38.jpg
-  alt: 둘째 날 행사장 앞 그룹별 단체사진
-  caption: 둘째 날 행사장 앞 그룹별 단체사진
+  alt: 2일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261022_aiexpo_24.jpg
-  alt: 전시 부스 앞 학생 그룹
+  alt: 2일차, 전시 부스 앞 학생 그룹
   caption: 전시 부스 앞 학생 그룹
+  group: 2일차 · 10. 22.(목) · 베트남 2학기
 - image: /images/events/20261023_aiexpo_39.jpg
-  alt: 셋째 날(10. 23.) 출발 전 학교 상상관 계단에서 찍은 단체사진
-  caption: 셋째 날(10. 23.) 출발 전 학교 상상관 계단에서 찍은 단체사진
+  alt: 3일차, 출발 전 학교 상상관 계단에서 찍은 단체사진
+  caption: 출발 전 학교 상상관 계단에서 찍은 단체사진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 - image: /images/events/20261023_aiexpo_40.jpg
-  alt: 셋째 날 행사장 앞 그룹별 단체사진
-  caption: 셋째 날 행사장 앞 그룹별 단체사진
+  alt: 3일차, 행사장 앞 그룹별 단체사진
+  caption: 행사장 앞 그룹별 단체사진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 - image: /images/events/20261023_aiexpo_25.jpg
-  alt: 셋째 날 방글라데시 학생들과 교수진
-  caption: 셋째 날 방글라데시 학생들과 교수진
+  alt: 3일차, 방글라데시 학생들과 교수진
+  caption: 방글라데시 학생들과 교수진
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 - image: /images/events/20261023_aiexpo_26.jpg
-  alt: 피지컬 AI 인프라 기업 부스의 방글라데시 학생들
+  alt: 3일차, 피지컬 AI 인프라 기업 부스의 방글라데시 학생들
   caption: 피지컬 AI 인프라 기업 부스의 방글라데시 학생들
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 - image: /images/events/20261023_aiexpo_27.jpg
-  alt: 기업 관계자와 명함을 나누는 학생
+  alt: 3일차, 기업 관계자와 명함을 나누는 학생
   caption: 기업 관계자와 명함을 나누는 학생
+  group: 3일차 · 10. 23.(금) · 베트남 1학기, 방글라데시 1·2학기
 program:
 - time: 10. 21.(수)
   text: 베트남 3·4학기 참관, AI-Tech 세미나 참석
@@ -136,7 +171,7 @@ links:
   url: https://www.newsworks.co.kr/en/articleView.html?idxno=900455
 - label: 산업 AI EXPO 공식 홈페이지
   url: https://industrialaiexpo.or.kr/main.asp
-memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제 → 2026. 10. 24. 학과장 요청으로 1·2·3일차 전체 단체사진(상상관 1·2층 사이 계단, 행사장)과 행사장 앞 그룹별 단체사진 13장 추가, 부스 사진 4장(04·08·21·22) 제외(갤러리 35장). 1·2·3일차 참가 학생은 모두 다름. 3일차 사진은 학과장이 추가 확보 후 공유 예정, 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
+memo: 2026. 10. 23. 행사 후 결과형으로 전환(학과장 지시, 「학과 홈페이지 활동소개 작성 가이드」 반영 — 학과장 의견에 따라 사진은 뒷모습 위주로 제한하지 않고, 즉시 게시, 행사 사진·설명 위주로 작성, 학생발표·멘토링보고서·섹터별 요약표는 게시하지 않음). 사진은 드라이브 042_기획/교외활동_산업AI_EXPO/참가활동 하위 폴더(442장)에서 28장 선별(대표 1장, 갤러리 27장) → 2026. 10. 23. 학과장 지시로 학과 사진이 아닌 세미나 객석 사진 1장 삭제 → 2026. 10. 24. 학과장 요청으로 1·2·3일차 전체 단체사진(상상관 1·2층 사이 계단, 행사장)과 행사장 앞 그룹별 단체사진 13장 추가, 부스 사진 4장(04·08·21·22) 제외(갤러리 35장). 같은 날 사진을 1·2·3일차 소제목(날짜·참가 학기)으로 묶어 표시(2026. 10. 24.). 1·2·3일차 참가 학생은 모두 다름. 3일차 사진은 학과장이 추가 확보 후 공유 예정, 가로 1,600px JPG로 변환, 촬영일은 EXIF·폴더명 기준. 참여 인원은 작성 가이드의 단체등록 375명(출결 확정 시 갱신), 201개사 430개 부스·세미나 주제·학과장 발언은 뉴스웍스 기사(2026. 10. 22.) 기준. 교수진 개인 이름은 직함 표기 규칙상 본문에 열거하지 않음
 en:
   title: Field Learning at Industrial AI EXPO 2026
   place: KINTEX Exhibition Center 1, Hall 2, Goyang, Gyeonggi-do
@@ -145,110 +180,145 @@ en:
   cover_alt: Group photo of department faculty and graduate students holding a banner at KINTEX on day one (Oct 21)
   gallery:
   - image: /images/events/20261021_aiexpo_28.jpg
-    alt: 'Day one (Oct 21): full group photo on the stairs between the first and second floors of Sangsang Hall before departure'
-    caption: 'Day one (Oct 21): full group photo on the stairs between the first and second floors of Sangsang Hall before departure'
+    alt: Day 1, Full group photo on the stairs between the first and second floors of Sangsang Hall before departure
+    caption: Full group photo on the stairs between the first and second floors of Sangsang Hall before departure
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_01.jpg
-    alt: Faculty talking with students at the meeting point on day one
-    caption: Faculty talking with students at the meeting point on day one
+    alt: Day 1, Faculty talking with students at the meeting point
+    caption: Faculty talking with students at the meeting point
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_02.jpg
-    alt: The AI-Tech Seminar stage
+    alt: Day 1, The AI-Tech Seminar stage
     caption: The AI-Tech Seminar stage
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_05.jpg
-    alt: Students reading company brochures together
+    alt: Day 1, Students reading company brochures together
     caption: Students reading company brochures together
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_29.jpg
-    alt: 'Day one: group photo by group in front of the venue'
-    caption: 'Day one: group photo by group in front of the venue'
+    alt: Day 1, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_30.jpg
-    alt: 'Day one: group photo by group in front of the venue'
-    caption: 'Day one: group photo by group in front of the venue'
+    alt: Day 1, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_31.jpg
-    alt: 'Day one: group photo by group inside the exhibition hall'
-    caption: 'Day one: group photo by group inside the exhibition hall'
+    alt: Day 1, Group photo by group inside the exhibition hall
+    caption: Group photo by group inside the exhibition hall
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_06.jpg
-    alt: Students and faculty in front of an exhibition booth
+    alt: Day 1, Students and faculty in front of an exhibition booth
     caption: Students and faculty in front of an exhibition booth
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_07.jpg
-    alt: Students watching a humanoid robot demonstration
+    alt: Day 1, Students watching a humanoid robot demonstration
     caption: Students watching a humanoid robot demonstration
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_09.jpg
-    alt: Students and faculty at the Siheung-Made small manufacturers pavilion
+    alt: Day 1, Students and faculty at the Siheung-Made small manufacturers pavilion
     caption: Students and faculty at the Siheung-Made small manufacturers pavilion
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_10.jpg
-    alt: Students listening to a booth briefing with faculty
+    alt: Day 1, Students listening to a booth briefing with faculty
     caption: Students listening to a booth briefing with faculty
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_11.jpg
-    alt: Students and faculty at a company consultation desk
+    alt: Day 1, Students and faculty at a company consultation desk
     caption: Students and faculty at a company consultation desk
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261021_aiexpo_12.jpg
-    alt: Students and faculty at an AI agent company booth
+    alt: Day 1, Students and faculty at an AI agent company booth
     caption: Students and faculty at an AI agent company booth
+    group: Day 1 · Wed, Oct 21 · Vietnamese students, semesters 3–4
   - image: /images/events/20261022_aiexpo_13.jpg
-    alt: 'Day two (Oct 22): full group photo on the stairs between the first and second floors of Sangsang Hall before departure'
-    caption: 'Day two (Oct 22): full group photo on the stairs between the first and second floors of Sangsang Hall before departure'
+    alt: Day 2, Full group photo on the stairs between the first and second floors of Sangsang Hall before departure
+    caption: Full group photo on the stairs between the first and second floors of Sangsang Hall before departure
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_14.jpg
-    alt: 'Day two: full group photo at KINTEX Exhibition Center 1'
-    caption: 'Day two: full group photo at KINTEX Exhibition Center 1'
+    alt: Day 2, Full group photo at KINTEX Exhibition Center 1
+    caption: Full group photo at KINTEX Exhibition Center 1
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_15.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_16.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_32.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_33.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_34.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_17.jpg
-    alt: Faculty guiding students at a booth
+    alt: Day 2, Faculty guiding students at a booth
     caption: Faculty guiding students at a booth
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_18.jpg
-    alt: Faculty and students at a robotics booth
+    alt: Day 2, Faculty and students at a robotics booth
     caption: Faculty and students at a robotics booth
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_19.jpg
-    alt: Students hearing a product explanation from company staff
+    alt: Day 2, Students hearing a product explanation from company staff
     caption: Students hearing a product explanation from company staff
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_20.jpg
-    alt: A student asking company staff about use cases
+    alt: Day 2, A student asking company staff about use cases
     caption: A student asking company staff about use cases
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_23.jpg
-    alt: Students at a collaborative robot demonstration
+    alt: Day 2, Students at a collaborative robot demonstration
     caption: Students at a collaborative robot demonstration
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_35.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_36.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_37.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_38.jpg
-    alt: 'Day two: group photo by group in front of the venue'
-    caption: 'Day two: group photo by group in front of the venue'
+    alt: Day 2, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261022_aiexpo_24.jpg
-    alt: A student group in front of an exhibition booth
+    alt: Day 2, A student group in front of an exhibition booth
     caption: A student group in front of an exhibition booth
+    group: Day 2 · Thu, Oct 22 · Vietnamese students, semester 2
   - image: /images/events/20261023_aiexpo_39.jpg
-    alt: 'Day three (Oct 23): group photo on the Sangsang Hall stairs before departure'
-    caption: 'Day three (Oct 23): group photo on the Sangsang Hall stairs before departure'
+    alt: Day 3, Group photo on the Sangsang Hall stairs before departure
+    caption: Group photo on the Sangsang Hall stairs before departure
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   - image: /images/events/20261023_aiexpo_40.jpg
-    alt: 'Day three: group photo by group in front of the venue'
-    caption: 'Day three: group photo by group in front of the venue'
+    alt: Day 3, Group photo by group in front of the venue
+    caption: Group photo by group in front of the venue
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   - image: /images/events/20261023_aiexpo_25.jpg
-    alt: Bangladeshi students and faculty on day three
-    caption: Bangladeshi students and faculty on day three
+    alt: Day 3, Bangladeshi students and faculty
+    caption: Bangladeshi students and faculty
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   - image: /images/events/20261023_aiexpo_26.jpg
-    alt: Bangladeshi students at a physical AI infrastructure booth
+    alt: Day 3, Bangladeshi students at a physical AI infrastructure booth
     caption: Bangladeshi students at a physical AI infrastructure booth
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   - image: /images/events/20261023_aiexpo_27.jpg
-    alt: A student exchanging business cards with company staff
+    alt: Day 3, A student exchanging business cards with company staff
     caption: A student exchanging business cards with company staff
+    group: Day 3 · Fri, Oct 23 · Vietnamese students, semester 1; Bangladeshi students, semesters 1–2
   program:
   - time: Oct 21 (Wed)
     text: Vietnamese students in semesters 3–4; AI-Tech Seminar
@@ -289,110 +359,145 @@ vi:
   cover_alt: Ảnh tập thể giảng viên và học viên cao học cầm băng rôn tại KINTEX ngày đầu (21/10)
   gallery:
   - image: /images/events/20261021_aiexpo_28.jpg
-    alt: 'Ngày đầu (21/10): ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành'
-    caption: 'Ngày đầu (21/10): ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành'
+    alt: Ngày 1, Ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành
+    caption: Ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_01.jpg
-    alt: Giảng viên trò chuyện với sinh viên tại điểm tập trung ngày đầu
-    caption: Giảng viên trò chuyện với sinh viên tại điểm tập trung ngày đầu
+    alt: Ngày 1, Giảng viên trò chuyện với sinh viên tại điểm tập trung
+    caption: Giảng viên trò chuyện với sinh viên tại điểm tập trung
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_02.jpg
-    alt: Sân khấu Hội thảo AI-Tech
+    alt: Ngày 1, Sân khấu Hội thảo AI-Tech
     caption: Sân khấu Hội thảo AI-Tech
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_05.jpg
-    alt: Sinh viên cùng xem tài liệu giới thiệu doanh nghiệp
+    alt: Ngày 1, Sinh viên cùng xem tài liệu giới thiệu doanh nghiệp
     caption: Sinh viên cùng xem tài liệu giới thiệu doanh nghiệp
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_29.jpg
-    alt: 'Ngày đầu: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày đầu: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 1, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_30.jpg
-    alt: 'Ngày đầu: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày đầu: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 1, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_31.jpg
-    alt: 'Ngày đầu: ảnh tập thể theo nhóm trong khu triển lãm'
-    caption: 'Ngày đầu: ảnh tập thể theo nhóm trong khu triển lãm'
+    alt: Ngày 1, Ảnh tập thể theo nhóm trong khu triển lãm
+    caption: Ảnh tập thể theo nhóm trong khu triển lãm
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_06.jpg
-    alt: Sinh viên và giảng viên trước một gian triển lãm
+    alt: Ngày 1, Sinh viên và giảng viên trước một gian triển lãm
     caption: Sinh viên và giảng viên trước một gian triển lãm
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_07.jpg
-    alt: Sinh viên xem trình diễn robot hình người
+    alt: Ngày 1, Sinh viên xem trình diễn robot hình người
     caption: Sinh viên xem trình diễn robot hình người
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_09.jpg
-    alt: Sinh viên và giảng viên tại khu chung của doanh nghiệp sản xuất nhỏ Siheung-Made
+    alt: Ngày 1, Sinh viên và giảng viên tại khu chung của doanh nghiệp sản xuất nhỏ Siheung-Made
     caption: Sinh viên và giảng viên tại khu chung của doanh nghiệp sản xuất nhỏ Siheung-Made
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_10.jpg
-    alt: Sinh viên cùng giảng viên nghe giới thiệu tại gian hàng
+    alt: Ngày 1, Sinh viên cùng giảng viên nghe giới thiệu tại gian hàng
     caption: Sinh viên cùng giảng viên nghe giới thiệu tại gian hàng
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_11.jpg
-    alt: Sinh viên và giảng viên tại bàn tư vấn doanh nghiệp
+    alt: Ngày 1, Sinh viên và giảng viên tại bàn tư vấn doanh nghiệp
     caption: Sinh viên và giảng viên tại bàn tư vấn doanh nghiệp
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261021_aiexpo_12.jpg
-    alt: Sinh viên và giảng viên tại gian hàng doanh nghiệp AI agent
+    alt: Ngày 1, Sinh viên và giảng viên tại gian hàng doanh nghiệp AI agent
     caption: Sinh viên và giảng viên tại gian hàng doanh nghiệp AI agent
+    group: Ngày 1 · Thứ Tư 21/10 · Sinh viên Việt Nam học kỳ 3–4
   - image: /images/events/20261022_aiexpo_13.jpg
-    alt: 'Ngày thứ hai (22/10): ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành'
-    caption: 'Ngày thứ hai (22/10): ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành'
+    alt: Ngày 2, Ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành
+    caption: Ảnh tập thể toàn đoàn tại cầu thang giữa tầng 1 và 2 tòa Sangsang trước khi khởi hành
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_14.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể toàn đoàn tại KINTEX, Khu triển lãm 1'
-    caption: 'Ngày thứ hai: ảnh tập thể toàn đoàn tại KINTEX, Khu triển lãm 1'
+    alt: Ngày 2, Ảnh tập thể toàn đoàn tại KINTEX, Khu triển lãm 1
+    caption: Ảnh tập thể toàn đoàn tại KINTEX, Khu triển lãm 1
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_15.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_16.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_32.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_33.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_34.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_17.jpg
-    alt: Giảng viên dẫn sinh viên tại gian hàng
+    alt: Ngày 2, Giảng viên dẫn sinh viên tại gian hàng
     caption: Giảng viên dẫn sinh viên tại gian hàng
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_18.jpg
-    alt: Giảng viên và sinh viên tại gian hàng robot
+    alt: Ngày 2, Giảng viên và sinh viên tại gian hàng robot
     caption: Giảng viên và sinh viên tại gian hàng robot
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_19.jpg
-    alt: Sinh viên nghe nhân viên doanh nghiệp giới thiệu sản phẩm
+    alt: Ngày 2, Sinh viên nghe nhân viên doanh nghiệp giới thiệu sản phẩm
     caption: Sinh viên nghe nhân viên doanh nghiệp giới thiệu sản phẩm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_20.jpg
-    alt: Sinh viên hỏi nhân viên doanh nghiệp về trường hợp ứng dụng
+    alt: Ngày 2, Sinh viên hỏi nhân viên doanh nghiệp về trường hợp ứng dụng
     caption: Sinh viên hỏi nhân viên doanh nghiệp về trường hợp ứng dụng
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_23.jpg
-    alt: Sinh viên tại gian trình diễn robot cộng tác
+    alt: Ngày 2, Sinh viên tại gian trình diễn robot cộng tác
     caption: Sinh viên tại gian trình diễn robot cộng tác
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_35.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_36.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_37.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_38.jpg
-    alt: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ hai: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 2, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261022_aiexpo_24.jpg
-    alt: Nhóm sinh viên trước một gian triển lãm
+    alt: Ngày 2, Nhóm sinh viên trước một gian triển lãm
     caption: Nhóm sinh viên trước một gian triển lãm
+    group: Ngày 2 · Thứ Năm 22/10 · Sinh viên Việt Nam học kỳ 2
   - image: /images/events/20261023_aiexpo_39.jpg
-    alt: 'Ngày thứ ba (23/10): ảnh tập thể tại cầu thang tòa Sangsang trước khi khởi hành'
-    caption: 'Ngày thứ ba (23/10): ảnh tập thể tại cầu thang tòa Sangsang trước khi khởi hành'
+    alt: Ngày 3, Ảnh tập thể tại cầu thang tòa Sangsang trước khi khởi hành
+    caption: Ảnh tập thể tại cầu thang tòa Sangsang trước khi khởi hành
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   - image: /images/events/20261023_aiexpo_40.jpg
-    alt: 'Ngày thứ ba: ảnh tập thể theo nhóm trước khu triển lãm'
-    caption: 'Ngày thứ ba: ảnh tập thể theo nhóm trước khu triển lãm'
+    alt: Ngày 3, Ảnh tập thể theo nhóm trước khu triển lãm
+    caption: Ảnh tập thể theo nhóm trước khu triển lãm
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   - image: /images/events/20261023_aiexpo_25.jpg
-    alt: Sinh viên Bangladesh và giảng viên ngày thứ ba
-    caption: Sinh viên Bangladesh và giảng viên ngày thứ ba
+    alt: Ngày 3, Sinh viên Bangladesh và giảng viên
+    caption: Sinh viên Bangladesh và giảng viên
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   - image: /images/events/20261023_aiexpo_26.jpg
-    alt: Sinh viên Bangladesh tại gian hàng doanh nghiệp hạ tầng Physical AI
+    alt: Ngày 3, Sinh viên Bangladesh tại gian hàng doanh nghiệp hạ tầng Physical AI
     caption: Sinh viên Bangladesh tại gian hàng doanh nghiệp hạ tầng Physical AI
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   - image: /images/events/20261023_aiexpo_27.jpg
-    alt: Sinh viên trao đổi danh thiếp với nhân viên doanh nghiệp
+    alt: Ngày 3, Sinh viên trao đổi danh thiếp với nhân viên doanh nghiệp
     caption: Sinh viên trao đổi danh thiếp với nhân viên doanh nghiệp
+    group: Ngày 3 · Thứ Sáu 23/10 · Sinh viên Việt Nam học kỳ 1, sinh viên Bangladesh học kỳ 1–2
   program:
   - time: 21/10 (thứ Tư)
     text: Sinh viên Việt Nam học kỳ 3–4; tham dự Hội thảo AI-Tech

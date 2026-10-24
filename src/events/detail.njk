@@ -53,7 +53,13 @@ eleventyComputed:
     {%- endif %}
     {%- if d.gallery and d.gallery.length %}
     <h2 class="group-title">{{ E.gallery }}</h2>
-    <ul class="gallery{% if d.gallery[0].caption %} gallery-captioned{% endif %}">{% for g in d.gallery %}<li>{% if g.caption %}<figure><img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy"><figcaption>{{ g.caption }}</figcaption></figure>{% else %}<img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy">{% endif %}</li>{% endfor %}</ul>
+    {%- set gcls = "gallery" + (" gallery-captioned" if d.gallery[0].caption else "") %}
+    {%- for g in d.gallery %}
+    {%- if loop.first or (g.group and g.group != d.gallery[loop.index0 - 1].group) %}
+    {%- if not loop.first %}</ul>{% endif %}
+    {%- if g.group %}<h3 class="gallery-day">{{ g.group }}</h3>{% endif %}<ul class="{{ gcls }}">
+    {%- endif %}<li>{% if g.caption %}<figure><img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy"><figcaption>{{ g.caption }}</figcaption></figure>{% else %}<img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy">{% endif %}</li>
+    {%- endfor %}</ul>
     {%- endif %}
     {%- if d.links and d.links.length %}
     <h2 class="group-title">{{ E.links }}</h2>
