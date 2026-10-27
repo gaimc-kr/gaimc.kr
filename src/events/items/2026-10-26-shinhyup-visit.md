@@ -17,11 +17,11 @@ gallery:
   alt: 베트남어·한국어 환영 화면 앞에서 찍은 그룹 기념사진
   caption: 베트남어·한국어 환영 화면 앞에서 찍은 그룹 기념사진
 - image: /images/events/20261026_shinhyup_03.jpg
-  alt: 신협전자 부사장의 회사 소개를 연단 바로 옆 앞자리에서 듣는 박양수 교수와 학생들
-  caption: 신협전자 부사장의 회사 소개를 연단 바로 옆 앞자리에서 듣는 박양수 교수와 학생들
+  alt: 신협전자 최민우 부사장의 회사 소개를 연단 바로 옆 앞자리에서 듣는 박양수 교수와 학생들
+  caption: 신협전자 최민우 부사장의 회사 소개를 연단 바로 옆 앞자리에서 듣는 박양수 교수와 학생들
 - image: /images/events/20261026_shinhyup_04.jpg
-  alt: 부사장의 회사 개요 설명
-  caption: 부사장의 회사 개요 설명
+  alt: 최민우 부사장의 회사 개요 설명
+  caption: 최민우 부사장의 회사 개요 설명
 - image: /images/events/20261026_shinhyup_05.jpg
   alt: 회사 소개에 귀 기울이는 학생들
   caption: 회사 소개에 귀 기울이는 학생들
@@ -77,7 +77,7 @@ topics: []
 speakers: []
 faculty: []
 partners: []
-memo: '2026. 10. 27. 학과장 지시로 게시. 사진은 드라이브 교외활동_신협전자탐방 폴더(김재권·정효근·김내영·박양수 하위 폴더, 56장)에서 21장 선별(대표 1장은 갤러리 마지막에도 표시). 학과장 지시에 따라 회사 내부 자동화 설비의 구조가 드러나는 부분은 블러 또는 크롭 처리하고 설비 위주 사진은 제외. 학과 촬영 사진에는 우하단에 한성대학교 시그니처 워터마크(반투명) 삽입, 원본은 드라이브에 그대로 보관. 촬영일 2026. 10. 26.(EXIF), 행사명·장소는 현장 현수막 기준. 회사 정보는 신협전자 홈페이지(연혁·CEO 인사말·오시는 길)와 현장 회사 소개 자료(글로벌 법인 정보: 베트남 박닌 법인 운영) 기준. 참가 인원·인솔 교수진은 2026. 10. 27. 학과장 전달(인솔 교수진 4명, 학생은 늦게 합류한 인원이 있어 30여 명으로 표기). 인솔 교수진은 학과장 지시로 본문에 직함과 함께 적고 프로필로 연결. 회의실 설명자는 부사장, 박양수 교수는 연단 바로 옆 앞자리(학과장 전달). 대표 사진은 학과장 요청으로 두 번째 단체사진 컷으로 교체(2026. 10. 27.)'
+memo: '2026. 10. 27. 학과장 지시로 게시. 사진은 드라이브 교외활동_신협전자탐방 폴더(김재권·정효근·김내영·박양수 하위 폴더, 56장)에서 21장 선별(대표 1장은 갤러리 마지막에도 표시). 학과장 지시에 따라 회사 내부 자동화 설비의 구조가 드러나는 부분은 블러 또는 크롭 처리하고 설비 위주 사진은 제외. 학과 촬영 사진에는 우하단에 한성대학교 시그니처 워터마크(반투명) 삽입, 원본은 드라이브에 그대로 보관. 촬영일 2026. 10. 26.(EXIF), 행사명·장소는 현장 현수막 기준. 회사 정보는 신협전자 홈페이지(연혁·CEO 인사말·오시는 길)와 현장 회사 소개 자료(글로벌 법인 정보: 베트남 박닌 법인 운영) 기준. 참가 인원·인솔 교수진은 2026. 10. 27. 학과장 전달(인솔 교수진 4명, 학생은 늦게 합류한 인원이 있어 30여 명으로 표기). 인솔 교수진은 학과장 지시로 본문에 직함과 함께 적고 프로필로 연결. 회의실 설명자는 최민우 부사장(학과장 전달, 현장 회사 소개 자료 Management Team의 Vice President와 일치), 박양수 교수는 연단 바로 옆 앞자리(학과장 전달). 대표 사진은 학과장 요청으로 두 번째 단체사진 컷으로 교체(2026. 10. 27.)'
 en:
   title: 'Global IPP Company Field Visit: Shinhyup Electronics'
   place: Shinhyup Electronics headquarters, Namdong National Industrial Complex, Incheon
@@ -92,11 +92,11 @@ en:
     alt: Group photo in front of the welcome screen in Vietnamese and Korean
     caption: Group photo in front of the welcome screen in Vietnamese and Korean
   - image: /images/events/20261026_shinhyup_03.jpg
-    alt: Professor Park Yang Soo (front row, next to the podium) and students hearing the company introduction from Shinhyup Electronics' vice president
-    caption: Professor Park Yang Soo (front row, next to the podium) and students hearing the company introduction from Shinhyup Electronics' vice president
+    alt: Professor Park Yang Soo (front row, next to the podium) and students hearing the company introduction from Shinhyup Electronics Vice President Choi Min-woo
+    caption: Professor Park Yang Soo (front row, next to the podium) and students hearing the company introduction from Shinhyup Electronics Vice President Choi Min-woo
   - image: /images/events/20261026_shinhyup_04.jpg
-    alt: The vice president presents the company overview
-    caption: The vice president presents the company overview
+    alt: Vice President Choi Min-woo presents the company overview
+    caption: Vice President Choi Min-woo presents the company overview
   - image: /images/events/20261026_shinhyup_05.jpg
     alt: Students listening to the company presentation
     caption: Students listening to the company presentation
@@ -153,7 +153,7 @@ en:
 
     On Monday, October 26, 2026, faculty and graduate students of the Department of Global AI Management Consulting at Hansung University visited Shinhyup Electronics' headquarters for the department's "Fall 2026 Company Research and Field Visit." The visit is part of the field (OJT) stage of the department's Global IPP and was organized so that international students could see the management and production of a Korean manufacturer first-hand. Shinhyup Electronics welcomed the students with greetings in Vietnamese and Korean on the large display in its first-floor lobby.
 
-    The day began in the meeting room, where Shinhyup Electronics' vice president introduced the company, its business areas and its subsidiaries in Korea and abroad, and students heard how a Korean PCB company has been expanding its production overseas. Because the company has a subsidiary in Bac Ninh, the session gave Vietnamese students a close look at how Korean manufacturers enter their home market.
+    The day began in the meeting room, where Shinhyup Electronics Vice President Choi Min-woo introduced the company, its business areas and its subsidiaries in Korea and abroad, and students heard how a Korean PCB company has been expanding its production overseas. Because the company has a subsidiary in Bac Ninh, the session gave Vietnamese students a close look at how Korean manufacturers enter their home market.
 
     Students then toured the production site in groups led by four faculty members: [Professor Park Yang Soo](/en/faculty/park-yangsoo/), [Adjunct Professor Kim Nae Young](/en/faculty/kim-naeyoung/), and guest speakers [Kim Jaekwon](/en/faculty/kim-jaekwon/) and [Jung Hyo-Keun](/en/faculty/jung-hyokeun/). A company staff member accompanied each group and explained how PCBs are made, from the materials storage area through each stage of production, while students looked at board samples and copper-clad boards and asked questions.
 
@@ -172,11 +172,11 @@ vi:
     alt: Ảnh nhóm trước màn hình chào mừng bằng tiếng Việt và tiếng Hàn
     caption: Ảnh nhóm trước màn hình chào mừng bằng tiếng Việt và tiếng Hàn
   - image: /images/events/20261026_shinhyup_03.jpg
-    alt: GS. Park Yang Soo (hàng đầu, sát bục phát biểu) và sinh viên nghe Phó Tổng Giám đốc Shinhyup Electronics giới thiệu công ty
-    caption: GS. Park Yang Soo (hàng đầu, sát bục phát biểu) và sinh viên nghe Phó Tổng Giám đốc Shinhyup Electronics giới thiệu công ty
+    alt: GS. Park Yang Soo (hàng đầu, sát bục phát biểu) và sinh viên nghe Phó Tổng Giám đốc Shinhyup Electronics Choi Min-woo giới thiệu công ty
+    caption: GS. Park Yang Soo (hàng đầu, sát bục phát biểu) và sinh viên nghe Phó Tổng Giám đốc Shinhyup Electronics Choi Min-woo giới thiệu công ty
   - image: /images/events/20261026_shinhyup_04.jpg
-    alt: Phó Tổng Giám đốc trình bày tổng quan về công ty
-    caption: Phó Tổng Giám đốc trình bày tổng quan về công ty
+    alt: Phó Tổng Giám đốc Choi Min-woo trình bày tổng quan về công ty
+    caption: Phó Tổng Giám đốc Choi Min-woo trình bày tổng quan về công ty
   - image: /images/events/20261026_shinhyup_05.jpg
     alt: Sinh viên chăm chú nghe phần giới thiệu công ty
     caption: Sinh viên chăm chú nghe phần giới thiệu công ty
@@ -233,7 +233,7 @@ vi:
 
     Ngày 26/10/2026 (thứ Hai), giảng viên và học viên cao học Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung đã đến trụ sở chính của Shinhyup Electronics trong chương trình "Khảo sát doanh nghiệp và tham quan thực tế học kỳ 2 năm 2026". Đây là hoạt động thuộc giai đoạn thực tế (OJT) của chương trình Global IPP do khoa vận hành, nhằm giúp sinh viên quốc tế trực tiếp tìm hiểu hoạt động quản trị và sản xuất của một doanh nghiệp sản xuất Hàn Quốc. Shinhyup Electronics đã chào đón sinh viên bằng lời chào tiếng Việt và tiếng Hàn trên màn hình lớn tại sảnh tầng 1.
 
-    Chương trình bắt đầu tại phòng họp, nơi Phó Tổng Giám đốc của Shinhyup Electronics giới thiệu tổng quan, lĩnh vực kinh doanh và các pháp nhân trong và ngoài nước. Sinh viên được nghe về quá trình một doanh nghiệp PCB Hàn Quốc mở rộng sản xuất ra nước ngoài. Vì công ty có pháp nhân tại Bắc Ninh, buổi giới thiệu là cơ hội để sinh viên Việt Nam hiểu rõ hơn cách doanh nghiệp sản xuất Hàn Quốc đầu tư vào Việt Nam.
+    Chương trình bắt đầu tại phòng họp, nơi Phó Tổng Giám đốc Choi Min-woo của Shinhyup Electronics giới thiệu tổng quan, lĩnh vực kinh doanh và các pháp nhân trong và ngoài nước. Sinh viên được nghe về quá trình một doanh nghiệp PCB Hàn Quốc mở rộng sản xuất ra nước ngoài. Vì công ty có pháp nhân tại Bắc Ninh, buổi giới thiệu là cơ hội để sinh viên Việt Nam hiểu rõ hơn cách doanh nghiệp sản xuất Hàn Quốc đầu tư vào Việt Nam.
 
     Sau đó, sinh viên chia nhóm tham quan khu sản xuất dưới sự dẫn đoàn của bốn giảng viên: [GS. Park Yang Soo](/vi/faculty/park-yangsoo/), [GS. kiêm nhiệm Kim Nae Young](/vi/faculty/kim-naeyoung/) cùng các diễn giả khách mời [Kim Jaekwon](/vi/faculty/kim-jaekwon/) và [Jung Hyo-Keun](/vi/faculty/jung-hyokeun/). Mỗi nhóm có nhân viên công ty đi cùng, giải thích quy trình làm ra PCB từ khu lưu trữ vật tư đến từng công đoạn; sinh viên trực tiếp xem mẫu bo mạch, tấm phủ đồng và đặt câu hỏi.
 
@@ -243,7 +243,7 @@ vi:
 
 한성대학교 대학원 글로벌AI경영컨설팅학과 교수진과 대학원생들은 2026년 10월 26일(월) 신협전자 본사를 찾아 '2026-2학기 기업조사 및 현장견학'을 진행했다. 학과가 운영하는 글로벌 IPP의 현장(OJT) 단계 활동으로, 유학생들이 국내 제조기업의 경영과 생산 현장을 직접 보고 산업에 대한 이해를 넓히도록 마련했다. 신협전자는 1층 로비의 대형 디스플레이에 베트남어와 한국어 환영 인사를 띄워 학생들을 맞았다.
 
-일정은 회의실에서 시작했다. 신협전자 부사장이 회사 개요와 사업 분야, 국내외 법인 현황을 소개했고, 학생들은 한국 PCB 기업이 해외로 생산 거점을 넓혀 가는 과정을 들었다. 베트남 박닌에 법인을 둔 기업인 만큼, 베트남 출신 학생들에게는 한국 제조기업의 현지 진출을 가까이에서 이해하는 기회가 됐다.
+일정은 회의실에서 시작했다. 신협전자 최민우 부사장이 회사 개요와 사업 분야, 국내외 법인 현황을 소개했고, 학생들은 한국 PCB 기업이 해외로 생산 거점을 넓혀 가는 과정을 들었다. 베트남 박닌에 법인을 둔 기업인 만큼, 베트남 출신 학생들에게는 한국 제조기업의 현지 진출을 가까이에서 이해하는 기회가 됐다.
 
 이어 학생들은 그룹을 나눠 [박양수 교수](/faculty/park-yangsoo/), [김내영 겸임교수](/faculty/kim-naeyoung/), [김재권](/faculty/kim-jaekwon/)·[정효근](/faculty/jung-hyokeun/) 특강연사 등 인솔 교수진 4명과 함께 생산 현장을 견학했다. 그룹마다 회사 관계자가 동행해 자재 보관 구역부터 각 공정까지 PCB가 만들어지는 과정을 설명했고, 학생들은 기판 샘플과 동박 원판을 직접 보며 궁금한 점을 질문했다.
 
