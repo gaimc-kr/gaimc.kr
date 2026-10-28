@@ -77,7 +77,7 @@ topics: []
 speakers: []
 faculty: []
 partners: []
-memo: '2026. 10. 27. 학과장 지시로 게시. 사진은 드라이브 교외활동_신협전자탐방 폴더(김재권·정효근·김내영·박양수 하위 폴더, 56장)에서 21장 선별(대표 1장은 갤러리 마지막에도 표시). 학과장 지시에 따라 회사 내부 자동화 설비의 구조가 드러나는 부분은 블러 또는 크롭 처리하고 설비 위주 사진은 제외. 학과 촬영 사진에는 우하단에 한성대학교 시그니처 워터마크(반투명) 삽입, 원본은 드라이브에 그대로 보관. 촬영일 2026. 10. 26.(EXIF), 행사명·장소는 현장 현수막 기준. 회사 정보는 신협전자 홈페이지(연혁·CEO 인사말·오시는 길)와 현장 회사 소개 자료(글로벌 법인 정보: 베트남 박닌 법인 운영) 기준. 참가 인원·인솔 교수진은 2026. 10. 27. 학과장 전달(인솔 교수진 4명, 학생은 늦게 합류한 인원이 있어 30여 명으로 표기). 인솔 교수진은 학과장 지시로 본문에 직함과 함께 적고 프로필로 연결. 회장 김태후(학과장 전달, 회사 소개 자료 Chairman과 일치). 회의실 설명자는 최민우 부사장(학과장 전달, 현장 회사 소개 자료 Management Team의 Vice President와 일치), 박양수 교수는 연단 바로 옆 앞자리(학과장 전달). 대표 사진은 학과장 요청으로 두 번째 단체사진 컷으로 교체(2026. 10. 27.)'
+memo: 2026. 10. 27. 학과장 지시로 게시. 사진은 드라이브 교외활동_신협전자탐방 폴더(김재권·정효근·김내영·박양수 하위 폴더, 56장)에서 21장 선별(대표 1장은 갤러리 마지막에도 표시). 학과장 지시에 따라 회사 내부 자동화 설비의 구조가 드러나는 부분은 블러 또는 크롭 처리하고 설비 위주 사진은 제외. 학과 촬영 사진에는 우하단에 한성대학교 시그니처 워터마크(반투명) 삽입, 원본은 드라이브에 그대로 보관. 촬영일 2026. 10. 26.(EXIF), 행사명·장소는 현장 현수막 기준. 회사 정보는 신협전자 홈페이지(연혁·오시는 길)와 회사소개서(COMPANY PROFILE_SHE+JV_KOR_20261026.pptx, 2026. 10. 28. 드라이브 수령) 기준 — 설립일 1986. 1. 18.(홈페이지 인사말의 1987년 대신 회사소개서 기준), 베트남 박닌 법인 운영, 인도 합작법인(Shinhyup Syrma Circuit, 2027년 1분기 생산 개시 예정). 매출·생산 능력·투자 계획 등은 게재하지 않음. 참가 인원·인솔 교수진은 2026. 10. 27. 학과장 전달(인솔 교수진 4명, 학생은 늦게 합류한 인원이 있어 30여 명으로 표기). 인솔 교수진은 학과장 지시로 본문에 직함과 함께 적고 프로필로 연결. 회장 김태후(학과장 전달, 회사 소개 자료 Chairman과 일치). 회의실 설명자는 최민우 부사장(학과장 전달, 현장 회사 소개 자료 Management Team의 Vice President와 일치), 박양수 교수는 연단 바로 옆 앞자리(학과장 전달). 대표 사진은 학과장 요청으로 두 번째 단체사진 컷으로 교체(2026. 10. 27.)
 en:
   title: 'Global IPP Company Field Visit: Shinhyup Electronics'
   place: Shinhyup Electronics headquarters, Namdong National Industrial Complex, Incheon
@@ -149,7 +149,7 @@ en:
     alt: Full group photo in front of the large first-floor display welcoming Hansung University
     caption: Full group photo in front of the large first-floor display welcoming Hansung University
   body: |
-    Shinhyup Electronics Co., Ltd. (Chairman Kim Tae-hoo) is a printed circuit board (PCB) manufacturer founded in 1987. It produces single-sided, double-sided, multilayer (MLB), metal and flexible (FPCB) boards and supplies PCBs for automotive electronics, home appliances, displays and LED lighting. Headquartered in the Namdong National Industrial Complex in Incheon, it also runs a site in Busan and completed a new plant in 2025. The company is expanding its production base abroad, with subsidiaries in Tianjin, China and Bac Ninh, Vietnam, and a joint venture in India under way.
+    Shinhyup Electronics Co., Ltd. (Chairman Kim Tae-hoo) is a printed circuit board (PCB) manufacturer founded in 1986. It produces single-sided, double-sided, multilayer (MLB), metal and flexible (FPCB) boards and supplies PCBs for automotive electronics, home appliances, displays and LED lighting. Headquartered in the Namdong National Industrial Complex in Incheon, it also runs a site in Busan and completed a new plant in 2025. It has also been expanding its production base abroad, with subsidiaries in Tianjin, China and Bac Ninh, Vietnam, and a joint venture with a local partner in India that is building a plant to start production in 2027.
 
     On Monday, October 26, 2026, faculty and graduate students of the Department of Global AI Management Consulting at Hansung University visited Shinhyup Electronics' headquarters for the department's "Fall 2026 Company Research and Field Visit." The visit is part of the field (OJT) stage of the department's Global IPP and was organized so that international students could see the management and production of a Korean manufacturer first-hand. Shinhyup Electronics welcomed the students with greetings in Vietnamese and Korean on the large display in its first-floor lobby.
 
@@ -229,7 +229,7 @@ vi:
     alt: Ảnh tập thể trước màn hình lớn chào đón Đại học Hansung tại sảnh tầng 1
     caption: Ảnh tập thể trước màn hình lớn chào đón Đại học Hansung tại sảnh tầng 1
   body: |
-    Shinhyup Electronics Co., Ltd. (Chủ tịch Kim Tae-hoo) là doanh nghiệp chuyên sản xuất bảng mạch in (PCB), thành lập năm 1987. Công ty sản xuất bo mạch một lớp, hai lớp, nhiều lớp (MLB), bo mạch kim loại và bo mạch dẻo (FPCB), cung cấp PCB cho điện tử ô tô, thiết bị gia dụng, màn hình và đèn LED. Công ty đặt trụ sở chính tại Khu công nghiệp quốc gia Namdong (Incheon), vận hành cơ sở tại Busan và đã hoàn thành nhà máy mới vào năm 2025. Công ty đang mở rộng cơ sở sản xuất ở nước ngoài với các pháp nhân tại Thiên Tân (Trung Quốc) và Bắc Ninh (Việt Nam), đồng thời xúc tiến thành lập liên doanh tại Ấn Độ.
+    Shinhyup Electronics Co., Ltd. (Chủ tịch Kim Tae-hoo) là doanh nghiệp chuyên sản xuất bảng mạch in (PCB), thành lập năm 1986. Công ty sản xuất bo mạch một lớp, hai lớp, nhiều lớp (MLB), bo mạch kim loại và bo mạch dẻo (FPCB), cung cấp PCB cho điện tử ô tô, thiết bị gia dụng, màn hình và đèn LED. Công ty đặt trụ sở chính tại Khu công nghiệp quốc gia Namdong (Incheon), vận hành cơ sở tại Busan và đã hoàn thành nhà máy mới vào năm 2025. Công ty cũng mở rộng cơ sở sản xuất ra nước ngoài với các pháp nhân tại Thiên Tân (Trung Quốc) và Bắc Ninh (Việt Nam), đồng thời thành lập liên doanh với đối tác địa phương tại Ấn Độ và đang xây dựng nhà máy với mục tiêu bắt đầu sản xuất vào năm 2027.
 
     Ngày 26/10/2026 (thứ Hai), giảng viên và học viên cao học Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung đã đến trụ sở chính của Shinhyup Electronics trong chương trình "Khảo sát doanh nghiệp và tham quan thực tế học kỳ 2 năm 2026". Đây là hoạt động thuộc giai đoạn thực tế (OJT) của chương trình Global IPP do khoa vận hành, nhằm giúp sinh viên quốc tế trực tiếp tìm hiểu hoạt động quản trị và sản xuất của một doanh nghiệp sản xuất Hàn Quốc. Shinhyup Electronics đã chào đón sinh viên bằng lời chào tiếng Việt và tiếng Hàn trên màn hình lớn tại sảnh tầng 1.
 
@@ -239,7 +239,7 @@ vi:
 
     Kết thúc buổi tham quan, đoàn chụp ảnh tập thể trước màn hình chào đón Đại học Hansung tại sảnh tầng 1. Khoa dự kiến tiếp tục các chuyến tham quan thực tế, tập trung vào các doanh nghiệp được kết nối qua giáo sư kiêm nhiệm và diễn giả khách mời, để giúp sinh viên quốc tế hiểu ngành công nghiệp Hàn Quốc và định hướng nghề nghiệp.
 ---
-㈜신협전자(회장 김태후)는 1987년 설립된 인쇄회로기판(PCB) 전문 생산기업이다. 단면·양면·다층(MLB)·메탈·연성(FPCB) 기판을 생산해 자동차 전장, 가전, 디스플레이, LED 조명용 PCB를 공급한다. 인천 남동국가산업단지에 본사를 두고 부산사업장을 운영하며, 2025년 신공장을 준공했다. 중국 톈진과 베트남 박닌에 법인을 세우고 인도 합작법인 설립을 추진하는 등 해외 생산 거점도 넓히고 있다.
+㈜신협전자(회장 김태후)는 1986년 설립된 인쇄회로기판(PCB) 전문 생산기업이다. 단면·양면·다층(MLB)·메탈·연성(FPCB) 기판을 생산해 자동차 전장, 가전, 디스플레이, LED 조명용 PCB를 공급한다. 인천 남동국가산업단지에 본사를 두고 부산사업장을 운영하며, 2025년 신공장을 준공했다. 해외 생산 거점도 넓혀 중국 톈진과 베트남 박닌에 법인을 세웠고, 인도에는 현지 기업과 합작법인을 설립해 2027년 생산을 목표로 공장을 짓고 있다.
 
 한성대학교 대학원 글로벌AI경영컨설팅학과 교수진과 대학원생들은 2026년 10월 26일(월) 신협전자 본사를 찾아 '2026-2학기 기업조사 및 현장견학'을 진행했다. 학과가 운영하는 글로벌 IPP의 현장(OJT) 단계 활동으로, 유학생들이 국내 제조기업의 경영과 생산 현장을 직접 보고 산업에 대한 이해를 넓히도록 마련했다. 신협전자는 1층 로비의 대형 디스플레이에 베트남어와 한국어 환영 인사를 띄워 학생들을 맞았다.
 
