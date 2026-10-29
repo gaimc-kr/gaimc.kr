@@ -7,52 +7,92 @@ participants: 베트남 유학생 1~5학기(선수는 3·4·5학기 팀), 학과
 summary: 1~5학기 베트남 유학생들이 함께한 학기 대항 축구대회가 열렸다. 3학기가 2전 전승으로 우승하고 4·5학기가 공동 준우승했다.
 status: done
 cover: /images/events/20261026_soccer_00.jpg
-cover_alt: 생성형 AI로 제작한 글로벌 AI 경영컨설팅학과 축구대회 홍보 이미지
+cover_alt: 경기 전 전곡산단 인조잔디구장에서 함께한 축구대회 참가자 전체 단체사진
 gallery:
 - image: /images/events/20261026_soccer_00.jpg
+  alt: 경기 전 전곡산단 인조잔디구장에서 함께한 전체 단체사진
+  caption: 경기 전 전곡산단 인조잔디구장에서 함께한 전체 단체사진
+  group: 경기 전 · 단체사진과 팀 사진
+- image: /images/events/20261026_soccer_01.jpg
+  alt: 빨간색·흰색 유니폼 팀 단체사진
+  caption: 빨간색·흰색 유니폼 팀 단체사진
+  group: 경기 전 · 단체사진과 팀 사진
+- image: /images/events/20261026_soccer_02.jpg
+  alt: 한성대학교 유니폼 팀 단체사진
+  caption: 한성대학교 유니폼 팀 단체사진
+  group: 경기 전 · 단체사진과 팀 사진
+- image: /images/events/20261026_soccer_03.jpg
+  alt: 경기 시작 전 서로 인사하는 두 팀
+  caption: 경기 시작 전 서로 인사하는 두 팀
+  group: 경기 전 · 단체사진과 팀 사진
+- image: /images/events/20261026_soccer_04.jpg
+  alt: 공을 향해 달려드는 선수들
+  caption: 공을 향해 달려드는 선수들
+  group: 경기
+- image: /images/events/20261026_soccer_05.jpg
+  alt: 드리블로 수비를 따돌리는 선수
+  caption: 드리블로 수비를 따돌리는 선수
+  group: 경기
+- image: /images/events/20261026_soccer_06.jpg
+  alt: 공중볼을 다투는 장면
+  caption: 공중볼을 다투는 장면
+  group: 경기
+- image: /images/events/20261026_soccer_07.jpg
+  alt: 슈팅을 시도하는 선수
+  caption: 슈팅을 시도하는 선수
+  group: 경기
+- image: /images/events/20261026_soccer_08.jpg
+  alt: 공을 지키며 몸싸움하는 선수들
+  caption: 공을 지키며 몸싸움하는 선수들
+  group: 경기
+- image: /images/events/20261026_soccer_09.jpg
+  alt: 치열한 태클 장면
+  caption: 치열한 태클 장면
+  group: 경기
+- image: /images/events/20261026_soccer_10.jpg
+  alt: 공격을 전개하는 선수
+  caption: 공격을 전개하는 선수
+  group: 경기
+- image: /images/events/20261026_soccer_11.jpg
+  alt: 함께 기뻐하는 선수들
+  caption: 함께 기뻐하는 선수들
+  group: 경기
+- image: /images/events/20261026_soccer_12.jpg
+  alt: 경기장 옆에서 경기를 지켜보는 참가자들
+  caption: 경기장 옆에서 경기를 지켜보는 참가자들
+  group: 응원
+- image: /images/events/20261026_soccer_13.jpg
+  alt: 선수들에게 수여한 메달
+  caption: 선수들에게 수여한 메달
+  group: 시상식
+- image: /images/events/20261026_soccer_14.jpg
+  alt: 선수들에게 메달을 걸어 주는 모습
+  caption: 선수들에게 메달을 걸어 주는 모습
+  group: 시상식
+- image: /images/events/20261026_soccer_15.jpg
+  alt: 메달을 받는 선수
+  caption: 메달을 받는 선수
+  group: 시상식
+- image: /images/events/20261026_soccer_16.jpg
+  alt: 시상식 후 교수진과 함께한 팀 기념사진
+  caption: 시상식 후 교수진과 함께한 팀 기념사진
+  group: 기념사진
+- image: /images/events/20261026_soccer_17.jpg
+  alt: 메달을 목에 건 팀 기념사진
+  caption: 메달을 목에 건 팀 기념사진
+  group: 기념사진
+- image: /images/events/20261026_soccer_18.jpg
+  alt: 우승컵을 들어 올린 우승팀
+  caption: 우승컵을 들어 올린 우승팀
+  group: 기념사진
+- image: /images/events/20261026_soccer_19.jpg
   alt: 생성형 AI로 제작한 대회 홍보 이미지 ① 경기 장면
   caption: 생성형 AI로 제작한 대회 홍보 이미지 ① 경기 장면
   group: 대회 홍보 이미지 · AI 제작
-- image: /images/events/20261026_soccer_01.jpg
+- image: /images/events/20261026_soccer_20.jpg
   alt: 생성형 AI로 제작한 대회 홍보 이미지 ② 슈팅 장면
   caption: 생성형 AI로 제작한 대회 홍보 이미지 ② 슈팅 장면
   group: 대회 홍보 이미지 · AI 제작
-- image: /images/events/20261026_soccer_02.jpg
-  alt: 빨간색·흰색 유니폼 팀 단체사진
-  caption: 빨간색·흰색 유니폼 팀 단체사진
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_03.jpg
-  alt: 한성대학교 유니폼 팀 단체사진
-  caption: 한성대학교 유니폼 팀 단체사진
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_04.jpg
-  alt: 경기 시작 전 운동장에 모인 선수들
-  caption: 경기 시작 전 운동장에 모인 선수들
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_05.jpg
-  alt: 경기 전 대회 진행 안내를 듣는 선수들
-  caption: 경기 전 대회 진행 안내를 듣는 선수들
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_06.jpg
-  alt: 인조잔디구장에서 진행된 경기
-  caption: 인조잔디구장에서 진행된 경기
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_07.jpg
-  alt: 경기장 옆에서 응원하는 학생들
-  caption: 경기장 옆에서 응원하는 학생들
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_08.jpg
-  alt: 시상식에서 메달을 받는 선수들
-  caption: 시상식에서 메달을 받는 선수들
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_09.jpg
-  alt: 시상식을 마치고 모인 남색 유니폼 팀
-  caption: 시상식을 마치고 모인 남색 유니폼 팀
-  group: 대회 현장 · 10. 26.(월)
-- image: /images/events/20261026_soccer_10.jpg
-  alt: 시상식 후 선수들을 격려하는 모습
-  caption: 시상식 후 선수들을 격려하는 모습
-  group: 대회 현장 · 10. 26.(월)
 program:
 - time: 1경기
   text: '5학기 0 : 0 4학기'
@@ -66,58 +106,98 @@ topics: []
 speakers: []
 faculty: []
 partners: []
-memo: 2026. 10. 27. 학과장 지시로 게시. 자료는 드라이브 「2026년 하반기 학과 축구대회(베트남)」 폴더(사진 12장, AI 제작 홍보 이미지 2장, 축구대회결과.docx). 사진은 촬영 순서(EXIF 2026. 10. 26.)대로 9장 게시, 식당 사진 2장과 어두운 사진 1장 제외, 우하단 워터마크 삽입. AI 이미지는 학교 표기가 들어 있어 워터마크 없이 홍보 이미지로 사용하고 AI 제작임을 밝힘. 결과는 docx 기준, 4·5학기 승점 동률(1무 1패)로 공동 준우승 표기. 참가 인원은 기재하지 않음(학과장 판단). 선수는 3·4·5학기, 1·2학기도 참여(학과장 전달). 장소 주소는 카카오맵 기준. 사진 추가 입수 시 갤러리 갱신 예정
+memo: 2026. 10. 29. 학생 Minh Nhat 제공 사진(공유 폴더 26/10, Canon EOS R50 1,235장, 카메라 시각이 실제보다 약 2시간 늦음)에서 19장 선별해 갤러리를 구획(경기 전·경기·응원·시상식·기념사진)으로 교체, 대표 사진을 경기 전 전체 단체사진으로 변경, 휴대전화 사진 9장은 제외, AI 이미지는 갤러리 마지막으로 이동. 2026. 10. 27. 학과장 지시로 게시. 자료는 드라이브 「2026년 하반기 학과 축구대회(베트남)」 폴더(사진 12장, AI 제작 홍보 이미지 2장, 축구대회결과.docx). 사진은 촬영 순서(EXIF 2026. 10. 26.)대로 9장 게시, 식당 사진 2장과 어두운 사진 1장 제외, 우하단 워터마크 삽입. AI 이미지는 학교 표기가 들어 있어 워터마크 없이 홍보 이미지로 사용하고 AI 제작임을 밝힘. 결과는 docx 기준, 4·5학기 승점 동률(1무 1패)로 공동 준우승 표기. 참가 인원은 기재하지 않음(학과장 판단). 선수는 3·4·5학기, 1·2학기도 참여(학과장 전달). 장소 주소는 카카오맵 기준. 사진 추가 입수 시 갤러리 갱신 예정
 en:
   title: Fall 2026 Inter-Semester Football Tournament
   place: Jeongok Industrial Complex artificial-turf pitch, Seosin-myeon, Hwaseong, Gyeonggi-do
   participants: Vietnamese students from semesters 1–5 (players from semesters 3, 4 and 5) and department faculty
   summary: Vietnamese students from semesters 1–5 came together for an inter-semester football tournament. Semester 3 won with two straight wins, and semesters 4 and 5 were joint runners-up.
-  cover_alt: Key visual for the department football tournament, made with generative AI
+  cover_alt: Group photo of all tournament participants at the Jeongok pitch before kick-off
   gallery:
   - image: /images/events/20261026_soccer_00.jpg
+    alt: Group photo of all participants at the Jeongok pitch before kick-off
+    caption: Group photo of all participants at the Jeongok pitch before kick-off
+    group: Before kick-off · group and team photos
+  - image: /images/events/20261026_soccer_01.jpg
+    alt: Team photo in red-and-white kits
+    caption: Team photo in red-and-white kits
+    group: Before kick-off · group and team photos
+  - image: /images/events/20261026_soccer_02.jpg
+    alt: Team photo in Hansung University kits
+    caption: Team photo in Hansung University kits
+    group: Before kick-off · group and team photos
+  - image: /images/events/20261026_soccer_03.jpg
+    alt: Two teams greeting each other before kick-off
+    caption: Two teams greeting each other before kick-off
+    group: Before kick-off · group and team photos
+  - image: /images/events/20261026_soccer_04.jpg
+    alt: Players racing for the ball
+    caption: Players racing for the ball
+    group: The matches
+  - image: /images/events/20261026_soccer_05.jpg
+    alt: A player dribbling past a defender
+    caption: A player dribbling past a defender
+    group: The matches
+  - image: /images/events/20261026_soccer_06.jpg
+    alt: Contesting a high ball
+    caption: Contesting a high ball
+    group: The matches
+  - image: /images/events/20261026_soccer_07.jpg
+    alt: A player going for a shot
+    caption: A player going for a shot
+    group: The matches
+  - image: /images/events/20261026_soccer_08.jpg
+    alt: Shielding the ball under pressure
+    caption: Shielding the ball under pressure
+    group: The matches
+  - image: /images/events/20261026_soccer_09.jpg
+    alt: A hard-fought tackle
+    caption: A hard-fought tackle
+    group: The matches
+  - image: /images/events/20261026_soccer_10.jpg
+    alt: Building an attack
+    caption: Building an attack
+    group: The matches
+  - image: /images/events/20261026_soccer_11.jpg
+    alt: Players celebrating together
+    caption: Players celebrating together
+    group: The matches
+  - image: /images/events/20261026_soccer_12.jpg
+    alt: Watching the match from the sideline
+    caption: Watching the match from the sideline
+    group: On the sideline
+  - image: /images/events/20261026_soccer_13.jpg
+    alt: Medals for the players
+    caption: Medals for the players
+    group: Awards ceremony
+  - image: /images/events/20261026_soccer_14.jpg
+    alt: Presenting medals to the players
+    caption: Presenting medals to the players
+    group: Awards ceremony
+  - image: /images/events/20261026_soccer_15.jpg
+    alt: A player receiving a medal
+    caption: A player receiving a medal
+    group: Awards ceremony
+  - image: /images/events/20261026_soccer_16.jpg
+    alt: Team photo with faculty after the ceremony
+    caption: Team photo with faculty after the ceremony
+    group: Commemorative photos
+  - image: /images/events/20261026_soccer_17.jpg
+    alt: Team photo with medals
+    caption: Team photo with medals
+    group: Commemorative photos
+  - image: /images/events/20261026_soccer_18.jpg
+    alt: The champions lifting the trophy
+    caption: The champions lifting the trophy
+    group: Commemorative photos
+  - image: /images/events/20261026_soccer_19.jpg
     alt: 'Tournament key visual made with generative AI ①: match scene'
     caption: 'Tournament key visual made with generative AI ①: match scene'
     group: Tournament key visuals · made with AI
-  - image: /images/events/20261026_soccer_01.jpg
+  - image: /images/events/20261026_soccer_20.jpg
     alt: 'Tournament key visual made with generative AI ②: shot on goal'
     caption: 'Tournament key visual made with generative AI ②: shot on goal'
     group: Tournament key visuals · made with AI
-  - image: /images/events/20261026_soccer_02.jpg
-    alt: Team photo in red-and-white kits
-    caption: Team photo in red-and-white kits
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_03.jpg
-    alt: Team photo in Hansung University kits
-    caption: Team photo in Hansung University kits
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_04.jpg
-    alt: Players gathering on the pitch before kick-off
-    caption: Players gathering on the pitch before kick-off
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_05.jpg
-    alt: Players hearing the tournament briefing before the matches
-    caption: Players hearing the tournament briefing before the matches
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_06.jpg
-    alt: A match on the artificial-turf pitch
-    caption: A match on the artificial-turf pitch
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_07.jpg
-    alt: Students cheering from the sideline
-    caption: Students cheering from the sideline
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_08.jpg
-    alt: Players receiving medals at the awards ceremony
-    caption: Players receiving medals at the awards ceremony
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_09.jpg
-    alt: The navy-kit team gathered after the ceremony
-    caption: The navy-kit team gathered after the ceremony
-    group: At the tournament · Mon, Oct 26
-  - image: /images/events/20261026_soccer_10.jpg
-    alt: Encouraging the players after the ceremony
-    caption: Encouraging the players after the ceremony
-    group: At the tournament · Mon, Oct 26
   program:
   - time: Match 1
     text: Semester 5 0–0 Semester 4
@@ -140,52 +220,92 @@ vi:
   place: Sân cỏ nhân tạo Khu công nghiệp Jeongok, Seosin-myeon, Hwaseong, Gyeonggi-do
   participants: Sinh viên Việt Nam học kỳ 1–5 (cầu thủ thuộc các đội học kỳ 3, 4, 5) và giảng viên của khoa
   summary: Sinh viên Việt Nam từ học kỳ 1 đến 5 cùng tham gia giải bóng đá giữa các học kỳ. Học kỳ 3 vô địch với hai trận toàn thắng, học kỳ 4 và 5 đồng hạng Á quân.
-  cover_alt: Hình ảnh quảng bá giải bóng đá của khoa, tạo bằng AI tạo sinh
+  cover_alt: Ảnh tập thể toàn bộ người tham gia giải đấu tại sân Jeongok trước giờ thi đấu
   gallery:
   - image: /images/events/20261026_soccer_00.jpg
+    alt: Ảnh tập thể toàn đoàn tại sân Jeongok trước giờ thi đấu
+    caption: Ảnh tập thể toàn đoàn tại sân Jeongok trước giờ thi đấu
+    group: Trước trận · ảnh tập thể và ảnh đội
+  - image: /images/events/20261026_soccer_01.jpg
+    alt: Ảnh đội mặc áo đỏ trắng
+    caption: Ảnh đội mặc áo đỏ trắng
+    group: Trước trận · ảnh tập thể và ảnh đội
+  - image: /images/events/20261026_soccer_02.jpg
+    alt: Ảnh đội mặc áo Đại học Hansung
+    caption: Ảnh đội mặc áo Đại học Hansung
+    group: Trước trận · ảnh tập thể và ảnh đội
+  - image: /images/events/20261026_soccer_03.jpg
+    alt: Hai đội chào nhau trước giờ bóng lăn
+    caption: Hai đội chào nhau trước giờ bóng lăn
+    group: Trước trận · ảnh tập thể và ảnh đội
+  - image: /images/events/20261026_soccer_04.jpg
+    alt: Các cầu thủ lao vào tranh bóng
+    caption: Các cầu thủ lao vào tranh bóng
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_05.jpg
+    alt: Cầu thủ đi bóng qua hậu vệ
+    caption: Cầu thủ đi bóng qua hậu vệ
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_06.jpg
+    alt: Tranh chấp bóng bổng
+    caption: Tranh chấp bóng bổng
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_07.jpg
+    alt: Cầu thủ dứt điểm
+    caption: Cầu thủ dứt điểm
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_08.jpg
+    alt: Che chắn bóng trong pha tranh chấp
+    caption: Che chắn bóng trong pha tranh chấp
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_09.jpg
+    alt: Pha tắc bóng quyết liệt
+    caption: Pha tắc bóng quyết liệt
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_10.jpg
+    alt: Cầu thủ triển khai tấn công
+    caption: Cầu thủ triển khai tấn công
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_11.jpg
+    alt: Các cầu thủ cùng nhau ăn mừng
+    caption: Các cầu thủ cùng nhau ăn mừng
+    group: Các trận đấu
+  - image: /images/events/20261026_soccer_12.jpg
+    alt: Theo dõi trận đấu bên đường biên
+    caption: Theo dõi trận đấu bên đường biên
+    group: Cổ vũ
+  - image: /images/events/20261026_soccer_13.jpg
+    alt: Huy chương dành cho các cầu thủ
+    caption: Huy chương dành cho các cầu thủ
+    group: Lễ trao giải
+  - image: /images/events/20261026_soccer_14.jpg
+    alt: Trao huy chương cho các cầu thủ
+    caption: Trao huy chương cho các cầu thủ
+    group: Lễ trao giải
+  - image: /images/events/20261026_soccer_15.jpg
+    alt: Cầu thủ nhận huy chương
+    caption: Cầu thủ nhận huy chương
+    group: Lễ trao giải
+  - image: /images/events/20261026_soccer_16.jpg
+    alt: Ảnh đội cùng giảng viên sau lễ trao giải
+    caption: Ảnh đội cùng giảng viên sau lễ trao giải
+    group: Ảnh kỷ niệm
+  - image: /images/events/20261026_soccer_17.jpg
+    alt: Ảnh đội đeo huy chương
+    caption: Ảnh đội đeo huy chương
+    group: Ảnh kỷ niệm
+  - image: /images/events/20261026_soccer_18.jpg
+    alt: Đội vô địch nâng cúp
+    caption: Đội vô địch nâng cúp
+    group: Ảnh kỷ niệm
+  - image: /images/events/20261026_soccer_19.jpg
     alt: 'Hình ảnh quảng bá giải đấu tạo bằng AI tạo sinh ①: pha tranh bóng'
     caption: 'Hình ảnh quảng bá giải đấu tạo bằng AI tạo sinh ①: pha tranh bóng'
     group: Hình ảnh quảng bá giải đấu · tạo bằng AI
-  - image: /images/events/20261026_soccer_01.jpg
+  - image: /images/events/20261026_soccer_20.jpg
     alt: 'Hình ảnh quảng bá giải đấu tạo bằng AI tạo sinh ②: cú sút'
     caption: 'Hình ảnh quảng bá giải đấu tạo bằng AI tạo sinh ②: cú sút'
     group: Hình ảnh quảng bá giải đấu · tạo bằng AI
-  - image: /images/events/20261026_soccer_02.jpg
-    alt: Ảnh đội mặc áo đỏ trắng
-    caption: Ảnh đội mặc áo đỏ trắng
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_03.jpg
-    alt: Ảnh đội mặc áo Đại học Hansung
-    caption: Ảnh đội mặc áo Đại học Hansung
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_04.jpg
-    alt: Cầu thủ tập trung trên sân trước giờ thi đấu
-    caption: Cầu thủ tập trung trên sân trước giờ thi đấu
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_05.jpg
-    alt: Cầu thủ nghe phổ biến thể lệ trước khi thi đấu
-    caption: Cầu thủ nghe phổ biến thể lệ trước khi thi đấu
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_06.jpg
-    alt: Trận đấu trên sân cỏ nhân tạo
-    caption: Trận đấu trên sân cỏ nhân tạo
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_07.jpg
-    alt: Sinh viên cổ vũ bên đường biên
-    caption: Sinh viên cổ vũ bên đường biên
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_08.jpg
-    alt: Cầu thủ nhận huy chương tại lễ trao giải
-    caption: Cầu thủ nhận huy chương tại lễ trao giải
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_09.jpg
-    alt: Đội áo xanh đậm tập trung sau lễ trao giải
-    caption: Đội áo xanh đậm tập trung sau lễ trao giải
-    group: Tại giải đấu · Thứ Hai, 26/10
-  - image: /images/events/20261026_soccer_10.jpg
-    alt: Động viên các cầu thủ sau lễ trao giải
-    caption: Động viên các cầu thủ sau lễ trao giải
-    group: Tại giải đấu · Thứ Hai, 26/10
   program:
   - time: Trận 1
     text: Học kỳ 5 0–0 Học kỳ 4
