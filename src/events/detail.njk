@@ -22,7 +22,7 @@ eleventyComputed:
   </div>
 </div>
 <article class="section">
-  <div class="container narrow">
+  <div class="container narrow" data-lightbox>
     <dl class="info-table">
       <div><dt>{{ E.date }}</dt><dd><time datetime="{{ item.date | isoDate }}">{{ item.date | lrange(d.end_date, lang) }}</time></dd></div>
       <div><dt>{{ E.place }}</dt><dd>{{ d.place }}</dd></div>

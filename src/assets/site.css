@@ -500,3 +500,27 @@ a.person-link:hover .person-name { color: var(--blue); text-decoration: underlin
 .gallery-captioned figcaption { margin-top: 6px; font-size: .88rem; line-height: 1.45; color: var(--muted); }
 .gallery-day { margin: 28px 0 12px; padding: 8px 14px; font-size: 1rem; color: var(--dark-blue); background: var(--bg-sky); border-left: 4px solid var(--blue); border-radius: 6px; }
 .gallery-day:first-of-type { margin-top: 4px; }
+
+/* 사진 크게 보기(라이트박스) — 배경은 HSU 다크 블루 */
+.lb-thumb { cursor: zoom-in; transition: opacity .15s; }
+.lb-thumb:hover { opacity: .88; }
+.lb-thumb:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
+html.lb-open { overflow: hidden; }
+.lightbox { position: fixed; inset: 0; z-index: 2000; display: flex; align-items: center; justify-content: center; padding: 56px 64px 64px; background: var(--dark-blue); }
+.lightbox[hidden] { display: none; }
+.lb-figure { margin: 0; max-width: 100%; max-height: 100%; display: flex; flex-direction: column; align-items: center; }
+.lb-img { max-width: 100%; max-height: calc(100vh - 150px); object-fit: contain; border-radius: 6px; background: #fff; }
+.lb-caption { margin-top: 12px; color: #fff; font-size: .95rem; line-height: 1.5; text-align: center; max-width: 900px; }
+.lb-count { position: absolute; top: 14px; left: 18px; margin: 0; color: #fff; font-size: .9rem; opacity: .85; }
+.lightbox button { position: absolute; border: 0; background: rgba(255, 255, 255, .14); color: #fff; cursor: pointer; border-radius: 999px; font-size: 2rem; line-height: 1; width: 48px; height: 48px; display: grid; place-items: center; }
+.lightbox button:hover, .lightbox button:focus-visible { background: rgba(255, 255, 255, .3); outline: 2px solid #fff; outline-offset: 2px; }
+.lb-close { top: 10px; right: 12px; }
+.lb-prev { left: 10px; top: 50%; transform: translateY(-50%); }
+.lb-next { right: 10px; top: 50%; transform: translateY(-50%); }
+@media (max-width: 640px) {
+  .lightbox { padding: 52px 8px 56px; }
+  .lb-prev, .lb-next { top: auto; bottom: 8px; transform: none; width: 44px; height: 44px; }
+  .lb-prev { left: 16px; }
+  .lb-next { right: 16px; }
+  .lb-caption { font-size: .88rem; padding: 0 8px; }
+}

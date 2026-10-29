@@ -22,7 +22,7 @@ eleventyComputed:
   </div>
 </div>
 <article class="section">
-  <div class="container narrow">
+  <div class="container narrow" data-lightbox>
     {% if d.cover %}<figure class="cover"><img src="{{ d.cover }}" alt="{{ d.cover_alt }}"></figure>{% endif %}
     <div class="prose">{{ item.body | safe }}</div>
     {%- if d.links and d.links.length %}
