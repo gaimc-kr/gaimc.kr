@@ -61,6 +61,10 @@ eleventyComputed:
     {%- endif %}<li>{% if g.caption %}<figure><img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy"><figcaption>{{ g.caption }}</figcaption></figure>{% else %}<img src="{{ g.image }}" alt="{{ g.alt }}" loading="lazy">{% endif %}</li>
     {%- endfor %}</ul>
     {%- endif %}
+    {%- if d.videos and d.videos.length %}
+    <h2 class="group-title">{{ E.videos }}</h2>
+    <ul class="video-list">{% for v in d.videos %}<li><figure><video controls preload="none" playsinline{% if v.poster %} poster="{{ v.poster }}"{% endif %}><source src="{{ v.src }}" type="video/mp4"></video>{% if v.caption %}<figcaption>{{ v.caption }}</figcaption>{% endif %}</figure></li>{% endfor %}</ul>
+    {%- endif %}
     {%- if d.links and d.links.length %}
     <h2 class="group-title">{{ E.links }}</h2>
     <ul class="link-list">{% for l in d.links %}<li><a href="{{ l.url | L(lang) }}"{% if l.url.startsWith("http") %} target="_blank" rel="noopener"{% endif %}>{{ l.label }}{% if l.url.startsWith("http") %}<span class="sr-only">{{ T.newWin }}</span>{% endif %}</a></li>{% endfor %}</ul>
