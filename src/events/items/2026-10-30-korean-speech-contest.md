@@ -3,9 +3,9 @@ title: 제14회 외국인 한국어 뽐내기대회 우수상·장려상 수상
 title_en: '14th Korean Speaking Contest for Foreigners: Excellence and Encouragement Awards'
 date: 2026-10-30
 place: 한성대학교 낙산관 대강당
-participants: 학과 1학년 팀(우수상), 학과 학생 팀(장려상)
+participants: 학과 1학년 팀(우수상), 2학년 팀(장려상)
 website: https://www.hansung.ac.kr/sites/korean/index.do
-summary: 학과 학생 두 팀이 제14회 외국인 한국어 뽐내기대회에 나서 1학년 팀이 우수상, 또 다른 팀이 장려상(청산유수상)을 받았다.
+summary: 학과 학생 두 팀이 제14회 외국인 한국어 뽐내기대회에 나서 1학년 팀이 우수상, 2학년 팀이 장려상(청산유수상)을 받았다.
 status: done
 cover: /images/events/20261030_korean_15.jpg
 cover_alt: 이창원 한성대학교 총장과 함께한 우수상 수상 학과 1학년 팀
@@ -47,8 +47,8 @@ gallery:
   caption: 시상을 기다리는 참가 팀들
   group: 시상
 - image: /images/events/20261030_korean_09.jpg
-  alt: 장려상(청산유수상)을 받은 학과 학생 팀
-  caption: 장려상(청산유수상)을 받은 학과 학생 팀
+  alt: 장려상(청산유수상)을 받은 2학년 팀
+  caption: 장려상(청산유수상)을 받은 2학년 팀
   group: 시상
 - image: /images/events/20261030_korean_10.jpg
   alt: 장려상(청산유수상) 시상
@@ -109,17 +109,17 @@ program:
 - time: 본선
   text: 팀별 한국어 무대(만담·콩트·토론·합창 등, 6~7분)
 - time: 시상
-  text: 학과 1학년 팀 우수상, 학과 학생 팀 장려상(청산유수상)
+  text: 1학년 팀 우수상, 2학년 팀 장려상(청산유수상)
 topics: []
 speakers: []
 faculty: []
 partners: []
-memo: 2026. 10. 30. 학과장 지시로 게시. 자료는 드라이브 042_기획/제14회 외국인 한국어 뽐내기대회 폴더(사진 20장, 영상 4개 — 카카오톡 전송본이라 영상 해상도 176×144). 대회 개요(주최·일시·장소·참가 자격·대회 방식)는 현장 포스터·현수막 기준. 수상(1학년 팀 우수상, 장려상=청산유수상)과 축사자(이창원 총장)는 학과장 전달 — 축사 사진의 연단 인물과 우수상 기념사진 인물을 대조. 시상 사진 속 다른 시상자(빨간 넥타이)는 확인 자료가 없어 이름을 쓰지 않음. 장려상 팀의 학년은 확인 중. 상금 액수는 게재하지 않음. 포스터 사진 외 사진에 워터마크
+memo: 2026. 10. 30. 학과장 지시로 게시. 자료는 드라이브 042_기획/제14회 외국인 한국어 뽐내기대회 폴더(사진 20장, 영상 4개 — 카카오톡 전송본이라 영상 해상도 176×144). 대회 개요(주최·일시·장소·참가 자격·대회 방식)는 현장 포스터·현수막 기준. 수상(1학년 팀 우수상, 장려상=청산유수상)과 축사자(이창원 총장)는 학과장 전달 — 축사 사진의 연단 인물과 우수상 기념사진 인물을 대조. 시상 사진 속 다른 시상자(빨간 넥타이)는 확인 자료가 없어 이름을 쓰지 않음. 장려상은 2학년 팀(2026. 10. 30. 학과장 전달). 상금 액수는 게재하지 않음. 포스터 사진 외 사진에 워터마크
 en:
   title: '14th Korean Speaking Contest for Foreigners: Excellence and Encouragement Awards'
   place: Naksan Hall auditorium, Hansung University
-  participants: Department first-year team (Excellence Award) and student team (Encouragement Award)
-  summary: 'Two department teams entered the 14th Korean Speaking Contest for Foreigners: the first-year team won the Excellence Award and another team the Encouragement Award (Cheongsan Yusu Award).'
+  participants: Department first-year team (Excellence Award) and second-year team (Encouragement Award)
+  summary: 'Two department teams entered the 14th Korean Speaking Contest for Foreigners: the first-year team won the Excellence Award and the second-year team the Encouragement Award (Cheongsan Yusu Award).'
   cover_alt: The department first-year team with the Excellence Award and Hansung University President Lee Chang-won
   gallery:
   - image: /images/events/20261030_korean_00.jpg
@@ -159,8 +159,8 @@ en:
     caption: Teams waiting for the awards
     group: Awards
   - image: /images/events/20261030_korean_09.jpg
-    alt: Department students receiving the Encouragement Award (Cheongsan Yusu Award)
-    caption: Department students receiving the Encouragement Award (Cheongsan Yusu Award)
+    alt: The second-year team receiving the Encouragement Award (Cheongsan Yusu Award)
+    caption: The second-year team receiving the Encouragement Award (Cheongsan Yusu Award)
     group: Awards
   - image: /images/events/20261030_korean_10.jpg
     alt: Encouragement Award (Cheongsan Yusu Award) ceremony
@@ -221,20 +221,20 @@ en:
   - time: Main stage
     text: Team performances in Korean (comic dialogue, skits, debates, choirs, 6–7 min)
   - time: Awards
-    text: 'Excellence Award: department first-year team; Encouragement Award (Cheongsan Yusu): department student team'
+    text: 'Excellence Award: first-year team; Encouragement Award (Cheongsan Yusu): second-year team'
   body: |
     The 14th Korean Speaking Contest for Foreigners, hosted by the Korean Language Program of the Language Education Center (Office of Glocal Cooperation) at Hansung University, was held at 2 p.m. on Friday, October 30, 2026, in the Naksan Hall auditorium. International students, faculty and foreign residents of the local community formed teams of 2 to 20 and performed on the theme of Korean culture in Korean, through comic dialogues, skits, debates, choirs and more.
 
     The contest opened with congratulatory remarks by Hansung University President Lee Chang-won.
 
-    Two teams from the Department of Global AI Management Consulting took the stage, and both won awards. The first-year team, dressed in pink hanbok, performed a fan dance and sang with Korean flags, winning the Excellence Award and posing with President Lee after the ceremony. Another team of department students received the Encouragement Award (Cheongsan Yusu Award).
+    Two teams from the Department of Global AI Management Consulting took the stage, and both won awards. The first-year team, dressed in pink hanbok, performed a fan dance and sang with Korean flags, winning the Excellence Award and posing with President Lee after the ceremony. The second-year team received the Encouragement Award (Cheongsan Yusu Award).
 
     Despite busy schedules of classes and research, the students met whenever they could to polish their scripts and rehearse. The department will continue to support international students' participation in activities on and off campus so they can build their Korean skills and deepen their understanding of Korean culture beyond the classroom.
 vi:
   title: 'Cuộc thi Tài năng tiếng Hàn lần thứ 14: Giải Xuất sắc và Giải Khuyến khích'
   place: Hội trường lớn tòa Naksan, Đại học Hansung
-  participants: Đội năm nhất của khoa (Giải Xuất sắc) và đội sinh viên của khoa (Giải Khuyến khích)
-  summary: 'Hai đội của khoa tham gia Cuộc thi Tài năng tiếng Hàn lần thứ 14: đội năm nhất đạt Giải Xuất sắc, một đội khác đạt Giải Khuyến khích (Giải Cheongsan Yusu).'
+  participants: Đội năm nhất (Giải Xuất sắc) và đội năm hai (Giải Khuyến khích) của khoa
+  summary: 'Hai đội của khoa tham gia Cuộc thi Tài năng tiếng Hàn lần thứ 14: đội năm nhất đạt Giải Xuất sắc, đội năm hai đạt Giải Khuyến khích (Giải Cheongsan Yusu).'
   cover_alt: Đội năm nhất của khoa đạt Giải Xuất sắc cùng Hiệu trưởng Lee Chang-won
   gallery:
   - image: /images/events/20261030_korean_00.jpg
@@ -274,8 +274,8 @@ vi:
     caption: Các đội chờ trao giải
     group: Trao giải
   - image: /images/events/20261030_korean_09.jpg
-    alt: Sinh viên của khoa nhận Giải Khuyến khích (Giải Cheongsan Yusu)
-    caption: Sinh viên của khoa nhận Giải Khuyến khích (Giải Cheongsan Yusu)
+    alt: Đội năm hai nhận Giải Khuyến khích (Giải Cheongsan Yusu)
+    caption: Đội năm hai nhận Giải Khuyến khích (Giải Cheongsan Yusu)
     group: Trao giải
   - image: /images/events/20261030_korean_10.jpg
     alt: Trao Giải Khuyến khích (Giải Cheongsan Yusu)
@@ -336,13 +336,13 @@ vi:
   - time: Thi đấu
     text: Các đội trình diễn bằng tiếng Hàn (tấu hài, tiểu phẩm, tranh luận, hợp xướng; 6–7 phút)
   - time: Trao giải
-    text: 'Giải Xuất sắc: đội năm nhất của khoa; Giải Khuyến khích (Cheongsan Yusu): đội sinh viên của khoa'
+    text: 'Giải Xuất sắc: đội năm nhất; Giải Khuyến khích (Cheongsan Yusu): đội năm hai'
   body: |
     Cuộc thi Tài năng tiếng Hàn dành cho người nước ngoài lần thứ 14 do Chương trình tiếng Hàn, Trung tâm Giáo dục Ngôn ngữ (Ban Hợp tác Glocal) Đại học Hansung tổ chức đã diễn ra lúc 14:00 thứ Sáu, ngày 30/10/2026 tại Hội trường lớn tòa Naksan. Du học sinh, giảng viên và cư dân nước ngoài tại địa phương lập đội từ 2 đến 20 người, trình diễn bằng tiếng Hàn với chủ đề văn hóa Hàn Quốc qua tấu hài, tiểu phẩm, tranh luận, hợp xướng và nhiều hình thức khác.
 
     Cuộc thi mở đầu bằng phát biểu chúc mừng của Hiệu trưởng Đại học Hansung Lee Chang-won.
 
-    Khoa Tư vấn Quản trị AI Toàn cầu có hai đội tham gia và cả hai đều đoạt giải. Đội sinh viên năm nhất trong trang phục hanbok hồng đã biểu diễn múa quạt và hát cùng cờ Hàn Quốc, giành Giải Xuất sắc và chụp ảnh kỷ niệm cùng Hiệu trưởng Lee Chang-won. Một đội sinh viên khác của khoa nhận Giải Khuyến khích (Giải Cheongsan Yusu).
+    Khoa Tư vấn Quản trị AI Toàn cầu có hai đội tham gia và cả hai đều đoạt giải. Đội sinh viên năm nhất trong trang phục hanbok hồng đã biểu diễn múa quạt và hát cùng cờ Hàn Quốc, giành Giải Xuất sắc và chụp ảnh kỷ niệm cùng Hiệu trưởng Lee Chang-won. Đội sinh viên năm hai nhận Giải Khuyến khích (Giải Cheongsan Yusu).
 
     Dù bận rộn với việc học và nghiên cứu, các bạn vẫn tranh thủ gặp nhau để hoàn thiện kịch bản và luyện tập. Khoa sẽ tiếp tục hỗ trợ du học sinh tham gia các hoạt động trong và ngoài trường để nâng cao tiếng Hàn và hiểu sâu hơn văn hóa Hàn Quốc ngoài giờ học.
 ---
@@ -350,6 +350,6 @@ vi:
 
 대회는 이창원 한성대학교 총장의 축사로 문을 열었다.
 
-글로벌AI경영컨설팅학과에서는 두 팀이 무대에 올라 모두 상을 받았다. 1학년 팀은 분홍빛 한복을 차려입고 부채춤과 태극기를 든 노래로 무대를 꾸며 우수상을 받았고, 시상 뒤 이창원 총장과 함께 기념사진을 찍었다. 또 다른 학과 학생 팀은 장려상(청산유수상)을 받았다.
+글로벌AI경영컨설팅학과에서는 두 팀이 무대에 올라 모두 상을 받았다. 1학년 팀은 분홍빛 한복을 차려입고 부채춤과 태극기를 든 노래로 무대를 꾸며 우수상을 받았고, 시상 뒤 이창원 총장과 함께 기념사진을 찍었다. 2학년 팀은 장려상(청산유수상)을 받았다.
 
 학생들은 수업과 연구로 바쁜 가운데에도 틈틈이 모여 대본을 다듬고 공연을 연습했다. 학과는 유학생들이 강의실 밖에서도 한국어 실력을 키우고 한국 문화를 깊이 이해할 수 있도록 교내외 활동 참여를 계속 지원할 계획이다.
