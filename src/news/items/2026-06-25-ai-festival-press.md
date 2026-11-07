@@ -14,11 +14,9 @@ links:
   url: https://www.veritas-a.com/news/articleView.html?idxno=617052
 - label: 스마트경제 (2026. 6. 29.)
   url: https://www.dailysmart.co.kr/news/articleView.html?idxno=126168
-- label: 베트남뉴스(하노이 한인회) 기사 갈무리
-  url: https://sites.google.com/view/ai-festival-2026/home/news/vietnamnews
 - label: 행사 안내 페이지
   url: /events/ai-art-business-festival/
-memo: 언론 기사 목록 출처 - 행사 갤러리 사이트 언론기사 메뉴. 베트남뉴스는 원문 주소가 없어 갤러리 사이트의 기사 갈무리로 연결
+memo: 언론 기사 목록 출처 - 행사 갤러리 사이트 언론기사 메뉴. 베트남뉴스 갈무리는 갤러리 사이트 비공개로 2026. 11. 7. 링크 제거
 en:
   title: '[Press] Hansung University''s Department of Global AI Management Consulting holds the 2026 AI Art & Business Festival'
   category: Press coverage
@@ -33,8 +31,6 @@ en:
     url: https://www.veritas-a.com/news/articleView.html?idxno=617052
   - label: Smart Economy (Jun 29, 2026, Korean)
     url: https://www.dailysmart.co.kr/news/articleView.html?idxno=126168
-  - label: Vietnam News, Korean Association in Hanoi (clipping, Korean)
-    url: https://sites.google.com/view/ai-festival-2026/home/news/vietnamnews
   - label: Event page
     url: /events/ai-art-business-festival/
   body: 'Korean media covered the 2026 AI Art & Business Festival (1st Global AI Creation and Business Week), held by the Department of Global AI Management Consulting at Maru Art Center in Insa-dong, Seoul, from June 24 to 29, 2026.
@@ -58,8 +54,6 @@ vi:
     url: https://www.veritas-a.com/news/articleView.html?idxno=617052
   - label: Smart Economy (29/06/2026, tiếng Hàn)
     url: https://www.dailysmart.co.kr/news/articleView.html?idxno=126168
-  - label: Vietnam News, Hội người Hàn tại Hà Nội (bản lưu, tiếng Hàn)
-    url: https://sites.google.com/view/ai-festival-2026/home/news/vietnamnews
   - label: Trang sự kiện
     url: /events/ai-art-business-festival/
   body: 'Báo chí Hàn Quốc đã đưa tin về 2026 AI Art & Business Festival (Tuần lễ Sáng tạo và Kinh doanh AI Toàn cầu lần thứ nhất) do Khoa Tư vấn Quản trị AI Toàn cầu tổ chức tại Trung tâm Nghệ thuật Maru, Insa-dong, Seoul từ ngày 24 đến 29/6/2026.

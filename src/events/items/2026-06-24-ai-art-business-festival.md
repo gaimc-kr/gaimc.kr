@@ -11,8 +11,64 @@ cover_alt: 개막식에서 내빈과 학과 교수진이 함께한 기념 촬영
 gallery:
 - image: /images/events/ai-festival-2026-2.jpg
   alt: 곽상언 국회의원의 개막식 축사와 객석
+  caption: 곽상언 국회의원의 개막식 축사와 객석
+  group: 개막식
+- image: /images/events/ai-festival-2026-5.jpg
+  alt: 개막식에서 축사하는 곽상언 국회의원
+  caption: 개막식에서 축사하는 곽상언 국회의원
+  group: 개막식
+- image: /images/events/ai-festival-2026-4.jpg
+  alt: 이종철 서울출입국·외국인청장의 축사
+  caption: 이종철 서울출입국·외국인청장의 축사
+  group: 개막식
+- image: /images/events/ai-festival-2026-6.jpg
+  alt: 개막식 내빈과 학과 교수진 기념 촬영
+  caption: 개막식 내빈과 학과 교수진 기념 촬영
+  group: 개막식
+- image: /images/events/ai-festival-2026-7.jpg
+  alt: 4학년 대상 시상
+  caption: 4학년 대상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-8.jpg
+  alt: 최우수상 시상
+  caption: 최우수상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-9.jpg
+  alt: 최우수상 수상 기념 촬영
+  caption: 최우수상 수상 기념 촬영
+  group: 시상식
+- image: /images/events/ai-festival-2026-10.jpg
+  alt: 우수상 시상
+  caption: 우수상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-11.jpg
+  alt: 우수상 시상
+  caption: 우수상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-12.jpg
+  alt: 우수상 수상 기념 촬영
+  caption: 우수상 수상 기념 촬영
+  group: 시상식
+- image: /images/events/ai-festival-2026-13.jpg
+  alt: 장려상 시상
+  caption: 장려상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-14.jpg
+  alt: 장려상 시상
+  caption: 장려상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-15.jpg
+  alt: 장려상 시상
+  caption: 장려상 시상
+  group: 시상식
+- image: /images/events/ai-festival-2026-16.jpg
+  alt: 장려상 시상
+  caption: 장려상 시상
+  group: 시상식
 - image: /images/events/ai-festival-2026-3.jpg
   alt: 인사동 마루아트센터 앞 전시 안내판
+  caption: 인사동 마루아트센터 앞 전시 안내판
+  group: 전시
 program:
 - time: 6. 24. 14:00
   text: '1부 개회식(사회 김내영 교수): 개회선언, 개회사, 축사, 격려사, 시상식(공로상·우수작품상)'
@@ -44,7 +100,7 @@ faculty: []
 partners:
 - 한성대학교 지식서비스&컨설팅대학원
 - 글로벌 K
-memo: 출처 - 행사 개요(2026. 6. 11. 수정본), 보도자료(2026. 6. 24.), 행사 갤러리 사이트. 축사 이종철 청장은 개요 초안의 다른 이름 대신 보도자료·현장 기록 기준
+memo: 출처 - 행사 개요(2026. 6. 11. 수정본), 보도자료(2026. 6. 24.), 행사 갤러리 사이트(현재 비공개, 링크 제거). 사진은 학과장 드라이브(보도자료·행사_수상자_사진 폴더, 2026. 11. 7. 추가). 축사 이종철 청장은 개요 초안의 다른 이름 대신 보도자료·현장 기록 기준
 en:
   title: 2026 AI Art & Business Festival (1st Global AI Creation and Business Week)
   place: Halls 5 (2F) and Grand Hall (3F), Maru Art Center, Insa-dong, Seoul
@@ -53,8 +109,64 @@ en:
   gallery:
   - image: /images/events/ai-festival-2026-2.jpg
     alt: Congratulatory speech by National Assembly member Kwak Sang-eon, with the audience
+    caption: Congratulatory speech by National Assembly member Kwak Sang-eon, with the audience
+    group: Opening ceremony
+  - image: /images/events/ai-festival-2026-5.jpg
+    alt: National Assembly member Kwak Sang-eon speaking at the opening ceremony
+    caption: National Assembly member Kwak Sang-eon speaking at the opening ceremony
+    group: Opening ceremony
+  - image: /images/events/ai-festival-2026-4.jpg
+    alt: Congratulatory speech by Lee Jong-chul, Chief of the Seoul Immigration Service
+    caption: Congratulatory speech by Lee Jong-chul, Chief of the Seoul Immigration Service
+    group: Opening ceremony
+  - image: /images/events/ai-festival-2026-6.jpg
+    alt: Guests and faculty at the opening ceremony
+    caption: Guests and faculty at the opening ceremony
+    group: Opening ceremony
+  - image: /images/events/ai-festival-2026-7.jpg
+    alt: Grand Prize presentation
+    caption: Grand Prize presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-8.jpg
+    alt: Excellence Award presentation
+    caption: Excellence Award presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-9.jpg
+    alt: Excellence Award winner with a faculty member
+    caption: Excellence Award winner with a faculty member
+    group: Awards
+  - image: /images/events/ai-festival-2026-10.jpg
+    alt: Superior Award presentation
+    caption: Superior Award presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-11.jpg
+    alt: Superior Award presentation
+    caption: Superior Award presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-12.jpg
+    alt: Superior Award winner with a faculty member
+    caption: Superior Award winner with a faculty member
+    group: Awards
+  - image: /images/events/ai-festival-2026-13.jpg
+    alt: Encouragement Award presentation
+    caption: Encouragement Award presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-14.jpg
+    alt: Encouragement Award presentation
+    caption: Encouragement Award presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-15.jpg
+    alt: Encouragement Award presentation
+    caption: Encouragement Award presentation
+    group: Awards
+  - image: /images/events/ai-festival-2026-16.jpg
+    alt: Encouragement Award presentation
+    caption: Encouragement Award presentation
+    group: Awards
   - image: /images/events/ai-festival-2026-3.jpg
     alt: Exhibition signboard in front of Maru Art Center, Insa-dong
+    caption: Exhibition signboard in front of Maru Art Center, Insa-dong
+    group: Exhibition
   program:
   - time: Jun 24, 14:00
     text: 'Part 1, opening ceremony (MC: Prof. Kim Nae-young): opening declaration, opening address, congratulatory and encouraging remarks, awards (Meritorious Service Award, Excellent Work Awards)'
@@ -99,10 +211,7 @@ en:
 
     - Meritorious Service Award: Prof. Park Yang-soo
 
-    - Grand Prize, Excellence, Superior and Encouragement Awards: ten 4th-year students (see the [awards page](https://sites.google.com/view/ai-festival-2026/home/awards) of the festival site for names)
-
-
-    Works, photos and press coverage are on the [festival gallery site](https://sites.google.com/view/ai-festival-2026/home).'
+    - Grand Prize, Excellence, Superior and Encouragement Awards: ten 4th-year students'
 vi:
   title: 2026 AI Art & Business Festival (Tuần lễ Sáng tạo và Kinh doanh AI Toàn cầu lần thứ nhất)
   place: Sảnh 5 (tầng 2) và Grand Hall (tầng 3), Trung tâm Nghệ thuật Maru, Insa-dong, Seoul
@@ -111,8 +220,64 @@ vi:
   gallery:
   - image: /images/events/ai-festival-2026-2.jpg
     alt: Nghị sĩ Kwak Sang-eon phát biểu chúc mừng tại lễ khai mạc
+    caption: Nghị sĩ Kwak Sang-eon phát biểu chúc mừng tại lễ khai mạc
+    group: Lễ khai mạc
+  - image: /images/events/ai-festival-2026-5.jpg
+    alt: Nghị sĩ Kwak Sang-eon phát biểu tại lễ khai mạc
+    caption: Nghị sĩ Kwak Sang-eon phát biểu tại lễ khai mạc
+    group: Lễ khai mạc
+  - image: /images/events/ai-festival-2026-4.jpg
+    alt: Ông Lee Jong-chul, Cục trưởng Cục Xuất nhập cảnh Seoul, phát biểu chúc mừng
+    caption: Ông Lee Jong-chul, Cục trưởng Cục Xuất nhập cảnh Seoul, phát biểu chúc mừng
+    group: Lễ khai mạc
+  - image: /images/events/ai-festival-2026-6.jpg
+    alt: Khách mời và giảng viên tại lễ khai mạc
+    caption: Khách mời và giảng viên tại lễ khai mạc
+    group: Lễ khai mạc
+  - image: /images/events/ai-festival-2026-7.jpg
+    alt: Trao Giải Nhất
+    caption: Trao Giải Nhất
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-8.jpg
+    alt: Trao Giải Xuất sắc
+    caption: Trao Giải Xuất sắc
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-9.jpg
+    alt: Sinh viên đoạt Giải Xuất sắc chụp ảnh kỷ niệm
+    caption: Sinh viên đoạt Giải Xuất sắc chụp ảnh kỷ niệm
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-10.jpg
+    alt: Trao Giải Ưu tú
+    caption: Trao Giải Ưu tú
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-11.jpg
+    alt: Trao Giải Ưu tú
+    caption: Trao Giải Ưu tú
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-12.jpg
+    alt: Sinh viên đoạt Giải Ưu tú chụp ảnh kỷ niệm
+    caption: Sinh viên đoạt Giải Ưu tú chụp ảnh kỷ niệm
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-13.jpg
+    alt: Trao Giải Khuyến khích
+    caption: Trao Giải Khuyến khích
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-14.jpg
+    alt: Trao Giải Khuyến khích
+    caption: Trao Giải Khuyến khích
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-15.jpg
+    alt: Trao Giải Khuyến khích
+    caption: Trao Giải Khuyến khích
+    group: Lễ trao giải
+  - image: /images/events/ai-festival-2026-16.jpg
+    alt: Trao Giải Khuyến khích
+    caption: Trao Giải Khuyến khích
+    group: Lễ trao giải
   - image: /images/events/ai-festival-2026-3.jpg
     alt: Bảng thông tin triển lãm trước Trung tâm Nghệ thuật Maru, Insa-dong
+    caption: Bảng thông tin triển lãm trước Trung tâm Nghệ thuật Maru, Insa-dong
+    group: Triển lãm
   program:
   - time: 24/6, 14:00
     text: 'Phần 1, lễ khai mạc (dẫn chương trình: GS. Kim Nae-young): tuyên bố khai mạc, diễn văn khai mạc, phát biểu chúc mừng và khích lệ, trao giải (Giải Cống hiến, Giải Tác phẩm xuất sắc)'
@@ -157,10 +322,7 @@ vi:
 
     - Giải Cống hiến: GS. Park Yang-soo
 
-    - Giải Nhất, Giải Xuất sắc, Giải Ưu tú và Giải Khuyến khích: mười sinh viên năm 4 (danh sách xem tại [trang giải thưởng](https://sites.google.com/view/ai-festival-2026/home/awards) của lễ hội)
-
-
-    Tác phẩm, hình ảnh và bài báo về lễ hội có trên [trang thư viện của lễ hội](https://sites.google.com/view/ai-festival-2026/home).'
+    - Giải Nhất, Giải Xuất sắc, Giải Ưu tú và Giải Khuyến khích: mười sinh viên năm 4'
 ---
 글로벌AI경영컨설팅학과는 2026년 6월 24일부터 29일까지 서울 인사동 마루아트센터에서 '제1회 글로벌 AI 창작 및 비즈니스 Week'인 2026 AI Art & Business Festival을 열었습니다. 생성형 AI 기술의 예술적 응용을 넘어 실제 수익 창출이 가능한 초국경적 비즈니스 모델(BM) 생태계 조성을 목표로 기획한 행사입니다.
 
@@ -175,5 +337,3 @@ vi:
 - 최우수상: 레반로이, 부티지에우링
 - 우수상: 응오반뚜안, 팜반히에우, 트란티흐엉센
 - 장려상: 응웬티린짱, 응우엔꽁린, 도티뚜엣눙, 부티흐엉란
-
-전시 작품과 행사 사진, 언론 보도는 [행사 갤러리 사이트](https://sites.google.com/view/ai-festival-2026/home)에서 볼 수 있습니다.
