@@ -1,0 +1,270 @@
+{
+ "drivePreview": "https://drive.google.com/file/d/{id}/preview",
+ "catalogs": {
+  "graduation": "1k8bX9fD_GXqhyDAB9w2AlmQDqj6E_7Pi",
+  "general": "1x3iI1jCSAQBNBHSPiEyNE_YZncVp9nsD"
+ },
+ "photos": [
+  {
+   "n": 7,
+   "g": "opening",
+   "ko": "이종철 서울출입국·외국인청장의 축사",
+   "en": "Congratulatory speech by Lee Jong-chul, Chief of the Seoul Immigration Service",
+   "vi": "Ông Lee Jong-chul, Cục trưởng Cục Xuất nhập cảnh Seoul, phát biểu chúc mừng"
+  },
+  {
+   "n": 9,
+   "g": "opening",
+   "ko": "노규성 한국AI융합기술인협회 회장의 축사",
+   "en": "Congratulatory speech by Roh Kyu-sung, President of the Korea AI Convergence Technology Association",
+   "vi": "Ông Roh Kyu-sung, Chủ tịch Hiệp hội Kỹ thuật viên Hội tụ AI Hàn Quốc, phát biểu chúc mừng"
+  },
+  {
+   "n": 10,
+   "g": "opening",
+   "ko": "우수작품상 시상",
+   "en": "Excellent Work Award presentation",
+   "vi": "Trao Giải Tác phẩm xuất sắc"
+  },
+  {
+   "n": 8,
+   "g": "opening",
+   "ko": "개막식을 함께한 학생과 내빈",
+   "en": "Students and guests at the opening ceremony",
+   "vi": "Sinh viên và khách mời tại lễ khai mạc"
+  },
+  {
+   "n": 11,
+   "g": "education",
+   "ko": "AI 비즈니스 교육에 참여한 학생들의 단체 사진",
+   "en": "Students of the AI business training",
+   "vi": "Ảnh tập thể học viên khóa đào tạo kinh doanh AI"
+  },
+  {
+   "n": 12,
+   "g": "education",
+   "ko": "다국적 학생 대상 AI 비즈니스 교육",
+   "en": "AI business training for international students",
+   "vi": "Đào tạo kinh doanh AI cho sinh viên quốc tế"
+  },
+  {
+   "n": 13,
+   "g": "education",
+   "ko": "방글라데시·베트남 학생들과 함께한 단체 사진",
+   "en": "Group photo with students from Bangladesh and Vietnam",
+   "vi": "Ảnh tập thể cùng sinh viên Bangladesh và Việt Nam"
+  },
+  {
+   "n": 14,
+   "g": "education",
+   "ko": "교육을 마치고 교수진과 함께한 학생들",
+   "en": "Students with faculty after the training",
+   "vi": "Sinh viên cùng giảng viên sau buổi đào tạo"
+  },
+  {
+   "n": 15,
+   "g": "education",
+   "ko": "강의를 듣는 학생들",
+   "en": "Students attending the lecture",
+   "vi": "Sinh viên nghe giảng"
+  },
+  {
+   "n": 16,
+   "g": "education",
+   "ko": "AI 에이전트 리터러시·노코드 자동화 강의",
+   "en": "Lecture on AI agent literacy and no-code automation",
+   "vi": "Bài giảng về năng lực AI agent và tự động hóa no-code"
+  },
+  {
+   "n": 17,
+   "g": "education",
+   "ko": "전시장 강연 무대",
+   "en": "Lecture stage in the exhibition hall",
+   "vi": "Sân khấu giảng dạy trong phòng triển lãm"
+  },
+  {
+   "n": 18,
+   "g": "education",
+   "ko": "그랜드관을 가득 메운 수강생들",
+   "en": "A full Grand Hall of participants",
+   "vi": "Học viên kín Grand Hall"
+  },
+  {
+   "n": 1,
+   "g": "venue",
+   "ko": "인사동 거리의 마루아트센터 전시 안내판",
+   "en": "Maru Art Center exhibition signboard on Insa-dong street",
+   "vi": "Bảng thông tin triển lãm Trung tâm Nghệ thuật Maru trên phố Insa-dong"
+  },
+  {
+   "n": 2,
+   "g": "venue",
+   "ko": "마루아트센터 전시 안내",
+   "en": "Maru Art Center exhibition guide",
+   "vi": "Bảng hướng dẫn triển lãm Trung tâm Nghệ thuật Maru"
+  },
+  {
+   "n": 3,
+   "g": "venue",
+   "ko": "본관 3층 그랜드관 안내",
+   "en": "Directions to the Grand Hall, 3rd floor",
+   "vi": "Chỉ dẫn lên Grand Hall, tầng 3"
+  },
+  {
+   "n": 4,
+   "g": "venue",
+   "ko": "그랜드관 졸업작품 전시장",
+   "en": "Graduation works exhibition in the Grand Hall",
+   "vi": "Triển lãm tác phẩm tốt nghiệp tại Grand Hall"
+  },
+  {
+   "n": 5,
+   "g": "venue",
+   "ko": "작품 패널이 걸린 전시장 전경",
+   "en": "The exhibition hall with work panels",
+   "vi": "Toàn cảnh phòng triển lãm với các bảng tác phẩm"
+  },
+  {
+   "n": 6,
+   "g": "venue",
+   "ko": "QR 코드로 영상을 볼 수 있는 작품 패널",
+   "en": "A work panel with a QR code to watch the video",
+   "vi": "Bảng tác phẩm có mã QR để xem video"
+  }
+ ],
+ "ko": {
+  "title": "2026 AI Art & Business Festival 갤러리",
+  "lead": "인사동 마루아트센터에서 열린 제1회 글로벌 AI 창작 및 비즈니스 Week의 전시 작품 영상과 현장 사진입니다.",
+  "eyebrow": "GALLERY",
+  "event": "행사 안내 페이지",
+  "intro": "글로벌AI경영컨설팅학과 학생과 교수진이 AI로 만든 작품 149편을 모았습니다. 재생 표시가 있는 작품을 누르면 영상이 재생됩니다.",
+  "sections": {
+   "graduation": "졸업작품전",
+   "student": "학생 개인 작품",
+   "team": "팀 협업 작품",
+   "faculty": "교수 특별 출품작",
+   "photos": "현장 사진",
+   "catalogs": "작품집"
+  },
+  "desc": {
+   "graduation": "4학년 학생 88명의 졸업작품입니다. AI 챗봇·OCR 자동화·경쟁사 분석 리포트·AI 홍보 영상 등 실제 비즈니스 과제를 AI로 풀었습니다.",
+   "student": "베트남의 음식, 역사, 축제와 한국 생활을 AI 영상으로 담은 개인 작품입니다.",
+   "team": "여러 학생이 함께 기획하고 제작한 팀 작품입니다.",
+   "faculty": "",
+   "photos": "",
+   "catalogs": "전시에 맞춰 펴낸 작품 목록 리플렛입니다(PDF, Google Drive)."
+  },
+  "groups": {
+   "opening": "개막식 · 6. 24.",
+   "education": "AI 비즈니스 교육",
+   "venue": "전시장"
+  },
+  "awards": {
+   "grand": "대상",
+   "excellence": "최우수상",
+   "superior": "우수상",
+   "encouragement": "장려상"
+  },
+  "count": "편",
+  "play": "영상 보기",
+  "close": "닫기",
+  "prev": "이전 작품",
+  "next": "다음 작품",
+  "openDrive": "Google Drive에서 열기",
+  "catGrad": "졸업작품 목록 리플렛",
+  "catGeneral": "일반작품 목록 리플렛",
+  "members": "참여",
+  "crumb": "갤러리",
+  "gradNote": "졸업작품 영상은 정리를 마치는 대로 이곳에서 볼 수 있습니다."
+ },
+ "en": {
+  "title": "2026 AI Art & Business Festival Gallery",
+  "lead": "Work videos and photos from the 1st Global AI Creation and Business Week at Maru Art Center, Insa-dong.",
+  "eyebrow": "GALLERY",
+  "event": "Event page",
+  "intro": "149 works made with AI by students and faculty of the Department of Global AI Management Consulting. Select a work with a play button to watch its video.",
+  "sections": {
+   "graduation": "Graduation Exhibition",
+   "student": "Individual Student Works",
+   "team": "Team Works",
+   "faculty": "Faculty Works",
+   "photos": "Photos",
+   "catalogs": "Catalogues"
+  },
+  "desc": {
+   "graduation": "Graduation works by 88 fourth-year students, solving real business tasks with AI: chatbots, OCR automation, competitor reports and AI promotional videos.",
+   "student": "Individual AI videos on Vietnamese food, history and festivals, and on life in Korea.",
+   "team": "Works planned and produced together by student teams.",
+   "faculty": "",
+   "photos": "",
+   "catalogs": "Work-list leaflets published for the exhibition (PDF, Google Drive). In Korean."
+  },
+  "groups": {
+   "opening": "Opening ceremony · Jun 24",
+   "education": "AI business training",
+   "venue": "Exhibition"
+  },
+  "awards": {
+   "grand": "Grand Prize",
+   "excellence": "Excellence Award",
+   "superior": "Superior Award",
+   "encouragement": "Encouragement Award"
+  },
+  "count": "works",
+  "play": "Play video",
+  "close": "Close",
+  "prev": "Previous work",
+  "next": "Next work",
+  "openDrive": "Open in Google Drive",
+  "catGrad": "Graduation works leaflet",
+  "catGeneral": "General works leaflet",
+  "members": "Team",
+  "crumb": "Gallery",
+  "gradNote": "Videos of the graduation works will be available here soon."
+ },
+ "vi": {
+  "title": "Thư viện 2026 AI Art & Business Festival",
+  "lead": "Video tác phẩm và hình ảnh từ Tuần lễ Sáng tạo và Kinh doanh AI Toàn cầu lần thứ nhất tại Trung tâm Nghệ thuật Maru, Insa-dong.",
+  "eyebrow": "GALLERY",
+  "event": "Trang sự kiện",
+  "intro": "149 tác phẩm do sinh viên và giảng viên Khoa Tư vấn Quản trị AI Toàn cầu tạo ra với AI. Chọn tác phẩm có nút phát để xem video.",
+  "sections": {
+   "graduation": "Triển lãm tốt nghiệp",
+   "student": "Tác phẩm cá nhân",
+   "team": "Tác phẩm nhóm",
+   "faculty": "Tác phẩm của giảng viên",
+   "photos": "Hình ảnh",
+   "catalogs": "Danh mục tác phẩm"
+  },
+  "desc": {
+   "graduation": "Tác phẩm tốt nghiệp của 88 sinh viên năm 4, giải quyết bài toán kinh doanh thực tế bằng AI: chatbot, tự động hóa OCR, báo cáo đối thủ và video quảng bá AI.",
+   "student": "Video AI cá nhân về ẩm thực, lịch sử, lễ hội Việt Nam và cuộc sống tại Hàn Quốc.",
+   "team": "Tác phẩm do các nhóm sinh viên cùng lên ý tưởng và thực hiện.",
+   "faculty": "",
+   "photos": "",
+   "catalogs": "Tờ danh mục tác phẩm phát hành cho triển lãm (PDF, Google Drive), bằng tiếng Hàn."
+  },
+  "groups": {
+   "opening": "Lễ khai mạc · 24/6",
+   "education": "Đào tạo kinh doanh AI",
+   "venue": "Triển lãm"
+  },
+  "awards": {
+   "grand": "Giải Nhất",
+   "excellence": "Giải Xuất sắc",
+   "superior": "Giải Ưu tú",
+   "encouragement": "Giải Khuyến khích"
+  },
+  "count": "tác phẩm",
+  "play": "Xem video",
+  "close": "Đóng",
+  "prev": "Tác phẩm trước",
+  "next": "Tác phẩm sau",
+  "openDrive": "Mở trên Google Drive",
+  "catGrad": "Danh mục tác phẩm tốt nghiệp",
+  "catGeneral": "Danh mục tác phẩm chung",
+  "members": "Nhóm",
+  "crumb": "Thư viện",
+  "gradNote": "Video tác phẩm tốt nghiệp sẽ sớm được cập nhật tại đây."
+ }
+}

@@ -100,7 +100,12 @@ faculty: []
 partners:
 - 한성대학교 지식서비스&컨설팅대학원
 - 글로벌 K
-memo: 출처 - 행사 개요(2026. 6. 11. 수정본), 보도자료(2026. 6. 24.), 행사 갤러리 사이트(현재 비공개, 링크 제거). 사진은 학과장 드라이브(보도자료·행사_수상자_사진 폴더, 2026. 11. 7. 추가). 축사 이종철 청장은 개요 초안의 다른 이름 대신 보도자료·현장 기록 기준
+links:
+- label: 행사 갤러리 (작품 영상 149편·현장 사진)
+  url: /events/ai-art-business-festival/gallery/
+- label: 언론 보도 모음
+  url: /news/ai-festival-press/
+memo: 출처 - 행사 개요(2026. 6. 11. 수정본), 보도자료(2026. 6. 24.), 행사 갤러리 사이트(현재 비공개, 링크 제거, 2026. 11. 7. 학과 홈페이지 안 갤러리 페이지로 대체 — 작품 영상은 드라이브 2026_ai_business 폴더 공개 파일, 작품명은 작품집 리플렛 기준). 사진은 학과장 드라이브(보도자료·행사_수상자_사진 폴더, 2026. 11. 7. 추가). 축사 이종철 청장은 개요 초안의 다른 이름 대신 보도자료·현장 기록 기준
 en:
   title: 2026 AI Art & Business Festival (1st Global AI Creation and Business Week)
   place: Halls 5 (2F) and Grand Hall (3F), Maru Art Center, Insa-dong, Seoul
@@ -197,6 +202,11 @@ en:
   partners:
   - Graduate School of Knowledge Service & Consulting, Hansung University
   - Global K
+  links:
+  - label: Festival gallery (149 work videos and photos)
+    url: /events/ai-art-business-festival/gallery/
+  - label: Press coverage
+    url: /news/ai-festival-press/
   body: 'The Department of Global AI Management Consulting held the 2026 AI Art & Business Festival, the 1st Global AI Creation and Business Week, at Maru Art Center in Insa-dong, Seoul, from June 24 to 29, 2026. The festival aimed to go beyond artistic uses of generative AI and build a cross-border ecosystem of business models that can earn real revenue.
 
 
@@ -308,6 +318,11 @@ vi:
   partners:
   - Cao học Dịch vụ Tri thức & Tư vấn, Đại học Hansung
   - Global K
+  links:
+  - label: "Thư viện lễ hội (149 video tác phẩm, hình ảnh)"
+    url: /events/ai-art-business-festival/gallery/
+  - label: Tổng hợp tin báo chí
+    url: /news/ai-festival-press/
   body: 'Từ ngày 24 đến 29/6/2026, Khoa Tư vấn Quản trị AI Toàn cầu đã tổ chức 2026 AI Art & Business Festival, Tuần lễ Sáng tạo và Kinh doanh AI Toàn cầu lần thứ nhất, tại Trung tâm Nghệ thuật Maru, Insa-dong, Seoul. Lễ hội hướng tới vượt ra ngoài ứng dụng nghệ thuật của AI tạo sinh để xây dựng hệ sinh thái mô hình kinh doanh xuyên biên giới có thể tạo ra doanh thu thực tế.
 
 

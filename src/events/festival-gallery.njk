@@ -1,0 +1,83 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/events/ai-art-business-festival/gallery/"
+eleventyComputed:
+  title: "{{ festivalGallery[lang].title }}"
+  description: "{{ festivalGallery[lang].lead }}"
+---
+{#- 2026 AI Art & Business Festival 갤러리: 작품 영상(구글 드라이브 미리보기)과 현장 사진. 작품 목록은 _data/festivalWorks.json, 문구는 _data/festivalGallery.json #}
+{%- set T = i18n[lang] -%}{%- set G = festivalGallery[lang] -%}{%- set W = festivalWorks -%}
+<div class="page-head">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="{{ T.here }}">
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ '/events/' | L(lang) }}">{{ T.pages.events.title }}</a><span aria-hidden="true">›</span><a href="{{ '/events/ai-art-business-festival/' | L(lang) }}">2026 AI Art &amp; Business Festival</a><span aria-hidden="true">›</span><span aria-current="page">{{ G.crumb }}</span>
+    </nav>
+    <p class="eyebrow">{{ G.eyebrow }}</p>
+    <h1>{{ G.title }}</h1>
+    <p class="lead">{{ G.lead }}</p>
+  </div>
+</div>
+<section class="section fest" data-fest data-preview="{{ festivalGallery.drivePreview }}" data-close="{{ G.close }}" data-prev="{{ G.prev }}" data-next="{{ G.next }}" data-open="{{ G.openDrive }}">
+  <div class="container">
+    <p class="intro-text">{{ G.intro }}</p>
+    <nav class="fest-nav" aria-label="{{ G.title }}">
+      {%- for key in ["graduation", "student", "team", "faculty"] %}
+      <a href="#{{ key }}">{{ G.sections[key] }} <span class="fest-count">{{ W[key].length }}</span></a>
+      {%- endfor %}
+      <a href="#photos">{{ G.sections.photos }}</a>
+      <a href="#catalogs">{{ G.sections.catalogs }}</a>
+      <a href="{{ '/events/ai-art-business-festival/' | L(lang) }}">{{ G.event }} ›</a>
+    </nav>
+
+    {%- for key in ["graduation", "student", "team", "faculty"] %}
+    <h2 class="group-title" id="{{ key }}">{{ G.sections[key] }} <span class="fest-count">{{ W[key].length }} {{ G.count }}</span></h2>
+    {% if G.desc[key] %}<p class="resource-text">{{ G.desc[key] }}{% if key == "graduation" %} {{ G.gradNote }}{% endif %}</p>{% endif %}
+    <ul class="fest-grid{% if key == 'faculty' %} fest-grid--wide{% endif %}">
+      {%- for w in W[key] %}
+      <li class="fest-card{% if w.award %} fest-card--award{% endif %}">
+        {%- if w.drive %}
+        <button type="button" class="fest-play" data-drive="{{ w.drive }}" aria-label="{{ G.play }}: {{ w.title[lang] }}">
+          <span class="fest-thumb"><img src="/images/festival/works/{{ w.code }}.jpg" alt="" width="480" height="270" loading="lazy"><span class="fest-code">{{ w.code }}</span>{% if w.award %}<span class="fest-award">{{ G.awards[w.award] }}</span>{% endif %}<span class="fest-icon" aria-hidden="true"></span></span>
+        </button>
+        {%- else %}
+        <div class="fest-play fest-play--still"><span class="fest-thumb"><img src="/images/festival/works/{{ w.code }}.jpg" alt="{{ w.title[lang] }}" width="480" height="270" loading="lazy"><span class="fest-code">{{ w.code }}</span>{% if w.award %}<span class="fest-award">{{ G.awards[w.award] }}</span>{% endif %}</span></div>
+        {%- endif %}
+        <div class="fest-body">
+          {%- if key == "team" %}
+          <p class="fest-title">{{ w.title[lang] }}</p>
+          <p class="fest-members"><span>{{ G.members }}</span> {{ w.name }}</p>
+          {%- else %}
+          <p class="fest-name">{{ w.name[lang] if w.name[lang] else w.name }}{% if w.roman %} <span lang="vi">{{ w.roman }}</span>{% endif %}</p>
+          <p class="fest-title">{{ w.title[lang] }}</p>
+          {%- endif %}
+        </div>
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endfor %}
+
+    <h2 class="group-title" id="photos">{{ G.sections.photos }}</h2>
+    <div data-lightbox>
+    {%- for grp in ["opening", "education", "venue"] %}
+      <h3 class="gallery-day">{{ G.groups[grp] }}</h3>
+      <ul class="gallery gallery-captioned">
+        {%- for p in festivalGallery.photos %}{% if p.g == grp %}
+        <li><figure><img src="/images/festival/photos/fest_{{ '0' if p.n < 10 }}{{ p.n }}.jpg" alt="{{ p[lang] }}" loading="lazy"><figcaption>{{ p[lang] }}</figcaption></figure></li>
+        {%- endif %}{% endfor %}
+      </ul>
+    {%- endfor %}
+    </div>
+
+    <h2 class="group-title" id="catalogs">{{ G.sections.catalogs }}</h2>
+    <p class="resource-text">{{ G.desc.catalogs }}</p>
+    <ul class="link-list">
+      <li><a href="https://drive.google.com/file/d/{{ festivalGallery.catalogs.graduation }}/view" target="_blank" rel="noopener">{{ G.catGrad }} (PDF)<span class="sr-only">{{ T.newWin }}</span></a></li>
+      <li><a href="https://drive.google.com/file/d/{{ festivalGallery.catalogs.general }}/view" target="_blank" rel="noopener">{{ G.catGeneral }} (PDF)<span class="sr-only">{{ T.newWin }}</span></a></li>
+    </ul>
+    <p class="back"><a class="btn btn-outline" href="{{ '/events/ai-art-business-festival/' | L(lang) }}">{{ G.event }}</a></p>
+  </div>
+</section>

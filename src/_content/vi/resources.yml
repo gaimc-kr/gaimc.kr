@@ -11,7 +11,7 @@ groups:
         files:
           - label: Tải MP4
             file: /files/videos/gaimc-promo-ko.mp4
-            info: MP4 · 80 giây · 26.5 MB
+            info: MP4 · 80 giây · 29.4 MB
       - lang_label: Tiếng Anh
         lang: en
         cover: /images/resources/promo-en.jpg
@@ -19,7 +19,7 @@ groups:
         files:
           - label: Tải MP4
             file: /files/videos/gaimc-promo-en.mp4
-            info: MP4 · 76 giây · 25.5 MB
+            info: MP4 · 76 giây · 28.7 MB
       - lang_label: Tiếng Việt
         lang: vi
         cover: /images/resources/promo-vi.jpg
@@ -27,7 +27,7 @@ groups:
         files:
           - label: Tải MP4
             file: /files/videos/gaimc-promo-vi.mp4
-            info: MP4 · 69 giây · 23.7 MB
+            info: MP4 · 69 giây · 26.4 MB
   - title: Tờ giới thiệu khoa
     text: Tờ giới thiệu 4 trang về khoa, chương trình đào tạo, Global IPP, đội ngũ giảng viên và các cơ sở hợp tác. Chọn bản A4 4 trang để xem trên màn hình hoặc gửi qua email, và bản in hai mặt A3 để in (in hai mặt trên giấy A3 rồi gấp đôi).
     items:

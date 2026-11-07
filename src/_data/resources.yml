@@ -12,7 +12,7 @@ groups:
         files:
           - label: MP4 내려받기
             file: /files/videos/gaimc-promo-ko.mp4
-            info: MP4 · 80초 · 26.5MB
+            info: MP4 · 80초 · 29.4MB
       - lang_label: English
         lang: en
         cover: /images/resources/promo-en.jpg
@@ -20,7 +20,7 @@ groups:
         files:
           - label: MP4 내려받기
             file: /files/videos/gaimc-promo-en.mp4
-            info: MP4 · 76초 · 25.5MB
+            info: MP4 · 76초 · 28.7MB
       - lang_label: Tiếng Việt
         lang: vi
         cover: /images/resources/promo-vi.jpg
@@ -28,7 +28,7 @@ groups:
         files:
           - label: MP4 내려받기
             file: /files/videos/gaimc-promo-vi.mp4
-            info: MP4 · 69초 · 23.7MB
+            info: MP4 · 69초 · 26.4MB
   - title: 학과 브로셔
     text: 학과 소개, 교육과정, 글로벌 IPP, 교수진, 협력 기관을 4면에 담은 학과 브로셔입니다. 화면으로 보거나 메일로 보낼 때는 A4 4면 보기용을, 인쇄해 배포할 때는 A3 양면 인쇄용(A3 용지에 양면 인쇄한 뒤 반으로 접기)을 받으세요.
     items:

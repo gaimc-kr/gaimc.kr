@@ -132,4 +132,53 @@
       tx = ty = null;
     });
   }
+  // 축제 갤러리: 작품 카드를 누르면 구글 드라이브 미리보기로 영상을 재생하고 좌우로 넘김
+  var fest = document.querySelector("[data-fest]");
+  var fBtns = fest ? Array.prototype.slice.call(fest.querySelectorAll("button.fest-play")) : [];
+  if (fBtns.length) {
+    var FD = fest.dataset;
+    var fm = document.createElement("div");
+    fm.className = "fest-modal"; fm.hidden = true;
+    fm.setAttribute("role", "dialog"); fm.setAttribute("aria-modal", "true");
+    fm.innerHTML =
+      '<button type="button" class="fm-close" aria-label="' + FD.close + '">&times;</button>' +
+      '<button type="button" class="fm-prev" aria-label="' + FD.prev + '">&#8249;</button>' +
+      '<div class="fest-frame"></div><div class="fest-meta"><p></p><a target="_blank" rel="noopener"></a></div>' +
+      '<button type="button" class="fm-next" aria-label="' + FD.next + '">&#8250;</button>';
+    document.body.appendChild(fm);
+    var fFrame = fm.querySelector(".fest-frame"), fText = fm.querySelector(".fest-meta p"), fLink = fm.querySelector(".fest-meta a");
+    var fCur = 0, fOpener = null;
+    var fShow = function (i) {
+      fCur = (i + fBtns.length) % fBtns.length;
+      var b = fBtns[fCur], id = b.dataset.drive, card = b.closest(".fest-card");
+      fFrame.innerHTML = '<iframe src="' + FD.preview.replace("{id}", id) + '" allow="autoplay; fullscreen" allowfullscreen title=""></iframe>';
+      fFrame.querySelector("iframe").title = b.getAttribute("aria-label");
+      var name = card.querySelector(".fest-name"), title = card.querySelector(".fest-title");
+      fText.textContent = (card.querySelector(".fest-code").textContent + " · ") + (name ? name.textContent.replace(/\s+/g, " ").trim() + " — " : "") + (title ? title.textContent : "");
+      fLink.href = "https://drive.google.com/file/d/" + id + "/view";
+      fLink.textContent = FD.open + " ↗";
+    };
+    var fClose = function () {
+      fm.hidden = true; fFrame.innerHTML = "";
+      document.documentElement.classList.remove("fm-open");
+      if (fOpener && fOpener.focus) fOpener.focus();
+    };
+    fBtns.forEach(function (b, i) {
+      b.addEventListener("click", function () {
+        fOpener = b; fShow(i); fm.hidden = false;
+        document.documentElement.classList.add("fm-open");
+        fm.querySelector(".fm-close").focus();
+      });
+    });
+    fm.querySelector(".fm-close").addEventListener("click", fClose);
+    fm.querySelector(".fm-prev").addEventListener("click", function () { fShow(fCur - 1); });
+    fm.querySelector(".fm-next").addEventListener("click", function () { fShow(fCur + 1); });
+    fm.addEventListener("click", function (e) { if (e.target === fm) fClose(); });
+    document.addEventListener("keydown", function (e) {
+      if (fm.hidden) return;
+      if (e.key === "Escape") fClose();
+      else if (e.key === "ArrowLeft") fShow(fCur - 1);
+      else if (e.key === "ArrowRight") fShow(fCur + 1);
+    });
+  }
 })();

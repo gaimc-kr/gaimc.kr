@@ -1,0 +1,1594 @@
+{
+ "graduation": [
+  {
+   "code": "gw01",
+   "name": "부득권",
+   "roman": "Vu Duc Quan",
+   "title": {
+    "ko": "전자 통신망 트래픽 로그 자동 수합 및 슬랙(Slack) 알림 워크플로우 설계",
+    "en": "Workflow that collects telecom network traffic logs and sends Slack alerts",
+    "vi": "Quy trình tự động thu thập log lưu lượng mạng viễn thông và cảnh báo qua Slack"
+   }
+  },
+  {
+   "code": "gw02",
+   "name": "레티치",
+   "roman": "Le Thi Chi",
+   "title": {
+    "ko": "베트남 현지 소프트웨어 테스터(QA)와 한국 프로젝트 매칭 프롬프트 설계",
+    "en": "Prompt design matching Vietnamese software testers (QA) with Korean projects",
+    "vi": "Thiết kế prompt kết nối tester phần mềm (QA) Việt Nam với dự án Hàn Quốc"
+   }
+  },
+  {
+   "code": "gw03",
+   "name": "레카크히에우",
+   "roman": "Le Khac Hieu",
+   "title": {
+    "ko": "가상 AI 아바타 활용 베트남 타겟 SNS 광고 자동화 솔루션 기능 시연 영상 기획",
+    "en": "AI-avatar demo video for an SNS ad automation solution targeting Vietnam",
+    "vi": "Video demo giải pháp tự động hóa quảng cáo mạng xã hội cho thị trường Việt Nam với AI avatar"
+   }
+  },
+  {
+   "code": "gw04",
+   "name": "띤수안융",
+   "roman": "Dinh Xuan Dung",
+   "title": {
+    "ko": "챗GPT 활용 베트남 금융/은행 시장 경쟁사 분석 및 핵심 가치 제안 리포트",
+    "en": "ChatGPT report on competitors and value propositions in Vietnam's banking market",
+    "vi": "Báo cáo phân tích đối thủ và đề xuất giá trị thị trường tài chính – ngân hàng Việt Nam bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw05",
+   "name": "다튀짱",
+   "roman": "Ta Thuy Trang",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 고급 패션/화장품 브랜드 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for a premium fashion and cosmetics brand",
+    "vi": "Video quảng bá cảm xúc cho thương hiệu thời trang – mỹ phẩm cao cấp với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw06",
+   "name": "응우엔뜩만",
+   "roman": "Nguyen Duc Manh",
+   "title": {
+    "ko": "AI 카피라이팅 및 CNC 정밀 가공 기계 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for CNC precision machining equipment",
+    "vi": "Video ngắn bán hàng máy gia công CNC chính xác với copywriting AI"
+   }
+  },
+  {
+   "code": "gw07",
+   "name": "도티뚜엣눙",
+   "roman": "Do Thi Tuyet Nhung",
+   "title": {
+    "ko": "CapCut 3D 모션 효과를 적용한 한-베 관광 명소 랜드마크 입체 홍보 영상",
+    "en": "3D CapCut promo of Korean and Vietnamese tourist landmarks",
+    "vi": "Video quảng bá 3D các danh thắng du lịch Hàn – Việt bằng hiệu ứng CapCut"
+   },
+   "award": "encouragement"
+  },
+  {
+   "code": "gw08",
+   "name": "르쑤안틴",
+   "roman": "Lu Xuan Thinh",
+   "title": {
+    "ko": "다국어 행정/인사 민원 문의 자동 번역 및 분류 AI 챗봇 설계",
+    "en": "Multilingual AI chatbot that translates and sorts administrative and HR inquiries",
+    "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu hành chính – nhân sự"
+   }
+  },
+  {
+   "code": "gw09",
+   "name": "반바타이",
+   "roman": "Van Ba Tai",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 경영 컨설팅 서비스 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for a management consulting service",
+    "vi": "Video quảng bá cảm xúc cho dịch vụ tư vấn quản trị với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw10",
+   "name": "응우엔티장",
+   "roman": "Nguyen Thi Trang",
+   "title": {
+    "ko": "AI OCR 연동 사법 사무소 법률 서류 자동 추출 워크플로우",
+    "en": "AI OCR workflow that extracts data from law-office documents",
+    "vi": "Quy trình AI OCR tự động trích xuất hồ sơ pháp lý của văn phòng tư pháp"
+   }
+  },
+  {
+   "code": "gw11",
+   "name": "트란반호앙",
+   "roman": "Tran Van Hoang",
+   "title": {
+    "ko": "전기전자 생산 설비(HMI/PLC) 에러 로그 자동 수합 워크플로우 설계",
+    "en": "Workflow that collects error logs from electrical production equipment (HMI/PLC)",
+    "vi": "Quy trình tự động thu thập log lỗi thiết bị sản xuất điện – điện tử (HMI/PLC)"
+   }
+  },
+  {
+   "code": "gw12",
+   "name": "레남방",
+   "roman": "Le Nam Vang",
+   "title": {
+    "ko": "정보기술 서버 장애 로그 자동 수합 워크플로우 설계",
+    "en": "Workflow that collects IT server failure logs",
+    "vi": "Quy trình tự động thu thập log sự cố máy chủ CNTT"
+   }
+  },
+  {
+   "code": "gw13",
+   "name": "트란당응우옛민",
+   "roman": "Tran Dang Nguyet Minh",
+   "title": {
+    "ko": "챗GPT 활용 베트남 금융 및 수출입 은행 시장 경쟁사 분석 리포트",
+    "en": "ChatGPT competitor report on Vietnam's finance and export-import banking market",
+    "vi": "Báo cáo phân tích đối thủ thị trường tài chính và ngân hàng xuất nhập khẩu Việt Nam bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw14",
+   "name": "응우엔티화",
+   "roman": "Nguyen Thi Hoa",
+   "title": {
+    "ko": "AI 성우 활용 맞춤형 다국어 유치원생 기초 인지 교육 숏폼 영상 기획",
+    "en": "Multilingual AI-voiced shorts for early cognitive education of kindergarteners",
+    "vi": "Video ngắn đa ngôn ngữ giáo dục nhận thức cho trẻ mẫu giáo với giọng đọc AI"
+   }
+  },
+  {
+   "code": "gw15",
+   "name": "레반로이",
+   "roman": "Le Van Loi",
+   "title": {
+    "ko": "환경 설비 및 파이프라인 고장 증상 접수 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for reporting faults in environmental equipment and pipelines",
+    "vi": "Kịch bản chatbot AI tiếp nhận sự cố thiết bị môi trường và đường ống"
+   },
+   "award": "excellence"
+  },
+  {
+   "code": "gw16",
+   "name": "응우엔비엣충",
+   "roman": "Nguyen Viet Chung",
+   "title": {
+    "ko": "건설 현장 중장비 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for heavy-equipment fault reports and instant repair quotes",
+    "vi": "Kịch bản chatbot AI tiếp nhận sự cố máy công trình và báo giá tự động"
+   }
+  },
+  {
+   "code": "gw17",
+   "name": "쯔엉아잉꾸옥탕",
+   "roman": "Truong Anh Quoc Thang",
+   "title": {
+    "ko": "AI 카피라이팅 및 메카트로닉스 자동화 설비 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for mechatronic automation equipment",
+    "vi": "Video ngắn bán hàng thiết bị tự động hóa cơ điện tử với copywriting AI"
+   }
+  },
+  {
+   "code": "gw18",
+   "name": "레뒤퐁",
+   "roman": "Le Duy Phong",
+   "title": {
+    "ko": "전기 설비 에러 로그 자동 수합 및 사내 메신저 알림 워크플로우 설계",
+    "en": "Workflow that collects electrical equipment error logs and alerts the in-house messenger",
+    "vi": "Quy trình thu thập log lỗi thiết bị điện và cảnh báo qua ứng dụng nhắn tin nội bộ"
+   }
+  },
+  {
+   "code": "gw19",
+   "name": "도안공투에",
+   "roman": "Doan Cong Tue",
+   "title": {
+    "ko": "자동차 타이어/엔진오일 교체 자동 예약 및 증상 접수 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for booking tyre and oil changes and reporting car symptoms",
+    "vi": "Kịch bản chatbot AI đặt lịch thay lốp, dầu máy và tiếp nhận triệu chứng xe"
+   }
+  },
+  {
+   "code": "gw20",
+   "name": "부이티자우",
+   "roman": "Bui Thi Chau",
+   "title": {
+    "ko": "AI OCR 연동 기업 회계 영수증 및 매출 전표 자동 추출 워크플로우",
+    "en": "AI OCR workflow that extracts company receipts and sales slips",
+    "vi": "Quy trình AI OCR tự động trích xuất hóa đơn kế toán và chứng từ bán hàng"
+   }
+  },
+  {
+   "code": "gw21",
+   "name": "띤티화이",
+   "roman": "Dinh Thi Hoai",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 재무 컨설팅 및 고객 서비스 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for financial consulting and customer service",
+    "vi": "Video quảng bá cảm xúc cho dịch vụ tư vấn tài chính và chăm sóc khách hàng với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw22",
+   "name": "쯔엉수안투",
+   "roman": "Truong Xuan Tu",
+   "title": {
+    "ko": "AI OCR 연동 경영지원 증빙서류 자동 추출 및 장부 기록 워크플로우",
+    "en": "AI OCR workflow that extracts back-office vouchers and records them in the ledger",
+    "vi": "Quy trình AI OCR trích xuất chứng từ hỗ trợ quản lý và ghi sổ tự động"
+   }
+  },
+  {
+   "code": "gw23",
+   "name": "쩐투하",
+   "roman": "Tran Thu Ha",
+   "title": {
+    "ko": "AI OCR 연동 건설/영업 분야 영수증 자동 추출 및 장부 기록 워크플로우",
+    "en": "AI OCR workflow for construction and sales receipts and ledger entries",
+    "vi": "Quy trình AI OCR trích xuất hóa đơn xây dựng – kinh doanh và ghi sổ tự động"
+   }
+  },
+  {
+   "code": "gw24",
+   "name": "버휴득",
+   "roman": "Vo Huu Duc",
+   "title": {
+    "ko": "AI 카피라이팅 및 스마트 기계 부품 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for smart machine parts",
+    "vi": "Video ngắn bán hàng linh kiện máy thông minh với copywriting AI"
+   }
+  },
+  {
+   "code": "gw25",
+   "name": "당쑤안또안",
+   "roman": "Dang Xuan Toan",
+   "title": {
+    "ko": "가상 AI 아바타 활용 베트남 타겟 전기 자동화 시스템 기능 시연 영상 기획",
+    "en": "AI-avatar demo video of an electrical automation system for Vietnam",
+    "vi": "Video demo hệ thống tự động hóa điện cho thị trường Việt Nam với AI avatar"
+   }
+  },
+  {
+   "code": "gw26",
+   "name": "응우엔티트엉",
+   "roman": "Nguyen Thi Thuong",
+   "title": {
+    "ko": "챗GPT 활용 베트남 의류 제조 금융/투자 시장 경쟁사 분석 리포트",
+    "en": "ChatGPT competitor report on finance and investment in Vietnam's garment industry",
+    "vi": "Báo cáo phân tích đối thủ thị trường tài chính – đầu tư ngành may mặc Việt Nam bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw27",
+   "name": "팜반히에우",
+   "roman": "Pham Van Hieu",
+   "title": {
+    "ko": "베트남 현지 AI 데이터 라벨링 인력과 한국 프로젝트 매칭을 위한 프롬프트 설계",
+    "en": "Prompt design matching Vietnamese AI data-labelling staff with Korean projects",
+    "vi": "Thiết kế prompt kết nối nhân lực gán nhãn dữ liệu AI Việt Nam với dự án Hàn Quốc"
+   },
+   "award": "superior"
+  },
+  {
+   "code": "gw28",
+   "name": "다오빈뒤",
+   "roman": "Dao Vinh Duy",
+   "title": {
+    "ko": "K-제조 해양 선박 기술의 베트남 도입 위험도 시뮬레이션 리포트",
+    "en": "Risk simulation report on bringing Korean shipbuilding technology to Vietnam",
+    "vi": "Báo cáo mô phỏng rủi ro khi đưa công nghệ đóng tàu Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw29",
+   "name": "판비엣지앞",
+   "roman": "Phan Viet Giap",
+   "title": {
+    "ko": "다국어 치안/행정 서비스 문의 자동 번역 및 분류 AI 챗봇 설계",
+    "en": "Multilingual AI chatbot that translates and sorts public-safety and administrative inquiries",
+    "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu về an ninh – hành chính"
+   }
+  },
+  {
+   "code": "gw30",
+   "name": "레티투호아이",
+   "roman": "Le Thi Thu Hoai",
+   "title": {
+    "ko": "AI OCR 연동 패션 기업 재무 전표 자동 추출 워크플로우",
+    "en": "AI OCR workflow that extracts financial slips at a fashion company",
+    "vi": "Quy trình AI OCR tự động trích xuất chứng từ tài chính doanh nghiệp thời trang"
+   }
+  },
+  {
+   "code": "gw31",
+   "name": "판티프엉",
+   "roman": "Phan Thi Phuong",
+   "title": {
+    "ko": "AI 성우 활용 맞춤형 다국어 이중언어 통번역 숏폼 안내 영상 기획",
+    "en": "Multilingual AI-voiced shorts introducing bilingual interpreting and translation",
+    "vi": "Video ngắn đa ngôn ngữ giới thiệu dịch thuật song ngữ với giọng đọc AI"
+   }
+  },
+  {
+   "code": "gw32",
+   "name": "부티지에우링",
+   "roman": "Vu Thi Dieu Linh",
+   "title": {
+    "ko": "챗GPT 활용 베트남 스마트 시티 및 핀테크 투자 시장 경쟁사 분석 리포트",
+    "en": "ChatGPT competitor report on Vietnam's smart-city and fintech investment market",
+    "vi": "Báo cáo phân tích đối thủ thị trường đầu tư thành phố thông minh và fintech Việt Nam bằng ChatGPT"
+   },
+   "award": "excellence"
+  },
+  {
+   "code": "gw33",
+   "name": "팜티홍눙",
+   "roman": "Pham Thi Hong Nhung",
+   "title": {
+    "ko": "AI OCR 연동 오토바이 영업 거래 영수증 자동 추출 워크플로우",
+    "en": "AI OCR workflow that extracts motorbike sales receipts",
+    "vi": "Quy trình AI OCR tự động trích xuất hóa đơn bán xe máy"
+   }
+  },
+  {
+   "code": "gw34",
+   "name": "부티흐엉란",
+   "roman": "Vu Thi Huong Lan",
+   "title": {
+    "ko": "수출 신발 브랜드(UGG/HOKA) 품질 불량 접수 자동화 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for quality complaints at export footwear brands (UGG/HOKA)",
+    "vi": "Kịch bản chatbot AI tiếp nhận lỗi chất lượng giày xuất khẩu (UGG/HOKA)"
+   },
+   "award": "encouragement"
+  },
+  {
+   "code": "gw35",
+   "name": "팜쑤안동",
+   "roman": "Pham Xuan Dong",
+   "title": {
+    "ko": "챗GPT 활용 베트남 경영 컨설팅 시장 경쟁사 분석 및 가치 제안 리포트",
+    "en": "ChatGPT report on competitors and value propositions in Vietnam's consulting market",
+    "vi": "Báo cáo phân tích đối thủ và đề xuất giá trị thị trường tư vấn quản trị Việt Nam bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw36",
+   "name": "응우엔티응옥후옌",
+   "roman": "Nguyen Thi Ngoc Huyen",
+   "title": {
+    "ko": "AI 카피라이팅 및 경영 컨설팅 서비스 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for a management consulting service",
+    "vi": "Video ngắn bán hàng dịch vụ tư vấn quản trị với copywriting AI"
+   }
+  },
+  {
+   "code": "gw37",
+   "name": "응오티튀짱",
+   "roman": "Ngo Thi Thuy Trang",
+   "title": {
+    "ko": "CapCut 3D 모션 효과를 적용한 한-베 방송/미디어 콘텐츠 입체 홍보 영상",
+    "en": "3D CapCut promo of Korean and Vietnamese broadcast and media content",
+    "vi": "Video quảng bá 3D nội dung truyền hình – truyền thông Hàn – Việt bằng CapCut"
+   }
+  },
+  {
+   "code": "gw38",
+   "name": "까오티엔혹",
+   "roman": "Cao Thien Hoc",
+   "title": {
+    "ko": "사내 서버 장애 및 IT 에러 로그 자동 수합 워크플로우 설계",
+    "en": "Workflow that collects in-house server failure and IT error logs",
+    "vi": "Quy trình tự động thu thập log sự cố máy chủ nội bộ và lỗi CNTT"
+   }
+  },
+  {
+   "code": "gw39",
+   "name": "응우엔민리",
+   "roman": "Nguyen Minh Ly",
+   "title": {
+    "ko": "베트남 현지 전자공학 전문가와 한국 IT 프로젝트 매칭 프롬프트 설계",
+    "en": "Prompt design matching Vietnamese electronics experts with Korean IT projects",
+    "vi": "Thiết kế prompt kết nối chuyên gia điện tử Việt Nam với dự án CNTT Hàn Quốc"
+   }
+  },
+  {
+   "code": "gw40",
+   "name": "찬반디엔",
+   "roman": "Tran Van Dien",
+   "title": {
+    "ko": "베트남 현지 웹/앱 개발자와 한국 단기 프로젝트 매칭을 위한 프롬프트 설계",
+    "en": "Prompt design matching Vietnamese web and app developers with short Korean projects",
+    "vi": "Thiết kế prompt kết nối lập trình viên web/app Việt Nam với dự án ngắn hạn Hàn Quốc"
+   }
+  },
+  {
+   "code": "gw41",
+   "name": "쯔엉티짱",
+   "roman": "Truong Thi Trang",
+   "title": {
+    "ko": "AI 카피라이팅 및 K-뷰티/화장품 매장 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for a K-beauty cosmetics store",
+    "vi": "Video ngắn bán hàng cửa hàng mỹ phẩm K-beauty với copywriting AI"
+   }
+  },
+  {
+   "code": "gw42",
+   "name": "응우엔민타이",
+   "roman": "Nguyen Minh Thai",
+   "title": {
+    "ko": "AI 성우 활용 맞춤형 다국어 축구/체육 교육 숏폼 안내 영상 기획",
+    "en": "Multilingual AI-voiced shorts for football and sports education",
+    "vi": "Video ngắn đa ngôn ngữ hướng dẫn giáo dục bóng đá – thể thao với giọng đọc AI"
+   }
+  },
+  {
+   "code": "gw43",
+   "name": "띤반황",
+   "roman": "Dinh Van Hoang",
+   "title": {
+    "ko": "베트남 현지 전자공학 엔지니어와 한국 스타트업 단기 프로젝트 매칭 프롬프트 설계",
+    "en": "Prompt design matching Vietnamese electronics engineers with short Korean startup projects",
+    "vi": "Thiết kế prompt kết nối kỹ sư điện tử Việt Nam với dự án ngắn hạn của startup Hàn Quốc"
+   }
+  },
+  {
+   "code": "gw44",
+   "name": "레응옥바우",
+   "roman": "Le Ngoc Bau",
+   "title": {
+    "ko": "K-스마트 도로건설 기술의 베트남 도입 위험도 및 비용 시뮬레이션 리포트",
+    "en": "Risk and cost simulation of bringing Korean smart road-building technology to Vietnam",
+    "vi": "Báo cáo mô phỏng rủi ro và chi phí đưa công nghệ làm đường thông minh Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw45",
+   "name": "황티김치",
+   "roman": "Hoang Thi Kim Chi",
+   "title": {
+    "ko": "챗GPT 활용 베트남 거시 경제 트렌드 분석 및 핵심 가치 제안 리포트",
+    "en": "ChatGPT report on Vietnam's macroeconomic trends and key value propositions",
+    "vi": "Báo cáo phân tích xu hướng kinh tế vĩ mô Việt Nam và đề xuất giá trị bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw46",
+   "name": "투타지압",
+   "roman": "Tu Tat Giap",
+   "title": {
+    "ko": "CapCut 3D 모션 효과를 적용한 한-베 미디어 이벤트 공간 입체 홍보 영상",
+    "en": "3D CapCut promo of Korean and Vietnamese media event venues",
+    "vi": "Video quảng bá 3D không gian sự kiện truyền thông Hàn – Việt bằng CapCut"
+   }
+  },
+  {
+   "code": "gw47",
+   "name": "뜨엉프엉끄엉",
+   "roman": "Duong Phuong Cuong",
+   "title": {
+    "ko": "가상 AI 아바타 활용 베트남 타겟 공장 자동화 솔루션 기능 시연 영상 기획",
+    "en": "AI-avatar demo video of a factory automation solution for Vietnam",
+    "vi": "Video demo giải pháp tự động hóa nhà máy cho thị trường Việt Nam với AI avatar"
+   }
+  },
+  {
+   "code": "gw48",
+   "name": "레티단튀",
+   "roman": "Le Thi Thanh Thuy",
+   "title": {
+    "ko": "AI OCR 연동 프랜차이즈 매장 매출 전표 자동 수합 워크플로우",
+    "en": "AI OCR workflow that collects sales slips from franchise stores",
+    "vi": "Quy trình AI OCR tự động thu thập chứng từ doanh thu chuỗi cửa hàng nhượng quyền"
+   }
+  },
+  {
+   "code": "gw49",
+   "name": "띤반응옥바오",
+   "roman": "Dinh Van Ngoc Bao",
+   "title": {
+    "ko": "토목 건축 장비 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for civil-engineering equipment faults and instant quotes",
+    "vi": "Kịch bản chatbot AI tiếp nhận sự cố thiết bị xây dựng và báo giá tự động"
+   }
+  },
+  {
+   "code": "gw50",
+   "name": "짠반타오",
+   "roman": "Tran Van Thao",
+   "title": {
+    "ko": "CapCut 3D 모션 효과를 적용한 한-베 생태 자원 랜드마크 입체 홍보 영상",
+    "en": "3D CapCut promo of Korean and Vietnamese natural landmarks",
+    "vi": "Video quảng bá 3D các danh thắng sinh thái Hàn – Việt bằng CapCut"
+   }
+  },
+  {
+   "code": "gw51",
+   "name": "응우엔꽁린",
+   "roman": "Nguyen Cong Linh",
+   "title": {
+    "ko": "AI 성우 활용 맞춤형 다국어 스마트 농업 교육 숏폼 안내 영상 기획",
+    "en": "Multilingual AI-voiced shorts for smart-farming education",
+    "vi": "Video ngắn đa ngôn ngữ hướng dẫn nông nghiệp thông minh với giọng đọc AI"
+   },
+   "award": "encouragement"
+  },
+  {
+   "code": "gw52",
+   "name": "딩티미진",
+   "roman": "Dinh Thi My Trinh",
+   "title": {
+    "ko": "K-제조 스마트 물류 및 운송 기술의 베트남 도입 위험도 시뮬레이션 리포트",
+    "en": "Risk simulation of bringing Korean smart logistics technology to Vietnam",
+    "vi": "Báo cáo mô phỏng rủi ro khi đưa công nghệ logistics thông minh Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw53",
+   "name": "레반뚜안",
+   "roman": "Le Van Tuan",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 베트남 기업 B2B 서비스 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for a Vietnamese B2B service",
+    "vi": "Video quảng bá cảm xúc cho dịch vụ B2B doanh nghiệp Việt Nam với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw54",
+   "name": "응오반뚜안",
+   "roman": "Ngo Van Tuan",
+   "title": {
+    "ko": "AI 카피라이팅 및 스마트 정수기 설비 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for smart water purifiers",
+    "vi": "Video ngắn bán hàng máy lọc nước thông minh với copywriting AI"
+   },
+   "award": "superior"
+  },
+  {
+   "code": "gw55",
+   "name": "응우엔티투이반",
+   "roman": "Nguyen Thi Thuy Van",
+   "title": {
+    "ko": "다국어 공공 행정 서비스 민원 문의 자동 번역 및 분류 AI 챗봇 설계",
+    "en": "Multilingual AI chatbot that translates and sorts public-service inquiries",
+    "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu dịch vụ hành chính công"
+   }
+  },
+  {
+   "code": "gw56",
+   "name": "비반뭉",
+   "roman": "Vi Van Mung",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 농업 자재 B2B 세일즈 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for B2B sales of farm supplies",
+    "vi": "Video quảng bá cảm xúc bán hàng B2B vật tư nông nghiệp với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw57",
+   "name": "트란티레나",
+   "roman": "Tran Thi Le Na",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 글로벌 비즈니스 서비스 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for a global business service",
+    "vi": "Video quảng bá cảm xúc cho dịch vụ kinh doanh toàn cầu với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw58",
+   "name": "트란티흐엉센",
+   "roman": "Tran Thi Huong Sen",
+   "title": {
+    "ko": "AI OCR 연동 봉제 공장 물류 증빙서류 자동 추출 워크플로우",
+    "en": "AI OCR workflow that extracts logistics documents at a garment factory",
+    "vi": "Quy trình AI OCR tự động trích xuất chứng từ logistics của xưởng may"
+   },
+   "award": "superior"
+  },
+  {
+   "code": "gw59",
+   "name": "레티홍주엔",
+   "roman": "Le Thi Hong Chuyen",
+   "title": {
+    "ko": "다국어 온라인 교육(Vioedu) 시스템 고객 문의 자동 응대 AI 챗봇 설계",
+    "en": "Multilingual AI chatbot answering customer questions for an online learning system (Vioedu)",
+    "vi": "Chatbot AI đa ngôn ngữ tự động trả lời khách hàng hệ thống học trực tuyến (Vioedu)"
+   }
+  },
+  {
+   "code": "gw60",
+   "name": "응웬황롱",
+   "roman": "Nguyen Hoang Long",
+   "title": {
+    "ko": "기계 설비 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for machinery fault reports and instant quotes",
+    "vi": "Kịch bản chatbot AI tiếp nhận sự cố máy móc và báo giá tự động"
+   }
+  },
+  {
+   "code": "gw61",
+   "name": "팜반동",
+   "roman": "Pham Van Dong",
+   "title": {
+    "ko": "K-스마트 도시 계획 및 건설 기술의 베트남 도입 시뮬레이션 리포트",
+    "en": "Simulation report on bringing Korean smart-city planning and construction to Vietnam",
+    "vi": "Báo cáo mô phỏng việc đưa công nghệ quy hoạch và xây dựng đô thị thông minh Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw62",
+   "name": "레당한",
+   "roman": "Le Dang Hanh",
+   "title": {
+    "ko": "AI OCR 연동 감정 평가 증빙서류 자동 추출 및 장부 기록 워크플로우",
+    "en": "AI OCR workflow for appraisal documents and ledger entries",
+    "vi": "Quy trình AI OCR trích xuất hồ sơ thẩm định giá và ghi sổ tự động"
+   }
+  },
+  {
+   "code": "gw63",
+   "name": "땅부히엡",
+   "roman": "Dang Vu Hiep",
+   "title": {
+    "ko": "AI OCR 연동 법률 자문 영수증 자동 추출 및 장부 기록 워크플로우",
+    "en": "AI OCR workflow for legal-advisory receipts and ledger entries",
+    "vi": "Quy trình AI OCR trích xuất hóa đơn tư vấn pháp lý và ghi sổ tự động"
+   }
+  },
+  {
+   "code": "gw64",
+   "name": "응우엔티투짱",
+   "roman": "Nguyen Thi Thu Trang",
+   "title": {
+    "ko": "CapCut 3D 모션 효과를 적용한 한-베 여행사 투어 패키지 입체 홍보 영상",
+    "en": "3D CapCut promo of Korea–Vietnam travel-agency tour packages",
+    "vi": "Video quảng bá 3D tour du lịch Hàn – Việt của công ty lữ hành bằng CapCut"
+   }
+  },
+  {
+   "code": "gw65",
+   "name": "추티푸옹안",
+   "roman": "Chu Thi Phuong Anh",
+   "title": {
+    "ko": "AI 로고송/CM송 제작을 통한 뷰티/안경 산업 감성 홍보 영상 기획",
+    "en": "Brand film with an AI-made jingle for the beauty and eyewear industry",
+    "vi": "Video quảng bá cảm xúc ngành làm đẹp – kính mắt với nhạc hiệu AI"
+   }
+  },
+  {
+   "code": "gw66",
+   "name": "트란쿠옥티에프",
+   "roman": "Tran Quoc Tiep",
+   "title": {
+    "ko": "전기 설비 시스템 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for electrical system faults and instant quotes",
+    "vi": "Kịch bản chatbot AI tiếp nhận sự cố hệ thống điện và báo giá tự động"
+   }
+  },
+  {
+   "code": "gw67",
+   "name": "도안반투안",
+   "roman": "Doan Van Tuan",
+   "title": {
+    "ko": "학교 전산 장비 장애 로그 자동 수합 워크플로우 설계",
+    "en": "Workflow that collects failure logs from school IT equipment",
+    "vi": "Quy trình tự động thu thập log sự cố thiết bị tin học trường học"
+   }
+  },
+  {
+   "code": "gw68",
+   "name": "응우옌반남",
+   "roman": "Nguyen Van Nam",
+   "title": {
+    "ko": "컴퓨터 하드웨어 수리 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
+    "en": "AI chatbot scenario for computer hardware repairs and instant quotes",
+    "vi": "Kịch bản chatbot AI tiếp nhận sửa chữa phần cứng máy tính và báo giá tự động"
+   }
+  },
+  {
+   "code": "gw69",
+   "name": "응우옌쑤안하이",
+   "roman": "Nguyen Xuan Hai",
+   "title": {
+    "ko": "CapCut 3D 모션 효과를 적용한 한-베 관광 서비스 인프라 입체 홍보 영상",
+    "en": "3D CapCut promo of Korean and Vietnamese tourism infrastructure",
+    "vi": "Video quảng bá 3D hạ tầng dịch vụ du lịch Hàn – Việt bằng CapCut"
+   }
+  },
+  {
+   "code": "gw70",
+   "name": "응우옌반투안",
+   "roman": "Nguyen Van Tuan",
+   "title": {
+    "ko": "VNPT 네트워크 통신망 장애 로그 자동 수합 및 알림 워크플로우 설계",
+    "en": "Workflow that collects VNPT network failure logs and sends alerts",
+    "vi": "Quy trình thu thập log sự cố mạng viễn thông VNPT và cảnh báo tự động"
+   }
+  },
+  {
+   "code": "gw71",
+   "name": "트란쿠옥후이",
+   "roman": "Tran Quoc Huy",
+   "title": {
+    "ko": "챗GPT 활용 베트남 경영 컨설팅 시장 경쟁사 분석 리포트",
+    "en": "ChatGPT competitor report on Vietnam's management consulting market",
+    "vi": "Báo cáo phân tích đối thủ thị trường tư vấn quản trị Việt Nam bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw72",
+   "name": "루티투이린",
+   "roman": "Luu Thi Thuy Linh",
+   "title": {
+    "ko": "AI 성우 활용 맞춤형 다국어 중학교 기초 수학 교육 숏폼 안내 영상 기획",
+    "en": "Multilingual AI-voiced shorts for middle-school basic maths",
+    "vi": "Video ngắn đa ngôn ngữ dạy toán cơ bản THCS với giọng đọc AI"
+   }
+  },
+  {
+   "code": "gw73",
+   "name": "응우옌비엣비엣",
+   "roman": "Nguyen Viet Viet",
+   "title": {
+    "ko": "다국어 의료/간호 서비스 고객 문의(CS) 자동 번역 및 분류 AI 챗봇 설계",
+    "en": "Multilingual AI chatbot that translates and sorts medical and nursing customer inquiries",
+    "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu khách hàng dịch vụ y tế – điều dưỡng"
+   }
+  },
+  {
+   "code": "gw74",
+   "name": "마이반또안",
+   "roman": "Mai Van Toan",
+   "title": {
+    "ko": "가상 AI 아바타 활용 베트남 타겟 전자전기 제어 솔루션 기능 시연 영상 기획",
+    "en": "AI-avatar demo video of an electrical control solution for Vietnam",
+    "vi": "Video demo giải pháp điều khiển điện – điện tử cho thị trường Việt Nam với AI avatar"
+   }
+  },
+  {
+   "code": "gw75",
+   "name": "응우엔티응옥안",
+   "roman": "Nguyen Thi Ngoc Anh",
+   "title": {
+    "ko": "K-스마트 건설공학 기술의 베트남 도입 위험도 및 비용 시뮬레이션 리포트",
+    "en": "Risk and cost simulation of bringing Korean smart construction engineering to Vietnam",
+    "vi": "Báo cáo mô phỏng rủi ro và chi phí đưa kỹ thuật xây dựng thông minh Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw76",
+   "name": "똥짠둥",
+   "roman": "Tong Tran Dung",
+   "title": {
+    "ko": "AI 카피라이팅 및 스마트 교통 인프라 설비 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for smart traffic infrastructure",
+    "vi": "Video ngắn bán hàng thiết bị hạ tầng giao thông thông minh với copywriting AI"
+   }
+  },
+  {
+   "code": "gw77",
+   "name": "부티항",
+   "roman": "Vu Thi Hang",
+   "title": {
+    "ko": "다국어 유학 및 노동 상담 고객 문의 자동 응대 AI 챗봇 설계",
+    "en": "Multilingual AI chatbot answering study-abroad and labour counselling inquiries",
+    "vi": "Chatbot AI đa ngôn ngữ tự động trả lời tư vấn du học và lao động"
+   }
+  },
+  {
+   "code": "gw78",
+   "name": "응우엔탄루안",
+   "roman": "Nguyen Thanh Luan",
+   "title": {
+    "ko": "K-제조 스마트 건축/설계 기술의 베트남 도입 위험도 및 비용 시뮬레이션 리포트",
+    "en": "Risk and cost simulation of bringing Korean smart building and design technology to Vietnam",
+    "vi": "Báo cáo mô phỏng rủi ro và chi phí đưa công nghệ kiến trúc – thiết kế thông minh Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw79",
+   "name": "레티한",
+   "roman": "Le Thi Hanh",
+   "title": {
+    "ko": "챗GPT 활용 베트남 소프트웨어 영업 시장 경쟁사 분석 리포트",
+    "en": "ChatGPT competitor report on Vietnam's software sales market",
+    "vi": "Báo cáo phân tích đối thủ thị trường kinh doanh phần mềm Việt Nam bằng ChatGPT"
+   },
+   "award": "grand"
+  },
+  {
+   "code": "gw80",
+   "name": "응오티호에",
+   "roman": "Ngo Thi Hoe",
+   "title": {
+    "ko": "챗GPT 활용 베트남 수출입 및 국제 무역 시장 경쟁사 분석 리포트",
+    "en": "ChatGPT competitor report on Vietnam's import-export and trade market",
+    "vi": "Báo cáo phân tích đối thủ thị trường xuất nhập khẩu và thương mại quốc tế Việt Nam bằng ChatGPT"
+   }
+  },
+  {
+   "code": "gw81",
+   "name": "응옌반푸",
+   "roman": "Nguyen Van Phu",
+   "title": {
+    "ko": "AI 카피라이팅 및 토목/산업 기계 설비 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for civil and industrial machinery",
+    "vi": "Video ngắn bán hàng máy móc xây dựng – công nghiệp với copywriting AI"
+   }
+  },
+  {
+   "code": "gw82",
+   "name": "응웬티린짱",
+   "roman": "Nguyen Thi Linh Trang",
+   "title": {
+    "ko": "AI 카피라이팅 및 현대 상용차/트럭 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for Hyundai commercial vehicles and trucks",
+    "vi": "Video ngắn bán hàng xe thương mại – xe tải Hyundai với copywriting AI"
+   },
+   "award": "encouragement"
+  },
+  {
+   "code": "gw83",
+   "name": "버띤훙",
+   "roman": "Vo Dinh Hung",
+   "title": {
+    "ko": "베트남 현지 제어 공학 IT 기술자와 한국 단기 프로젝트 매칭을 위한 프롬프트 설계",
+    "en": "Prompt design matching Vietnamese control-engineering IT specialists with short Korean projects",
+    "vi": "Thiết kế prompt kết nối kỹ thuật viên CNTT điều khiển Việt Nam với dự án ngắn hạn Hàn Quốc"
+   }
+  },
+  {
+   "code": "gw84",
+   "name": "짠두안안",
+   "roman": "Tran Tuan Anh",
+   "title": {
+    "ko": "가상 AI 아바타 활용 베트남 타겟 전자 부품 B2B 솔루션 기능 시연 영상 기획",
+    "en": "AI-avatar demo video of a B2B electronic-parts solution for Vietnam",
+    "vi": "Video demo giải pháp B2B linh kiện điện tử cho thị trường Việt Nam với AI avatar"
+   }
+  },
+  {
+   "code": "gw85",
+   "name": "팜티튀항",
+   "roman": "Pham Thi Thuy Hang",
+   "title": {
+    "ko": "AI OCR 연동 법률 사무소 증빙서류 자동 추출 및 장부 기록 워크플로우",
+    "en": "AI OCR workflow for law-office vouchers and ledger entries",
+    "vi": "Quy trình AI OCR trích xuất chứng từ văn phòng luật và ghi sổ tự động"
+   }
+  },
+  {
+   "code": "gw86",
+   "name": "응우엔득히에우",
+   "roman": "Nguyen Duc Hieu",
+   "title": {
+    "ko": "K-제조 자동차 공학 기술의 베트남 도입 위험도 시뮬레이션 리포트",
+    "en": "Risk simulation of bringing Korean automotive engineering to Vietnam",
+    "vi": "Báo cáo mô phỏng rủi ro khi đưa kỹ thuật ô tô Hàn Quốc vào Việt Nam"
+   }
+  },
+  {
+   "code": "gw87",
+   "name": "부반뚜엔",
+   "roman": "Vu Van Tuyen",
+   "title": {
+    "ko": "AI 카피라이팅 및 CNC 기계 설비 실전 세일즈 홍보 숏폼 기획",
+    "en": "AI-copywritten sales short for CNC machinery",
+    "vi": "Video ngắn bán hàng máy CNC với copywriting AI"
+   }
+  },
+  {
+   "code": "gw88",
+   "name": "하티안투엣",
+   "roman": "Ha Thi Anh Tuyet",
+   "title": {
+    "ko": "AI 성우 활용 맞춤형 다국어 유아 교육 및 인지 발달 안내 영상 기획",
+    "en": "Multilingual AI-voiced guide to early-childhood education and cognitive development",
+    "vi": "Video đa ngôn ngữ hướng dẫn giáo dục mầm non và phát triển nhận thức với giọng đọc AI"
+   }
+  }
+ ],
+ "student": [
+  {
+   "code": "sw401",
+   "name": "부 티 지에우 링",
+   "roman": "Vu Thi Dieu Linh",
+   "drive": "1603RkCwH7VUnFJtj_lpnCbAzq5db9iD7",
+   "title": {
+    "ko": "목적지가 아닌 '방향'을 찾아가는 여정, 그리고 자아(Soul)와의 마주함",
+    "en": "A journey toward a direction, not a destination, and an encounter with the self",
+    "vi": "Hành trình tìm hướng đi chứ không phải đích đến, và cuộc gặp gỡ với chính mình"
+   }
+  },
+  {
+   "code": "sw402",
+   "name": "응웬 티 린 짱",
+   "roman": "Nguyen Thi Linh Trang",
+   "drive": "1qziOApqZoIPIBGlozNzmwAzLMfstsgjl",
+   "title": {
+    "ko": "정형화된 미(美)의 기준을 넘어, 테크놀로지로 완성하는 진정한 내면의 아름다움",
+    "en": "Beyond standard ideals of beauty: true inner beauty completed with technology",
+    "vi": "Vượt qua chuẩn mực cái đẹp: vẻ đẹp nội tâm hoàn thiện nhờ công nghệ"
+   }
+  },
+  {
+   "code": "sw403",
+   "name": "응우엔 꽁 린",
+   "roman": "Nguyen Cong Linh",
+   "drive": "17tqol_pZoOYS3dXQkMtJzf0bNGN8Arh7",
+   "title": {
+    "ko": "농업 현장 경험을 바탕으로 AI 기반 스마트 농장을 꿈꾸는 여정",
+    "en": "A journey from farm experience to an AI-powered smart farm",
+    "vi": "Hành trình từ trải nghiệm nông trại đến giấc mơ trang trại thông minh dựa trên AI"
+   }
+  },
+  {
+   "code": "sw404",
+   "name": "도 티 뚜엣 눙",
+   "roman": "Do Thi Tuyet Nhung",
+   "drive": "1bkiwA4CMdkjc0rJxHX6urogm00FM-BQ8",
+   "title": {
+    "ko": "다채로운 전통 음식으로 만나는 베트남의 맛과 문화 (film 1)",
+    "en": "Vietnam's flavours and culture through its traditional dishes (film 1)",
+    "vi": "Hương vị và văn hóa Việt Nam qua các món ăn truyền thống (phim 1)"
+   }
+  },
+  {
+   "code": "sw405",
+   "name": "도 티 뚜엣 눙",
+   "roman": "Do Thi Tuyet Nhung",
+   "drive": "1Ky5tLPN8ULF27KlGFNCP86Jk1kBPjFhz",
+   "title": {
+    "ko": "서로 다른 두 사람이 우정과 신뢰를 통해 평생의 동반자가 되어가는 이야기 (film 2)",
+    "en": "Two different people becoming lifelong companions through friendship and trust (film 2)",
+    "vi": "Hai con người khác biệt trở thành bạn đồng hành trọn đời nhờ tình bạn và niềm tin (phim 2)"
+   }
+  },
+  {
+   "code": "sw406",
+   "name": "레 반 로이",
+   "roman": "Le Van Loi",
+   "drive": "1fHNetjk-GuU7ygarKzH87p_QJBf1UBFQ",
+   "title": {
+    "ko": "보이지 않는 오류를 미리 찾아내 프로젝트의 흐름을 완성하는 배관 설계 전문가",
+    "en": "A piping designer who finds hidden errors early and keeps projects on track",
+    "vi": "Chuyên gia thiết kế đường ống phát hiện sớm lỗi ẩn để dự án vận hành trơn tru"
+   }
+  },
+  {
+   "code": "sw407",
+   "name": "부 티 흐엉 란",
+   "roman": "Vu Thi Huong Lan",
+   "drive": "1euIqK7PnXT-0uhExVUHU3i2svgPy7Wje",
+   "title": {
+    "ko": "자연과 전통이 어우러진 고향 축제의 기억",
+    "en": "Memories of a hometown festival where nature and tradition meet",
+    "vi": "Ký ức lễ hội quê hương hòa quyện thiên nhiên và truyền thống"
+   }
+  },
+  {
+   "code": "sw408",
+   "name": "응오 반 뚜안",
+   "roman": "Ngo Van Tuan",
+   "drive": "1LUN3TJKZnkgZNZ-4OGiXWEE_1L7XKZBM",
+   "title": {
+    "ko": "안전한 길을 벗어나 스스로의 미래를 개척해 나가는 도전과 성장",
+    "en": "Leaving the safe path to build one's own future",
+    "vi": "Rời con đường an toàn để tự mở lối tương lai"
+   }
+  },
+  {
+   "code": "sw409",
+   "name": "팜 반 히에우",
+   "roman": "Pham Van Hieu",
+   "drive": "115q6nzlFoUFL4TZEzyZvG7D_GU-KAETQ",
+   "title": {
+    "ko": "나라의 위기 앞에서 명예와 책임을 일깨운 역사적 결의",
+    "en": "A historic resolve that awakened honour and duty in a national crisis",
+    "vi": "Quyết tâm lịch sử khơi dậy danh dự và trách nhiệm trước vận nước lâm nguy"
+   }
+  },
+  {
+   "code": "sw410",
+   "name": "트란 티 흐엉 센",
+   "roman": "Tran Thi Huong Sen",
+   "drive": "15EZ2jYcvo-6sFqlcFm8tnObzyVxfiC81",
+   "title": {
+    "ko": "베트남 사람들의 삶과 정체성 속에 이어져 온 어머니 신앙의 세계",
+    "en": "The Mother Goddess faith woven into Vietnamese life and identity",
+    "vi": "Thế giới tín ngưỡng thờ Mẫu trong đời sống và bản sắc người Việt"
+   }
+  },
+  {
+   "code": "sw411",
+   "name": "레 티 한",
+   "roman": "Le Thi Hanh",
+   "drive": "1HrYxuT2begW3ZJQ2ABtzbhL85io0qCPl",
+   "title": {
+    "ko": "전통과 장인의 정성이 담긴 베트남의 상징, 아오자이",
+    "en": "The ao dai: a Vietnamese symbol of tradition and craftsmanship",
+    "vi": "Áo dài: biểu tượng Việt Nam kết tinh truyền thống và tâm huyết nghệ nhân"
+   }
+  },
+  {
+   "code": "sw301",
+   "name": "응우옌 티 잔",
+   "roman": "",
+   "drive": "1XK6RjeFg-WWG-CdPVmyNCL-WNuEo02IN",
+   "title": {
+    "ko": "AI 기술과 함께 만나는 베트남의 문화, 관광, 그리고 미래",
+    "en": "Vietnam's culture, tourism and future, met through AI",
+    "vi": "Văn hóa, du lịch và tương lai Việt Nam qua công nghệ AI"
+   }
+  },
+  {
+   "code": "sw302",
+   "name": "응우옌 티 타오",
+   "roman": "Nguyen Thi Thao",
+   "drive": "1BTKHfkojpOzPAerkX04tDZpTp9xhU2AL",
+   "title": {
+    "ko": "한국 생활 속에서 배우고 일하며 성장해 가는 유학생의 도전",
+    "en": "An international student learning, working and growing in Korea",
+    "vi": "Thử thách của du học sinh học tập, làm việc và trưởng thành tại Hàn Quốc"
+   }
+  },
+  {
+   "code": "sw201",
+   "name": "응우옌 꽁 따잉",
+   "roman": "",
+   "drive": "1caUvE7CfMrU0z9XjnIu9-Zt1vz2mUouD",
+   "title": {
+    "ko": "베트남을 대표하는 제철 과일 리치의 매력과 가치",
+    "en": "The charm and value of lychee, Vietnam's signature seasonal fruit",
+    "vi": "Sức hấp dẫn và giá trị của vải thiều, trái cây mùa đặc trưng Việt Nam"
+   }
+  },
+  {
+   "code": "sw202",
+   "name": "응우옌 티 란안",
+   "roman": "",
+   "drive": "1LUQ6w1M3Zu7DmNhk_ElKFPcW4wXHA5_W",
+   "title": {
+    "ko": "가족과 이웃이 함께 나누는 베트남 추석의 따뜻한 기억",
+    "en": "Warm memories of Vietnam's Mid-Autumn Festival with family and neighbours",
+    "vi": "Ký ức ấm áp Tết Trung thu bên gia đình và hàng xóm"
+   }
+  },
+  {
+   "code": "sw203",
+   "name": "응웬 홍 쭝",
+   "roman": "",
+   "drive": "19INOO6pSqVGDlnlUdDq0c03fe49Nxp7e",
+   "title": {
+    "ko": "간단한 조리법으로 집에서도 즐기는 베트남 대표 간식 반짝느엉 만들기",
+    "en": "Making banh trang nuong, Vietnam's favourite snack, at home",
+    "vi": "Làm bánh tráng nướng, món ăn vặt nổi tiếng Việt Nam, tại nhà"
+   }
+  },
+  {
+   "code": "sw204",
+   "name": "응우옌 티 반 아잉",
+   "roman": "",
+   "drive": "11CrKWCoq5N93umzv_m6ZicrEImcNEUVp",
+   "title": {
+    "ko": "나라를 구한 신검과 이를 돌려준 왕의 전설",
+    "en": "The legend of the sacred sword that saved the nation and the king who returned it",
+    "vi": "Truyền thuyết thanh gươm thần cứu nước và vị vua trả gươm"
+   }
+  },
+  {
+   "code": "sw205",
+   "name": "응우옌 투 히엔",
+   "roman": "Nguyen Thu Hien",
+   "drive": "12A1zc0T8pwdQpyGShl1C4ZYlmyrkOGtB",
+   "title": {
+    "ko": "베트남의 인기 간식을 직접 맛보며 발견하는 새로운 즐거움",
+    "en": "Discovering new joys by tasting Vietnam's popular snacks",
+    "vi": "Niềm vui mới khi tự nếm thử các món ăn vặt được yêu thích ở Việt Nam"
+   }
+  },
+  {
+   "code": "sw206",
+   "name": "류딘탄통",
+   "roman": "",
+   "drive": "1gAcJy5T8BHboprNqnK22nWC---8pz4pe",
+   "title": {
+    "ko": "베트남 대표 길거리 음식 반짝느엉 조리 비법 소개 (film 1)",
+    "en": "Secrets of banh trang nuong, Vietnam's iconic street food (film 1)",
+    "vi": "Bí quyết làm bánh tráng nướng, món đường phố tiêu biểu (phim 1)"
+   }
+  },
+  {
+   "code": "sw207",
+   "name": "류딘탄통",
+   "roman": "",
+   "drive": "1lakAA0LIN_VrFlK8N4jWnEvaGwBlPMGh",
+   "title": {
+    "ko": "현지 거리에서 즐기는 반짱느엉의 풍미와 먹는 즐거움 (film 2)",
+    "en": "The taste and fun of banh trang nuong on a local street (film 2)",
+    "vi": "Hương vị và niềm vui thưởng thức bánh tráng nướng trên phố (phim 2)"
+   }
+  },
+  {
+   "code": "sw208",
+   "name": "도티 투 짱",
+   "roman": "",
+   "drive": "1cltn-uhQIvWCsEr97kn91bqgVkUMAPRs",
+   "title": {
+    "ko": "신검의 힘과 백성의 용기로 나라를 지켜낸 영웅의 이야기",
+    "en": "A hero who defended the nation with a sacred sword and the people's courage",
+    "vi": "Người anh hùng giữ nước bằng gươm thần và lòng dũng cảm của nhân dân"
+   }
+  },
+  {
+   "code": "sw209",
+   "name": "응우옌 티 응옥 중",
+   "roman": "",
+   "drive": "1VnTfWR-7clGrM_YsPQ3lV7CCfoKoYS8T",
+   "title": {
+    "ko": "고향 음식을 함께 만들며 그리움과 우정을 나누는 이야기",
+    "en": "Sharing longing and friendship while cooking food from home",
+    "vi": "Cùng nấu món quê, sẻ chia nỗi nhớ và tình bạn"
+   }
+  },
+  {
+   "code": "sw210",
+   "name": "응우옌 티 반",
+   "roman": "",
+   "drive": "1fEyOzksKO9qAe2XD1vjWZIl0tnMRZ9KY",
+   "title": {
+    "ko": "신검이 본래의 주인에게 돌아가며 탄생한 호안끼엠 호수의 이름",
+    "en": "How Hoan Kiem Lake got its name when the sacred sword returned to its owner",
+    "vi": "Tên hồ Hoàn Kiếm ra đời khi gươm thần trở về với chủ cũ"
+   }
+  },
+  {
+   "code": "sw211",
+   "name": "당 티 안",
+   "roman": "Dang Thi An",
+   "drive": "1BsqVFLhgO6UUxgTBepxIPHgXL8ZG0nmr",
+   "title": {
+    "ko": "베트남 대표 간식을 맛보고 비교해 보는 시식 체험",
+    "en": "A tasting session comparing Vietnam's best-known snacks",
+    "vi": "Trải nghiệm nếm thử và so sánh các món ăn vặt tiêu biểu Việt Nam"
+   }
+  },
+  {
+   "code": "sw212",
+   "name": "응우옌 반 히우",
+   "roman": "",
+   "drive": "1DEwG2ZxkTaqxCQPCUumAwPtmQI0Aks0x",
+   "title": {
+    "ko": "무력의 흔적이 사라진 자리에 다시 피어나는 평화와 연대",
+    "en": "Peace and solidarity blooming again where the traces of violence fade",
+    "vi": "Hòa bình và đoàn kết nở hoa nơi dấu vết bạo lực đã phai"
+   }
+  },
+  {
+   "code": "sw213",
+   "name": "부 안 뚜안",
+   "roman": "Vu Anh Tuan",
+   "drive": "1m8BZLv47fOqGQmUUDVHqiK_EhW3md7nP",
+   "title": {
+    "ko": "창업자의 문제의식에서 출발한 AI 기반 분리배출 솔루션",
+    "en": "An AI waste-sorting solution born from a founder's problem awareness",
+    "vi": "Giải pháp phân loại rác dựa trên AI xuất phát từ trăn trở của nhà sáng lập"
+   }
+  },
+  {
+   "code": "sw214",
+   "name": "가오수안팟",
+   "roman": "",
+   "drive": "1PXtCOY5ht4lozTqoO1k19K-8WVNVumz1",
+   "title": {
+    "ko": "평범한 백성들의 용기와 신검이 만들어 낸 독립의 이야기",
+    "en": "Independence won by ordinary people's courage and a sacred sword",
+    "vi": "Câu chuyện độc lập từ lòng dũng cảm của dân thường và gươm thần"
+   }
+  },
+  {
+   "code": "sw215",
+   "name": "레 티 하",
+   "roman": "Le Thi Ha",
+   "drive": "1Pz8NZhrJ4ovjeW-2v2Z98YOPaubtD_Te",
+   "title": {
+    "ko": "절망 속에서도 다시 일어난 백성들과 레러이의 독립 서사",
+    "en": "Le Loi and the people rising again from despair: an epic of independence",
+    "vi": "Bản hùng ca độc lập của Lê Lợi và nhân dân vươn lên từ tuyệt vọng"
+   }
+  },
+  {
+   "code": "sw216",
+   "name": "응우옌 밍 아잉",
+   "roman": "",
+   "drive": "1UWCU7zau3TwU6tLyygkEWBK_vssigS95",
+   "title": {
+    "ko": "한국인의 입맛으로 비교해 보는 베트남 젤리 간식",
+    "en": "Vietnamese jelly snacks compared through a Korean palate",
+    "vi": "So sánh các món thạch Việt Nam theo khẩu vị người Hàn"
+   }
+  },
+  {
+   "code": "sw217",
+   "name": "꽈 홍 관",
+   "roman": "Cao Hong Quan",
+   "drive": "1_F9mrfxg0nDv-ud9ilN0690Z33QIBTjS",
+   "title": {
+    "ko": "반미를 통해 만나는 베트남의 일상과 사람들",
+    "en": "Everyday life and people of Vietnam through banh mi",
+    "vi": "Đời sống thường ngày và con người Việt Nam qua ổ bánh mì"
+   }
+  },
+  {
+   "code": "sw218",
+   "name": "응우옌 티 씨엠",
+   "roman": "Nguyen Thi Xiem",
+   "title": {
+    "ko": "베트남과 한국 설날 문화의 공통점과 차이점 (film 1)",
+    "en": "Lunar New Year in Vietnam and Korea: similarities and differences (film 1)",
+    "vi": "Điểm giống và khác nhau của Tết Việt Nam và Seollal Hàn Quốc (phim 1)"
+   }
+  },
+  {
+   "code": "sw219",
+   "name": "응우옌 티 씨엠",
+   "roman": "Nguyen Thi Xiem",
+   "drive": "198JKL2Lmm148XXEyasgZh9SB-HRLfTXC",
+   "title": {
+    "ko": "조상으로부터 이어진 지역 전통문화와 공동체의 유산 (film 2)",
+    "en": "Local traditions and community heritage handed down from ancestors (film 2)",
+    "vi": "Văn hóa truyền thống địa phương và di sản cộng đồng từ tổ tiên (phim 2)"
+   }
+  },
+  {
+   "code": "sw220",
+   "name": "부티로안",
+   "roman": "",
+   "drive": "1erWQfKfKHSgvB-jwS9rBZDF_wi83kNN2",
+   "title": {
+    "ko": "간단한 재료로 빠르게 완성하는 베트남식 피자 만들기",
+    "en": "Quick Vietnamese-style pizza from simple ingredients",
+    "vi": "Làm nhanh 'pizza Việt' từ nguyên liệu đơn giản"
+   }
+  },
+  {
+   "code": "sw221",
+   "name": "쩐 다이 히엡",
+   "roman": "Tran Dai Hiep",
+   "drive": "1B5gHcZdfDLjSIQC48Ud1J9Nb8utChBnc",
+   "title": {
+    "ko": "숯불 향과 신선한 재료가 어우러진 하노이 대표 음식",
+    "en": "A signature Hanoi dish of charcoal smoke and fresh ingredients",
+    "vi": "Món ăn tiêu biểu Hà Nội hòa quyện hương than hồng và nguyên liệu tươi"
+   }
+  },
+  {
+   "code": "sw222",
+   "name": "응우옌 투안안",
+   "roman": "",
+   "drive": "109L81dhDT2eQ7YW3h06JK3SISsKVqBDE",
+   "title": {
+    "ko": "깊은 국물과 신선한 재료로 완성되는 베트남 대표 쌀국수",
+    "en": "Vietnam's signature pho, built on rich broth and fresh ingredients",
+    "vi": "Phở Việt Nam với nước dùng đậm đà và nguyên liệu tươi"
+   }
+  },
+  {
+   "code": "sw223",
+   "name": "판 티 비엔",
+   "roman": "",
+   "drive": "1L78homELkdzmgbtHcUxtr_Lm02LPFyGg",
+   "title": {
+    "ko": "전쟁을 끝낸 신검과 평화를 상징하는 호안끼엠 호수",
+    "en": "Hoan Kiem Lake, symbol of peace and the sacred sword that ended the war",
+    "vi": "Hồ Hoàn Kiếm, biểu tượng hòa bình và thanh gươm thần kết thúc chiến tranh"
+   }
+  },
+  {
+   "code": "sw224",
+   "name": "황 티 뀐 디엠",
+   "roman": "Hoang Thi Quynh Diem",
+   "drive": "1r5ke6oF_L8XEAe_6GWUE8J464jkbFgVl",
+   "title": {
+    "ko": "한국인의 시선으로 처음 경험하는 베트남 국민 간식",
+    "en": "Trying Vietnam's national snacks for the first time through Korean eyes",
+    "vi": "Lần đầu trải nghiệm món ăn vặt quốc dân Việt Nam qua góc nhìn người Hàn"
+   }
+  },
+  {
+   "code": "sw225",
+   "name": "응웬 단 득",
+   "roman": "Nguyen Danh Duc",
+   "drive": "1aYDPiKRrDfQ6Rdg1vEH42Ll4brTgfIG3",
+   "title": {
+    "ko": "재료의 조화로 완성되는 베트남식 길거리 피자",
+    "en": "Vietnamese street pizza made from a harmony of ingredients",
+    "vi": "'Pizza đường phố' Việt Nam từ sự hòa quyện nguyên liệu"
+   }
+  },
+  {
+   "code": "sw226",
+   "name": "잔 티 응옥 아잉",
+   "roman": "Tran Thi Ngoc Anh",
+   "drive": "1to2WBDGU2F23DLAREgV4c7MP6Xu_1o3c",
+   "title": {
+    "ko": "바삭한 전통 음식과 신선한 채소가 어우러진 베트남의 식문화 반세오",
+    "en": "Banh xeo: crispy tradition meets fresh greens in Vietnamese food culture",
+    "vi": "Bánh xèo: món giòn truyền thống hòa cùng rau tươi trong văn hóa ẩm thực Việt"
+   }
+  },
+  {
+   "code": "sw227",
+   "name": "응웬람투쩌우",
+   "roman": "",
+   "drive": "13qsIZVNNwi-DsM-kXfP02YV3PRzZnG5N",
+   "title": {
+    "ko": "팬덤 현장 경험과 데이터 감각을 바탕으로 성장 전략을 설계하는 실전형 미디어 문화 콘텐츠 전략가로서의 포부",
+    "en": "Aspiring to be a media and culture content strategist who builds growth plans from fandom experience and data",
+    "vi": "Hoài bão trở thành chiến lược gia nội dung văn hóa – truyền thông, xây dựng chiến lược tăng trưởng từ trải nghiệm fandom và dữ liệu"
+   }
+  },
+  {
+   "code": "sw228",
+   "name": "럼 티 트",
+   "roman": "Lam Thi Thu",
+   "drive": "12b7oIrz6VdeK_ixiy6gYm1MGx3L5Wc7q",
+   "title": {
+    "ko": "나라를 되찾기 위해 함께 일어선 백성들과 희망의 이야기",
+    "en": "The people who rose together to reclaim their country, and their hope",
+    "vi": "Câu chuyện hy vọng của nhân dân cùng đứng lên giành lại đất nước"
+   }
+  },
+  {
+   "code": "sw229",
+   "name": "황티남프엉",
+   "roman": "",
+   "drive": "1DZe6Z_79dfAzptkalhp_dUeBbV8_FsrX",
+   "title": {
+    "ko": "베트남과 한국의 설날 전통에 담긴 가족과 축복의 의미",
+    "en": "Family and blessings in the New Year traditions of Vietnam and Korea",
+    "vi": "Ý nghĩa gia đình và lời chúc phúc trong truyền thống Tết Việt – Hàn"
+   }
+  },
+  {
+   "code": "sw230",
+   "name": "팜 하이 안",
+   "roman": "Pham Hai Anh",
+   "drive": "1aBDL92Sqk-KQx3Z7_TVFWvPSw7XwaPTe",
+   "title": {
+    "ko": "현대 한국 속에서 살아 있는 전통과 역사, 그리고 지역문화의 가치를 느끼는 안동 탐방 이야기",
+    "en": "A visit to Andong, where tradition, history and local culture live on in modern Korea",
+    "vi": "Chuyến khám phá Andong, nơi truyền thống, lịch sử và văn hóa địa phương còn sống động giữa Hàn Quốc hiện đại"
+   }
+  },
+  {
+   "code": "sw231",
+   "name": "응웬투하",
+   "roman": "",
+   "drive": "1DWcy_7xn9fscoDh3deOkMdvLjrf8hTBX",
+   "title": {
+    "ko": "이중언어 교육을 통해 다문화가정 아동의 자신감과 정체성을 키우는 여정",
+    "en": "Building confidence and identity in multicultural children through bilingual education",
+    "vi": "Hành trình nuôi dưỡng tự tin và bản sắc cho trẻ gia đình đa văn hóa qua giáo dục song ngữ"
+   }
+  },
+  {
+   "code": "sw232",
+   "name": "부 바 끙",
+   "roman": "Vu Ba Cuong",
+   "drive": "1Lyrt38uAJlBV7VgqGgG_u0cosQiBvNVt",
+   "title": {
+    "ko": "나라를 지킨 힘을 욕심내지 않고 돌려주는 감사와 책임의 정신",
+    "en": "Gratitude and responsibility: returning, not keeping, the power that saved the nation",
+    "vi": "Tinh thần biết ơn và trách nhiệm: trả lại sức mạnh đã giữ nước thay vì giữ cho riêng mình"
+   }
+  },
+  {
+   "code": "sw233",
+   "name": "응오 티 마이",
+   "roman": "",
+   "drive": "1D4XLNWq2WPvS9q3Zpi2ikcuEEq3fjvDf",
+   "title": {
+    "ko": "집에서도 만들 수 있는 베트남 전통 춘권과 특제 피시소스",
+    "en": "Vietnamese spring rolls and a special fish sauce you can make at home",
+    "vi": "Chả giò truyền thống và nước mắm pha đặc biệt có thể làm tại nhà"
+   }
+  },
+  {
+   "code": "sw234",
+   "name": "부이부란아잉",
+   "roman": "",
+   "drive": "1xasGWuBHzwHu-29dfYLCpAfdSYqJhiht",
+   "title": {
+    "ko": "베트남 여행 전 알아두어야 할 기본 문화 예절",
+    "en": "Basic etiquette to know before travelling to Vietnam",
+    "vi": "Phép lịch sự văn hóa cơ bản cần biết trước khi du lịch Việt Nam"
+   }
+  }
+ ],
+ "team": [
+  {
+   "code": "tw201",
+   "name": "판 티 비엔, 응우엔티반아잉, 도티투짱",
+   "drive": "1KcC7Xkft9DRPcou04G6EBw5OpRIytVss",
+   "title": {
+    "ko": "베트남 문화를 이해하기 위해 알아야 할 생활 예절과 문화적 금기",
+    "en": "Everyday etiquette and cultural taboos for understanding Vietnam",
+    "vi": "Phép lịch sự và điều kiêng kỵ cần biết để hiểu văn hóa Việt Nam"
+   }
+  },
+  {
+   "code": "tw202",
+   "name": "응우옌 티 응옥 중, 응웬 단 득, 응웬 홍쭝",
+   "drive": "1RLsgwwT9W0q5Fe2n7QCD9mZTYKfbBv4Q",
+   "title": {
+    "ko": "그리운 고향의 맛이 되살리는 추억과 향수",
+    "en": "Memories and nostalgia revived by the taste of home",
+    "vi": "Ký ức và nỗi nhớ được đánh thức bởi hương vị quê nhà"
+   }
+  },
+  {
+   "code": "tw203",
+   "name": "끼에우 짱, 황티남프엉, 응우엔 티 씨엠, 부이 티 탄 프엉",
+   "drive": "1qbbhM4rxbPFci2v5htXEDD_TMfm94PUv",
+   "title": {
+    "ko": "베트남 뗏과 한국 설날이 함께 어우러지는 새해",
+    "en": "A New Year where Vietnam's Tet and Korea's Seollal come together",
+    "vi": "Năm mới nơi Tết Việt Nam và Seollal Hàn Quốc hòa quyện"
+   }
+  },
+  {
+   "code": "tw301",
+   "name": "응웬꾸앙휘, 응우엔티화, 응우엔티옌린, 응웬 응옥 롱",
+   "drive": "1aYRr6sNYOC1iAsWKfK3yLOUzIe-yNXsc",
+   "title": {
+    "ko": "이순신과 쩐흥다오, 바다를 지킨 두 영웅의 전략과 신념",
+    "en": "Yi Sun-sin and Tran Hung Dao: strategy and conviction of two heroes of the sea",
+    "vi": "Yi Sun-sin và Trần Hưng Đạo: chiến lược và niềm tin của hai anh hùng giữ biển"
+   }
+  },
+  {
+   "code": "tw302",
+   "name": "리에우응옥캉, 응우엔 민 삼, 쯔엉티광링, 호 쭝 흐엉",
+   "drive": "1C1egID8-D2T68HK1K7yhAH34e_7B_QRd",
+   "title": {
+    "ko": "혼돈 속에서도 하나의 리듬을 이루는 호치민 거리의 생동감",
+    "en": "The energy of Ho Chi Minh City's streets, finding one rhythm in the chaos",
+    "vi": "Nhịp sống sôi động của phố phường TP.HCM, một nhịp điệu giữa hỗn loạn"
+   }
+  },
+  {
+   "code": "tw401",
+   "name": "부득권, 레티치, 레카크히에우, 띤수안융, 다튀짱, 응우엔뜩만, 도티뚜엣눙, 르쑤안틴, 반바타이, 응우엔티장",
+   "drive": "1iaPiORXbQidZh_atjAaUXWd20LzCsPWu",
+   "title": {
+    "ko": "하노이의 감성과 반미의 매력을 감각적으로 전달하는 미식 브랜드 콘텐츠",
+    "en": "Food-brand content capturing Hanoi's mood and the charm of banh mi",
+    "vi": "Nội dung thương hiệu ẩm thực truyền tải cảm xúc Hà Nội và sức hút bánh mì"
+   }
+  },
+  {
+   "code": "tw402",
+   "name": "트란반호앙, 레남방, 트란당응우엣민, 응우엔티화, 레반로이, 응우엔비엣충, 쯔엉아잉꾸옥, 레뒤풍, 도안공투에, 부이티자우",
+   "drive": "1d0zPoE6ER3lyFSUUvG_R_oGsghwlw5zk",
+   "title": {
+    "ko": "반미 한 입이 만들어내는 즐거움과 행복한 미식 경험",
+    "en": "The joy and happiness of a single bite of banh mi",
+    "vi": "Niềm vui và trải nghiệm ẩm thực hạnh phúc từ một miếng bánh mì"
+   }
+  },
+  {
+   "code": "tw403",
+   "name": "띤티화이, 쯔엉수안투, 쩐투하, 버휴득, 당쑤안또안, 응우엔티트엉, 팜반히에우, 다오빈뒤, 판비엣지앞, 레티투호아이",
+   "drive": "189RuorFZhmUItksMVeBMpzyWXmlVdKwh",
+   "title": {
+    "ko": "전통차를 사이버펑크 감성과 현대적 리듬으로 재해석한 감각적 브랜드 콘텐츠",
+    "en": "Brand content that reimagines traditional tea with a cyberpunk mood and modern rhythm",
+    "vi": "Nội dung thương hiệu tái hiện trà truyền thống bằng phong cách cyberpunk và nhịp điệu hiện đại"
+   }
+  },
+  {
+   "code": "tw404",
+   "name": "판티프엉, 부티지에우링, 팜티홍눙, 부티흐엉란, 팜쑤안동, 응우엔티응옥후옌, 응오티튀짱, 까오티엔혹, 응우엔민리, 찬반디엔",
+   "drive": "1B3PNBp4pJRTlJSCR2BUzNnemN4UQ9ArP",
+   "title": {
+    "ko": "야경, 자연, 건축, 바다가 어우러진 다낭의 대표 여행지",
+    "en": "Da Nang's top sights, where night views, nature, architecture and sea meet",
+    "vi": "Điểm đến tiêu biểu của Đà Nẵng hòa quyện cảnh đêm, thiên nhiên, kiến trúc và biển"
+   }
+  },
+  {
+   "code": "tw405",
+   "name": "쯔엉티짱, 응우엔민타이, 띤반황, 레응옥바우, 황티김치",
+   "drive": "1epCZDGLSxJ6Cl7JWuGMwjSU_Ipmnw1h9",
+   "title": {
+    "ko": "자연의 고요함 속에서 마음을 비우고 회복하는 시간",
+    "en": "Time to clear the mind and recover in the calm of nature",
+    "vi": "Khoảng lặng giữa thiên nhiên để buông bỏ và hồi phục"
+   }
+  },
+  {
+   "code": "tw406",
+   "name": "투타지압, 뜨엉프엉끄엉, 레티단튀, 띤반응옥바오, 짠반타오",
+   "drive": "14Xf9TTJG1Z3nQwO9Rygdb5fQAqw2X6z1",
+   "title": {
+    "ko": "소리로 직장인의 번아웃을 예방하는 기업 맞춤형 멘탈 케어 솔루션",
+    "en": "A corporate mental-care solution that uses sound to prevent burnout",
+    "vi": "Giải pháp chăm sóc tinh thần cho doanh nghiệp dùng âm thanh để phòng ngừa kiệt sức"
+   }
+  },
+  {
+   "code": "tw407",
+   "name": "응우엔꽁린, 딩티미진, 레반뚜안, 응오반뚜안, 응우엔티투이반, 비반뭉, 트란티레나, 트란티흐엉센, 레티홍주엔, 응웬황롱",
+   "drive": "1o2jGBlKHLfNV5Fyd6sG9J9VChlJWYRwX",
+   "title": {
+    "ko": "언어와 문화를 함께 이해해야 가능한 진정한 비즈니스 소통",
+    "en": "True business communication requires understanding both language and culture",
+    "vi": "Giao tiếp kinh doanh thực sự cần hiểu cả ngôn ngữ lẫn văn hóa"
+   }
+  },
+  {
+   "code": "tw408",
+   "name": "팜반동, 레당한, 땅부히엡, 응우엔티투짱, 추티푸옹안, 트란쿠옥티에프, 도안반투안, 응우옌반남, 응우옌쑤안하이, 응우옌반투안",
+   "drive": "1VSg8wONuXl2yHmas2gfzjR5-i-gFR0Uq",
+   "title": {
+    "ko": "방짜유기의 냉각 특성과 프리미엄 이미지를 활용한 제품 마케팅",
+    "en": "Product marketing built on the cooling properties and premium image of bangjja brassware",
+    "vi": "Tiếp thị sản phẩm dựa trên đặc tính giữ lạnh và hình ảnh cao cấp của đồ đồng bangjja"
+   }
+  },
+  {
+   "code": "tw409",
+   "name": "트란쿠옥후이, 루티투이린, 응우옌비엣비엣, 마이반또안, 응우엔티응옥안, 똥짠둥, 부티항, 응우엔탄루안, 레티한, 응오티호에",
+   "drive": "1spXFigz4Myt3co_JTp6O2IdQYkgAQBrR",
+   "title": {
+    "ko": "데이터 분석과 전략 설계를 통한 정부 R&D 과제 기획",
+    "en": "Planning a government R&D project through data analysis and strategy design",
+    "vi": "Lập kế hoạch đề tài R&D của chính phủ qua phân tích dữ liệu và thiết kế chiến lược"
+   }
+  },
+  {
+   "code": "tw410",
+   "name": "응옌반푸, 응웬티린짱, 버띤훙, 짠두안안, 팜티튜항, 응우엔득히에우, 부반뚜엔, 하티안투엣",
+   "drive": "1DKQrlbrFIFfLlF5XymzxxruNrG_XyLVj",
+   "title": {
+    "ko": "메콩강 농부들을 돕기 위한 청년의 도전과 기술 창업 이야기",
+    "en": "A young founder's tech startup to help Mekong Delta farmers",
+    "vi": "Câu chuyện khởi nghiệp công nghệ của người trẻ giúp nông dân đồng bằng sông Cửu Long"
+   }
+  }
+ ],
+ "faculty": [
+  {
+   "code": "pw001",
+   "name": {
+    "ko": "서승호 교수",
+    "en": "Prof. Seo Seungho",
+    "vi": "GS. Seo Seungho"
+   },
+   "drive": "1__AWilIg_0onO4GpdgqG5xrlyHmZeVk3",
+   "title": {
+    "ko": "베트남 민족의 기원을 담은 용과 선녀의 전설",
+    "en": "The legend of the dragon and the fairy: the origin of the Vietnamese people",
+    "vi": "Truyền thuyết Con Rồng Cháu Tiên về nguồn gốc dân tộc Việt Nam"
+   }
+  },
+  {
+   "code": "pw002",
+   "name": {
+    "ko": "박양수 교수",
+    "en": "Prof. Park Yang-soo",
+    "vi": "GS. Park Yang-soo"
+   },
+   "drive": "1dc2OD9uwnNTdDMKtrR7e3VYrmgXdZeyt",
+   "title": {
+    "ko": "각자의 지식과 문제의식이 AI와 결합될 때 더 정교한 결과로 발전하는 과정",
+    "en": "How each person's knowledge and questions, combined with AI, grow into sharper results",
+    "vi": "Khi tri thức và trăn trở của mỗi người kết hợp với AI, kết quả trở nên tinh tế hơn"
+   }
+  }
+ ]
+}

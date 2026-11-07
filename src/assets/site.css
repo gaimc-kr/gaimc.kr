@@ -534,3 +534,53 @@ html.lb-open { overflow: hidden; }
 
 /* 자료실 홍보 영상 */
 .resource-video { display: block; width: 100%; aspect-ratio: 16 / 9; background: var(--dark-blue); border-radius: var(--radius) var(--radius) 0 0; }
+
+/* 축제 갤러리(작품 영상) */
+.fest-nav { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 8px; }
+.fest-nav a { display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; text-decoration: none; font-weight: 600; font-size: .95rem; background: var(--bg-tint); }
+.fest-nav a:hover { background: var(--bg-sky); }
+.fest-count { font-size: .8em; font-weight: 600; color: var(--muted); }
+.fest-grid { list-style: none; padding: 0; margin: 0 0 12px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.fest-grid--wide { grid-template-columns: repeat(2, 1fr); }
+.fest-card { display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 12px; overflow: hidden; background: #fff; box-shadow: var(--shadow); }
+.fest-card--award { border-color: var(--sky); }
+.fest-play { display: block; padding: 0; border: 0; background: none; cursor: pointer; width: 100%; }
+.fest-play--still { cursor: default; }
+.fest-play:focus-visible { outline: 3px solid var(--blue); outline-offset: -3px; }
+.fest-thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: var(--dark-blue); }
+.fest-thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform .25s ease, opacity .25s ease; }
+.fest-play:hover .fest-thumb img { transform: scale(1.04); opacity: .9; }
+.fest-code { position: absolute; left: 8px; top: 8px; padding: 2px 8px; border-radius: 6px; font-size: .75rem; font-weight: 700; color: #fff; background: rgba(0, 32, 91, .78); }
+.fest-award { position: absolute; right: 8px; top: 8px; padding: 2px 9px; border-radius: 6px; font-size: .78rem; font-weight: 700; color: var(--dark-blue); background: #fff; box-shadow: 0 2px 8px rgba(0, 32, 91, .25); }
+.fest-icon { position: absolute; left: 50%; top: 50%; width: 52px; height: 52px; margin: -26px 0 0 -26px; border-radius: 50%; background: rgba(0, 71, 187, .88); box-shadow: 0 4px 14px rgba(0, 32, 91, .35); transition: transform .2s ease; }
+.fest-icon::after { content: ""; position: absolute; left: 21px; top: 16px; border-style: solid; border-width: 10px 0 10px 16px; border-color: transparent transparent transparent #fff; }
+.fest-play:hover .fest-icon { transform: scale(1.1); }
+.fest-body { padding: 12px 14px 14px; }
+.fest-name { margin: 0 0 4px; font-weight: 700; color: var(--dark-blue); font-size: .95rem; line-height: 1.4; }
+.fest-name span { display: block; font-weight: 600; font-size: .8rem; color: var(--muted); letter-spacing: .02em; }
+.fest-title { margin: 0; font-size: .9rem; line-height: 1.5; color: #3a3d3f; }
+.fest-members { margin: 8px 0 0; font-size: .8rem; line-height: 1.5; color: var(--muted); }
+.fest-members span { font-weight: 700; color: var(--dark-blue); }
+.fest-modal { position: fixed; inset: 0; z-index: 2000; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 56px 64px 48px; background: var(--dark-blue); }
+.fest-modal[hidden] { display: none; }
+.fest-frame { width: min(100%, calc((100vh - 200px) * 16 / 9)); aspect-ratio: 16 / 9; background: #0a2a6b; border-radius: 10px; overflow: hidden; }
+.fest-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
+.fest-meta { width: min(100%, calc((100vh - 200px) * 16 / 9)); margin-top: 12px; color: #fff; display: flex; justify-content: space-between; gap: 16px; align-items: baseline; }
+.fest-meta p { margin: 0; font-size: .95rem; line-height: 1.5; }
+.fest-meta a { color: #cfe3ff; font-size: .85rem; white-space: nowrap; }
+.fest-modal button { position: absolute; border: 0; background: rgba(255, 255, 255, .14); color: #fff; cursor: pointer; border-radius: 999px; font-size: 2rem; line-height: 1; width: 48px; height: 48px; display: grid; place-items: center; }
+.fest-modal button:hover, .fest-modal button:focus-visible { background: rgba(255, 255, 255, .3); outline: 2px solid #fff; outline-offset: 2px; }
+.fest-modal .fm-close { top: 10px; right: 12px; }
+.fest-modal .fm-prev { left: 10px; top: 50%; margin-top: -24px; }
+.fest-modal .fm-next { right: 10px; top: 50%; margin-top: -24px; }
+html.fm-open { overflow: hidden; }
+@media (max-width: 1080px) { .fest-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 760px) {
+  .fest-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .fest-grid--wide { grid-template-columns: 1fr; }
+  .fest-body { padding: 10px 10px 12px; }
+  .fest-modal { padding: 60px 8px 64px; }
+  .fest-meta { flex-direction: column; gap: 6px; }
+  .fest-modal .fm-prev, .fest-modal .fm-next { top: auto; bottom: 8px; margin-top: 0; }
+}
+@media (max-width: 420px) { .fest-grid { grid-template-columns: 1fr; } }
