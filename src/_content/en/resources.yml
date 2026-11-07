@@ -1,5 +1,33 @@
-intro: All files are PDFs and may be shared freely for promoting and introducing the department.
+intro: "Brochures are PDFs and promotional videos are MP4s; all may be shared freely for promoting and introducing the department."
 groups:
+  - title: Department promotional video
+    type: video
+    text: "The department's official promotional video, introducing Global AI Management Consulting in about one minute. Available in Korean, English and Vietnamese, it covers the department and its faculty, industry field learning, cooperation with Hanoi University of Industry in Vietnam, student academic seminars and our growing student community. Every scene is a photo from the department's own activities. Watch it here or download it to share at admission sessions, events and on social media."
+    items:
+      - lang_label: 한국어 (Korean)
+        lang: ko
+        cover: /images/resources/promo-ko.jpg
+        video: /files/videos/gaimc-promo-ko.mp4
+        files:
+          - label: Download MP4
+            file: /files/videos/gaimc-promo-ko.mp4
+            info: MP4 · 70 sec · 22.8 MB
+      - lang_label: English
+        lang: en
+        cover: /images/resources/promo-en.jpg
+        video: /files/videos/gaimc-promo-en.mp4
+        files:
+          - label: Download MP4
+            file: /files/videos/gaimc-promo-en.mp4
+            info: MP4 · 65 sec · 21.0 MB
+      - lang_label: Tiếng Việt (Vietnamese)
+        lang: vi
+        cover: /images/resources/promo-vi.jpg
+        video: /files/videos/gaimc-promo-vi.mp4
+        files:
+          - label: Download MP4
+            file: /files/videos/gaimc-promo-vi.mp4
+            info: MP4 · 60 sec · 20.2 MB
   - title: Department brochure
     text: A four-page brochure covering the department, curriculum, Global IPP, faculty and partners. Choose the A4 four-page version for reading on screen or sending by email, and the A3 double-sided version for printing (print both sides on A3 paper and fold in half).
     items:

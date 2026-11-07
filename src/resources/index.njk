@@ -15,10 +15,16 @@ permalink: "{{ langs.prefix[lang] }}/resources/"
     <h2 class="group-title">{{ g.title }}</h2>
     {% if g.text %}<p class="resource-text">{{ g.text }}</p>{% endif %}
     <ul class="resource-grid">
-      {%- set ordered = (g.items | selectattr("lang", "equalto", lang) | list).concat(g.items | rejectattr("lang", "equalto", lang) | list) %}
-      {%- for it in ordered %}
-      <li class="resource-card">
+      {#- 보고 있는 언어의 자료를 맨 앞에 둠 #}
+      {%- set first = [] %}{% set rest = [] %}
+      {%- for it in g.items %}{% if it.lang == lang %}{% set first = (first.push(it), first) %}{% else %}{% set rest = (rest.push(it), rest) %}{% endif %}{% endfor %}
+      {%- for it in first.concat(rest) %}
+      <li class="resource-card{% if it.video %} resource-card--video{% endif %}">
+        {%- if it.video %}
+        <video class="resource-video" controls preload="none" playsinline poster="{{ it.cover }}" aria-label="{{ g.title }} {{ it.lang_label }}"><source src="{{ it.video }}" type="video/mp4"></video>
+        {%- else %}
         <a class="resource-cover" href="{{ it.files[0].file }}" target="_blank" rel="noopener"><img src="{{ it.cover }}" alt="{{ g.title }} {{ it.lang_label }} {{ T.resources.cover }}" width="560" height="792" loading="lazy"><span class="sr-only">{{ T.newWin }}</span></a>
+        {%- endif %}
         <div class="resource-body">
           <h3 class="h3" lang="{{ it.lang }}">{{ it.lang_label }}</h3>
           <ul class="resource-files">

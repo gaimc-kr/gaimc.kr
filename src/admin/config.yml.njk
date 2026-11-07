@@ -606,6 +606,7 @@ collections:
             summary: "{{ '{{title}}' }}"
             fields:
               - { label: 제목, name: title, widget: string }
+              - { label: 종류(영상이면 video), name: type, widget: string, required: false }
               - { label: 설명, name: text, widget: text, required: false }
               - label: 언어별 자료
                 name: items
@@ -614,7 +615,8 @@ collections:
                 fields:
                   - { label: 언어 표시, name: lang_label, widget: string }
                   - { label: 언어 코드(ko·en·vi), name: lang, widget: string }
-                  - { label: 표지 이미지, name: cover, widget: image, required: false }
+                  - { label: 표지 이미지(영상은 미리보기 이미지), name: cover, widget: image, required: false }
+                  - { label: 영상 파일(MP4, 영상 묶음만), name: video, widget: file, required: false, media_folder: "/{{ R }}src/files/videos", public_folder: /files/videos }
                   - label: 파일
                     name: files
                     widget: list

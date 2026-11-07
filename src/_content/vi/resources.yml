@@ -1,5 +1,33 @@
-intro: Tất cả tài liệu là tệp PDF và có thể chia sẻ tự do cho mục đích giới thiệu, quảng bá khoa.
+intro: "Brochure ở định dạng PDF, video giới thiệu ở định dạng MP4; có thể chia sẻ tự do nhằm quảng bá và giới thiệu khoa."
 groups:
+  - title: Video giới thiệu khoa
+    type: video
+    text: "Video giới thiệu chính thức của khoa, giới thiệu Khoa Tư vấn Quản trị AI Toàn cầu trong khoảng một phút. Video có ba phiên bản tiếng Hàn, tiếng Anh và tiếng Việt, giới thiệu khoa và đội ngũ giảng viên, hoạt động thực tế tại doanh nghiệp, hợp tác với Đại học Công nghiệp Hà Nội, hội thảo học thuật của sinh viên và cộng đồng sinh viên cùng phát triển. Mọi cảnh quay đều là hình ảnh từ hoạt động thực tế của khoa. Hãy xem trực tiếp hoặc tải về để sử dụng tại buổi tư vấn tuyển sinh, sự kiện và mạng xã hội."
+    items:
+      - lang_label: Tiếng Hàn
+        lang: ko
+        cover: /images/resources/promo-ko.jpg
+        video: /files/videos/gaimc-promo-ko.mp4
+        files:
+          - label: Tải MP4
+            file: /files/videos/gaimc-promo-ko.mp4
+            info: MP4 · 70 giây · 22.8 MB
+      - lang_label: Tiếng Anh
+        lang: en
+        cover: /images/resources/promo-en.jpg
+        video: /files/videos/gaimc-promo-en.mp4
+        files:
+          - label: Tải MP4
+            file: /files/videos/gaimc-promo-en.mp4
+            info: MP4 · 65 giây · 21.0 MB
+      - lang_label: Tiếng Việt
+        lang: vi
+        cover: /images/resources/promo-vi.jpg
+        video: /files/videos/gaimc-promo-vi.mp4
+        files:
+          - label: Tải MP4
+            file: /files/videos/gaimc-promo-vi.mp4
+            info: MP4 · 60 giây · 20.2 MB
   - title: Tờ giới thiệu khoa
     text: Tờ giới thiệu 4 trang về khoa, chương trình đào tạo, Global IPP, đội ngũ giảng viên và các cơ sở hợp tác. Chọn bản A4 4 trang để xem trên màn hình hoặc gửi qua email, và bản in hai mặt A3 để in (in hai mặt trên giấy A3 rồi gấp đôi).
     items:
