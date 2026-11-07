@@ -6,7 +6,7 @@ place: 호텔 정관루 세미나실, 남이섬(강원 춘천)
 participants: 영어트랙과정 1·2학기 학생(방글라데시·베트남), 인솔 교수진 5명
 summary: 학생들이 2026 산업 AI EXPO 현장학습에서 얻은 통찰을 발표하고, 학생이 만든 영문 학과 홍보 영상을 함께 소개했다.
 status: done
-cover: /images/events/20261106_nami_17.jpg
+cover: /images/events/20261106_nami_19.jpg
 cover_alt: 남이섬 정관루 세미나실에서 「2026 추계 학술세미나」 현수막을 들고 함께한 교수진과 대학원생 단체사진
 gallery:
 - image: /images/events/20261106_nami_00.jpg
@@ -50,74 +50,98 @@ gallery:
   caption: 세미나실을 가득 채운 참석자들
   group: 학술세미나
 - image: /images/events/20261106_nami_10.jpg
+  alt: 학생들과 함께 발표를 듣는 박양수 교수와 권연재 교수
+  caption: 학생들과 함께 발표를 듣는 박양수 교수와 권연재 교수
+  group: 학술세미나
+- image: /images/events/20261106_nami_11.jpg
   alt: 세미나를 마무리하는 Akram SM 학생(왼쪽)과 정진택 원장(오른쪽)
   caption: 세미나를 마무리하는 Akram SM 학생(왼쪽)과 정진택 원장(오른쪽)
   group: 학술세미나
-- image: /images/events/20261106_nami_11.jpg
+- image: /images/events/20261106_nami_12.jpg
   alt: 학생들이 교수진에게 기념품을 전달하는 모습
   caption: 학생들이 교수진에게 기념품을 전달하는 모습
   group: 학술세미나
-- image: /images/events/20261106_nami_12.jpg
+- image: /images/events/20261106_nami_13.jpg
+  alt: 정진택 원장에게 기념품을 전달하는 학생
+  caption: 정진택 원장에게 기념품을 전달하는 학생
+  group: 학술세미나
+- image: /images/events/20261106_nami_14.jpg
   alt: '「Industrial AI in Action」 표지: 2026 산업 AI EXPO 개요와 핵심 인사이트'
   caption: '「Industrial AI in Action」 표지: 2026 산업 AI EXPO 개요와 핵심 인사이트'
   group: 발표 자료 · Akram SM
-- image: /images/events/20261106_nami_13.jpg
+- image: /images/events/20261106_nami_15.jpg
   alt: Physical AI 섹션에서 배운 점
   caption: Physical AI 섹션에서 배운 점
   group: 발표 자료 · Akram SM
-- image: /images/events/20261106_nami_14.jpg
+- image: /images/events/20261106_nami_16.jpg
   alt: AI 물류 분야 정리
   caption: AI 물류 분야 정리
   group: 발표 자료 · Akram SM
-- image: /images/events/20261106_nami_15.jpg
+- image: /images/events/20261106_nami_17.jpg
   alt: 기업 네트워킹과 향후 협력 기회
   caption: 기업 네트워킹과 향후 협력 기회
   group: 발표 자료 · Akram SM
-- image: /images/events/20261106_nami_16.jpg
+- image: /images/events/20261106_nami_18.jpg
   alt: 엑스포 경험과 향후 계획
   caption: 엑스포 경험과 향후 계획
   group: 발표 자료 · Akram SM
-- image: /images/events/20261106_nami_17.jpg
+- image: /images/events/20261106_nami_19.jpg
   alt: 세미나실에서 「2026 추계 학술세미나」 현수막을 들고 함께한 인솔 교수진과 학생들
   caption: 세미나실에서 「2026 추계 학술세미나」 현수막을 들고 함께한 인솔 교수진과 학생들
   group: 기념사진
-- image: /images/events/20261106_nami_18.jpg
+- image: /images/events/20261106_nami_20.jpg
   alt: 현수막 뒤 가운데에 앉은 인솔 교수진(정진택 원장, 박양수·권연재·김내영 교수, 한필연 특강연사)과 학생들
   caption: 현수막 뒤 가운데에 앉은 인솔 교수진(정진택 원장, 박양수·권연재·김내영 교수, 한필연 특강연사)과 학생들
   group: 기념사진
-- image: /images/events/20261106_nami_19.jpg
+- image: /images/events/20261106_nami_21.jpg
+  alt: 기념품을 받은 교수진과 학생들
+  caption: 기념품을 받은 교수진과 학생들
+  group: 기념사진
+- image: /images/events/20261106_nami_22.jpg
+  alt: 세미나를 마치고 교수진과 함께한 학생들
+  caption: 세미나를 마치고 교수진과 함께한 학생들
+  group: 기념사진
+- image: /images/events/20261106_nami_23.jpg
   alt: 남이섬에서 현수막을 들고 찍은 단체사진
   caption: 남이섬에서 현수막을 들고 찍은 단체사진
   group: 기념사진
-- image: /images/events/20261106_nami_20.jpg
+- image: /images/events/20261106_nami_24.jpg
   alt: 남이섬 단체사진
   caption: 남이섬 단체사진
   group: 기념사진
-- image: /images/events/20261106_nami_21.jpg
+- image: /images/events/20261106_nami_25.jpg
   alt: 남이섬으로 향하는 버스 안
   caption: 남이섬으로 향하는 버스 안
   group: 남이섬 현장학습
-- image: /images/events/20261106_nami_22.jpg
+- image: /images/events/20261106_nami_26.jpg
   alt: 버스에서 함께한 교수진과 학생들
   caption: 버스에서 함께한 교수진과 학생들
   group: 남이섬 현장학습
-- image: /images/events/20261106_nami_23.jpg
+- image: /images/events/20261106_nami_27.jpg
   alt: 이동 중 함께한 학생들과 교수
   caption: 이동 중 함께한 학생들과 교수
   group: 남이섬 현장학습
-- image: /images/events/20261106_nami_24.jpg
+- image: /images/events/20261106_nami_28.jpg
   alt: 남이섬으로 가는 배 위에서
   caption: 남이섬으로 가는 배 위에서
   group: 남이섬 현장학습
-- image: /images/events/20261106_nami_25.jpg
+- image: /images/events/20261106_nami_29.jpg
   alt: 배에서 바라본 북한강과 남이섬
   caption: 배에서 바라본 북한강과 남이섬
   group: 남이섬 현장학습
-- image: /images/events/20261106_nami_26.jpg
+- image: /images/events/20261106_nami_30.jpg
   alt: 국기 거리에서 함께한 학생들
   caption: 국기 거리에서 함께한 학생들
   group: 남이섬 현장학습
-- image: /images/events/20261106_nami_27.jpg
+- image: /images/events/20261106_nami_31.jpg
+  alt: 남이섬 숲길에서 함께한 교수진
+  caption: 남이섬 숲길에서 함께한 교수진
+  group: 남이섬 현장학습
+- image: /images/events/20261106_nami_32.jpg
+  alt: 권연재 교수, 정진택 원장, 한필연 특강연사
+  caption: 권연재 교수, 정진택 원장, 한필연 특강연사
+  group: 남이섬 현장학습
+- image: /images/events/20261106_nami_33.jpg
   alt: 늦가을 남이섬 숲길
   caption: 늦가을 남이섬 숲길
   group: 남이섬 현장학습
@@ -125,6 +149,9 @@ videos:
 - src: /files/videos/20261106_nami_promo_en.mp4
   poster: /images/events/20261106_nami_promo.jpg
   caption: Akram SM 학생이 제작한 학과 홍보 영상(영문, 2분 48초)
+- src: /files/videos/20261106_nami_shawon.mp4
+  poster: /images/events/20261106_nami_shawon.jpg
+  caption: Mouedul Haque Shawon 학생의 발표 「Bridging Visions」(4분)
 program:
 - time: 발표 1
   text: 'Mouedul Haque Shawon 외, 「Bridging Visions: Our Journey Through AI Expo Korea 2026」'
@@ -141,7 +168,7 @@ topics: []
 speakers: []
 faculty: []
 partners: []
-memo: '2026. 11. 7. 학과장 지시로 게시(학술세미나 중심). 자료는 드라이브 「2026년 추계 학술세미나(남이섬)」 폴더(현수막 PDF·PPTX, Akram 폴더의 발표 PPT·영상, 권연재·김내영·박양수·한필연 폴더 사진 64장 — 박양수 폴더는 DNG 원본). 행사명·일시·장소는 현수막 기준. 발표자 2명(학과장 전달): 발표 제목과 이름은 발표 화면 표기(Mouedul Haque Shawon & Team, Akram SM). Akram 발표 PPT(이미지 16장)는 PDF로 첨부. 학생 제작 영문 홍보 영상(2분 48초, HEVC 1080p)은 웹 재생용 H.264 720p로 변환 — 영상 제작자 Akram SM, 인솔 교수진 5명(정진택 원장, 박양수·권연재·김내영 교수, 한필연 특강연사), 참가 학생(영어트랙 1·2학기, 방글라데시·베트남), 마무리 사진 인물(Akram SM·정진택 원장)과 기념품 전달(학생→교수진)은 2026. 11. 7. 학과장 전달. 세미나실 단체사진은 학과장 요청으로 교수진이 모두 보이는 컷(IMG_9156, DNG 원본)으로 교체하고 교수진 확대 컷 추가, 버스 사진은 IMG_9126으로 교체. 사진 23장에 워터마크, 발표 슬라이드 5장은 원본 그대로'
+memo: '2026. 11. 7. 학과장 지시로 게시(학술세미나 중심). 자료는 드라이브 「2026년 추계 학술세미나(남이섬)」 폴더(현수막 PDF·PPTX, Akram 폴더의 발표 PPT·영상, 권연재·김내영·박양수·한필연 폴더 사진 64장 — 박양수 폴더는 DNG 원본). 행사명·일시·장소는 현수막 기준. 발표자 2명(학과장 전달): 발표 제목과 이름은 발표 화면 표기(Mouedul Haque Shawon & Team, Akram SM). Akram 발표 PPT(이미지 16장)는 PDF로 첨부. 학생 제작 영문 홍보 영상(2분 48초, HEVC 1080p)은 웹 재생용 H.264 720p로 변환 — 영상 제작자 Akram SM, 인솔 교수진 5명(정진택 원장, 박양수·권연재·김내영 교수, 한필연 특강연사), 참가 학생(영어트랙 1·2학기, 방글라데시·베트남), 마무리 사진 인물(Akram SM·정진택 원장)과 기념품 전달(학생→교수진)은 2026. 11. 7. 학과장 전달. 세미나실 단체사진은 학과장 요청으로 교수진이 모두 보이는 컷(IMG_9156, DNG 원본)으로 교체하고 교수진 확대 컷 추가, 버스 사진은 IMG_9126으로 교체. 같은 날 권연재 폴더 추가분(사진 15장·발표 영상 1개)에서 사진 6장(박양수·권연재 교수 착석, 기념품 전달, 단체사진 2장, 교수진 셀카 2장)과 Shawon 발표 영상(4분, 720p 변환) 추가. 사진 23장에 워터마크, 발표 슬라이드 5장은 원본 그대로'
 en:
   title: 2026 Autumn Academic Seminar on Nami Island
   place: Hotel Jeonggwanru seminar hall, Nami Island (Chuncheon, Gangwon)
@@ -190,74 +217,98 @@ en:
     caption: A full seminar hall
     group: The seminar
   - image: /images/events/20261106_nami_10.jpg
+    alt: Professors Park Yang Soo and Kwon Yeonjae listening with students
+    caption: Professors Park Yang Soo and Kwon Yeonjae listening with students
+    group: The seminar
+  - image: /images/events/20261106_nami_11.jpg
     alt: Akram SM (left) and Dean Jung Jin-taek (right) closing the seminar
     caption: Akram SM (left) and Dean Jung Jin-taek (right) closing the seminar
     group: The seminar
-  - image: /images/events/20261106_nami_11.jpg
-    alt: Students presenting a gift to the faculty
-    caption: Students presenting a gift to the faculty
-    group: The seminar
   - image: /images/events/20261106_nami_12.jpg
+    alt: Students presenting gifts to the faculty
+    caption: Students presenting gifts to the faculty
+    group: The seminar
+  - image: /images/events/20261106_nami_13.jpg
+    alt: A student presenting a gift to Dean Jung Jin-taek
+    caption: A student presenting a gift to Dean Jung Jin-taek
+    group: The seminar
+  - image: /images/events/20261106_nami_14.jpg
     alt: '“Industrial AI in Action”: Expo overview and key insights'
     caption: '“Industrial AI in Action”: Expo overview and key insights'
     group: Slides · Akram SM
-  - image: /images/events/20261106_nami_13.jpg
+  - image: /images/events/20261106_nami_15.jpg
     alt: What we learned in the Physical AI section
     caption: What we learned in the Physical AI section
     group: Slides · Akram SM
-  - image: /images/events/20261106_nami_14.jpg
+  - image: /images/events/20261106_nami_16.jpg
     alt: AI logistics
     caption: AI logistics
     group: Slides · Akram SM
-  - image: /images/events/20261106_nami_15.jpg
+  - image: /images/events/20261106_nami_17.jpg
     alt: Corporate networking and future collaboration
     caption: Corporate networking and future collaboration
     group: Slides · Akram SM
-  - image: /images/events/20261106_nami_16.jpg
+  - image: /images/events/20261106_nami_18.jpg
     alt: Our Expo journey and future plan
     caption: Our Expo journey and future plan
     group: Slides · Akram SM
-  - image: /images/events/20261106_nami_17.jpg
+  - image: /images/events/20261106_nami_19.jpg
     alt: Faculty and students with the seminar banner in the hall
     caption: Faculty and students with the seminar banner in the hall
     group: Group photos
-  - image: /images/events/20261106_nami_18.jpg
+  - image: /images/events/20261106_nami_20.jpg
     alt: Faculty leaders seated behind the banner (Dean Jung Jin-taek, Professors Park Yang Soo, Kwon Yeonjae and Kim Nae Young, and guest speaker Han Pil-Yeoun) with students
     caption: Faculty leaders seated behind the banner (Dean Jung Jin-taek, Professors Park Yang Soo, Kwon Yeonjae and Kim Nae Young, and guest speaker Han Pil-Yeoun) with students
     group: Group photos
-  - image: /images/events/20261106_nami_19.jpg
+  - image: /images/events/20261106_nami_21.jpg
+    alt: Faculty and students after the gift presentation
+    caption: Faculty and students after the gift presentation
+    group: Group photos
+  - image: /images/events/20261106_nami_22.jpg
+    alt: Students with the faculty after the seminar
+    caption: Students with the faculty after the seminar
+    group: Group photos
+  - image: /images/events/20261106_nami_23.jpg
     alt: Group photo with the banner on Nami Island
     caption: Group photo with the banner on Nami Island
     group: Group photos
-  - image: /images/events/20261106_nami_20.jpg
+  - image: /images/events/20261106_nami_24.jpg
     alt: Group photo on Nami Island
     caption: Group photo on Nami Island
     group: Group photos
-  - image: /images/events/20261106_nami_21.jpg
+  - image: /images/events/20261106_nami_25.jpg
     alt: On the bus to Nami Island
     caption: On the bus to Nami Island
     group: Field trip on Nami Island
-  - image: /images/events/20261106_nami_22.jpg
+  - image: /images/events/20261106_nami_26.jpg
     alt: Faculty and students on the bus
     caption: Faculty and students on the bus
     group: Field trip on Nami Island
-  - image: /images/events/20261106_nami_23.jpg
+  - image: /images/events/20261106_nami_27.jpg
     alt: Students and a professor on the way
     caption: Students and a professor on the way
     group: Field trip on Nami Island
-  - image: /images/events/20261106_nami_24.jpg
+  - image: /images/events/20261106_nami_28.jpg
     alt: On the ferry to Nami Island
     caption: On the ferry to Nami Island
     group: Field trip on Nami Island
-  - image: /images/events/20261106_nami_25.jpg
+  - image: /images/events/20261106_nami_29.jpg
     alt: The Bukhan River and Nami Island from the ferry
     caption: The Bukhan River and Nami Island from the ferry
     group: Field trip on Nami Island
-  - image: /images/events/20261106_nami_26.jpg
+  - image: /images/events/20261106_nami_30.jpg
     alt: Students on the flag-lined street
     caption: Students on the flag-lined street
     group: Field trip on Nami Island
-  - image: /images/events/20261106_nami_27.jpg
+  - image: /images/events/20261106_nami_31.jpg
+    alt: Faculty on a forest path on Nami Island
+    caption: Faculty on a forest path on Nami Island
+    group: Field trip on Nami Island
+  - image: /images/events/20261106_nami_32.jpg
+    alt: Professor Kwon Yeonjae, Dean Jung Jin-taek and guest speaker Han Pil-Yeoun
+    caption: Professor Kwon Yeonjae, Dean Jung Jin-taek and guest speaker Han Pil-Yeoun
+    group: Field trip on Nami Island
+  - image: /images/events/20261106_nami_33.jpg
     alt: A late-autumn forest path on Nami Island
     caption: A late-autumn forest path on Nami Island
     group: Field trip on Nami Island
@@ -265,6 +316,9 @@ en:
   - src: /files/videos/20261106_nami_promo_en.mp4
     poster: /images/events/20261106_nami_promo.jpg
     caption: Department promotional video made by Akram SM (English, 2:48)
+  - src: /files/videos/20261106_nami_shawon.mp4
+    poster: /images/events/20261106_nami_shawon.jpg
+    caption: Presentation “Bridging Visions” by Mouedul Haque Shawon (4 min)
   program:
   - time: Talk 1
     text: 'Mouedul Haque Shawon and team, “Bridging Visions: Our Journey Through AI Expo Korea 2026”'
@@ -333,74 +387,98 @@ vi:
     caption: Hội trường kín chỗ
     group: Hội thảo
   - image: /images/events/20261106_nami_10.jpg
+    alt: GS. Park Yang Soo và GS. Kwon Yeonjae cùng sinh viên lắng nghe
+    caption: GS. Park Yang Soo và GS. Kwon Yeonjae cùng sinh viên lắng nghe
+    group: Hội thảo
+  - image: /images/events/20261106_nami_11.jpg
     alt: Akram SM (trái) và Viện trưởng Jung Jin-taek (phải) kết thúc hội thảo
     caption: Akram SM (trái) và Viện trưởng Jung Jin-taek (phải) kết thúc hội thảo
     group: Hội thảo
-  - image: /images/events/20261106_nami_11.jpg
+  - image: /images/events/20261106_nami_12.jpg
     alt: Sinh viên tặng quà lưu niệm cho giảng viên
     caption: Sinh viên tặng quà lưu niệm cho giảng viên
     group: Hội thảo
-  - image: /images/events/20261106_nami_12.jpg
+  - image: /images/events/20261106_nami_13.jpg
+    alt: Sinh viên tặng quà lưu niệm cho Viện trưởng Jung Jin-taek
+    caption: Sinh viên tặng quà lưu niệm cho Viện trưởng Jung Jin-taek
+    group: Hội thảo
+  - image: /images/events/20261106_nami_14.jpg
     alt: '“Industrial AI in Action”: Tổng quan triển lãm và những điểm chính'
     caption: '“Industrial AI in Action”: Tổng quan triển lãm và những điểm chính'
     group: Bài trình bày · Akram SM
-  - image: /images/events/20261106_nami_13.jpg
+  - image: /images/events/20261106_nami_15.jpg
     alt: Những điều học được tại khu Physical AI
     caption: Những điều học được tại khu Physical AI
     group: Bài trình bày · Akram SM
-  - image: /images/events/20261106_nami_14.jpg
+  - image: /images/events/20261106_nami_16.jpg
     alt: Lĩnh vực logistics AI
     caption: Lĩnh vực logistics AI
     group: Bài trình bày · Akram SM
-  - image: /images/events/20261106_nami_15.jpg
+  - image: /images/events/20261106_nami_17.jpg
     alt: Kết nối doanh nghiệp và cơ hội hợp tác
     caption: Kết nối doanh nghiệp và cơ hội hợp tác
     group: Bài trình bày · Akram SM
-  - image: /images/events/20261106_nami_16.jpg
+  - image: /images/events/20261106_nami_18.jpg
     alt: Hành trình tại triển lãm và kế hoạch tiếp theo
     caption: Hành trình tại triển lãm và kế hoạch tiếp theo
     group: Bài trình bày · Akram SM
-  - image: /images/events/20261106_nami_17.jpg
+  - image: /images/events/20261106_nami_19.jpg
     alt: Giảng viên và sinh viên cùng băng rôn hội thảo tại hội trường
     caption: Giảng viên và sinh viên cùng băng rôn hội thảo tại hội trường
     group: Ảnh tập thể
-  - image: /images/events/20261106_nami_18.jpg
+  - image: /images/events/20261106_nami_20.jpg
     alt: Các giảng viên dẫn đoàn ngồi sau băng rôn (Viện trưởng Jung Jin-taek, GS. Park Yang Soo, Kwon Yeonjae, Kim Nae Young và diễn giả Han Pil-Yeoun) cùng sinh viên
     caption: Các giảng viên dẫn đoàn ngồi sau băng rôn (Viện trưởng Jung Jin-taek, GS. Park Yang Soo, Kwon Yeonjae, Kim Nae Young và diễn giả Han Pil-Yeoun) cùng sinh viên
     group: Ảnh tập thể
-  - image: /images/events/20261106_nami_19.jpg
+  - image: /images/events/20261106_nami_21.jpg
+    alt: Giảng viên và sinh viên sau khi trao quà
+    caption: Giảng viên và sinh viên sau khi trao quà
+    group: Ảnh tập thể
+  - image: /images/events/20261106_nami_22.jpg
+    alt: Sinh viên cùng giảng viên sau hội thảo
+    caption: Sinh viên cùng giảng viên sau hội thảo
+    group: Ảnh tập thể
+  - image: /images/events/20261106_nami_23.jpg
     alt: Ảnh tập thể cùng băng rôn trên đảo Nami
     caption: Ảnh tập thể cùng băng rôn trên đảo Nami
     group: Ảnh tập thể
-  - image: /images/events/20261106_nami_20.jpg
+  - image: /images/events/20261106_nami_24.jpg
     alt: Ảnh tập thể trên đảo Nami
     caption: Ảnh tập thể trên đảo Nami
     group: Ảnh tập thể
-  - image: /images/events/20261106_nami_21.jpg
+  - image: /images/events/20261106_nami_25.jpg
     alt: Trên xe buýt đến đảo Nami
     caption: Trên xe buýt đến đảo Nami
     group: Tham quan đảo Nami
-  - image: /images/events/20261106_nami_22.jpg
+  - image: /images/events/20261106_nami_26.jpg
     alt: Giảng viên và sinh viên trên xe buýt
     caption: Giảng viên và sinh viên trên xe buýt
     group: Tham quan đảo Nami
-  - image: /images/events/20261106_nami_23.jpg
+  - image: /images/events/20261106_nami_27.jpg
     alt: Sinh viên cùng giảng viên trên đường đi
     caption: Sinh viên cùng giảng viên trên đường đi
     group: Tham quan đảo Nami
-  - image: /images/events/20261106_nami_24.jpg
+  - image: /images/events/20261106_nami_28.jpg
     alt: Trên phà đến đảo Nami
     caption: Trên phà đến đảo Nami
     group: Tham quan đảo Nami
-  - image: /images/events/20261106_nami_25.jpg
+  - image: /images/events/20261106_nami_29.jpg
     alt: Sông Bukhan và đảo Nami nhìn từ phà
     caption: Sông Bukhan và đảo Nami nhìn từ phà
     group: Tham quan đảo Nami
-  - image: /images/events/20261106_nami_26.jpg
+  - image: /images/events/20261106_nami_30.jpg
     alt: Sinh viên tại con đường cờ các nước
     caption: Sinh viên tại con đường cờ các nước
     group: Tham quan đảo Nami
-  - image: /images/events/20261106_nami_27.jpg
+  - image: /images/events/20261106_nami_31.jpg
+    alt: Giảng viên trên con đường rừng ở đảo Nami
+    caption: Giảng viên trên con đường rừng ở đảo Nami
+    group: Tham quan đảo Nami
+  - image: /images/events/20261106_nami_32.jpg
+    alt: GS. Kwon Yeonjae, Viện trưởng Jung Jin-taek và diễn giả Han Pil-Yeoun
+    caption: GS. Kwon Yeonjae, Viện trưởng Jung Jin-taek và diễn giả Han Pil-Yeoun
+    group: Tham quan đảo Nami
+  - image: /images/events/20261106_nami_33.jpg
     alt: Con đường rừng cuối thu trên đảo Nami
     caption: Con đường rừng cuối thu trên đảo Nami
     group: Tham quan đảo Nami
@@ -408,6 +486,9 @@ vi:
   - src: /files/videos/20261106_nami_promo_en.mp4
     poster: /images/events/20261106_nami_promo.jpg
     caption: Video giới thiệu khoa do Akram SM thực hiện (tiếng Anh, 2:48)
+  - src: /files/videos/20261106_nami_shawon.mp4
+    poster: /images/events/20261106_nami_shawon.jpg
+    caption: Bài trình bày “Bridging Visions” của Mouedul Haque Shawon (4 phút)
   program:
   - time: Bài 1
     text: 'Mouedul Haque Shawon và nhóm, “Bridging Visions: Our Journey Through AI Expo Korea 2026”'
