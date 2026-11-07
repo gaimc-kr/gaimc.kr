@@ -50,8 +50,8 @@ gallery:
   caption: 세미나실을 가득 채운 참석자들
   group: 학술세미나
 - image: /images/events/20261106_nami_10.jpg
-  alt: 학생들과 함께 발표를 듣는 박양수 교수와 권연재 교수
-  caption: 학생들과 함께 발표를 듣는 박양수 교수와 권연재 교수
+  alt: 학생들과 나란히 앉아 발표를 듣는 교수진
+  caption: 학생들과 나란히 앉아 발표를 듣는 교수진
   group: 학술세미나
 - image: /images/events/20261106_nami_11.jpg
   alt: 세미나를 마무리하는 Akram SM 학생(왼쪽)과 정진택 원장(오른쪽)
@@ -217,8 +217,8 @@ en:
     caption: A full seminar hall
     group: The seminar
   - image: /images/events/20261106_nami_10.jpg
-    alt: Professors Park Yang Soo and Kwon Yeonjae listening with students
-    caption: Professors Park Yang Soo and Kwon Yeonjae listening with students
+    alt: Faculty sitting among students to listen to the presentations
+    caption: Faculty sitting among students to listen to the presentations
     group: The seminar
   - image: /images/events/20261106_nami_11.jpg
     alt: Akram SM (left) and Dean Jung Jin-taek (right) closing the seminar
@@ -387,8 +387,8 @@ vi:
     caption: Hội trường kín chỗ
     group: Hội thảo
   - image: /images/events/20261106_nami_10.jpg
-    alt: GS. Park Yang Soo và GS. Kwon Yeonjae cùng sinh viên lắng nghe
-    caption: GS. Park Yang Soo và GS. Kwon Yeonjae cùng sinh viên lắng nghe
+    alt: Giảng viên ngồi cùng sinh viên lắng nghe bài trình bày
+    caption: Giảng viên ngồi cùng sinh viên lắng nghe bài trình bày
     group: Hội thảo
   - image: /images/events/20261106_nami_11.jpg
     alt: Akram SM (trái) và Viện trưởng Jung Jin-taek (phải) kết thúc hội thảo
