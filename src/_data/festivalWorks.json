@@ -8,7 +8,8 @@
     "ko": "전자 통신망 트래픽 로그 자동 수합 및 슬랙(Slack) 알림 워크플로우 설계",
     "en": "Workflow that collects telecom network traffic logs and sends Slack alerts",
     "vi": "Quy trình tự động thu thập log lưu lượng mạng viễn thông và cảnh báo qua Slack"
-   }
+   },
+   "yt": "cBcTWnVUyDg"
   },
   {
    "code": "gw02",
@@ -18,7 +19,8 @@
     "ko": "베트남 현지 소프트웨어 테스터(QA)와 한국 프로젝트 매칭 프롬프트 설계",
     "en": "Prompt design matching Vietnamese software testers (QA) with Korean projects",
     "vi": "Thiết kế prompt kết nối tester phần mềm (QA) Việt Nam với dự án Hàn Quốc"
-   }
+   },
+   "yt": "_zMTNYnlyvQ"
   },
   {
    "code": "gw03",
@@ -28,7 +30,8 @@
     "ko": "가상 AI 아바타 활용 베트남 타겟 SNS 광고 자동화 솔루션 기능 시연 영상 기획",
     "en": "AI-avatar demo video for an SNS ad automation solution targeting Vietnam",
     "vi": "Video demo giải pháp tự động hóa quảng cáo mạng xã hội cho thị trường Việt Nam với AI avatar"
-   }
+   },
+   "yt": "9vmqD3DbeAA"
   },
   {
    "code": "gw04",
@@ -38,7 +41,8 @@
     "ko": "챗GPT 활용 베트남 금융/은행 시장 경쟁사 분석 및 핵심 가치 제안 리포트",
     "en": "ChatGPT report on competitors and value propositions in Vietnam's banking market",
     "vi": "Báo cáo phân tích đối thủ và đề xuất giá trị thị trường tài chính – ngân hàng Việt Nam bằng ChatGPT"
-   }
+   },
+   "yt": "_EITRgzU7dg"
   },
   {
    "code": "gw05",
@@ -48,7 +52,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 고급 패션/화장품 브랜드 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for a premium fashion and cosmetics brand",
     "vi": "Video quảng bá cảm xúc cho thương hiệu thời trang – mỹ phẩm cao cấp với nhạc hiệu AI"
-   }
+   },
+   "yt": "VVli8WenjXo"
   },
   {
    "code": "gw06",
@@ -58,7 +63,8 @@
     "ko": "AI 카피라이팅 및 CNC 정밀 가공 기계 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for CNC precision machining equipment",
     "vi": "Video ngắn bán hàng máy gia công CNC chính xác với copywriting AI"
-   }
+   },
+   "yt": "sKqGCh_0kLA"
   },
   {
    "code": "gw07",
@@ -69,7 +75,8 @@
     "en": "3D CapCut promo of Korean and Vietnamese tourist landmarks",
     "vi": "Video quảng bá 3D các danh thắng du lịch Hàn – Việt bằng hiệu ứng CapCut"
    },
-   "award": "encouragement"
+   "award": "encouragement",
+   "yt": "nVQ3wN4KTV4"
   },
   {
    "code": "gw08",
@@ -79,7 +86,8 @@
     "ko": "다국어 행정/인사 민원 문의 자동 번역 및 분류 AI 챗봇 설계",
     "en": "Multilingual AI chatbot that translates and sorts administrative and HR inquiries",
     "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu hành chính – nhân sự"
-   }
+   },
+   "yt": "PHJsCydvmDE"
   },
   {
    "code": "gw09",
@@ -89,7 +97,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 경영 컨설팅 서비스 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for a management consulting service",
     "vi": "Video quảng bá cảm xúc cho dịch vụ tư vấn quản trị với nhạc hiệu AI"
-   }
+   },
+   "yt": "CHApxlLU8OM"
   },
   {
    "code": "gw10",
@@ -99,7 +108,8 @@
     "ko": "AI OCR 연동 사법 사무소 법률 서류 자동 추출 워크플로우",
     "en": "AI OCR workflow that extracts data from law-office documents",
     "vi": "Quy trình AI OCR tự động trích xuất hồ sơ pháp lý của văn phòng tư pháp"
-   }
+   },
+   "yt": "RPUIb90P488"
   },
   {
    "code": "gw11",
@@ -109,7 +119,8 @@
     "ko": "전기전자 생산 설비(HMI/PLC) 에러 로그 자동 수합 워크플로우 설계",
     "en": "Workflow that collects error logs from electrical production equipment (HMI/PLC)",
     "vi": "Quy trình tự động thu thập log lỗi thiết bị sản xuất điện – điện tử (HMI/PLC)"
-   }
+   },
+   "yt": "WQFbOnEdDMU"
   },
   {
    "code": "gw12",
@@ -119,7 +130,8 @@
     "ko": "정보기술 서버 장애 로그 자동 수합 워크플로우 설계",
     "en": "Workflow that collects IT server failure logs",
     "vi": "Quy trình tự động thu thập log sự cố máy chủ CNTT"
-   }
+   },
+   "yt": "d4a6e8IFR7Y"
   },
   {
    "code": "gw13",
@@ -129,7 +141,8 @@
     "ko": "챗GPT 활용 베트남 금융 및 수출입 은행 시장 경쟁사 분석 리포트",
     "en": "ChatGPT competitor report on Vietnam's finance and export-import banking market",
     "vi": "Báo cáo phân tích đối thủ thị trường tài chính và ngân hàng xuất nhập khẩu Việt Nam bằng ChatGPT"
-   }
+   },
+   "yt": "SFd_SGJJ50Q"
   },
   {
    "code": "gw14",
@@ -139,7 +152,8 @@
     "ko": "AI 성우 활용 맞춤형 다국어 유치원생 기초 인지 교육 숏폼 영상 기획",
     "en": "Multilingual AI-voiced shorts for early cognitive education of kindergarteners",
     "vi": "Video ngắn đa ngôn ngữ giáo dục nhận thức cho trẻ mẫu giáo với giọng đọc AI"
-   }
+   },
+   "yt": "ByLDoQQYnLk"
   },
   {
    "code": "gw15",
@@ -150,7 +164,8 @@
     "en": "AI chatbot scenario for reporting faults in environmental equipment and pipelines",
     "vi": "Kịch bản chatbot AI tiếp nhận sự cố thiết bị môi trường và đường ống"
    },
-   "award": "excellence"
+   "award": "excellence",
+   "yt": "EurBJ4zjZx8"
   },
   {
    "code": "gw16",
@@ -160,7 +175,8 @@
     "ko": "건설 현장 중장비 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
     "en": "AI chatbot scenario for heavy-equipment fault reports and instant repair quotes",
     "vi": "Kịch bản chatbot AI tiếp nhận sự cố máy công trình và báo giá tự động"
-   }
+   },
+   "yt": "DTaIhfV4I-g"
   },
   {
    "code": "gw17",
@@ -170,7 +186,8 @@
     "ko": "AI 카피라이팅 및 메카트로닉스 자동화 설비 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for mechatronic automation equipment",
     "vi": "Video ngắn bán hàng thiết bị tự động hóa cơ điện tử với copywriting AI"
-   }
+   },
+   "yt": "i3GnE2BxvtU"
   },
   {
    "code": "gw18",
@@ -180,7 +197,8 @@
     "ko": "전기 설비 에러 로그 자동 수합 및 사내 메신저 알림 워크플로우 설계",
     "en": "Workflow that collects electrical equipment error logs and alerts the in-house messenger",
     "vi": "Quy trình thu thập log lỗi thiết bị điện và cảnh báo qua ứng dụng nhắn tin nội bộ"
-   }
+   },
+   "yt": "l_LAlUYp_0M"
   },
   {
    "code": "gw19",
@@ -190,7 +208,8 @@
     "ko": "자동차 타이어/엔진오일 교체 자동 예약 및 증상 접수 AI 챗봇 시나리오",
     "en": "AI chatbot scenario for booking tyre and oil changes and reporting car symptoms",
     "vi": "Kịch bản chatbot AI đặt lịch thay lốp, dầu máy và tiếp nhận triệu chứng xe"
-   }
+   },
+   "yt": "hNTw4bs6cJE"
   },
   {
    "code": "gw20",
@@ -200,7 +219,8 @@
     "ko": "AI OCR 연동 기업 회계 영수증 및 매출 전표 자동 추출 워크플로우",
     "en": "AI OCR workflow that extracts company receipts and sales slips",
     "vi": "Quy trình AI OCR tự động trích xuất hóa đơn kế toán và chứng từ bán hàng"
-   }
+   },
+   "yt": "Yk8Xut5KS_Q"
   },
   {
    "code": "gw21",
@@ -210,7 +230,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 재무 컨설팅 및 고객 서비스 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for financial consulting and customer service",
     "vi": "Video quảng bá cảm xúc cho dịch vụ tư vấn tài chính và chăm sóc khách hàng với nhạc hiệu AI"
-   }
+   },
+   "yt": "iH3vcorWcYc"
   },
   {
    "code": "gw22",
@@ -220,7 +241,8 @@
     "ko": "AI OCR 연동 경영지원 증빙서류 자동 추출 및 장부 기록 워크플로우",
     "en": "AI OCR workflow that extracts back-office vouchers and records them in the ledger",
     "vi": "Quy trình AI OCR trích xuất chứng từ hỗ trợ quản lý và ghi sổ tự động"
-   }
+   },
+   "yt": "RcnA_HxB7cQ"
   },
   {
    "code": "gw23",
@@ -230,7 +252,8 @@
     "ko": "AI OCR 연동 건설/영업 분야 영수증 자동 추출 및 장부 기록 워크플로우",
     "en": "AI OCR workflow for construction and sales receipts and ledger entries",
     "vi": "Quy trình AI OCR trích xuất hóa đơn xây dựng – kinh doanh và ghi sổ tự động"
-   }
+   },
+   "yt": "YKiK6OQfd1A"
   },
   {
    "code": "gw24",
@@ -240,7 +263,8 @@
     "ko": "AI 카피라이팅 및 스마트 기계 부품 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for smart machine parts",
     "vi": "Video ngắn bán hàng linh kiện máy thông minh với copywriting AI"
-   }
+   },
+   "yt": "wTErQW4tN5g"
   },
   {
    "code": "gw25",
@@ -250,7 +274,8 @@
     "ko": "가상 AI 아바타 활용 베트남 타겟 전기 자동화 시스템 기능 시연 영상 기획",
     "en": "AI-avatar demo video of an electrical automation system for Vietnam",
     "vi": "Video demo hệ thống tự động hóa điện cho thị trường Việt Nam với AI avatar"
-   }
+   },
+   "yt": "JJW-cOB6OFE"
   },
   {
    "code": "gw26",
@@ -260,7 +285,8 @@
     "ko": "챗GPT 활용 베트남 의류 제조 금융/투자 시장 경쟁사 분석 리포트",
     "en": "ChatGPT competitor report on finance and investment in Vietnam's garment industry",
     "vi": "Báo cáo phân tích đối thủ thị trường tài chính – đầu tư ngành may mặc Việt Nam bằng ChatGPT"
-   }
+   },
+   "yt": "hhaQ_ltdv1s"
   },
   {
    "code": "gw27",
@@ -271,7 +297,8 @@
     "en": "Prompt design matching Vietnamese AI data-labelling staff with Korean projects",
     "vi": "Thiết kế prompt kết nối nhân lực gán nhãn dữ liệu AI Việt Nam với dự án Hàn Quốc"
    },
-   "award": "superior"
+   "award": "superior",
+   "yt": "Ux17pPa352s"
   },
   {
    "code": "gw28",
@@ -281,7 +308,8 @@
     "ko": "K-제조 해양 선박 기술의 베트남 도입 위험도 시뮬레이션 리포트",
     "en": "Risk simulation report on bringing Korean shipbuilding technology to Vietnam",
     "vi": "Báo cáo mô phỏng rủi ro khi đưa công nghệ đóng tàu Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "kMRFafT7rg8"
   },
   {
    "code": "gw29",
@@ -291,7 +319,8 @@
     "ko": "다국어 치안/행정 서비스 문의 자동 번역 및 분류 AI 챗봇 설계",
     "en": "Multilingual AI chatbot that translates and sorts public-safety and administrative inquiries",
     "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu về an ninh – hành chính"
-   }
+   },
+   "yt": "emLlf2b-9oQ"
   },
   {
    "code": "gw30",
@@ -301,7 +330,8 @@
     "ko": "AI OCR 연동 패션 기업 재무 전표 자동 추출 워크플로우",
     "en": "AI OCR workflow that extracts financial slips at a fashion company",
     "vi": "Quy trình AI OCR tự động trích xuất chứng từ tài chính doanh nghiệp thời trang"
-   }
+   },
+   "yt": "Qky3q9UudR8"
   },
   {
    "code": "gw31",
@@ -311,7 +341,8 @@
     "ko": "AI 성우 활용 맞춤형 다국어 이중언어 통번역 숏폼 안내 영상 기획",
     "en": "Multilingual AI-voiced shorts introducing bilingual interpreting and translation",
     "vi": "Video ngắn đa ngôn ngữ giới thiệu dịch thuật song ngữ với giọng đọc AI"
-   }
+   },
+   "yt": "XAlsl5BjF44"
   },
   {
    "code": "gw32",
@@ -322,7 +353,8 @@
     "en": "ChatGPT competitor report on Vietnam's smart-city and fintech investment market",
     "vi": "Báo cáo phân tích đối thủ thị trường đầu tư thành phố thông minh và fintech Việt Nam bằng ChatGPT"
    },
-   "award": "excellence"
+   "award": "excellence",
+   "yt": "9ki0a_vc0o4"
   },
   {
    "code": "gw33",
@@ -332,7 +364,8 @@
     "ko": "AI OCR 연동 오토바이 영업 거래 영수증 자동 추출 워크플로우",
     "en": "AI OCR workflow that extracts motorbike sales receipts",
     "vi": "Quy trình AI OCR tự động trích xuất hóa đơn bán xe máy"
-   }
+   },
+   "yt": "8ZAuJxrO3J4"
   },
   {
    "code": "gw34",
@@ -343,7 +376,8 @@
     "en": "AI chatbot scenario for quality complaints at export footwear brands (UGG/HOKA)",
     "vi": "Kịch bản chatbot AI tiếp nhận lỗi chất lượng giày xuất khẩu (UGG/HOKA)"
    },
-   "award": "encouragement"
+   "award": "encouragement",
+   "yt": "u2nWvKkL4Ao"
   },
   {
    "code": "gw35",
@@ -353,7 +387,8 @@
     "ko": "챗GPT 활용 베트남 경영 컨설팅 시장 경쟁사 분석 및 가치 제안 리포트",
     "en": "ChatGPT report on competitors and value propositions in Vietnam's consulting market",
     "vi": "Báo cáo phân tích đối thủ và đề xuất giá trị thị trường tư vấn quản trị Việt Nam bằng ChatGPT"
-   }
+   },
+   "yt": "DIB80zwfeuo"
   },
   {
    "code": "gw36",
@@ -363,7 +398,8 @@
     "ko": "AI 카피라이팅 및 경영 컨설팅 서비스 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for a management consulting service",
     "vi": "Video ngắn bán hàng dịch vụ tư vấn quản trị với copywriting AI"
-   }
+   },
+   "yt": "vOSz_WxHlNw"
   },
   {
    "code": "gw37",
@@ -373,7 +409,8 @@
     "ko": "CapCut 3D 모션 효과를 적용한 한-베 방송/미디어 콘텐츠 입체 홍보 영상",
     "en": "3D CapCut promo of Korean and Vietnamese broadcast and media content",
     "vi": "Video quảng bá 3D nội dung truyền hình – truyền thông Hàn – Việt bằng CapCut"
-   }
+   },
+   "yt": "hmX39iYX4eQ"
   },
   {
    "code": "gw38",
@@ -383,7 +420,8 @@
     "ko": "사내 서버 장애 및 IT 에러 로그 자동 수합 워크플로우 설계",
     "en": "Workflow that collects in-house server failure and IT error logs",
     "vi": "Quy trình tự động thu thập log sự cố máy chủ nội bộ và lỗi CNTT"
-   }
+   },
+   "yt": "O8F17-XYGsE"
   },
   {
    "code": "gw39",
@@ -393,7 +431,8 @@
     "ko": "베트남 현지 전자공학 전문가와 한국 IT 프로젝트 매칭 프롬프트 설계",
     "en": "Prompt design matching Vietnamese electronics experts with Korean IT projects",
     "vi": "Thiết kế prompt kết nối chuyên gia điện tử Việt Nam với dự án CNTT Hàn Quốc"
-   }
+   },
+   "yt": "CGyo66Z0Q2A"
   },
   {
    "code": "gw40",
@@ -403,7 +442,8 @@
     "ko": "베트남 현지 웹/앱 개발자와 한국 단기 프로젝트 매칭을 위한 프롬프트 설계",
     "en": "Prompt design matching Vietnamese web and app developers with short Korean projects",
     "vi": "Thiết kế prompt kết nối lập trình viên web/app Việt Nam với dự án ngắn hạn Hàn Quốc"
-   }
+   },
+   "yt": "uiP2DIun2RM"
   },
   {
    "code": "gw41",
@@ -413,7 +453,8 @@
     "ko": "AI 카피라이팅 및 K-뷰티/화장품 매장 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for a K-beauty cosmetics store",
     "vi": "Video ngắn bán hàng cửa hàng mỹ phẩm K-beauty với copywriting AI"
-   }
+   },
+   "yt": "S55dLql5agM"
   },
   {
    "code": "gw42",
@@ -423,7 +464,8 @@
     "ko": "AI 성우 활용 맞춤형 다국어 축구/체육 교육 숏폼 안내 영상 기획",
     "en": "Multilingual AI-voiced shorts for football and sports education",
     "vi": "Video ngắn đa ngôn ngữ hướng dẫn giáo dục bóng đá – thể thao với giọng đọc AI"
-   }
+   },
+   "yt": "by2CaO7wCXM"
   },
   {
    "code": "gw43",
@@ -433,7 +475,8 @@
     "ko": "베트남 현지 전자공학 엔지니어와 한국 스타트업 단기 프로젝트 매칭 프롬프트 설계",
     "en": "Prompt design matching Vietnamese electronics engineers with short Korean startup projects",
     "vi": "Thiết kế prompt kết nối kỹ sư điện tử Việt Nam với dự án ngắn hạn của startup Hàn Quốc"
-   }
+   },
+   "yt": "FMTExmULa3c"
   },
   {
    "code": "gw44",
@@ -443,7 +486,8 @@
     "ko": "K-스마트 도로건설 기술의 베트남 도입 위험도 및 비용 시뮬레이션 리포트",
     "en": "Risk and cost simulation of bringing Korean smart road-building technology to Vietnam",
     "vi": "Báo cáo mô phỏng rủi ro và chi phí đưa công nghệ làm đường thông minh Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "yvT_Y5HVIDo"
   },
   {
    "code": "gw45",
@@ -453,7 +497,8 @@
     "ko": "챗GPT 활용 베트남 거시 경제 트렌드 분석 및 핵심 가치 제안 리포트",
     "en": "ChatGPT report on Vietnam's macroeconomic trends and key value propositions",
     "vi": "Báo cáo phân tích xu hướng kinh tế vĩ mô Việt Nam và đề xuất giá trị bằng ChatGPT"
-   }
+   },
+   "yt": "sGziHrf_V1c"
   },
   {
    "code": "gw46",
@@ -463,7 +508,8 @@
     "ko": "CapCut 3D 모션 효과를 적용한 한-베 미디어 이벤트 공간 입체 홍보 영상",
     "en": "3D CapCut promo of Korean and Vietnamese media event venues",
     "vi": "Video quảng bá 3D không gian sự kiện truyền thông Hàn – Việt bằng CapCut"
-   }
+   },
+   "yt": "lo4HPgqqchE"
   },
   {
    "code": "gw47",
@@ -473,7 +519,8 @@
     "ko": "가상 AI 아바타 활용 베트남 타겟 공장 자동화 솔루션 기능 시연 영상 기획",
     "en": "AI-avatar demo video of a factory automation solution for Vietnam",
     "vi": "Video demo giải pháp tự động hóa nhà máy cho thị trường Việt Nam với AI avatar"
-   }
+   },
+   "yt": "1lM8zjayLXM"
   },
   {
    "code": "gw48",
@@ -483,7 +530,8 @@
     "ko": "AI OCR 연동 프랜차이즈 매장 매출 전표 자동 수합 워크플로우",
     "en": "AI OCR workflow that collects sales slips from franchise stores",
     "vi": "Quy trình AI OCR tự động thu thập chứng từ doanh thu chuỗi cửa hàng nhượng quyền"
-   }
+   },
+   "yt": "vrJ5NsIHqpE"
   },
   {
    "code": "gw49",
@@ -493,7 +541,8 @@
     "ko": "토목 건축 장비 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
     "en": "AI chatbot scenario for civil-engineering equipment faults and instant quotes",
     "vi": "Kịch bản chatbot AI tiếp nhận sự cố thiết bị xây dựng và báo giá tự động"
-   }
+   },
+   "yt": "RjnpHuw_-5s"
   },
   {
    "code": "gw50",
@@ -503,7 +552,8 @@
     "ko": "CapCut 3D 모션 효과를 적용한 한-베 생태 자원 랜드마크 입체 홍보 영상",
     "en": "3D CapCut promo of Korean and Vietnamese natural landmarks",
     "vi": "Video quảng bá 3D các danh thắng sinh thái Hàn – Việt bằng CapCut"
-   }
+   },
+   "yt": "GcglQ0nRUvk"
   },
   {
    "code": "gw51",
@@ -514,7 +564,8 @@
     "en": "Multilingual AI-voiced shorts for smart-farming education",
     "vi": "Video ngắn đa ngôn ngữ hướng dẫn nông nghiệp thông minh với giọng đọc AI"
    },
-   "award": "encouragement"
+   "award": "encouragement",
+   "yt": "cdZ3IV6tCxs"
   },
   {
    "code": "gw52",
@@ -524,7 +575,8 @@
     "ko": "K-제조 스마트 물류 및 운송 기술의 베트남 도입 위험도 시뮬레이션 리포트",
     "en": "Risk simulation of bringing Korean smart logistics technology to Vietnam",
     "vi": "Báo cáo mô phỏng rủi ro khi đưa công nghệ logistics thông minh Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "eiAQMWvFGao"
   },
   {
    "code": "gw53",
@@ -534,7 +586,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 베트남 기업 B2B 서비스 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for a Vietnamese B2B service",
     "vi": "Video quảng bá cảm xúc cho dịch vụ B2B doanh nghiệp Việt Nam với nhạc hiệu AI"
-   }
+   },
+   "yt": "8vr-hvKrhfU"
   },
   {
    "code": "gw54",
@@ -545,7 +598,8 @@
     "en": "AI-copywritten sales short for smart water purifiers",
     "vi": "Video ngắn bán hàng máy lọc nước thông minh với copywriting AI"
    },
-   "award": "superior"
+   "award": "superior",
+   "yt": "k5stdc8P3V4"
   },
   {
    "code": "gw55",
@@ -555,7 +609,8 @@
     "ko": "다국어 공공 행정 서비스 민원 문의 자동 번역 및 분류 AI 챗봇 설계",
     "en": "Multilingual AI chatbot that translates and sorts public-service inquiries",
     "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu dịch vụ hành chính công"
-   }
+   },
+   "yt": "BtsiZU354MM"
   },
   {
    "code": "gw56",
@@ -565,7 +620,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 농업 자재 B2B 세일즈 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for B2B sales of farm supplies",
     "vi": "Video quảng bá cảm xúc bán hàng B2B vật tư nông nghiệp với nhạc hiệu AI"
-   }
+   },
+   "yt": "uqrGnn4IyI0"
   },
   {
    "code": "gw57",
@@ -575,7 +631,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 글로벌 비즈니스 서비스 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for a global business service",
     "vi": "Video quảng bá cảm xúc cho dịch vụ kinh doanh toàn cầu với nhạc hiệu AI"
-   }
+   },
+   "yt": "szWdtEBKMMc"
   },
   {
    "code": "gw58",
@@ -586,7 +643,8 @@
     "en": "AI OCR workflow that extracts logistics documents at a garment factory",
     "vi": "Quy trình AI OCR tự động trích xuất chứng từ logistics của xưởng may"
    },
-   "award": "superior"
+   "award": "superior",
+   "yt": "kRGffpmr5sk"
   },
   {
    "code": "gw59",
@@ -596,7 +654,8 @@
     "ko": "다국어 온라인 교육(Vioedu) 시스템 고객 문의 자동 응대 AI 챗봇 설계",
     "en": "Multilingual AI chatbot answering customer questions for an online learning system (Vioedu)",
     "vi": "Chatbot AI đa ngôn ngữ tự động trả lời khách hàng hệ thống học trực tuyến (Vioedu)"
-   }
+   },
+   "yt": "3wHzAtKYdxs"
   },
   {
    "code": "gw60",
@@ -606,7 +665,8 @@
     "ko": "기계 설비 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
     "en": "AI chatbot scenario for machinery fault reports and instant quotes",
     "vi": "Kịch bản chatbot AI tiếp nhận sự cố máy móc và báo giá tự động"
-   }
+   },
+   "yt": "8Y_4XJl1T28"
   },
   {
    "code": "gw61",
@@ -616,7 +676,8 @@
     "ko": "K-스마트 도시 계획 및 건설 기술의 베트남 도입 시뮬레이션 리포트",
     "en": "Simulation report on bringing Korean smart-city planning and construction to Vietnam",
     "vi": "Báo cáo mô phỏng việc đưa công nghệ quy hoạch và xây dựng đô thị thông minh Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "bkByndMytek"
   },
   {
    "code": "gw62",
@@ -626,7 +687,8 @@
     "ko": "AI OCR 연동 감정 평가 증빙서류 자동 추출 및 장부 기록 워크플로우",
     "en": "AI OCR workflow for appraisal documents and ledger entries",
     "vi": "Quy trình AI OCR trích xuất hồ sơ thẩm định giá và ghi sổ tự động"
-   }
+   },
+   "yt": "GVF_jVnLVss"
   },
   {
    "code": "gw63",
@@ -636,7 +698,8 @@
     "ko": "AI OCR 연동 법률 자문 영수증 자동 추출 및 장부 기록 워크플로우",
     "en": "AI OCR workflow for legal-advisory receipts and ledger entries",
     "vi": "Quy trình AI OCR trích xuất hóa đơn tư vấn pháp lý và ghi sổ tự động"
-   }
+   },
+   "yt": "Zohp42Bsh-o"
   },
   {
    "code": "gw64",
@@ -646,7 +709,8 @@
     "ko": "CapCut 3D 모션 효과를 적용한 한-베 여행사 투어 패키지 입체 홍보 영상",
     "en": "3D CapCut promo of Korea–Vietnam travel-agency tour packages",
     "vi": "Video quảng bá 3D tour du lịch Hàn – Việt của công ty lữ hành bằng CapCut"
-   }
+   },
+   "yt": "b1eXX4ZiWic"
   },
   {
    "code": "gw65",
@@ -656,7 +720,8 @@
     "ko": "AI 로고송/CM송 제작을 통한 뷰티/안경 산업 감성 홍보 영상 기획",
     "en": "Brand film with an AI-made jingle for the beauty and eyewear industry",
     "vi": "Video quảng bá cảm xúc ngành làm đẹp – kính mắt với nhạc hiệu AI"
-   }
+   },
+   "yt": "23znPgili2E"
   },
   {
    "code": "gw66",
@@ -666,7 +731,8 @@
     "ko": "전기 설비 시스템 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
     "en": "AI chatbot scenario for electrical system faults and instant quotes",
     "vi": "Kịch bản chatbot AI tiếp nhận sự cố hệ thống điện và báo giá tự động"
-   }
+   },
+   "yt": "mlMLDENvDG4"
   },
   {
    "code": "gw67",
@@ -676,7 +742,8 @@
     "ko": "학교 전산 장비 장애 로그 자동 수합 워크플로우 설계",
     "en": "Workflow that collects failure logs from school IT equipment",
     "vi": "Quy trình tự động thu thập log sự cố thiết bị tin học trường học"
-   }
+   },
+   "yt": "qSeABv7iBCw"
   },
   {
    "code": "gw68",
@@ -686,7 +753,8 @@
     "ko": "컴퓨터 하드웨어 수리 고장 증상 접수 및 자동 견적 안내 AI 챗봇 시나리오",
     "en": "AI chatbot scenario for computer hardware repairs and instant quotes",
     "vi": "Kịch bản chatbot AI tiếp nhận sửa chữa phần cứng máy tính và báo giá tự động"
-   }
+   },
+   "yt": "6ub65-c0q40"
   },
   {
    "code": "gw69",
@@ -696,7 +764,8 @@
     "ko": "CapCut 3D 모션 효과를 적용한 한-베 관광 서비스 인프라 입체 홍보 영상",
     "en": "3D CapCut promo of Korean and Vietnamese tourism infrastructure",
     "vi": "Video quảng bá 3D hạ tầng dịch vụ du lịch Hàn – Việt bằng CapCut"
-   }
+   },
+   "yt": "CSeHpLyEnAg"
   },
   {
    "code": "gw70",
@@ -706,7 +775,8 @@
     "ko": "VNPT 네트워크 통신망 장애 로그 자동 수합 및 알림 워크플로우 설계",
     "en": "Workflow that collects VNPT network failure logs and sends alerts",
     "vi": "Quy trình thu thập log sự cố mạng viễn thông VNPT và cảnh báo tự động"
-   }
+   },
+   "yt": "PHRR5wAkuYI"
   },
   {
    "code": "gw71",
@@ -716,7 +786,8 @@
     "ko": "챗GPT 활용 베트남 경영 컨설팅 시장 경쟁사 분석 리포트",
     "en": "ChatGPT competitor report on Vietnam's management consulting market",
     "vi": "Báo cáo phân tích đối thủ thị trường tư vấn quản trị Việt Nam bằng ChatGPT"
-   }
+   },
+   "yt": "T-69PJjBPnw"
   },
   {
    "code": "gw72",
@@ -726,7 +797,8 @@
     "ko": "AI 성우 활용 맞춤형 다국어 중학교 기초 수학 교육 숏폼 안내 영상 기획",
     "en": "Multilingual AI-voiced shorts for middle-school basic maths",
     "vi": "Video ngắn đa ngôn ngữ dạy toán cơ bản THCS với giọng đọc AI"
-   }
+   },
+   "yt": "BNu46I6vB2M"
   },
   {
    "code": "gw73",
@@ -736,7 +808,8 @@
     "ko": "다국어 의료/간호 서비스 고객 문의(CS) 자동 번역 및 분류 AI 챗봇 설계",
     "en": "Multilingual AI chatbot that translates and sorts medical and nursing customer inquiries",
     "vi": "Chatbot AI đa ngôn ngữ dịch và phân loại yêu cầu khách hàng dịch vụ y tế – điều dưỡng"
-   }
+   },
+   "yt": "NmsO0eO7w0M"
   },
   {
    "code": "gw74",
@@ -746,7 +819,8 @@
     "ko": "가상 AI 아바타 활용 베트남 타겟 전자전기 제어 솔루션 기능 시연 영상 기획",
     "en": "AI-avatar demo video of an electrical control solution for Vietnam",
     "vi": "Video demo giải pháp điều khiển điện – điện tử cho thị trường Việt Nam với AI avatar"
-   }
+   },
+   "yt": "eEqQUgutFeY"
   },
   {
    "code": "gw75",
@@ -756,7 +830,8 @@
     "ko": "K-스마트 건설공학 기술의 베트남 도입 위험도 및 비용 시뮬레이션 리포트",
     "en": "Risk and cost simulation of bringing Korean smart construction engineering to Vietnam",
     "vi": "Báo cáo mô phỏng rủi ro và chi phí đưa kỹ thuật xây dựng thông minh Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "YDSciOocbyo"
   },
   {
    "code": "gw76",
@@ -766,7 +841,8 @@
     "ko": "AI 카피라이팅 및 스마트 교통 인프라 설비 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for smart traffic infrastructure",
     "vi": "Video ngắn bán hàng thiết bị hạ tầng giao thông thông minh với copywriting AI"
-   }
+   },
+   "yt": "1heWMw7jgRs"
   },
   {
    "code": "gw77",
@@ -776,7 +852,8 @@
     "ko": "다국어 유학 및 노동 상담 고객 문의 자동 응대 AI 챗봇 설계",
     "en": "Multilingual AI chatbot answering study-abroad and labour counselling inquiries",
     "vi": "Chatbot AI đa ngôn ngữ tự động trả lời tư vấn du học và lao động"
-   }
+   },
+   "yt": "48epd6nxv5A"
   },
   {
    "code": "gw78",
@@ -786,7 +863,8 @@
     "ko": "K-제조 스마트 건축/설계 기술의 베트남 도입 위험도 및 비용 시뮬레이션 리포트",
     "en": "Risk and cost simulation of bringing Korean smart building and design technology to Vietnam",
     "vi": "Báo cáo mô phỏng rủi ro và chi phí đưa công nghệ kiến trúc – thiết kế thông minh Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "rCYWjojCEzo"
   },
   {
    "code": "gw79",
@@ -797,7 +875,8 @@
     "en": "ChatGPT competitor report on Vietnam's software sales market",
     "vi": "Báo cáo phân tích đối thủ thị trường kinh doanh phần mềm Việt Nam bằng ChatGPT"
    },
-   "award": "grand"
+   "award": "grand",
+   "yt": "qNOpFLFw380"
   },
   {
    "code": "gw80",
@@ -807,7 +886,8 @@
     "ko": "챗GPT 활용 베트남 수출입 및 국제 무역 시장 경쟁사 분석 리포트",
     "en": "ChatGPT competitor report on Vietnam's import-export and trade market",
     "vi": "Báo cáo phân tích đối thủ thị trường xuất nhập khẩu và thương mại quốc tế Việt Nam bằng ChatGPT"
-   }
+   },
+   "yt": "zryh9YcQSrI"
   },
   {
    "code": "gw81",
@@ -817,7 +897,8 @@
     "ko": "AI 카피라이팅 및 토목/산업 기계 설비 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for civil and industrial machinery",
     "vi": "Video ngắn bán hàng máy móc xây dựng – công nghiệp với copywriting AI"
-   }
+   },
+   "yt": "r2gCdeD6m0c"
   },
   {
    "code": "gw82",
@@ -828,7 +909,8 @@
     "en": "AI-copywritten sales short for Hyundai commercial vehicles and trucks",
     "vi": "Video ngắn bán hàng xe thương mại – xe tải Hyundai với copywriting AI"
    },
-   "award": "encouragement"
+   "award": "encouragement",
+   "yt": "Px4DJ0quQRQ"
   },
   {
    "code": "gw83",
@@ -838,7 +920,8 @@
     "ko": "베트남 현지 제어 공학 IT 기술자와 한국 단기 프로젝트 매칭을 위한 프롬프트 설계",
     "en": "Prompt design matching Vietnamese control-engineering IT specialists with short Korean projects",
     "vi": "Thiết kế prompt kết nối kỹ thuật viên CNTT điều khiển Việt Nam với dự án ngắn hạn Hàn Quốc"
-   }
+   },
+   "yt": "iwCr2JhHZds"
   },
   {
    "code": "gw84",
@@ -848,7 +931,8 @@
     "ko": "가상 AI 아바타 활용 베트남 타겟 전자 부품 B2B 솔루션 기능 시연 영상 기획",
     "en": "AI-avatar demo video of a B2B electronic-parts solution for Vietnam",
     "vi": "Video demo giải pháp B2B linh kiện điện tử cho thị trường Việt Nam với AI avatar"
-   }
+   },
+   "yt": "K0BNMUzXxl8"
   },
   {
    "code": "gw85",
@@ -858,7 +942,8 @@
     "ko": "AI OCR 연동 법률 사무소 증빙서류 자동 추출 및 장부 기록 워크플로우",
     "en": "AI OCR workflow for law-office vouchers and ledger entries",
     "vi": "Quy trình AI OCR trích xuất chứng từ văn phòng luật và ghi sổ tự động"
-   }
+   },
+   "yt": "3824fjLGBBk"
   },
   {
    "code": "gw86",
@@ -868,7 +953,8 @@
     "ko": "K-제조 자동차 공학 기술의 베트남 도입 위험도 시뮬레이션 리포트",
     "en": "Risk simulation of bringing Korean automotive engineering to Vietnam",
     "vi": "Báo cáo mô phỏng rủi ro khi đưa kỹ thuật ô tô Hàn Quốc vào Việt Nam"
-   }
+   },
+   "yt": "_rO3KsYF1x8"
   },
   {
    "code": "gw87",
@@ -878,7 +964,8 @@
     "ko": "AI 카피라이팅 및 CNC 기계 설비 실전 세일즈 홍보 숏폼 기획",
     "en": "AI-copywritten sales short for CNC machinery",
     "vi": "Video ngắn bán hàng máy CNC với copywriting AI"
-   }
+   },
+   "yt": "MCBKr2bpjUQ"
   },
   {
    "code": "gw88",
@@ -888,7 +975,8 @@
     "ko": "AI 성우 활용 맞춤형 다국어 유아 교육 및 인지 발달 안내 영상 기획",
     "en": "Multilingual AI-voiced guide to early-childhood education and cognitive development",
     "vi": "Video đa ngôn ngữ hướng dẫn giáo dục mầm non và phát triển nhận thức với giọng đọc AI"
-   }
+   },
+   "yt": "-QbxtegAY_Y"
   }
  ],
  "student": [
@@ -1230,7 +1318,8 @@
     "ko": "베트남과 한국 설날 문화의 공통점과 차이점 (film 1)",
     "en": "Lunar New Year in Vietnam and Korea: similarities and differences (film 1)",
     "vi": "Điểm giống và khác nhau của Tết Việt Nam và Seollal Hàn Quốc (phim 1)"
-   }
+   },
+   "yt": "kZFJQUcCNWA"
   },
   {
    "code": "sw219",

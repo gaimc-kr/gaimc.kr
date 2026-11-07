@@ -29,6 +29,7 @@ eleventyComputed:
       <a href="#{{ key }}">{{ G.sections[key] }} <span class="fest-count">{{ W[key].length }}</span></a>
       {%- endfor %}
       <a href="#videos">{{ G.sections.videos }} <span class="fest-count">{{ festivalGallery.videos.length }}</span></a>
+      <a href="#press">{{ G.sections.press }}</a>
       <a href="#photos">{{ G.sections.photos }}</a>
       <a href="#catalogs">{{ G.sections.catalogs }}</a>
       <a href="{{ '/events/ai-art-business-festival/' | L(lang) }}">{{ G.event }} ›</a>
@@ -36,7 +37,7 @@ eleventyComputed:
 
     {%- for key in ["graduation", "student", "team", "faculty"] %}
     <h2 class="group-title" id="{{ key }}">{{ G.sections[key] }} <span class="fest-count">{{ W[key].length }} {{ G.count }}</span></h2>
-    {% if G.desc[key] %}<p class="resource-text">{{ G.desc[key] }}{% if key == "graduation" %} {{ G.gradNote }}{% endif %}</p>{% endif %}
+    {% if G.desc[key] %}<p class="resource-text">{{ G.desc[key] }}</p>{% endif %}
     <ul class="fest-grid{% if key == 'faculty' %} fest-grid--wide{% endif %}">
       {%- for w in W[key] %}
       <li class="fest-card{% if w.award %} fest-card--award{% endif %}">
@@ -70,6 +71,19 @@ eleventyComputed:
           <span class="fest-thumb"><img src="/images/festival/videos/{{ v.yt }}.jpg" alt="" width="480" height="270" loading="lazy"><span class="fest-icon" aria-hidden="true"></span></span>
         </button>
         <div class="fest-body"><p class="fest-title">{{ v[lang] }}</p></div>
+      </li>
+      {%- endfor %}
+    </ul>
+
+    <h2 class="group-title" id="press">{{ G.sections.press }}</h2>
+    <p class="resource-text">{{ G.desc.press }}</p>
+    <ul class="fest-grid fest-press">
+      {%- for a in festivalGallery.press %}
+      <li class="fest-card">
+        <a class="fest-press-link" href="{{ a.url }}"{% if a.url.startsWith("http") %} target="_blank" rel="noopener"{% endif %}>
+          <span class="fest-press-img"><img src="/images/festival/press/{{ a.img }}.jpg" alt="" width="480" height="360" loading="lazy"></span>
+          <span class="fest-body"><span class="fest-name">{{ a.outlet[lang] }} <span>{{ a.date }}</span></span><span class="fest-title" lang="ko">{{ a.headline }}</span></span>{% if a.url.startsWith("http") %}<span class="sr-only">{{ T.newWin }}</span>{% endif %}
+        </a>
       </li>
       {%- endfor %}
     </ul>

@@ -144,7 +144,8 @@
    "faculty": "교수 특별 출품작",
    "photos": "현장 사진",
    "catalogs": "작품집",
-   "videos": "행사 영상"
+   "videos": "행사 영상",
+   "press": "언론 보도"
   },
   "desc": {
    "graduation": "4학년 학생 88명의 졸업작품입니다. AI 챗봇·OCR 자동화·경쟁사 분석 리포트·AI 홍보 영상 등 실제 비즈니스 과제를 AI로 풀었습니다.",
@@ -153,7 +154,8 @@
    "faculty": "",
    "photos": "",
    "catalogs": "전시에 맞춰 펴낸 작품 목록 리플렛입니다(PDF, Google Drive).",
-   "videos": "개회식 축사와 시상, 전시 설명, 강의 영상입니다."
+   "videos": "개회식 축사와 시상, 전시 설명, 강의 영상입니다.",
+   "press": "행사를 소개한 신문 기사입니다. 기사 제목을 누르면 원문으로 이동합니다."
   },
   "groups": {
    "opening": "개막식 · 6. 24.",
@@ -176,7 +178,7 @@
   "catGeneral": "일반작품 목록 리플렛",
   "members": "참여",
   "crumb": "갤러리",
-  "gradNote": "졸업작품 영상은 정리를 마치는 대로 이곳에서 볼 수 있습니다."
+  "gradNote": ""
  },
  "en": {
   "title": "2026 AI Art & Business Festival Gallery",
@@ -191,7 +193,8 @@
    "faculty": "Faculty Works",
    "photos": "Photos",
    "catalogs": "Catalogues",
-   "videos": "Event videos"
+   "videos": "Event videos",
+   "press": "Press coverage"
   },
   "desc": {
    "graduation": "Graduation works by 88 fourth-year students, solving real business tasks with AI: chatbots, OCR automation, competitor reports and AI promotional videos.",
@@ -200,7 +203,8 @@
    "faculty": "",
    "photos": "",
    "catalogs": "Work-list leaflets published for the exhibition (PDF, Google Drive). In Korean.",
-   "videos": "Speeches, awards, the exhibition talk and a lecture from the festival."
+   "videos": "Speeches, awards, the exhibition talk and a lecture from the festival.",
+   "press": "News articles about the festival (in Korean). Select a headline to open the original article."
   },
   "groups": {
    "opening": "Opening ceremony · Jun 24",
@@ -223,7 +227,7 @@
   "catGeneral": "General works leaflet",
   "members": "Team",
   "crumb": "Gallery",
-  "gradNote": "Videos of the graduation works will be available here soon."
+  "gradNote": ""
  },
  "vi": {
   "title": "Thư viện 2026 AI Art & Business Festival",
@@ -238,7 +242,8 @@
    "faculty": "Tác phẩm của giảng viên",
    "photos": "Hình ảnh",
    "catalogs": "Danh mục tác phẩm",
-   "videos": "Video sự kiện"
+   "videos": "Video sự kiện",
+   "press": "Báo chí đưa tin"
   },
   "desc": {
    "graduation": "Tác phẩm tốt nghiệp của 88 sinh viên năm 4, giải quyết bài toán kinh doanh thực tế bằng AI: chatbot, tự động hóa OCR, báo cáo đối thủ và video quảng bá AI.",
@@ -247,7 +252,8 @@
    "faculty": "",
    "photos": "",
    "catalogs": "Tờ danh mục tác phẩm phát hành cho triển lãm (PDF, Google Drive), bằng tiếng Hàn.",
-   "videos": "Các bài phát biểu, lễ trao giải, phần giới thiệu triển lãm và bài giảng tại lễ hội."
+   "videos": "Các bài phát biểu, lễ trao giải, phần giới thiệu triển lãm và bài giảng tại lễ hội.",
+   "press": "Các bài báo giới thiệu lễ hội (tiếng Hàn). Chọn tiêu đề để mở bài gốc."
   },
   "groups": {
    "opening": "Lễ khai mạc · 24/6",
@@ -270,7 +276,7 @@
   "catGeneral": "Danh mục tác phẩm chung",
   "members": "Nhóm",
   "crumb": "Thư viện",
-  "gradNote": "Video tác phẩm tốt nghiệp sẽ sớm được cập nhật tại đây."
+  "gradNote": ""
  },
  "videos": [
   {
@@ -346,5 +352,62 @@
    "vi": "Trao giải · Tran Thi Huong Sen (Giải Ưu tú)"
   }
  ],
- "ytEmbed": "https://www.youtube-nocookie.com/embed/{id}?autoplay=1&rel=0"
+ "ytEmbed": "https://www.youtube-nocookie.com/embed/{id}?autoplay=1&rel=0",
+ "press": [
+  {
+   "img": "gukje",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3617661",
+   "date": "2026-06-25",
+   "outlet": {
+    "ko": "국제뉴스",
+    "en": "Gukje News",
+    "vi": "Gukje News"
+   },
+   "headline": "한성대 글로벌 AI 경영컨설팅학과 2026 AI Art & Business Festival 개막"
+  },
+  {
+   "img": "mimint",
+   "url": "https://unse.mimint.co.kr/bbs/view/news/S1N17/5446645",
+   "date": "2026-06-25",
+   "outlet": {
+    "ko": "마이민트",
+    "en": "Mimint",
+    "vi": "Mimint"
+   },
+   "headline": "한성대 글로벌 AI 경영컨설팅학과 2026 AI Art & Business Festival 개막"
+  },
+  {
+   "img": "veritas",
+   "url": "https://www.veritas-a.com/news/articleView.html?idxno=617052",
+   "date": "2026-06-29",
+   "outlet": {
+    "ko": "베리타스알파",
+    "en": "Veritas Alpha",
+    "vi": "Veritas Alpha"
+   },
+   "headline": "한성대 글로벌 AI 경영컨설팅학과 '2026 AI Art & Business Festival' 개최"
+  },
+  {
+   "img": "smart",
+   "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=126168",
+   "date": "2026-06-29",
+   "outlet": {
+    "ko": "스마트경제",
+    "en": "Smart Economy",
+    "vi": "Smart Economy"
+   },
+   "headline": "예술과 비즈니스의 AI 융합… 한성대, 인사동서 'AI 아트&비즈니스 페스티벌' 전격 개최"
+  },
+  {
+   "img": "vn",
+   "url": "/files/news/20260625_vietnamnews_clipping.pdf",
+   "date": "2026-06",
+   "outlet": {
+    "ko": "베트남뉴스(하노이 한인회) · PDF",
+    "en": "Vietnam News, Korean Association in Hanoi · PDF",
+    "vi": "Vietnam News, Hội người Hàn tại Hà Nội · PDF"
+   },
+   "headline": "한성대 글로벌 AI 경영컨설팅학과, 제1회 AI 아트 & 비즈니스 페스티벌 개막"
+  }
+ ]
 }

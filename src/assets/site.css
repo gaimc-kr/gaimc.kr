@@ -584,3 +584,8 @@ html.fm-open { overflow: hidden; }
   .fest-modal .fm-prev, .fest-modal .fm-next { top: auto; bottom: 8px; margin-top: 0; }
 }
 @media (max-width: 420px) { .fest-grid { grid-template-columns: 1fr; } }
+.fest-press-link { display: block; text-decoration: none; color: inherit; height: 100%; }
+.fest-press-link:hover .fest-title { text-decoration: underline; }
+.fest-press-img { display: block; aspect-ratio: 4 / 3; overflow: hidden; border-bottom: 1px solid var(--line); background: #fff; }
+.fest-press-img img { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+.fest-press .fest-name, .fest-press .fest-title { display: block; }
