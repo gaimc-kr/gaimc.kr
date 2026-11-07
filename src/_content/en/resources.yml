@@ -11,7 +11,7 @@ groups:
         files:
           - label: Download MP4
             file: /files/videos/gaimc-promo-ko.mp4
-            info: MP4 · 80 sec · 26.7 MB
+            info: MP4 · 80 sec · 26.5 MB
       - lang_label: English
         lang: en
         cover: /images/resources/promo-en.jpg
@@ -19,7 +19,7 @@ groups:
         files:
           - label: Download MP4
             file: /files/videos/gaimc-promo-en.mp4
-            info: MP4 · 76 sec · 26.0 MB
+            info: MP4 · 76 sec · 25.5 MB
       - lang_label: Tiếng Việt (Vietnamese)
         lang: vi
         cover: /images/resources/promo-vi.jpg
@@ -27,7 +27,7 @@ groups:
         files:
           - label: Download MP4
             file: /files/videos/gaimc-promo-vi.mp4
-            info: MP4 · 69 sec · 24.2 MB
+            info: MP4 · 69 sec · 23.7 MB
   - title: Department brochure
     text: A four-page brochure covering the department, curriculum, Global IPP, faculty and partners. Choose the A4 four-page version for reading on screen or sending by email, and the A3 double-sided version for printing (print both sides on A3 paper and fold in half).
     items:
