@@ -81,7 +81,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("newsPages", (api) => LANGS.flatMap((lang) => news(api).map((p) => localize(p, lang, "news"))));
 
   // 주소 앞에 언어 붙이기: {{ "/about/" | L(lang) }}
-  eleventyConfig.addFilter("L", (path, lang) => (String(path).startsWith("/") ? `${PREFIX[lang] || ""}${path}` : path));
+  // 파일·이미지·영상 같은 정적 자료(/files/, /images/, /assets/)는 언어 접두어 없이 그대로 둠
+  eleventyConfig.addFilter("L", (path, lang) => {
+    const p = String(path);
+    if (!p.startsWith("/") || /^\/(files|images|assets)\//.test(p)) return p;
+    return `${PREFIX[lang] || ""}${p}`;
+  });
   // 같은 페이지의 다른 언어 주소
   eleventyConfig.addFilter("switchLang", (url, target) => {
     let bare = String(url || "/").replace(/^\/(en|vi)(?=\/)/, "") || "/";
