@@ -1,5 +1,4 @@
 {
- "drivePreview": "https://drive.google.com/file/d/{id}/preview",
  "catalogs": {
   "graduation": "1k8bX9fD_GXqhyDAB9w2AlmQDqj6E_7Pi",
   "general": "1x3iI1jCSAQBNBHSPiEyNE_YZncVp9nsD"
@@ -137,14 +136,15 @@
   "lead": "인사동 마루아트센터에서 열린 제1회 글로벌 AI 창작 및 비즈니스 Week의 전시 작품 영상과 현장 사진입니다.",
   "eyebrow": "GALLERY",
   "event": "행사 안내 페이지",
-  "intro": "글로벌AI경영컨설팅학과 학생과 교수진이 AI로 만든 작품 149편을 모았습니다. 재생 표시가 있는 작품을 누르면 영상이 재생됩니다.",
+  "intro": "글로벌AI경영컨설팅학과 학생과 교수진이 AI로 만든 작품 152편을 모았습니다. 재생 표시가 있는 작품을 누르면 영상이 재생됩니다.",
   "sections": {
    "graduation": "졸업작품전",
    "student": "학생 개인 작품",
    "team": "팀 협업 작품",
    "faculty": "교수 특별 출품작",
    "photos": "현장 사진",
-   "catalogs": "작품집"
+   "catalogs": "작품집",
+   "videos": "행사 영상"
   },
   "desc": {
    "graduation": "4학년 학생 88명의 졸업작품입니다. AI 챗봇·OCR 자동화·경쟁사 분석 리포트·AI 홍보 영상 등 실제 비즈니스 과제를 AI로 풀었습니다.",
@@ -152,7 +152,8 @@
    "team": "여러 학생이 함께 기획하고 제작한 팀 작품입니다.",
    "faculty": "",
    "photos": "",
-   "catalogs": "전시에 맞춰 펴낸 작품 목록 리플렛입니다(PDF, Google Drive)."
+   "catalogs": "전시에 맞춰 펴낸 작품 목록 리플렛입니다(PDF, Google Drive).",
+   "videos": "개회식 축사와 시상, 전시 설명, 강의 영상입니다."
   },
   "groups": {
    "opening": "개막식 · 6. 24.",
@@ -170,7 +171,7 @@
   "close": "닫기",
   "prev": "이전 작품",
   "next": "다음 작품",
-  "openDrive": "Google Drive에서 열기",
+  "openDrive": "YouTube에서 보기",
   "catGrad": "졸업작품 목록 리플렛",
   "catGeneral": "일반작품 목록 리플렛",
   "members": "참여",
@@ -182,14 +183,15 @@
   "lead": "Work videos and photos from the 1st Global AI Creation and Business Week at Maru Art Center, Insa-dong.",
   "eyebrow": "GALLERY",
   "event": "Event page",
-  "intro": "149 works made with AI by students and faculty of the Department of Global AI Management Consulting. Select a work with a play button to watch its video.",
+  "intro": "152 works made with AI by students and faculty of the Department of Global AI Management Consulting. Select a work with a play button to watch its video.",
   "sections": {
    "graduation": "Graduation Exhibition",
    "student": "Individual Student Works",
    "team": "Team Works",
    "faculty": "Faculty Works",
    "photos": "Photos",
-   "catalogs": "Catalogues"
+   "catalogs": "Catalogues",
+   "videos": "Event videos"
   },
   "desc": {
    "graduation": "Graduation works by 88 fourth-year students, solving real business tasks with AI: chatbots, OCR automation, competitor reports and AI promotional videos.",
@@ -197,7 +199,8 @@
    "team": "Works planned and produced together by student teams.",
    "faculty": "",
    "photos": "",
-   "catalogs": "Work-list leaflets published for the exhibition (PDF, Google Drive). In Korean."
+   "catalogs": "Work-list leaflets published for the exhibition (PDF, Google Drive). In Korean.",
+   "videos": "Speeches, awards, the exhibition talk and a lecture from the festival."
   },
   "groups": {
    "opening": "Opening ceremony · Jun 24",
@@ -215,7 +218,7 @@
   "close": "Close",
   "prev": "Previous work",
   "next": "Next work",
-  "openDrive": "Open in Google Drive",
+  "openDrive": "Watch on YouTube",
   "catGrad": "Graduation works leaflet",
   "catGeneral": "General works leaflet",
   "members": "Team",
@@ -227,14 +230,15 @@
   "lead": "Video tác phẩm và hình ảnh từ Tuần lễ Sáng tạo và Kinh doanh AI Toàn cầu lần thứ nhất tại Trung tâm Nghệ thuật Maru, Insa-dong.",
   "eyebrow": "GALLERY",
   "event": "Trang sự kiện",
-  "intro": "149 tác phẩm do sinh viên và giảng viên Khoa Tư vấn Quản trị AI Toàn cầu tạo ra với AI. Chọn tác phẩm có nút phát để xem video.",
+  "intro": "152 tác phẩm do sinh viên và giảng viên Khoa Tư vấn Quản trị AI Toàn cầu tạo ra với AI. Chọn tác phẩm có nút phát để xem video.",
   "sections": {
    "graduation": "Triển lãm tốt nghiệp",
    "student": "Tác phẩm cá nhân",
    "team": "Tác phẩm nhóm",
    "faculty": "Tác phẩm của giảng viên",
    "photos": "Hình ảnh",
-   "catalogs": "Danh mục tác phẩm"
+   "catalogs": "Danh mục tác phẩm",
+   "videos": "Video sự kiện"
   },
   "desc": {
    "graduation": "Tác phẩm tốt nghiệp của 88 sinh viên năm 4, giải quyết bài toán kinh doanh thực tế bằng AI: chatbot, tự động hóa OCR, báo cáo đối thủ và video quảng bá AI.",
@@ -242,7 +246,8 @@
    "team": "Tác phẩm do các nhóm sinh viên cùng lên ý tưởng và thực hiện.",
    "faculty": "",
    "photos": "",
-   "catalogs": "Tờ danh mục tác phẩm phát hành cho triển lãm (PDF, Google Drive), bằng tiếng Hàn."
+   "catalogs": "Tờ danh mục tác phẩm phát hành cho triển lãm (PDF, Google Drive), bằng tiếng Hàn.",
+   "videos": "Các bài phát biểu, lễ trao giải, phần giới thiệu triển lãm và bài giảng tại lễ hội."
   },
   "groups": {
    "opening": "Lễ khai mạc · 24/6",
@@ -260,11 +265,86 @@
   "close": "Đóng",
   "prev": "Tác phẩm trước",
   "next": "Tác phẩm sau",
-  "openDrive": "Mở trên Google Drive",
+  "openDrive": "Xem trên YouTube",
   "catGrad": "Danh mục tác phẩm tốt nghiệp",
   "catGeneral": "Danh mục tác phẩm chung",
   "members": "Nhóm",
   "crumb": "Thư viện",
   "gradNote": "Video tác phẩm tốt nghiệp sẽ sớm được cập nhật tại đây."
- }
+ },
+ "videos": [
+  {
+   "yt": "EToy-tSeDxI",
+   "ko": "개회사 · 정진택 대학원장",
+   "en": "Opening address · Dean Jung Jin-taek",
+   "vi": "Diễn văn khai mạc · Viện trưởng Jung Jin-taek"
+  },
+  {
+   "yt": "mgoV_vuQXjI",
+   "ko": "개회 선언 · 장인보 감독",
+   "en": "Opening declaration · Director Jang In-bo",
+   "vi": "Tuyên bố khai mạc · Đạo diễn Jang In-bo"
+  },
+  {
+   "yt": "5EmIsITzQjo",
+   "ko": "축사 · 곽상언 국회의원",
+   "en": "Congratulatory speech · National Assembly member Kwak Sang-eon",
+   "vi": "Phát biểu chúc mừng · Nghị sĩ Kwak Sang-eon"
+  },
+  {
+   "yt": "dS74sjo0KE0",
+   "ko": "축사 · 이종철 서울출입국·외국인청장",
+   "en": "Congratulatory speech · Lee Jong-chul, Chief of the Seoul Immigration Service",
+   "vi": "Phát biểu chúc mừng · Ông Lee Jong-chul, Cục trưởng Cục Xuất nhập cảnh Seoul"
+  },
+  {
+   "yt": "Y2VcOatIJjA",
+   "ko": "축사 · 노규성 한국AI융합기술인협회 회장",
+   "en": "Congratulatory speech · Roh Kyu-sung, President of the Korea AI Convergence Technology Association",
+   "vi": "Phát biểu chúc mừng · Ông Roh Kyu-sung, Chủ tịch Hiệp hội Kỹ thuật viên Hội tụ AI Hàn Quốc"
+  },
+  {
+   "yt": "bFut_pr-TAI",
+   "ko": "축사 · 장인보 감독",
+   "en": "Congratulatory speech · Director Jang In-bo",
+   "vi": "Phát biểu chúc mừng · Đạo diễn Jang In-bo"
+  },
+  {
+   "yt": "MqXpXc00BcI",
+   "ko": "격려사 · 박연조 한국웹툰협회 부회장",
+   "en": "Words of encouragement · Park Yeon-jo, Vice President of the Korea Webtoon Association",
+   "vi": "Lời khích lệ · Bà Park Yeon-jo, Phó Chủ tịch Hiệp hội Webtoon Hàn Quốc"
+  },
+  {
+   "yt": "h5Zjm7vE0bw",
+   "ko": "격려사 · 최미정 한국라틴문화협회 회장",
+   "en": "Words of encouragement · Choi Mi-jung, President of the Korea Latin Culture Association",
+   "vi": "Lời khích lệ · Bà Choi Mi-jung, Chủ tịch Hiệp hội Văn hóa Latin Hàn Quốc"
+  },
+  {
+   "yt": "Qv4LAvppq6w",
+   "ko": "전시 설명 · 정진택 대학원장",
+   "en": "Exhibition talk · Dean Jung Jin-taek",
+   "vi": "Giới thiệu triển lãm · Viện trưởng Jung Jin-taek"
+  },
+  {
+   "yt": "6RIT9RnCBCc",
+   "ko": "AI 비즈니스 강의 · 박양수 교수",
+   "en": "AI business lecture · Prof. Park Yang-soo",
+   "vi": "Bài giảng kinh doanh AI · GS. Park Yang-soo"
+  },
+  {
+   "yt": "kEylKowwaX4",
+   "ko": "시상 · 레반로이(최우수상)",
+   "en": "Award presentation · Le Van Loi (Excellence Award)",
+   "vi": "Trao giải · Le Van Loi (Giải Xuất sắc)"
+  },
+  {
+   "yt": "aO2NnkOjCeQ",
+   "ko": "시상 · 트란티흐엉센(우수상)",
+   "en": "Award presentation · Tran Thi Huong Sen (Superior Award)",
+   "vi": "Trao giải · Tran Thi Huong Sen (Giải Ưu tú)"
+  }
+ ],
+ "ytEmbed": "https://www.youtube-nocookie.com/embed/{id}?autoplay=1&rel=0"
 }

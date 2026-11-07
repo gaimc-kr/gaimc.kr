@@ -21,13 +21,14 @@ eleventyComputed:
     <p class="lead">{{ G.lead }}</p>
   </div>
 </div>
-<section class="section fest" data-fest data-preview="{{ festivalGallery.drivePreview }}" data-close="{{ G.close }}" data-prev="{{ G.prev }}" data-next="{{ G.next }}" data-open="{{ G.openDrive }}">
+<section class="section fest" data-fest data-embed="{{ festivalGallery.ytEmbed }}" data-close="{{ G.close }}" data-prev="{{ G.prev }}" data-next="{{ G.next }}" data-open="{{ G.openDrive }}">
   <div class="container">
     <p class="intro-text">{{ G.intro }}</p>
     <nav class="fest-nav" aria-label="{{ G.title }}">
       {%- for key in ["graduation", "student", "team", "faculty"] %}
       <a href="#{{ key }}">{{ G.sections[key] }} <span class="fest-count">{{ W[key].length }}</span></a>
       {%- endfor %}
+      <a href="#videos">{{ G.sections.videos }} <span class="fest-count">{{ festivalGallery.videos.length }}</span></a>
       <a href="#photos">{{ G.sections.photos }}</a>
       <a href="#catalogs">{{ G.sections.catalogs }}</a>
       <a href="{{ '/events/ai-art-business-festival/' | L(lang) }}">{{ G.event }} ›</a>
@@ -39,8 +40,8 @@ eleventyComputed:
     <ul class="fest-grid{% if key == 'faculty' %} fest-grid--wide{% endif %}">
       {%- for w in W[key] %}
       <li class="fest-card{% if w.award %} fest-card--award{% endif %}">
-        {%- if w.drive %}
-        <button type="button" class="fest-play" data-drive="{{ w.drive }}" aria-label="{{ G.play }}: {{ w.title[lang] }}">
+        {%- if w.yt %}
+        <button type="button" class="fest-play" data-yt="{{ w.yt }}" aria-label="{{ G.play }}: {{ w.title[lang] }}">
           <span class="fest-thumb"><img src="/images/festival/works/{{ w.code }}.jpg" alt="" width="480" height="270" loading="lazy"><span class="fest-code">{{ w.code }}</span>{% if w.award %}<span class="fest-award">{{ G.awards[w.award] }}</span>{% endif %}<span class="fest-icon" aria-hidden="true"></span></span>
         </button>
         {%- else %}
@@ -59,6 +60,19 @@ eleventyComputed:
       {%- endfor %}
     </ul>
     {%- endfor %}
+
+    <h2 class="group-title" id="videos">{{ G.sections.videos }}</h2>
+    <p class="resource-text">{{ G.desc.videos }}</p>
+    <ul class="fest-grid">
+      {%- for v in festivalGallery.videos %}
+      <li class="fest-card">
+        <button type="button" class="fest-play" data-yt="{{ v.yt }}" aria-label="{{ G.play }}: {{ v[lang] }}">
+          <span class="fest-thumb"><img src="/images/festival/videos/{{ v.yt }}.jpg" alt="" width="480" height="270" loading="lazy"><span class="fest-icon" aria-hidden="true"></span></span>
+        </button>
+        <div class="fest-body"><p class="fest-title">{{ v[lang] }}</p></div>
+      </li>
+      {%- endfor %}
+    </ul>
 
     <h2 class="group-title" id="photos">{{ G.sections.photos }}</h2>
     <div data-lightbox>

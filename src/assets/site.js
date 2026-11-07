@@ -150,12 +150,13 @@
     var fCur = 0, fOpener = null;
     var fShow = function (i) {
       fCur = (i + fBtns.length) % fBtns.length;
-      var b = fBtns[fCur], id = b.dataset.drive, card = b.closest(".fest-card");
-      fFrame.innerHTML = '<iframe src="' + FD.preview.replace("{id}", id) + '" allow="autoplay; fullscreen" allowfullscreen title=""></iframe>';
+      var b = fBtns[fCur], id = b.dataset.yt, card = b.closest(".fest-card");
+      fFrame.innerHTML = '<iframe src="' + FD.embed.replace("{id}", id) + '" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" title=""></iframe>';
       fFrame.querySelector("iframe").title = b.getAttribute("aria-label");
       var name = card.querySelector(".fest-name"), title = card.querySelector(".fest-title");
-      fText.textContent = (card.querySelector(".fest-code").textContent + " · ") + (name ? name.textContent.replace(/\s+/g, " ").trim() + " — " : "") + (title ? title.textContent : "");
-      fLink.href = "https://drive.google.com/file/d/" + id + "/view";
+      var code = card.querySelector(".fest-code");
+      fText.textContent = (code ? code.textContent + " · " : "") + (name ? name.textContent.replace(/\s+/g, " ").trim() + " — " : "") + (title ? title.textContent : "");
+      fLink.href = "https://www.youtube.com/watch?v=" + id;
       fLink.textContent = FD.open + " ↗";
     };
     var fClose = function () {

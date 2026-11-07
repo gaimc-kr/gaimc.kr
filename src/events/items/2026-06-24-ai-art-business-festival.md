@@ -101,11 +101,11 @@ partners:
 - 한성대학교 지식서비스&컨설팅대학원
 - 글로벌 K
 links:
-- label: 행사 갤러리 (작품 영상 149편·현장 사진)
+- label: 행사 갤러리 (작품 영상 152편·현장 사진)
   url: /events/ai-art-business-festival/gallery/
 - label: 언론 보도 모음
   url: /news/ai-festival-press/
-memo: 출처 - 행사 개요(2026. 6. 11. 수정본), 보도자료(2026. 6. 24.), 행사 갤러리 사이트(현재 비공개, 링크 제거, 2026. 11. 7. 학과 홈페이지 안 갤러리 페이지로 대체 — 작품 영상은 드라이브 2026_ai_business 폴더 공개 파일, 작품명은 작품집 리플렛 기준). 사진은 학과장 드라이브(보도자료·행사_수상자_사진 폴더, 2026. 11. 7. 추가). 축사 이종철 청장은 개요 초안의 다른 이름 대신 보도자료·현장 기록 기준
+memo: 출처 - 행사 개요(2026. 6. 11. 수정본), 보도자료(2026. 6. 24.), 행사 갤러리 사이트(현재 비공개, 링크 제거, 2026. 11. 7. 학과 홈페이지 안 갤러리 페이지로 대체 — 작품 영상은 학과장 유튜브 채널(작품번호로 매칭), 작품명은 작품집 리플렛 기준). 사진은 학과장 드라이브(보도자료·행사_수상자_사진 폴더, 2026. 11. 7. 추가). 축사 이종철 청장은 개요 초안의 다른 이름 대신 보도자료·현장 기록 기준
 en:
   title: 2026 AI Art & Business Festival (1st Global AI Creation and Business Week)
   place: Halls 5 (2F) and Grand Hall (3F), Maru Art Center, Insa-dong, Seoul
@@ -203,7 +203,7 @@ en:
   - Graduate School of Knowledge Service & Consulting, Hansung University
   - Global K
   links:
-  - label: Festival gallery (149 work videos and photos)
+  - label: Festival gallery (152 work videos and photos)
     url: /events/ai-art-business-festival/gallery/
   - label: Press coverage
     url: /news/ai-festival-press/
@@ -319,7 +319,7 @@ vi:
   - Cao học Dịch vụ Tri thức & Tư vấn, Đại học Hansung
   - Global K
   links:
-  - label: "Thư viện lễ hội (149 video tác phẩm, hình ảnh)"
+  - label: "Thư viện lễ hội (152 video tác phẩm, hình ảnh)"
     url: /events/ai-art-business-festival/gallery/
   - label: Tổng hợp tin báo chí
     url: /news/ai-festival-press/
