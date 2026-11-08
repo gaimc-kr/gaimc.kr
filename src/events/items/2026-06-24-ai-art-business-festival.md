@@ -6,6 +6,7 @@ end_date: 2026-06-29
 place: 서울 인사동 마루아트센터 5관(본관 2층)·그랜드관(본관 3층)
 summary: 인사동 마루아트센터에서 AI 아트 초대전과 학과 졸업작품 전시, 개회식·시상식, 세미나, 다국적 학생 대상 AI 비즈니스 교육을 6일간 진행했습니다.
 status: done
+pinned: true
 cover: /images/events/ai-festival-2026-1.jpg
 cover_alt: 개막식에서 내빈과 학과 교수진이 함께한 기념 촬영
 gallery:

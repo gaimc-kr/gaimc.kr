@@ -10,10 +10,17 @@ permalink: "{{ langs.prefix[lang] }}/events/"
 {%- set T = i18n[lang] -%}{%- set C = loc[lang] -%}{%- set S = C.site -%}{%- set X = collections.l10n[lang] -%}
 <section class="section">
   <div class="container">
+    {%- set pinned = [] %}{% for e in X.events %}{% if e.data.pinned %}{% set pinned = (pinned.push(e), pinned) %}{% endif %}{% endfor %}
+    {%- if pinned.length %}
+    <h2 class="group-title">{{ T.events.featured }}</h2>
+    <ul class="event-cards event-cards--featured">
+      {%- for e in pinned %}<li>{% include "partials/event-card.njk" %}</li>{% endfor %}
+    </ul>
+    {%- endif %}
     {%- for g in X.events | groupByYear %}
     <h2 class="group-title">{{ g.year }}</h2>
     <ul class="event-cards">
-      {%- for e in g.items %}<li>{% include "partials/event-card.njk" %}</li>{% endfor %}
+      {%- for e in g.items %}{% if not e.data.pinned %}<li>{% include "partials/event-card.njk" %}</li>{% endif %}{% endfor %}
     </ul>
     {%- endfor %}
   </div>

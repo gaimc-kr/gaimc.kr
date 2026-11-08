@@ -37,6 +37,21 @@ permalink: "{{ langs.prefix[lang] }}/"
   </div>
 </section>
 
+{%- set FG = festivalGallery[lang].home %}
+<section class="section feature-wrap" aria-labelledby="feature-title">
+  <div class="container">
+    <a class="feature-banner" href="{{ '/events/ai-art-business-festival/gallery/' | L(lang) }}">
+      <span class="feature-img"><img src="/images/events/ai-festival-2026-1.jpg" alt="" loading="lazy"></span>
+      <span class="feature-body">
+        <span class="eyebrow">{{ FG.eyebrow }}</span>
+        <span class="feature-title" id="feature-title">{{ FG.title }}</span>
+        <span class="feature-text">{{ FG.text }}</span>
+        <span class="btn btn-primary feature-btn">{{ FG.btn }} <span aria-hidden="true">→</span></span>
+      </span>
+    </a>
+  </div>
+</section>
+
 <section class="section section-sky" aria-labelledby="stats-title">
   <div class="container">
     <div class="section-head">

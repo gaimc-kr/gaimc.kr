@@ -35,6 +35,15 @@ eleventyComputed:
       <a href="{{ '/events/ai-art-business-festival/' | L(lang) }}">{{ G.event }} ›</a>
     </nav>
 
+    <div class="related-box">
+      <h2 class="related-title" id="catalogs">{{ G.sections.catalogs }}</h2>
+      <p class="related-desc">{{ G.desc.catalogs }}</p>
+      <ul class="related-links">
+        <li><a href="https://drive.google.com/file/d/{{ festivalGallery.catalogs.graduation }}/view" target="_blank" rel="noopener">{{ G.catGrad }} (PDF)<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span></a></li>
+        <li><a href="https://drive.google.com/file/d/{{ festivalGallery.catalogs.general }}/view" target="_blank" rel="noopener">{{ G.catGeneral }} (PDF)<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span></a></li>
+      </ul>
+    </div>
+
     {%- for key in ["graduation", "student", "team", "faculty"] %}
     <h2 class="group-title" id="{{ key }}">{{ G.sections[key] }} <span class="fest-count">{{ W[key].length }} {{ G.count }}</span></h2>
     {% if G.desc[key] %}<p class="resource-text">{{ G.desc[key] }}</p>{% endif %}
@@ -100,12 +109,6 @@ eleventyComputed:
     {%- endfor %}
     </div>
 
-    <h2 class="group-title" id="catalogs">{{ G.sections.catalogs }}</h2>
-    <p class="resource-text">{{ G.desc.catalogs }}</p>
-    <ul class="link-list">
-      <li><a href="https://drive.google.com/file/d/{{ festivalGallery.catalogs.graduation }}/view" target="_blank" rel="noopener">{{ G.catGrad }} (PDF)<span class="sr-only">{{ T.newWin }}</span></a></li>
-      <li><a href="https://drive.google.com/file/d/{{ festivalGallery.catalogs.general }}/view" target="_blank" rel="noopener">{{ G.catGeneral }} (PDF)<span class="sr-only">{{ T.newWin }}</span></a></li>
-    </ul>
     <p class="back"><a class="btn btn-outline" href="{{ '/events/ai-art-business-festival/' | L(lang) }}">{{ G.event }}</a></p>
   </div>
 </section>
