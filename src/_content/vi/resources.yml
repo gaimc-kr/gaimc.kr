@@ -11,7 +11,7 @@ groups:
         files:
           - label: Tải MP4
             file: /files/videos/gaimc-promo-ko.mp4
-            info: MP4 · 80 giây · 29.4 MB
+            info: MP4 · 80 giây · 29.3 MB
       - lang_label: Tiếng Anh
         lang: en
         cover: /images/resources/promo-en.jpg
@@ -27,7 +27,7 @@ groups:
         files:
           - label: Tải MP4
             file: /files/videos/gaimc-promo-vi.mp4
-            info: MP4 · 69 giây · 26.4 MB
+            info: MP4 · 69 giây · 26.3 MB
   - title: Video ngắn giới thiệu khoa (dọc)
     type: video
     vertical: true
