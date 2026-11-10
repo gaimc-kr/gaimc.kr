@@ -28,6 +28,35 @@ groups:
           - label: Tải MP4
             file: /files/videos/gaimc-promo-vi.mp4
             info: MP4 · 69 giây · 26.4 MB
+  - title: Video ngắn giới thiệu khoa (dọc)
+    type: video
+    vertical: true
+    text: "Video giới thiệu dạng dọc 30 giây dành cho màn hình điện thoại. Video cho thấy thành phố, nhà máy và logistics năm 2031 được AI thay đổi, đồng thời giới thiệu khoa đào tạo chuyên gia tư vấn quản trị AI toàn cầu – những người sẽ thiết kế tương lai đó. Các cảnh được tạo bằng hình ảnh AI. Hãy chia sẻ trực tiếp lên Instagram Reels, YouTube Shorts, TikTok và các ứng dụng nhắn tin."
+    items:
+      - lang_label: Tiếng Hàn
+        lang: ko
+        cover: /images/resources/shorts-ko.jpg
+        video: /files/videos/gaimc-shorts-ko.mp4
+        files:
+          - label: Tải MP4
+            file: /files/videos/gaimc-shorts-ko.mp4
+            info: MP4 · 30 giây · 8.3 MB
+      - lang_label: Tiếng Anh
+        lang: en
+        cover: /images/resources/shorts-en.jpg
+        video: /files/videos/gaimc-shorts-en.mp4
+        files:
+          - label: Tải MP4
+            file: /files/videos/gaimc-shorts-en.mp4
+            info: MP4 · 30 giây · 8.2 MB
+      - lang_label: Tiếng Việt
+        lang: vi
+        cover: /images/resources/shorts-vi.jpg
+        video: /files/videos/gaimc-shorts-vi.mp4
+        files:
+          - label: Tải MP4
+            file: /files/videos/gaimc-shorts-vi.mp4
+            info: MP4 · 30 giây · 8.3 MB
   - title: Tờ giới thiệu khoa
     text: Tờ giới thiệu 4 trang về khoa, chương trình đào tạo, Global IPP, đội ngũ giảng viên và các cơ sở hợp tác. Chọn bản A4 4 trang để xem trên màn hình hoặc gửi qua email, và bản in hai mặt A3 để in (in hai mặt trên giấy A3 rồi gấp đôi).
     items:

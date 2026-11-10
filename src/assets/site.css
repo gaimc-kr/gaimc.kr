@@ -618,3 +618,5 @@ html.fm-open { overflow: hidden; }
   .feature-body { padding: 22px 20px; }
   .feature-title { font-size: 1.3rem; }
 }
+/* 세로형(폰) 홍보 영상 */
+.resource-video--vertical { aspect-ratio: 9 / 16; object-fit: contain; }

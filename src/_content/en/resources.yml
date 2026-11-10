@@ -28,6 +28,35 @@ groups:
           - label: Download MP4
             file: /files/videos/gaimc-promo-vi.mp4
             info: MP4 · 69 sec · 26.4 MB
+  - title: Department shorts (vertical)
+    type: video
+    vertical: true
+    text: "A 30-second vertical promotional video made for phone screens. It shows the cities, factories and logistics of 2031 transformed by AI, and introduces the department that trains the global AI management consultants who will design that future. The scenes were created with AI-generated imagery. Share it as is on Instagram Reels, YouTube Shorts, TikTok and messaging apps."
+    items:
+      - lang_label: 한국어 (Korean)
+        lang: ko
+        cover: /images/resources/shorts-ko.jpg
+        video: /files/videos/gaimc-shorts-ko.mp4
+        files:
+          - label: Download MP4
+            file: /files/videos/gaimc-shorts-ko.mp4
+            info: MP4 · 30 sec · 8.3 MB
+      - lang_label: English
+        lang: en
+        cover: /images/resources/shorts-en.jpg
+        video: /files/videos/gaimc-shorts-en.mp4
+        files:
+          - label: Download MP4
+            file: /files/videos/gaimc-shorts-en.mp4
+            info: MP4 · 30 sec · 8.2 MB
+      - lang_label: Tiếng Việt (Vietnamese)
+        lang: vi
+        cover: /images/resources/shorts-vi.jpg
+        video: /files/videos/gaimc-shorts-vi.mp4
+        files:
+          - label: Download MP4
+            file: /files/videos/gaimc-shorts-vi.mp4
+            info: MP4 · 30 sec · 8.3 MB
   - title: Department brochure
     text: A four-page brochure covering the department, curriculum, Global IPP, faculty and partners. Choose the A4 four-page version for reading on screen or sending by email, and the A3 double-sided version for printing (print both sides on A3 paper and fold in half).
     items:
