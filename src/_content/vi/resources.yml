@@ -31,7 +31,7 @@ groups:
   - title: Video ngắn giới thiệu khoa (dọc)
     type: video
     vertical: true
-    text: "Video giới thiệu dạng dọc 30 giây dành cho màn hình điện thoại. Video cho thấy thành phố, nhà máy và logistics năm 2031 được AI thay đổi, đồng thời giới thiệu khoa đào tạo chuyên gia tư vấn quản trị AI toàn cầu – những người sẽ thiết kế tương lai đó. Các cảnh được tạo bằng hình ảnh AI. Hãy chia sẻ trực tiếp lên Instagram Reels, YouTube Shorts, TikTok và các ứng dụng nhắn tin."
+    text: "Video giới thiệu dạng dọc 30 giây dành cho màn hình điện thoại. Video cho thấy thành phố, nhà máy và logistics năm 2031 được AI thay đổi, đồng thời giới thiệu khoa đào tạo chuyên gia tư vấn quản trị AI toàn cầu – những người sẽ thiết kế tương lai đó. Các cảnh được tạo bằng hình ảnh AI."
     items:
       - lang_label: Tiếng Hàn
         lang: ko

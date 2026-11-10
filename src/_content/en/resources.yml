@@ -31,7 +31,7 @@ groups:
   - title: Department shorts (vertical)
     type: video
     vertical: true
-    text: "A 30-second vertical promotional video made for phone screens. It shows the cities, factories and logistics of 2031 transformed by AI, and introduces the department that trains the global AI management consultants who will design that future. The scenes were created with AI-generated imagery. Share it as is on Instagram Reels, YouTube Shorts, TikTok and messaging apps."
+    text: "A 30-second vertical promotional video made for phone screens. It shows the cities, factories and logistics of 2031 transformed by AI, and introduces the department that trains the global AI management consultants who will design that future. The scenes were created with AI-generated imagery."
     items:
       - lang_label: 한국어 (Korean)
         lang: ko
