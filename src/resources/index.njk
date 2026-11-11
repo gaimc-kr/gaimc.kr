@@ -11,8 +11,12 @@ permalink: "{{ langs.prefix[lang] }}/resources/"
 <section class="section">
   <div class="container">
     {% if R.intro %}<p class="section-text">{{ R.intro }}</p>{% endif %}
+    {#- 묶음 바로가기 #}
+    <nav class="fest-nav res-nav" aria-label="{{ T.pages.resources.title }}">
+      {%- for g in R.groups %}<a href="#res-{{ loop.index }}">{{ g.title }} <span class="fest-count">{{ g.items.length }}</span></a>{% endfor %}
+    </nav>
     {%- for g in R.groups %}
-    <h2 class="group-title">{{ g.title }}</h2>
+    <h2 class="group-title" id="res-{{ loop.index }}">{{ g.title }}</h2>
     {% if g.text %}<p class="resource-text">{{ g.text }}</p>{% endif %}
     <ul class="resource-grid">
       {#- 보고 있는 언어의 자료를 맨 앞에 둠 #}

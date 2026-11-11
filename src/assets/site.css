@@ -620,3 +620,4 @@ html.fm-open { overflow: hidden; }
 }
 /* 세로형(폰) 홍보 영상 */
 .resource-video--vertical { aspect-ratio: 9 / 16; object-fit: contain; }
+.res-nav { margin: 4px 0 28px; }
