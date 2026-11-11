@@ -11,7 +11,7 @@ groups:
         files:
           - label: Download MP4
             file: /files/videos/gaimc-promo-ko.mp4
-            info: MP4 · 80 sec · 29.3 MB
+            info: MP4 · 85 sec · 30.7 MB
       - lang_label: English
         lang: en
         cover: /images/resources/promo-en.jpg
@@ -19,7 +19,7 @@ groups:
         files:
           - label: Download MP4
             file: /files/videos/gaimc-promo-en.mp4
-            info: MP4 · 76 sec · 28.7 MB
+            info: MP4 · 78 sec · 28.8 MB
       - lang_label: Tiếng Việt (Vietnamese)
         lang: vi
         cover: /images/resources/promo-vi.jpg
@@ -27,7 +27,7 @@ groups:
         files:
           - label: Download MP4
             file: /files/videos/gaimc-promo-vi.mp4
-            info: MP4 · 69 sec · 26.3 MB
+            info: MP4 · 71 sec · 26.7 MB
   - title: Department shorts (vertical)
     type: video
     vertical: true
