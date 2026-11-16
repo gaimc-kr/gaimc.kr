@@ -10,8 +10,8 @@ memo: '한성대학교 국방과학대학원 교수소개(NationalDefense/3898) 
 photo: /images/faculty/jung-jinhang.jpg
 keywords:
 - 국가위기관리론
-- 글로벌 커리어 컨설팅 방법론
-- 글로벌 비즈니스 언어
+- 글로벌 AI 커리어 컨설팅 방법론
+- 글로벌 AI 비즈니스 언어
 education:
 - '박사: 한성대학교 일반대학원 정책학 (취득)'
 - '박사: 서울시립대학교 일반대학원 컴퓨터공학 (수료)'
@@ -41,8 +41,8 @@ en:
   academic: Visiting Professor, Department of Global AI Management Consulting, Hansung University
   keywords:
   - National crisis management
-  - Global career consulting methodology
-  - Global business language
+  - Global AI career consulting methodology
+  - Global AI business language
   education:
   - Ph.D. in Policy Studies, Graduate School, Hansung University
   - Ph.D. coursework completed in Computer Engineering, Graduate School, University of Seoul
@@ -61,8 +61,8 @@ vi:
   academic: Giáo sư thỉnh giảng, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
   keywords:
   - Quản lý khủng hoảng quốc gia
-  - Phương pháp tư vấn nghề nghiệp toàn cầu
-  - Ngôn ngữ kinh doanh toàn cầu
+  - Phương pháp tư vấn nghề nghiệp AI toàn cầu
+  - Ngôn ngữ kinh doanh AI toàn cầu
   education:
   - Tiến sĩ Chính sách học, Trường Sau đại học, Đại học Hansung
   - Hoàn thành chương trình tiến sĩ Kỹ thuật máy tính, Trường Sau đại học, Đại học Seoul
