@@ -18,6 +18,13 @@ permalink: "{{ langs.prefix[lang] }}/resources/"
     {%- for g in R.groups %}
     <h2 class="group-title" id="res-{{ loop.index }}">{{ g.title }}</h2>
     {% if g.text %}<p class="resource-text">{{ g.text }}</p>{% endif %}
+    {%- if g.notes %}
+    <dl class="resource-notes">
+      {%- for n in g.notes %}
+      <div><dt>{{ n.label }}</dt><dd>{% if n.url %}<a href="{{ n.url }}"{% if n.url.startsWith("http") %} target="_blank" rel="noopener"{% endif %}>{{ n.text }}{% if n.url.startsWith("http") %}<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span>{% endif %}</a>{% else %}{{ n.text }}{% endif %}</dd></div>
+      {%- endfor %}
+    </dl>
+    {%- endif %}
     <ul class="resource-grid">
       {#- 보고 있는 언어의 자료를 맨 앞에 둠 #}
       {%- set first = [] %}{% set rest = [] %}

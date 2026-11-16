@@ -1,5 +1,55 @@
 intro: "Brochures are PDFs and promotional videos are MP4s; all may be shared freely for promoting and introducing the department."
 groups:
+  - title: "D-2 → E-7 job search information session (16 Nov 2026)"
+    text: "Materials from the D-2 → E-7 job search information session held on Monday, 16 November 2026 in Room B104, Mirae Hall: the poster, the session cover, the job-matching guide presentation and a preview of participating companies, in Korean–Vietnamese and Korean–English."
+    notes:
+      - label: "Application deadline"
+        text: "Mon 30 Nov 2026"
+      - label: "Apply"
+        text: "forms.gle/PthtKsVBHTXX1sMU8"
+        url: "https://forms.gle/PthtKsVBHTXX1sMU8"
+      - label: "Contact"
+        text: "Prof. Park Yangsoo (parkys@hansung.ac.kr)"
+        url: "mailto:parkys@hansung.ac.kr"
+    items:
+      - lang_label: "Korean–Vietnamese"
+        lang: vi
+        cover: /images/resources/d2e7-ko-vi.jpg
+        files:
+          - label: "Poster"
+            file: /files/d2e7/d2e7-session-poster-ko-vi.pdf
+            info: PDF · 1 page · 199KB
+          - label: "Session cover"
+            file: /files/d2e7/d2e7-session-cover-ko-vi.pdf
+            info: PDF · 1 page · 142KB
+          - label: "Job-matching guide (slides)"
+            file: /files/d2e7/d2e7-session-guide-ko-vi.pdf
+            info: PDF · 15 pages · 518KB
+          - label: "Participating companies (Vietnamese)"
+            file: /files/d2e7/d2e7-companies-vi.pdf
+            info: PDF · 1 page · 153KB
+          - label: "Participating companies (Korean)"
+            file: /files/d2e7/d2e7-companies-ko.pdf
+            info: PDF · 1 page · 173KB
+      - lang_label: "Korean–English"
+        lang: en
+        cover: /images/resources/d2e7-ko-en.jpg
+        files:
+          - label: "Poster"
+            file: /files/d2e7/d2e7-session-poster-ko-en.pdf
+            info: PDF · 1 page · 165KB
+          - label: "Session cover"
+            file: /files/d2e7/d2e7-session-cover-ko-en.pdf
+            info: PDF · 1 page · 141KB
+          - label: "Job-matching guide (slides)"
+            file: /files/d2e7/d2e7-session-guide-ko-en.pdf
+            info: PDF · 15 pages · 513KB
+          - label: "Participating companies (English)"
+            file: /files/d2e7/d2e7-companies-en.pdf
+            info: PDF · 1 page · 101KB
+          - label: "Participating companies (Korean)"
+            file: /files/d2e7/d2e7-companies-ko.pdf
+            info: PDF · 1 page · 173KB
   - title: Department promotional video
     type: video
     text: "The department's official promotional video, introducing Global AI Management Consulting in about one minute. Available in Korean, English and Vietnamese, it covers the department and its faculty, a curriculum built around AI consulting agent modules, industry field learning, cooperation with Hanoi University of Industry in Vietnam, student academic seminars and our growing student community. All activity scenes are photos from the department's own events. Watch it here or download it to share at admission sessions, events and on social media."

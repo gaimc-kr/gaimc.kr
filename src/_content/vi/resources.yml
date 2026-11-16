@@ -1,5 +1,55 @@
 intro: "Brochure ở định dạng PDF, video giới thiệu ở định dạng MP4; có thể chia sẻ tự do nhằm quảng bá và giới thiệu khoa."
 groups:
+  - title: "Tài liệu buổi giới thiệu việc làm D-2 → E-7 (16/11/2026)"
+    text: "Tài liệu buổi giới thiệu việc làm D-2 → E-7 tổ chức thứ Hai, 16/11/2026 tại phòng B104, tòa Mirae: poster, trang bìa, bài trình bày hướng dẫn kết nối việc làm và thông tin doanh nghiệp tham gia, gồm bản tiếng Hàn – tiếng Việt và tiếng Hàn – tiếng Anh."
+    notes:
+      - label: "Hạn đăng ký"
+        text: "Thứ Hai, 30/11/2026"
+      - label: "Đăng ký"
+        text: "forms.gle/PthtKsVBHTXX1sMU8"
+        url: "https://forms.gle/PthtKsVBHTXX1sMU8"
+      - label: "Liên hệ"
+        text: "GS. Park Yangsoo (parkys@hansung.ac.kr)"
+        url: "mailto:parkys@hansung.ac.kr"
+    items:
+      - lang_label: "Tiếng Hàn – tiếng Việt"
+        lang: vi
+        cover: /images/resources/d2e7-ko-vi.jpg
+        files:
+          - label: "Poster"
+            file: /files/d2e7/d2e7-session-poster-ko-vi.pdf
+            info: PDF · 1 trang · 199KB
+          - label: "Trang bìa"
+            file: /files/d2e7/d2e7-session-cover-ko-vi.pdf
+            info: PDF · 1 trang · 142KB
+          - label: "Bài trình bày kết nối việc làm"
+            file: /files/d2e7/d2e7-session-guide-ko-vi.pdf
+            info: PDF · 15 trang · 518KB
+          - label: "Doanh nghiệp tham gia (tiếng Việt)"
+            file: /files/d2e7/d2e7-companies-vi.pdf
+            info: PDF · 1 trang · 153KB
+          - label: "Doanh nghiệp tham gia (tiếng Hàn)"
+            file: /files/d2e7/d2e7-companies-ko.pdf
+            info: PDF · 1 trang · 173KB
+      - lang_label: "Tiếng Hàn – tiếng Anh"
+        lang: en
+        cover: /images/resources/d2e7-ko-en.jpg
+        files:
+          - label: "Poster"
+            file: /files/d2e7/d2e7-session-poster-ko-en.pdf
+            info: PDF · 1 trang · 165KB
+          - label: "Trang bìa"
+            file: /files/d2e7/d2e7-session-cover-ko-en.pdf
+            info: PDF · 1 trang · 141KB
+          - label: "Bài trình bày kết nối việc làm"
+            file: /files/d2e7/d2e7-session-guide-ko-en.pdf
+            info: PDF · 15 trang · 513KB
+          - label: "Doanh nghiệp tham gia (tiếng Anh)"
+            file: /files/d2e7/d2e7-companies-en.pdf
+            info: PDF · 1 trang · 101KB
+          - label: "Doanh nghiệp tham gia (tiếng Hàn)"
+            file: /files/d2e7/d2e7-companies-ko.pdf
+            info: PDF · 1 trang · 173KB
   - title: Video giới thiệu khoa
     type: video
     text: "Video giới thiệu chính thức của khoa, giới thiệu Khoa Tư vấn Quản trị AI Toàn cầu trong khoảng một phút. Video có ba phiên bản tiếng Hàn, tiếng Anh và tiếng Việt, giới thiệu khoa và đội ngũ giảng viên, chương trình học xây dựng quanh các mô-đun AI agent tư vấn, hoạt động thực tế tại doanh nghiệp, hợp tác với Đại học Công nghiệp Hà Nội, hội thảo học thuật của sinh viên và cộng đồng sinh viên cùng phát triển. Các cảnh hoạt động đều là hình ảnh thực tế từ sự kiện của khoa. Hãy xem trực tiếp hoặc tải về để sử dụng tại buổi tư vấn tuyển sinh, sự kiện và mạng xã hội."
