@@ -621,3 +621,13 @@ html.fm-open { overflow: hidden; }
 /* 세로형(폰) 홍보 영상 */
 .resource-video--vertical { aspect-ratio: 9 / 16; object-fit: contain; }
 .res-nav { margin: 4px 0 28px; }
+
+/* 교육과정: 전공별 과목명 전환 */
+.major-tabs { display: flex; flex-wrap: wrap; gap: 10px; margin: 0 0 22px; }
+.major-tab { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border: 1px solid var(--line); border-radius: 999px; background: #fff; font: inherit; font-weight: 700; color: var(--dark-blue); cursor: pointer; }
+.major-tab .track-type { margin: 0; font-size: .78rem; }
+.major-tab:hover { background: var(--bg-sky); }
+.major-tab.is-active { background: var(--blue); border-color: var(--blue); color: #fff; }
+.major-tab.is-active .track-type { color: #cfe3ff; }
+.major-tab:focus-visible { outline: 3px solid var(--dark-blue); outline-offset: 2px; }
+[data-major-list][data-show="0"] .nm-1, [data-major-list][data-show="1"] .nm-0 { display: none; }

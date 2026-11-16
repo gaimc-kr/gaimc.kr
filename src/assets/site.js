@@ -182,4 +182,15 @@
       else if (e.key === "ArrowRight") fShow(fCur + 1);
     });
   }
+  // 교육과정: 전공 버튼으로 과목명 전환
+  var ml = document.querySelector("[data-major-list]");
+  if (ml) {
+    var tabs = Array.prototype.slice.call(ml.querySelectorAll(".major-tab"));
+    tabs.forEach(function (b) {
+      b.addEventListener("click", function () {
+        ml.setAttribute("data-show", b.dataset.major);
+        tabs.forEach(function (o) { var on = o === b; o.classList.toggle("is-active", on); o.setAttribute("aria-pressed", on ? "true" : "false"); });
+      });
+    });
+  }
 })();

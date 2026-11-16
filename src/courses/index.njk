@@ -34,12 +34,18 @@ permalink: "{{ langs.prefix[lang] }}/courses/"
     <ul class="note-list">{% for n in K.notes %}<li>{{ n }}</li>{% endfor %}</ul>
   </div>
 </section>
-<section class="section section-tint" aria-labelledby="list-title">
+<section class="section section-tint" aria-labelledby="list-title" data-major-list data-show="0">
   <div class="container">
     <div class="section-head">
       <p class="eyebrow">{{ TC.coursesEyebrow }}</p>
       <h2 id="list-title">{{ TC.list(K.list.length) }}</h2>
       <p class="section-text">{{ TC.listText }}</p>
+    </div>
+    {#- 전공별 과목명 전환: 1번째 전공(영어트랙)은 AI 공식명(name_ai)이 있으면 그 이름, 2번째 전공은 기본 과목명 #}
+    <div class="major-tabs" role="group" aria-label="{{ TC.tracks }}">
+      {%- for t in K.tracks %}
+      <button type="button" class="major-tab{% if loop.first %} is-active{% endif %}" data-major="{{ loop.index0 }}" aria-pressed="{{ 'true' if loop.first else 'false' }}"><span class="track-type">{{ t.course_type }}</span> {{ t.name }}</button>
+      {%- endfor %}
     </div>
     {%- for area in K.areas %}
     <div class="course-area">
@@ -48,9 +54,8 @@ permalink: "{{ langs.prefix[lang] }}/courses/"
         {%- for c in K.list %}{% if c.area == area %}
         <details class="course">
           <summary>
-            <span class="course-name">{{ c.name }}</span>
-            {% if lang != "en" %}<span class="course-en" lang="en">{{ c.name_en }}</span>{% endif %}
-            {% if c.name_ai %}<span class="course-ai">{{ TC.englishTrack }} {{ c.name_ai }}</span>{% endif %}
+            <span class="course-name"><span class="nm nm-0">{{ c.name_ai or c.name }}</span><span class="nm nm-1">{{ c.name }}</span></span>
+            {% if lang != "en" %}<span class="course-en" lang="en"><span class="nm nm-0">{{ c.name_en_ai or c.name_en }}</span><span class="nm nm-1">{{ c.name_en }}</span></span>{% endif %}
           </summary>
           <div class="course-body">
             <p>{{ c.summary }}</p>

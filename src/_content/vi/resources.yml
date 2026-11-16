@@ -66,27 +66,27 @@ groups:
         files:
           - label: A4 4 trang (xem)
             file: /files/brochure/gaimc-brochure-ko-a4.pdf
-            info: PDF · 4 trang · 385 KB
+            info: PDF · 4 trang · 370 KB
           - label: A3 in hai mặt (in)
             file: /files/brochure/gaimc-brochure-ko-a3.pdf
-            info: PDF · 2 trang · 386 KB
+            info: PDF · 2 trang · 371 KB
       - lang_label: English (Tiếng Anh)
         lang: en
         cover: /images/resources/brochure-en.jpg
         files:
           - label: A4 4 trang (xem)
             file: /files/brochure/gaimc-brochure-en-a4.pdf
-            info: PDF · 4 trang · 325 KB
+            info: PDF · 4 trang · 315 KB
           - label: A3 in hai mặt (in)
             file: /files/brochure/gaimc-brochure-en-a3.pdf
-            info: PDF · 2 trang · 325 KB
+            info: PDF · 2 trang · 315 KB
       - lang_label: Tiếng Việt
         lang: vi
         cover: /images/resources/brochure-vi.jpg
         files:
           - label: A4 4 trang (xem)
             file: /files/brochure/gaimc-brochure-vi-a4.pdf
-            info: PDF · 4 trang · 342 KB
+            info: PDF · 4 trang · 332 KB
           - label: A3 in hai mặt (in)
             file: /files/brochure/gaimc-brochure-vi-a3.pdf
-            info: PDF · 2 trang · 342 KB
+            info: PDF · 2 trang · 332 KB

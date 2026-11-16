@@ -46,7 +46,7 @@ const ko = {
     pubsNote: "",
   },
   courses: {
-    tracksEyebrow: "TWO MAJORS", tracks: "전공과 과정", coursesEyebrow: "COURSES", list: (n) => `주요 교과목 ${n}개`, listText: "과목명을 누르면 소개와 주요 교육 내용을 볼 수 있습니다.",
+    tracksEyebrow: "TWO MAJORS", tracks: "전공과 과정", coursesEyebrow: "COURSES", list: (n) => `주요 교과목 ${n}개`, listText: "전공을 고르면 그 전공의 공식 과목명으로 보여 드립니다. 과목명을 누르면 소개와 주요 교육 내용을 볼 수 있습니다.",
     language: "수업 언어", degree: "학위과정", duration: "수업 연한", graduation: "졸업 요건", korean: "한국어 요건", englishTrack: "영어트랙", topics: "주요 교육 내용", career: "진로", careerEyebrow: "CAREER", ipp: "글로벌 IPP",
   },
   ipp: { preparing: "준비 중", experts: "함께하는 전문가", background: "추진 배경", structure: "글로벌 IPP의 구조", col: ["구분", "한성대 IPP", "글로벌 IPP"], stages: "추진 단계", statusDone: "완료", statusActive: "진행 중", statusVision: "비전", done: "준비단계 성과", flow: "실행단계 흐름", visa: "졸업 후 체류·취업 경로", principles: "운영 원칙", team: "추진 체계", future: "향후 방향", benefits: "기대 효과", related: "관련 행사", officialPre: "한성대학교 일학습병행(IPP) 공식 안내는 ", officialLink: "한성대학교 IPP 페이지", officialPost: "에서 확인할 수 있습니다." },
@@ -107,7 +107,7 @@ const en = {
     pubsNote: "Papers, books, patents and trademarks are listed in their original language.",
   },
   courses: {
-    tracksEyebrow: "TWO MAJORS", tracks: "Majors and Tracks", coursesEyebrow: "COURSES", list: (n) => `${n} Core Courses`, listText: "Select a course to see its description and main topics.",
+    tracksEyebrow: "TWO MAJORS", tracks: "Majors and Tracks", coursesEyebrow: "COURSES", list: (n) => `${n} Core Courses`, listText: "Choose a major to see its official course names. Select a course to see its description and main topics.",
     language: "Language", degree: "Degree", duration: "Duration", graduation: "Graduation", korean: "Korean requirement", englishTrack: "English track:", topics: "Main topics", career: "Careers", careerEyebrow: "CAREER", ipp: "Global IPP",
   },
   ipp: { preparing: "In preparation", experts: "Our Experts", background: "Background", structure: "How Global IPP is structured", col: ["Item", "Hansung IPP", "Global IPP"], stages: "Phases", statusDone: "Completed", statusActive: "In progress", statusVision: "Vision", done: "Preparation phase outcomes", flow: "Implementation flow", visa: "Residence and employment paths after graduation", principles: "Operating principles", team: "Who runs it", future: "Looking ahead", benefits: "Expected benefits", related: "Related event", officialPre: "For Hansung University's official work-study program (IPP), see the ", officialLink: "Hansung University IPP page", officialPost: "." },
@@ -168,7 +168,7 @@ const vi = {
     pubsNote: "Bài báo, sách, bằng sáng chế và nhãn hiệu được giữ nguyên ngôn ngữ gốc.",
   },
   courses: {
-    tracksEyebrow: "TWO MAJORS", tracks: "Chuyên ngành và chương trình", coursesEyebrow: "COURSES", list: (n) => `${n} môn học chính`, listText: "Chọn tên môn học để xem giới thiệu và nội dung chính.",
+    tracksEyebrow: "TWO MAJORS", tracks: "Chuyên ngành và chương trình", coursesEyebrow: "COURSES", list: (n) => `${n} môn học chính`, listText: "Chọn chuyên ngành để xem tên môn học chính thức của chuyên ngành đó. Chọn tên môn học để xem giới thiệu và nội dung chính.",
     language: "Ngôn ngữ giảng dạy", degree: "Bậc học", duration: "Thời gian", graduation: "Điều kiện tốt nghiệp", korean: "Yêu cầu tiếng Hàn", englishTrack: "Chương trình tiếng Anh:", topics: "Nội dung chính", career: "Định hướng nghề nghiệp", careerEyebrow: "CAREER", ipp: "Global IPP",
   },
   ipp: { preparing: "Đang chuẩn bị", experts: "Chuyên gia đồng hành", background: "Bối cảnh", structure: "Cấu trúc Global IPP", col: ["Hạng mục", "IPP Hansung", "Global IPP"], stages: "Các giai đoạn", statusDone: "Hoàn thành", statusActive: "Đang triển khai", statusVision: "Tầm nhìn", done: "Kết quả giai đoạn chuẩn bị", flow: "Quy trình giai đoạn triển khai", visa: "Lộ trình lưu trú và việc làm sau tốt nghiệp", principles: "Nguyên tắc vận hành", team: "Đơn vị vận hành", future: "Định hướng tiếp theo", benefits: "Lợi ích kỳ vọng", related: "Sự kiện liên quan", officialPre: "Thông tin chính thức về chương trình vừa học vừa làm (IPP) của Đại học Hansung có tại ", officialLink: "trang IPP của Đại học Hansung", officialPost: "." },
