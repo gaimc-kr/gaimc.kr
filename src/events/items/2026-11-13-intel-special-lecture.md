@@ -69,6 +69,14 @@ gallery:
   group: 11. 16.(월) 영어트랙 2학기 · 상상관 708호
   alt: 강의실 뒤편에서 본 2학기 특강
   caption: 강의실 뒤편에서 본 2학기 특강
+- image: /images/events/20261116_intel_04.jpg
+  group: 11. 16.(월) 영어트랙 2학기 · 상상관 708호
+  alt: ENIAC에서 최신 GPU까지, 컴퓨팅의 발전을 설명하는 모습
+  caption: ENIAC에서 최신 GPU까지, 컴퓨팅의 발전을 설명하는 모습
+- image: /images/events/20261116_intel_05.jpg
+  group: 11. 16.(월) 영어트랙 2학기 · 상상관 708호
+  alt: 강연 장면을 휴대폰으로 담는 학생들
+  caption: 강연 장면을 휴대폰으로 담는 학생들
 - image: /images/events/20261116_intel_03.jpg
   group: 11. 16.(월) 영어트랙 2학기 · 상상관 708호
   alt: 정태욱 전무(왼쪽에서 세 번째)와 영어트랙 2학기 학생들
@@ -82,7 +90,7 @@ speakers:
   topic: AI Innovation and Physical Usages (벡사(VEXA) 전무, 전 인텔코리아 AI 연구소장)
 faculty: []
 partners: []
-memo: 2026. 11. 14. 학과장 요청으로 게시. 자료는 드라이브 「2026년 11월 13일 특강_정태욱(인텔전무)」 폴더(강의 제목은 정진택 원장 전달 메시지, 학력·경력·현 직위는 본인 제출 CV 요약본 기준(구두로 들은 「전무」 대신 CV의 인텔코리아 AI 연구소장 표기), 연락처는 비공개). akram·정진택 제공 사진 16장은 동일 파일이라 한 벌만 사용, 10장 선택·워터마크. 2026. 11. 14. 학과장 요청으로 대표 사진과 갤러리를 Akram 영상 캡처 10장(강의 장면·학생) 중심으로 교체하고 사진은 2장만 유지(영상 캡처는 제작자 표기 AKRAM SM 유지, 워터마크 없음). 본문 강의 내용은 영상 속 슬라이드 제목 기준. Akram SM 제작 스케치 영상(1분 5초, HEVC 1080p)은 H.264 720p로 변환. 장소(미래관 B104호)·대상(영어트랙 1학기)은 학과장 전달, 2학기 대상 특강(다음 주 월요일) 후 학기 구분 반영 예정. 특강연사 명단 추가는 본인 동의 후. 2026. 11. 17. 학과장 지시로 직위를 벡사(VEXA) 전무로 변경(인텔코리아 AI 연구소장은 전 직장), 11. 16.(월) 상상관 708호 영어트랙 2학기(방글라데시 학생) 특강을 같은 페이지에 추가(드라이브 「11월16일 특강」 사진 6장 중 4장, 슬라이드의 개인 이메일 흐림 처리, 워터마크). 특강 내용 동일
+memo: 2026. 11. 14. 학과장 요청으로 게시. 자료는 드라이브 「2026년 11월 13일 특강_정태욱(인텔전무)」 폴더(강의 제목은 정진택 원장 전달 메시지, 학력·경력·현 직위는 본인 제출 CV 요약본 기준(구두로 들은 「전무」 대신 CV의 인텔코리아 AI 연구소장 표기), 연락처는 비공개). akram·정진택 제공 사진 16장은 동일 파일이라 한 벌만 사용, 10장 선택·워터마크. 2026. 11. 14. 학과장 요청으로 대표 사진과 갤러리를 Akram 영상 캡처 10장(강의 장면·학생) 중심으로 교체하고 사진은 2장만 유지(영상 캡처는 제작자 표기 AKRAM SM 유지, 워터마크 없음). 본문 강의 내용은 영상 속 슬라이드 제목 기준. Akram SM 제작 스케치 영상(1분 5초, HEVC 1080p)은 H.264 720p로 변환. 장소(미래관 B104호)·대상(영어트랙 1학기)은 학과장 전달, 2학기 대상 특강(다음 주 월요일) 후 학기 구분 반영 예정. 특강연사 명단 추가는 본인 동의 후. 2026. 11. 17. 학과장 지시로 직위를 벡사(VEXA) 전무로 변경(인텔코리아 AI 연구소장은 전 직장), 11. 16.(월) 상상관 708호 영어트랙 2학기(방글라데시 학생) 특강을 같은 페이지에 추가(드라이브 「11월16일 특강」 사진 9장(11. 17. 3장 추가) 중 중복 제외 6장, 슬라이드의 개인 이메일 흐림 처리, 워터마크). 특강 내용 동일
 en:
   title: 'Special Lecture: AI Innovation and Physical Usages'
   place: Room B104, Mirae Hall (13 Nov) and Room 708, Sangsang Hall (16 Nov), Hansung University
@@ -150,6 +158,14 @@ en:
     group: 16 Nov (Mon) · English track, 2nd semester · Room 708, Sangsang Hall
     alt: The second-semester lecture seen from the back of the room
     caption: The second-semester lecture seen from the back of the room
+  - image: /images/events/20261116_intel_04.jpg
+    group: 16 Nov (Mon) · English track, 2nd semester · Room 708, Sangsang Hall
+    alt: Explaining the evolution of computing, from ENIAC to the latest GPUs
+    caption: Explaining the evolution of computing, from ENIAC to the latest GPUs
+  - image: /images/events/20261116_intel_05.jpg
+    group: 16 Nov (Mon) · English track, 2nd semester · Room 708, Sangsang Hall
+    alt: Students capturing the lecture on their phones
+    caption: Students capturing the lecture on their phones
   - image: /images/events/20261116_intel_03.jpg
     group: 16 Nov (Mon) · English track, 2nd semester · Room 708, Sangsang Hall
     alt: Taewook Jeong (third from left) with second-semester English-track students
@@ -235,6 +251,14 @@ vi:
     group: 16/11 (thứ Hai) · Tiếng Anh học kỳ 2 · Phòng 708, Tòa Sangsang
     alt: Buổi giảng học kỳ 2 nhìn từ cuối phòng
     caption: Buổi giảng học kỳ 2 nhìn từ cuối phòng
+  - image: /images/events/20261116_intel_04.jpg
+    group: 16/11 (thứ Hai) · Tiếng Anh học kỳ 2 · Phòng 708, Tòa Sangsang
+    alt: Giải thích sự phát triển của máy tính, từ ENIAC đến GPU mới nhất
+    caption: Giải thích sự phát triển của máy tính, từ ENIAC đến GPU mới nhất
+  - image: /images/events/20261116_intel_05.jpg
+    group: 16/11 (thứ Hai) · Tiếng Anh học kỳ 2 · Phòng 708, Tòa Sangsang
+    alt: Sinh viên ghi lại buổi giảng bằng điện thoại
+    caption: Sinh viên ghi lại buổi giảng bằng điện thoại
   - image: /images/events/20261116_intel_03.jpg
     group: 16/11 (thứ Hai) · Tiếng Anh học kỳ 2 · Phòng 708, Tòa Sangsang
     alt: Ông Jeong Taewook (thứ ba từ trái) cùng sinh viên chương trình tiếng Anh học kỳ 2
