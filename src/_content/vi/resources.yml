@@ -88,6 +88,48 @@ groups:
           - label: "Thư giới thiệu (PDF)"
             file: /files/forms/gaimc-cover-ko-en.pdf
             info: PDF · 3 trang · 74KB
+  - title: "Hướng dẫn việc làm và visa cho du học sinh (PDF)"
+    text: "Ba tài liệu về lộ trình lưu trú trước và sau tốt nghiệp, từ D-2 đến E-7: ① lộ trình tổng thể, ② hướng dẫn thực tế visa chuyên môn E-7-1 và ③ hướng dẫn visa đặc thù địa phương F-2-R. Mức thu nhập khác nhau theo năm và địa phương, hãy kiểm tra thông báo mới nhất trước khi nộp hồ sơ."
+    items:
+      - lang_label: "Tiếng Hàn (한국어)"
+        lang: ko
+        cover: /images/resources/visa-guides-ko.jpg
+        files:
+          - label: "① Lộ trình D-2 → E-7"
+            file: /files/guides/gaimc-visa-roadmap-ko.pdf
+            info: PDF · 9 trang · 222KB
+          - label: "② Hướng dẫn E-7-1"
+            file: /files/guides/gaimc-visa-e7-1-ko.pdf
+            info: PDF · 8 trang · 214KB
+          - label: "③ Hướng dẫn F-2-R"
+            file: /files/guides/gaimc-visa-f-2-r-ko.pdf
+            info: PDF · 7 trang · 213KB
+      - lang_label: "Tiếng Việt"
+        lang: vi
+        cover: /images/resources/visa-guides-vi.jpg
+        files:
+          - label: "① Lộ trình D-2 → E-7"
+            file: /files/guides/gaimc-visa-roadmap-vi.pdf
+            info: PDF · 9 trang · 255KB
+          - label: "② Hướng dẫn E-7-1"
+            file: /files/guides/gaimc-visa-e7-1-vi.pdf
+            info: PDF · 8 trang · 224KB
+          - label: "③ Hướng dẫn F-2-R"
+            file: /files/guides/gaimc-visa-f-2-r-vi.pdf
+            info: PDF · 7 trang · 260KB
+      - lang_label: "Tiếng Anh (English)"
+        lang: en
+        cover: /images/resources/visa-guides-en.jpg
+        files:
+          - label: "① Lộ trình D-2 → E-7"
+            file: /files/guides/gaimc-visa-roadmap-en.pdf
+            info: PDF · 9 trang · 149KB
+          - label: "② Hướng dẫn E-7-1"
+            file: /files/guides/gaimc-visa-e7-1-en.pdf
+            info: PDF · 8 trang · 138KB
+          - label: "③ Hướng dẫn F-2-R"
+            file: /files/guides/gaimc-visa-f-2-r-en.pdf
+            info: PDF · 7 trang · 164KB
   - title: Video giới thiệu khoa
     type: video
     text: "Video giới thiệu chính thức của khoa, giới thiệu Khoa Tư vấn Quản trị AI Toàn cầu trong khoảng một phút. Video có ba phiên bản tiếng Hàn, tiếng Anh và tiếng Việt, giới thiệu khoa và đội ngũ giảng viên, chương trình học xây dựng quanh các mô-đun AI agent tư vấn, hoạt động thực tế tại doanh nghiệp, hợp tác với Đại học Công nghiệp Hà Nội, hội thảo học thuật của sinh viên và cộng đồng sinh viên cùng phát triển. Các cảnh hoạt động đều là hình ảnh thực tế từ sự kiện của khoa. Hãy xem trực tiếp hoặc tải về để sử dụng tại buổi tư vấn tuyển sinh, sự kiện và mạng xã hội."
