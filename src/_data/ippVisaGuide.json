@@ -1,0 +1,461 @@
+{
+ "ko": {
+  "title": "E-7 비자 실무 가이드",
+  "crumb": "E-7 비자 실무 가이드",
+  "lead": "행정사로 일해 온 김재권 박사가 현장 실무를 바탕으로 정리한 자료를 학과가 다시 편집했습니다. 우리 학과 석사과정 학생이 E-7-1 취업 비자를 준비할 때 꼭 알아야 할 내용입니다.",
+  "gap": {
+   "title": "지침과 실무는 다릅니다: 전공이 직무와 맞아야 합니다",
+   "items": [
+    {
+     "k": "지침",
+     "v": "국내 대학원 석사 이상 졸업(예정)자는 전공과 관계없이 E-7-1 직종을 신청할 수 있다는 특례가 있습니다."
+    },
+    {
+     "k": "실무",
+     "v": "전공이 직무와 맞지 않으면 심사관이 위장 취업이나 내국인 대체 가능성을 강하게 의심합니다. 실제 업무와의 연관성을 치밀하게 소명하지 못하면 반려·불허됩니다."
+    },
+    {
+     "k": "학과 기준",
+     "v": "학부·석사의 학과와 전공명은 물론 석사과정 이수 과목까지 지원 직무와 맞는지 확인합니다. ‘왜 AI 경영 석사가 이 직무에 필요한가’를 증명해야 합니다."
+    }
+   ]
+  },
+  "fuse": {
+   "title": "학부 전공과 석사를 엮어 소명하세요",
+   "items": [
+    "AI 경영컨설팅 석사만으로는 기계·전기·전자 같은 기술 직무를 소명하기 어렵습니다. 학부 전공(공학 등)을 함께 내세우면 정당성이 크게 높아집니다.",
+    "예) 학부 기계공학 + 한국 석사(AI 경영) → 단순 기계 설계가 아니라 ‘AI 데이터 분석을 접목한 스마트 공정 관리·기술 영업 전문가’로 직무를 설계합니다.",
+    "추천 직종이라도 단순 노무나 기초 사무 보조로 쓰면 반려됩니다. 기획·분석·글로벌 직무로 고용 사유를 씁니다."
+   ]
+  },
+  "tiers_title": "우리 학과 석사에게 맞는 E-7-1 직종",
+  "tiers": [
+   {
+    "cls": "good",
+    "title": "추천 · 적극 도전 (12개)",
+    "desc": "AI 경영, 글로벌 비즈니스, 컨설팅 석사 전공으로 직접 소명하기 가장 좋은 직종",
+    "items": [
+     "2815 경영 및 진단 전문가(컨설턴트) — 전공과 가장 잘 맞음",
+     "S2843 기술경영 전문가 — AI·기술경영 융합",
+     "2842 해외 영업원",
+     "2843 기술 영업원",
+     "2231 데이터 전문가",
+     "2831 상품기획 전문가",
+     "2833 광고 및 홍보 전문가",
+     "2834 조사 전문가",
+     "1212 경영지원 관리자",
+     "1511 영업 및 판매 관련 관리자",
+     "2221 컴퓨터시스템 설계 및 분석가",
+     "2914 번역가·통역가"
+    ]
+   },
+   {
+    "cls": "mid",
+    "title": "학부 전공과 융합하면 도전 가능",
+    "desc": "학부 전공(공학·인문 등)이나 기업의 특수성(AI 기술 도입 등)을 살려 고용 사유서로 엮을 수 있는 직종",
+    "items": [
+     "2223 응용 소프트웨어 개발자 · 2224 웹 개발자",
+     "2222 시스템 소프트웨어 개발자 · 2232 네트워크시스템 개발자 · 2233 정보 보안 전문가",
+     "2341 전기공학 기술자 · 2342 전자공학 기술자 · 2351 기계공학 기술자 — 학부가 이공계일 때 적극 추천",
+     "1120 기업 고위임원(경력·규모 충족 시) · 정보통신관련 관리자 · 1413 제품 생산관련 관리자(스마트 팩토리 운영 등)",
+     "S110 경제이익단체 고위임원 · 1390 기타 전문서비스 관리자 · 1512 운송관련 관리자",
+     "2122 사회과학 연구원 · 2691 교육관련 전문가",
+     "282 금융 및 보험 전문가 · 2835 행사 기획자",
+     "S2353 자동차·조선·비행기·철도차량공학 전문가 · 2364 산업안전 및 위험 전문가 · 2371 환경공학 기술자 — 화학·공학 전공 필요"
+    ]
+   },
+   {
+    "cls": "bad",
+    "title": "권하지 않는 직종",
+    "desc": "전문 자격이 필요하거나, 경영 석사와 직무 연관성을 소명하기 어려운 직종",
+    "items": [
+     "법률 전문가 · 특수기관 행정요원 — 사법시험·로스쿨 필요",
+     "간호사 — 면허 필요",
+     "교육 관리자 · 대학 강사 · 기술강사 · 교사 — 임용·강사 자격 필요",
+     "제도사 — 단순 도면 작업은 석사 전문성 소명이 어려움",
+     "보험·금융 관리자 · 건설·광업 관리자 · 농림·어업 관리자 · 숙박·여행·스포츠 관리자 · 음식서비스 관리자 — 내국인 대체 가능성",
+     "생명과학 · 자연과학 전문가 — 순수과학 연구 직종",
+     "컴퓨터 하드웨어 · 건축 · 토목 · 조경 · 도시교통 · 화학공학 · 금속재료 · 플랜트 · 로봇 · 가스에너지 · 섬유공학 — 전문 자격이나 석사급 전공 일치가 절대적",
+     "정부 및 공공 행정 · 여행상품 개발 · 아나운서 · 디자이너 · 영상 디자이너 — 소명이 거의 불가능"
+    ]
+   }
+  ],
+  "docs_title": "학부 전공을 함께 소명할 때 필요한 서류",
+  "docs": [
+   {
+    "k": "베트남 학사 학위증",
+    "v": "아포스티유 필수"
+   },
+   {
+    "k": "베트남 학부 성적증명서",
+    "v": "아포스티유 필수 · 기술 관련 과목 강조"
+   },
+   {
+    "k": "현지 경력증명서",
+    "v": "해당자 · 아포스티유 · 기술·실무 경력 소명"
+   },
+   {
+    "k": "한국 대학원 졸업예정증명서·학위수여예정증명서",
+    "v": "12월 접수 시 석사 예정 신분 증명"
+   },
+   {
+    "k": "한국 대학원 성적증명서",
+    "v": "AI 경영 관련 이수 과목 강조"
+   },
+   {
+    "k": "자격증·기술 포트폴리오",
+    "v": "CAD 도면, 자격증, 연구 실적 등 실무 역량 증명"
+   },
+   {
+    "k": "융합형 고용사유서",
+    "v": "가장 중요 · 학부의 기술 기반과 석사의 AI 경영 지식이 어떻게 결합하는지 설명(행정사 작성)"
+   }
+  ],
+  "apo_title": "베트남 서류 아포스티유 절차",
+  "apo_sub": "2026. 9. 11. 발표 기준",
+  "apo": [
+   {
+    "k": "현지 공증",
+    "v": "학위증·성적증명서 등을 한국어로 번역해 베트남 현지에서 공증합니다."
+   },
+   {
+    "k": "외교부 아포스티유",
+    "v": "하노이 또는 호치민의 베트남 외교부에서 아포스티유를 받습니다. 주베트남 한국영사관 영사확인은 폐지되었습니다."
+   },
+   {
+    "k": "원본 발송",
+    "v": "국제 특급우편(EMS·DHL)으로 원본을 한국에 보냅니다. 통관을 포함해 평균 1~2주가 걸립니다."
+   }
+  ],
+  "apo_note": "연말에 신청하면서 2026년 임금 기준(연 3,112만 원 이상)을 안전하게 적용받으려면, 11월 말 면접 직후 아포스티유를 시작해 12월 중순까지 원본을 확보해야 합니다. 베트남 외 국가 학생은 본국의 아포스티유·영사확인 절차를 확인하세요.",
+  "base_title": "E-7-1 직종의 기본",
+  "base": [
+   "E-7-1(전문인력) 허용 직종은 관리자 15개, 전문가 및 관련 종사자 52개로 모두 67개입니다.",
+   "67개 직종 모두 원칙적으로 학사 + 관련 경력 1년 이상, 또는 석사 이상의 학력이 필요합니다.",
+   "S로 시작하는 코드는 새로 만든 특화 직종으로, 대기업·중소기업 요건과 고용추천서 필요 여부가 사안마다 달라 미리 검토해야 합니다.",
+   "전체 직종 목록과 요건은 법무부 「체류민원 자격별 안내매뉴얼」을 기준으로 확인합니다."
+  ],
+  "source": "자료: 김재권 박사(행정사)의 실무 자료(2026. 11.)를 학과가 재편집했습니다. 제도와 요건은 바뀔 수 있으며, 최종 판단은 출입국·외국인관서가 합니다.",
+  "more": [
+   {
+    "label": "채용연계 참여 기업",
+    "url": "/ipp/companies/"
+   },
+   {
+    "label": "이력서·자기소개서 양식",
+    "url": "/resources/"
+   },
+   {
+    "label": "글로벌 IPP",
+    "url": "/ipp/"
+   }
+  ],
+  "moretitle": "함께 보기"
+ },
+ "en": {
+  "title": "E-7 Visa Practical Guide",
+  "crumb": "E-7 visa guide",
+  "lead": "Edited by the department from field notes by Dr. Kim Jae-kwon, a licensed administrative agent with hands-on visa experience. What our master's students need to know when preparing for an E-7-1 work visa.",
+  "gap": {
+   "title": "Rules and practice differ: your major must fit the job",
+   "items": [
+    {
+     "k": "The rule",
+     "v": "Graduates (or expected graduates) of a Korean master's program may apply for E-7-1 occupations regardless of major, under a special provision."
+    },
+    {
+     "k": "In practice",
+     "v": "If your major does not fit the job, officers strongly suspect disguised employment or a job a Korean could fill. Without a detailed explanation of how your study relates to the actual work, the application is refused."
+    },
+    {
+     "k": "Our standard",
+     "v": "We check your bachelor's and master's majors and even your master's courses against the job. You must show why an AI management master's is needed for this role."
+    }
+   ]
+  },
+  "fuse": {
+   "title": "Combine your bachelor's major with your master's",
+   "items": [
+    "A master's in AI management consulting alone rarely justifies a technical role in mechanical, electrical or electronic engineering. Adding your bachelor's major (e.g., engineering) makes the case much stronger.",
+    "E.g., bachelor's in mechanical engineering + Korean master's (AI management) → frame the job not as simple mechanical design but as a 'smart-process management and technical sales specialist using AI data analysis'.",
+    "Even a recommended occupation is refused if written up as simple labour or basic office support. Describe the job as planning, analysis or global work in the employment reason."
+   ]
+  },
+  "tiers_title": "E-7-1 occupations that fit our master's graduates",
+  "tiers": [
+   {
+    "cls": "good",
+    "title": "Recommended (12)",
+    "desc": "Easiest to justify directly with an AI management, global business or consulting master's",
+    "items": [
+     "2815 Management and diagnosis specialist (consultant) — best fit for the major",
+     "S2843 Technology management specialist — AI and technology management",
+     "2842 Overseas sales representative",
+     "2843 Technical sales representative",
+     "2231 Data specialist",
+     "2831 Product planning specialist",
+     "2833 Advertising and PR specialist",
+     "2834 Research specialist",
+     "1212 Business support manager",
+     "1511 Sales manager",
+     "2221 Computer systems designer and analyst",
+     "2914 Translator and interpreter"
+    ]
+   },
+   {
+    "cls": "mid",
+    "title": "Possible when combined with your bachelor's major",
+    "desc": "Can be argued in the employment reason by drawing on your bachelor's major (engineering, humanities, etc.) or the company's situation (e.g., adopting AI)",
+    "items": [
+     "2223 Application software developer · 2224 Web developer",
+     "2222 System software developer · 2232 Network systems developer · 2233 Information security specialist",
+     "2341 Electrical engineer · 2342 Electronics engineer · 2351 Mechanical engineer — strongly recommended with an engineering bachelor's",
+     "1120 Senior executive (if experience and company size qualify) · IT manager · 1413 Production manager (e.g., smart factory operations)",
+     "S110 Senior officer of an economic association · 1390 Other professional services manager · 1512 Transport manager",
+     "2122 Social science researcher · 2691 Education specialist",
+     "282 Finance and insurance specialist · 2835 Event planner",
+     "S2353 Automotive, shipbuilding, aircraft and rail engineering specialist · 2364 Industrial safety specialist · 2371 Environmental engineer — chemistry or engineering major needed"
+    ]
+   },
+   {
+    "cls": "bad",
+    "title": "Not recommended",
+    "desc": "Require professional licences or are hard to link to a management master's",
+    "items": [
+     "Legal professional · administrative staff of special agencies — bar exam or law school required",
+     "Nurse — licence required",
+     "Education manager · university lecturer · technical instructor · teacher — teaching qualifications required",
+     "Draughtsperson — simple drafting is hard to justify at master's level",
+     "Insurance/finance, construction/mining, agriculture/fishery, hospitality/travel/sports and food service managers — could be filled by Korean workers",
+     "Life science · natural science specialists — pure science research",
+     "Computer hardware, architecture, civil, landscape, urban transport, chemical, materials, plant, robotics, gas/energy and textile engineering — licences or a matching master's major are essential",
+     "Government administration · travel product developer · announcer · designer · video designer — almost impossible to justify"
+    ]
+   }
+  ],
+  "docs_title": "Documents needed when you also rely on your bachelor's major",
+  "docs": [
+   {
+    "k": "Vietnamese bachelor's diploma",
+    "v": "Apostille required"
+   },
+   {
+    "k": "Vietnamese undergraduate transcript",
+    "v": "Apostille required · highlight technical courses"
+   },
+   {
+    "k": "Work experience certificate from home country",
+    "v": "If applicable · apostille · shows technical or practical experience"
+   },
+   {
+    "k": "Korean expected-graduation or expected-degree certificate",
+    "v": "Proves master's status when applying in December"
+   },
+   {
+    "k": "Korean graduate transcript",
+    "v": "Highlight AI management courses"
+   },
+   {
+    "k": "Certificates and technical portfolio",
+    "v": "CAD drawings, certificates, research output, etc."
+   },
+   {
+    "k": "Combined employment reason statement",
+    "v": "Most important · explains how your technical bachelor's background and AI management master's work together (written by an administrative agent)"
+   }
+  ],
+  "apo_title": "Apostille procedure for Vietnamese documents",
+  "apo_sub": "as announced on 11 Sep 2026",
+  "apo": [
+   {
+    "k": "Local notarisation",
+    "v": "Have your diploma, transcript and other documents translated into Korean and notarised in Vietnam."
+   },
+   {
+    "k": "Apostille at the Ministry of Foreign Affairs",
+    "v": "Obtain an apostille from Vietnam's Ministry of Foreign Affairs in Hanoi or Ho Chi Minh City. Consular legalisation at the Korean consulate in Vietnam has been abolished."
+   },
+   {
+    "k": "Send the originals",
+    "v": "Send the originals to Korea by international express mail (EMS, DHL). Allow 1–2 weeks on average, including customs."
+   }
+  ],
+  "apo_note": "To apply at year-end under the 2026 wage threshold (at least KRW 31.12 million a year), start the apostille right after the late-November interviews and have the originals in hand by mid-December. Students from other countries should check their own country's apostille or legalisation procedure.",
+  "base_title": "E-7-1 basics",
+  "base": [
+   "E-7-1 (professional) covers 67 occupations: 15 managerial and 52 professional and related.",
+   "All 67 in principle require a bachelor's degree plus at least one year of related experience, or a master's degree or higher.",
+   "Codes starting with S are newly created special occupations; company requirements and the need for a letter of recommendation vary case by case, so check in advance.",
+   "For the full list and requirements, refer to the Ministry of Justice's visa guide manual for each status."
+  ],
+  "source": "Source: field notes by Dr. Kim Jae-kwon (administrative agent), November 2026, edited by the department. Rules may change; the immigration office makes the final decision.",
+  "more": [
+   {
+    "label": "Partner companies hiring",
+    "url": "/ipp/companies/"
+   },
+   {
+    "label": "Résumé and cover-letter forms",
+    "url": "/resources/"
+   },
+   {
+    "label": "Global IPP",
+    "url": "/ipp/"
+   }
+  ],
+  "moretitle": "See also"
+ },
+ "vi": {
+  "title": "Hướng dẫn thực tế visa E-7",
+  "crumb": "Hướng dẫn visa E-7",
+  "lead": "Khoa biên tập lại từ tài liệu thực tế của TS. Kim Jae-kwon, hành chính sĩ có nhiều kinh nghiệm xin visa. Những điều học viên thạc sĩ của khoa cần biết khi chuẩn bị visa lao động E-7-1.",
+  "gap": {
+   "title": "Quy định và thực tế khác nhau: chuyên ngành phải phù hợp công việc",
+   "items": [
+    {
+     "k": "Quy định",
+     "v": "Người tốt nghiệp (hoặc sắp tốt nghiệp) thạc sĩ tại Hàn Quốc được xin các ngành E-7-1 không phụ thuộc chuyên ngành theo quy định đặc biệt."
+    },
+    {
+     "k": "Thực tế",
+     "v": "Nếu chuyên ngành không phù hợp công việc, cán bộ thẩm định sẽ nghi ngờ việc làm giả danh hoặc vị trí người Hàn có thể đảm nhận. Nếu không giải trình chặt chẽ mối liên hệ với công việc thực tế, hồ sơ sẽ bị trả lại hoặc từ chối."
+    },
+    {
+     "k": "Tiêu chuẩn của khoa",
+     "v": "Khoa kiểm tra cả tên ngành, chuyên ngành bậc đại học và thạc sĩ, thậm chí các môn đã học ở bậc thạc sĩ có phù hợp với vị trí ứng tuyển không. Bạn phải chứng minh vì sao vị trí này cần thạc sĩ quản trị AI."
+    }
+   ]
+  },
+  "fuse": {
+   "title": "Kết hợp chuyên ngành đại học với thạc sĩ để giải trình",
+   "items": [
+    "Chỉ với thạc sĩ tư vấn quản trị AI thì khó giải trình cho vị trí kỹ thuật như cơ khí, điện, điện tử. Kết hợp chuyên ngành đại học (như kỹ thuật) sẽ tăng tính thuyết phục rất nhiều.",
+    "VD: cử nhân cơ khí + thạc sĩ Hàn Quốc (quản trị AI) → thiết kế vị trí không phải thiết kế cơ khí đơn thuần mà là 'chuyên gia quản lý quy trình thông minh và kinh doanh kỹ thuật ứng dụng phân tích dữ liệu AI'.",
+    "Dù là ngành được khuyến nghị, nếu ghi là lao động đơn giản hay trợ lý văn phòng cơ bản thì vẫn bị trả hồ sơ. Hãy viết lý do tuyển dụng theo hướng hoạch định, phân tích, công việc toàn cầu."
+   ]
+  },
+  "tiers_title": "Các ngành E-7-1 phù hợp với thạc sĩ của khoa",
+  "tiers": [
+   {
+    "cls": "good",
+    "title": "Khuyến nghị (12 ngành)",
+    "desc": "Dễ giải trình trực tiếp nhất bằng chuyên ngành thạc sĩ quản trị AI, kinh doanh toàn cầu, tư vấn",
+    "items": [
+     "2815 Chuyên gia quản lý và chẩn đoán (tư vấn) — phù hợp nhất với chuyên ngành",
+     "S2843 Chuyên gia quản trị công nghệ — kết hợp AI và quản trị công nghệ",
+     "2842 Nhân viên kinh doanh quốc tế",
+     "2843 Nhân viên kinh doanh kỹ thuật",
+     "2231 Chuyên gia dữ liệu",
+     "2831 Chuyên gia hoạch định sản phẩm",
+     "2833 Chuyên gia quảng cáo và truyền thông",
+     "2834 Chuyên gia khảo sát",
+     "1212 Quản lý hỗ trợ kinh doanh",
+     "1511 Quản lý kinh doanh và bán hàng",
+     "2221 Chuyên viên thiết kế và phân tích hệ thống máy tính",
+     "2914 Biên dịch viên, phiên dịch viên"
+    ]
+   },
+   {
+    "cls": "mid",
+    "title": "Có thể thử khi kết hợp chuyên ngành đại học",
+    "desc": "Có thể lập luận trong bản giải trình lý do tuyển dụng dựa trên chuyên ngành đại học (kỹ thuật, nhân văn…) hoặc đặc thù doanh nghiệp (như ứng dụng AI)",
+    "items": [
+     "2223 Lập trình viên phần mềm ứng dụng · 2224 Lập trình viên web",
+     "2222 Lập trình viên phần mềm hệ thống · 2232 Phát triển hệ thống mạng · 2233 Chuyên gia bảo mật thông tin",
+     "2341 Kỹ sư điện · 2342 Kỹ sư điện tử · 2351 Kỹ sư cơ khí — rất khuyến nghị nếu học đại học khối kỹ thuật",
+     "1120 Lãnh đạo cấp cao doanh nghiệp (nếu đủ kinh nghiệm và quy mô) · Quản lý CNTT · 1413 Quản lý sản xuất (như vận hành nhà máy thông minh)",
+     "S110 Lãnh đạo cấp cao hiệp hội kinh tế · 1390 Quản lý dịch vụ chuyên môn khác · 1512 Quản lý vận tải",
+     "2122 Nhà nghiên cứu khoa học xã hội · 2691 Chuyên gia giáo dục",
+     "282 Chuyên gia tài chính và bảo hiểm · 2835 Chuyên viên tổ chức sự kiện",
+     "S2353 Chuyên gia kỹ thuật ô tô, đóng tàu, máy bay, đường sắt · 2364 Chuyên gia an toàn công nghiệp · 2371 Kỹ sư môi trường — cần chuyên ngành hóa học hoặc kỹ thuật"
+    ]
+   },
+   {
+    "cls": "bad",
+    "title": "Không khuyến nghị",
+    "desc": "Cần chứng chỉ hành nghề hoặc khó liên hệ với thạc sĩ quản trị",
+    "items": [
+     "Chuyên gia pháp luật · nhân viên hành chính cơ quan đặc biệt — cần thi tư pháp hoặc trường luật",
+     "Điều dưỡng — cần giấy phép hành nghề",
+     "Quản lý giáo dục · giảng viên đại học · giảng viên kỹ thuật · giáo viên — cần chứng chỉ giảng dạy",
+     "Họa viên kỹ thuật — vẽ đơn giản khó giải trình ở trình độ thạc sĩ",
+     "Quản lý bảo hiểm/tài chính, xây dựng/khai khoáng, nông lâm ngư nghiệp, lưu trú/du lịch/thể thao, dịch vụ ăn uống — người Hàn có thể đảm nhận",
+     "Chuyên gia khoa học sự sống · khoa học tự nhiên — nghiên cứu khoa học thuần túy",
+     "Phần cứng máy tính, kiến trúc, xây dựng dân dụng, cảnh quan, giao thông đô thị, hóa học, vật liệu, nhà máy, robot, khí–năng lượng, dệt — bắt buộc có chứng chỉ hoặc chuyên ngành thạc sĩ trùng khớp",
+     "Hành chính công · phát triển sản phẩm du lịch · phát thanh viên · nhà thiết kế · thiết kế video — gần như không thể giải trình"
+    ]
+   }
+  ],
+  "docs_title": "Hồ sơ cần khi giải trình kèm chuyên ngành đại học",
+  "docs": [
+   {
+    "k": "Bằng cử nhân Việt Nam",
+    "v": "Bắt buộc hợp pháp hóa (apostille)"
+   },
+   {
+    "k": "Bảng điểm đại học Việt Nam",
+    "v": "Bắt buộc apostille · nhấn mạnh các môn kỹ thuật"
+   },
+   {
+    "k": "Giấy xác nhận kinh nghiệm tại Việt Nam",
+    "v": "Nếu có · apostille · chứng minh kinh nghiệm kỹ thuật, thực tế"
+   },
+   {
+    "k": "Giấy chứng nhận sắp tốt nghiệp/sắp nhận bằng thạc sĩ tại Hàn Quốc",
+    "v": "Chứng minh tư cách thạc sĩ khi nộp hồ sơ tháng 12"
+   },
+   {
+    "k": "Bảng điểm cao học tại Hàn Quốc",
+    "v": "Nhấn mạnh các môn liên quan quản trị AI"
+   },
+   {
+    "k": "Chứng chỉ và hồ sơ năng lực kỹ thuật",
+    "v": "Bản vẽ CAD, chứng chỉ, kết quả nghiên cứu…"
+   },
+   {
+    "k": "Bản giải trình lý do tuyển dụng kết hợp",
+    "v": "Quan trọng nhất · giải thích nền tảng kỹ thuật bậc đại học và kiến thức quản trị AI bậc thạc sĩ kết hợp thế nào (do hành chính sĩ soạn)"
+   }
+  ],
+  "apo_title": "Thủ tục apostille giấy tờ Việt Nam",
+  "apo_sub": "theo công bố ngày 11/9/2026",
+  "apo": [
+   {
+    "k": "Công chứng tại Việt Nam",
+    "v": "Dịch bằng, bảng điểm… sang tiếng Hàn và công chứng tại Việt Nam."
+   },
+   {
+    "k": "Apostille tại Bộ Ngoại giao",
+    "v": "Nhận apostille tại Bộ Ngoại giao Việt Nam ở Hà Nội hoặc TP. Hồ Chí Minh. Thủ tục hợp pháp hóa lãnh sự tại Lãnh sự quán Hàn Quốc ở Việt Nam đã bị bãi bỏ."
+   },
+   {
+    "k": "Gửi bản gốc",
+    "v": "Gửi bản gốc về Hàn Quốc bằng chuyển phát nhanh quốc tế (EMS, DHL); trung bình 1–2 tuần kể cả thông quan."
+   }
+  ],
+  "apo_note": "Để nộp hồ sơ cuối năm và được áp dụng mức lương năm 2026 (từ 31,12 triệu won/năm), hãy bắt đầu apostille ngay sau phỏng vấn cuối tháng 11 và có bản gốc trước giữa tháng 12. Sinh viên các nước khác hãy kiểm tra thủ tục apostille hoặc hợp pháp hóa của nước mình.",
+  "base_title": "Kiến thức cơ bản về E-7-1",
+  "base": [
+   "E-7-1 (nhân lực chuyên môn) gồm 67 ngành: 15 ngành quản lý và 52 ngành chuyên gia và liên quan.",
+   "Về nguyên tắc, cả 67 ngành đều cần cử nhân + ít nhất 1 năm kinh nghiệm liên quan, hoặc từ thạc sĩ trở lên.",
+   "Mã bắt đầu bằng S là ngành đặc thù mới; yêu cầu đối với doanh nghiệp và việc cần thư giới thiệu tuyển dụng khác nhau tùy trường hợp, nên cần xem xét trước.",
+   "Danh sách đầy đủ và điều kiện tham khảo sổ tay hướng dẫn theo tư cách lưu trú của Bộ Tư pháp."
+  ],
+  "source": "Nguồn: tài liệu thực tế của TS. Kim Jae-kwon (hành chính sĩ), tháng 11/2026, do khoa biên tập lại. Quy định có thể thay đổi; cơ quan xuất nhập cảnh quyết định cuối cùng.",
+  "more": [
+   {
+    "label": "Doanh nghiệp tham gia kết nối việc làm",
+    "url": "/ipp/companies/"
+   },
+   {
+    "label": "Mẫu CV và thư giới thiệu bản thân",
+    "url": "/resources/"
+   },
+   {
+    "label": "Global IPP",
+    "url": "/ipp/"
+   }
+  ],
+  "moretitle": "Xem thêm"
+ }
+}

@@ -3,6 +3,9 @@ groups:
   - title: "D-2 → E-7 job search information session (16 Nov 2026)"
     text: "Materials from the D-2 → E-7 job search information session held on Monday, 16 November 2026 in Room B104, Mirae Hall: the poster, the session cover, the job-matching guide presentation and a preview of participating companies, in Korean–Vietnamese and Korean–English."
     notes:
+      - label: "Companies"
+        text: "Openings and terms by company"
+        url: "/ipp/companies/"
       - label: "Application deadline"
         text: "Mon 30 Nov 2026"
       - label: "Apply"
@@ -50,6 +53,41 @@ groups:
           - label: "Participating companies (Korean)"
             file: /files/d2e7/d2e7-companies-ko.pdf
             info: PDF · 1 page · 173KB
+  - title: "Job application forms (résumé and cover letter)"
+    text: "Standard résumé and cover-letter forms for applying through the department's job-matching program, as editable Word files and printable PDFs. Send your completed files to Prof. Park Yang Soo (parkys@hansung.ac.kr)."
+    items:
+      - lang_label: "Korean forms (for Vietnamese students)"
+        lang: vi
+        cover: /images/resources/forms-ko-vi.jpg
+        files:
+          - label: "Résumé (Word)"
+            file: /files/forms/gaimc-resume-ko-vi.docx
+            info: DOCX · 41KB
+          - label: "Résumé (PDF)"
+            file: /files/forms/gaimc-resume-ko-vi.pdf
+            info: PDF · 3 pages · 187KB
+          - label: "Cover letter (Word)"
+            file: /files/forms/gaimc-cover-ko-vi.docx
+            info: DOCX · 38KB
+          - label: "Cover letter (PDF)"
+            file: /files/forms/gaimc-cover-ko-vi.pdf
+            info: PDF · 2 pages · 92KB
+      - lang_label: "English forms (for Bangladeshi students)"
+        lang: en
+        cover: /images/resources/forms-ko-en.jpg
+        files:
+          - label: "Résumé (Word)"
+            file: /files/forms/gaimc-resume-ko-en.docx
+            info: DOCX · 33KB
+          - label: "Résumé (PDF)"
+            file: /files/forms/gaimc-resume-ko-en.pdf
+            info: PDF · 2 pages · 114KB
+          - label: "Cover letter (Word)"
+            file: /files/forms/gaimc-cover-ko-en.docx
+            info: DOCX · 31KB
+          - label: "Cover letter (PDF)"
+            file: /files/forms/gaimc-cover-ko-en.pdf
+            info: PDF · 3 pages · 74KB
   - title: Department promotional video
     type: video
     text: "The department's official promotional video, introducing Global AI Management Consulting in about one minute. Available in Korean, English and Vietnamese, it covers the department and its faculty, a curriculum built around AI consulting agent modules, industry field learning, cooperation with Hanoi University of Industry in Vietnam, student academic seminars and our growing student community. All activity scenes are photos from the department's own events. Watch it here or download it to share at admission sessions, events and on social media."

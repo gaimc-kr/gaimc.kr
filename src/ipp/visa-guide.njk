@@ -1,0 +1,59 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/ipp/visa-guide/"
+eleventyComputed:
+  title: "{{ ippVisaGuide[lang].title }}"
+  description: "{{ ippVisaGuide[lang].lead }}"
+---
+{#- E-7 비자 실무 가이드: 김재권 박사(행정사) 실무 자료(2026. 11.)를 학과가 재편집. 원본의 67개 직종 표는 번호·코드 중복 오류가 있어 싣지 않고 요약만 게재. 데이터는 _data/ippVisaGuide.json #}
+{%- set T = i18n[lang] -%}{%- set V = ippVisaGuide[lang] -%}
+<div class="page-head">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="{{ T.here }}">
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ '/ipp/' | L(lang) }}">{{ T.pages.ipp.title }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ V.crumb }}</span>
+    </nav>
+    <p class="eyebrow">GLOBAL IPP</p>
+    <h1>{{ V.title }}</h1>
+    <p class="lead">{{ V.lead }}</p>
+  </div>
+</div>
+<section class="section">
+  <div class="container vg">
+    <h2 class="group-title">{{ V.gap.title }}</h2>
+    <dl class="vg-gap">{% for g in V.gap.items %}<div class="vg-gap-{{ loop.index }}"><dt>{{ g.k }}</dt><dd>{{ g.v }}</dd></div>{% endfor %}</dl>
+
+    <h2 class="group-title">{{ V.fuse.title }}</h2>
+    <ul class="check-list">{% for f in V.fuse.items %}<li>{{ f }}</li>{% endfor %}</ul>
+
+    <h2 class="group-title">{{ V.tiers_title }}</h2>
+    <div class="vg-tiers">
+      {%- for t in V.tiers %}
+      <section class="vg-tier vg-tier--{{ t.cls }}" aria-label="{{ t.title }}">
+        <h3>{{ t.title }}</h3>
+        <p class="vg-tier-desc">{{ t.desc }}</p>
+        <ul>{% for i in t.items %}<li>{{ i }}</li>{% endfor %}</ul>
+      </section>
+      {%- endfor %}
+    </div>
+
+    <h2 class="group-title">{{ V.docs_title }}</h2>
+    <ul class="vg-docs">{% for d in V.docs %}<li{% if loop.last %} class="is-key"{% endif %}><strong>{{ d.k }}</strong><span>{{ d.v }}</span></li>{% endfor %}</ul>
+
+    <h2 class="group-title">{{ V.apo_title }} <span class="vg-sub">{{ V.apo_sub }}</span></h2>
+    <ol class="flow-steps">{% for a in V.apo %}<li><h3>{{ a.k }}</h3><p>{{ a.v }}</p></li>{% endfor %}</ol>
+    <p class="placeholder-box">{{ V.apo_note }}</p>
+
+    <h2 class="group-title">{{ V.base_title }}</h2>
+    <ul class="check-list">{% for b in V.base %}<li>{{ b }}</li>{% endfor %}</ul>
+
+    <p class="note">{{ V.source }}</p>
+    <div class="related-box">
+      <h2 class="related-title">{{ V.moretitle }}</h2>
+      <ul class="related-links">{% for m in V.more %}<li><a href="{{ m.url | L(lang) }}">{{ m.label }}<span aria-hidden="true"> ›</span></a></li>{% endfor %}</ul>
+    </div>
+  </div>
+</section>

@@ -3,6 +3,9 @@ groups:
   - title: "Tài liệu buổi giới thiệu việc làm D-2 → E-7 (16/11/2026)"
     text: "Tài liệu buổi giới thiệu việc làm D-2 → E-7 tổ chức thứ Hai, 16/11/2026 tại phòng B104, tòa Mirae: poster, trang bìa, bài trình bày hướng dẫn kết nối việc làm và thông tin doanh nghiệp tham gia, gồm bản tiếng Hàn – tiếng Việt và tiếng Hàn – tiếng Anh."
     notes:
+      - label: "Doanh nghiệp"
+        text: "Vị trí và điều kiện theo doanh nghiệp"
+        url: "/ipp/companies/"
       - label: "Hạn đăng ký"
         text: "Thứ Hai, 30/11/2026"
       - label: "Đăng ký"
@@ -50,6 +53,41 @@ groups:
           - label: "Doanh nghiệp tham gia (tiếng Hàn)"
             file: /files/d2e7/d2e7-companies-ko.pdf
             info: PDF · 1 trang · 173KB
+  - title: "Mẫu hồ sơ xin việc (CV và thư giới thiệu bản thân)"
+    text: "Mẫu CV và thư giới thiệu bản thân chuẩn dùng khi ứng tuyển qua chương trình kết nối việc làm của khoa, gồm tệp Word để chỉnh sửa và PDF để in. Gửi tệp đã điền cho GS. Park Yang Soo (parkys@hansung.ac.kr)."
+    items:
+      - lang_label: "Mẫu tiếng Hàn (cho sinh viên Việt Nam)"
+        lang: vi
+        cover: /images/resources/forms-ko-vi.jpg
+        files:
+          - label: "CV (Word)"
+            file: /files/forms/gaimc-resume-ko-vi.docx
+            info: DOCX · 41KB
+          - label: "CV (PDF)"
+            file: /files/forms/gaimc-resume-ko-vi.pdf
+            info: PDF · 3 trang · 187KB
+          - label: "Thư giới thiệu (Word)"
+            file: /files/forms/gaimc-cover-ko-vi.docx
+            info: DOCX · 38KB
+          - label: "Thư giới thiệu (PDF)"
+            file: /files/forms/gaimc-cover-ko-vi.pdf
+            info: PDF · 2 trang · 92KB
+      - lang_label: "Mẫu tiếng Anh (cho sinh viên Bangladesh)"
+        lang: en
+        cover: /images/resources/forms-ko-en.jpg
+        files:
+          - label: "CV (Word)"
+            file: /files/forms/gaimc-resume-ko-en.docx
+            info: DOCX · 33KB
+          - label: "CV (PDF)"
+            file: /files/forms/gaimc-resume-ko-en.pdf
+            info: PDF · 2 trang · 114KB
+          - label: "Thư giới thiệu (Word)"
+            file: /files/forms/gaimc-cover-ko-en.docx
+            info: DOCX · 31KB
+          - label: "Thư giới thiệu (PDF)"
+            file: /files/forms/gaimc-cover-ko-en.pdf
+            info: PDF · 3 trang · 74KB
   - title: Video giới thiệu khoa
     type: video
     text: "Video giới thiệu chính thức của khoa, giới thiệu Khoa Tư vấn Quản trị AI Toàn cầu trong khoảng một phút. Video có ba phiên bản tiếng Hàn, tiếng Anh và tiếng Việt, giới thiệu khoa và đội ngũ giảng viên, chương trình học xây dựng quanh các mô-đun AI agent tư vấn, hoạt động thực tế tại doanh nghiệp, hợp tác với Đại học Công nghiệp Hà Nội, hội thảo học thuật của sinh viên và cộng đồng sinh viên cùng phát triển. Các cảnh hoạt động đều là hình ảnh thực tế từ sự kiện của khoa. Hãy xem trực tiếp hoặc tải về để sử dụng tại buổi tư vấn tuyển sinh, sự kiện và mạng xã hội."

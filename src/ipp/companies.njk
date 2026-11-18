@@ -1,0 +1,63 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: langs.codes
+  size: 1
+  alias: lang
+permalink: "{{ langs.prefix[lang] }}/ipp/companies/"
+eleventyComputed:
+  title: "{{ ippCompanies[lang].title }}"
+  description: "{{ ippCompanies[lang].lead }}"
+---
+{#- 글로벌 IPP 채용연계 참여 기업. 데이터는 _data/ippCompanies.json(생성 스크립트로 국·영·베 작성). 실명 기업은 기업 동의 후 공개(2026. 11. 18. 학과장) #}
+{%- set T = i18n[lang] -%}{%- set P = ippCompanies[lang] -%}{%- set Lb = P.labels -%}
+<div class="page-head">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="{{ T.here }}">
+      <a href="{{ '/' | L(lang) }}">{{ T.home }}</a><span aria-hidden="true">›</span><a href="{{ '/ipp/' | L(lang) }}">{{ T.pages.ipp.title }}</a><span aria-hidden="true">›</span><span aria-current="page">{{ P.crumb }}</span>
+    </nav>
+    <p class="eyebrow">GLOBAL IPP</p>
+    <h1>{{ P.title }}</h1>
+    <p class="lead">{{ P.lead }}</p>
+  </div>
+</div>
+<section class="section">
+  <div class="container">
+    <dl class="resource-notes">
+      {%- for n in P.notice %}
+      <div><dt>{{ n.label }}</dt><dd>{% if n.url %}<a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.text }}<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span></a>{% else %}{{ n.text }}{% endif %}</dd></div>
+      {%- endfor %}
+    </dl>
+    <ul class="co-grid">
+      {%- for c in P.companies %}
+      <li class="co-card{% if c.name %} co-card--named{% endif %}">
+        <div class="co-head">
+          <span class="co-num" aria-hidden="true">{{ c.n }}</span>
+          <div>
+            <h2 class="co-name">{% if c.name %}{{ c.name }}{% else %}<span class="co-unnamed">{{ Lb.unnamed }}</span>{% endif %}</h2>
+            <p class="co-sub">{{ c.head }} · {{ Lb.prof }} {{ c.prof }}</p>
+          </div>
+        </div>
+        {%- if c.facts %}
+        <dl class="co-facts">{% for f in c.facts %}<div><dt>{{ f.k }}</dt><dd>{{ f.v }}</dd></div>{% endfor %}</dl>
+        <p class="co-biz"><strong>{{ Lb.biz }}</strong> {{ c.biz }}</p>
+        {%- endif %}
+        <dl class="co-job">
+          <div><dt>{{ Lb.role }}</dt><dd>{{ c.role }}</dd></div>
+          <div><dt>{{ Lb.req }}</dt><dd>{{ c.req }}</dd></div>
+          <div><dt>{{ Lb.terms }}</dt><dd>{{ c.terms }}</dd></div>
+          <div><dt>{{ Lb.visa }}</dt><dd>{{ c.visa }}</dd></div>
+        </dl>
+        {%- if c.pdf %}
+        <a class="btn btn-outline btn-download co-pdf" href="{{ c.pdf }}" target="_blank" rel="noopener"><span>{{ Lb.pdf }}</span><span class="resource-info">{{ c.pdfinfo }}</span><span class="sr-only">{{ T.newWin }}</span></a>
+        {%- endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+    <p class="note">{{ P.note }}</p>
+    <div class="related-box">
+      <h2 class="related-title">{{ P.moretitle }}</h2>
+      <ul class="related-links">{% for m in P.more %}<li><a href="{{ m.url | L(lang) }}">{{ m.label }}<span aria-hidden="true"> ›</span></a></li>{% endfor %}</ul>
+    </div>
+  </div>
+</section>

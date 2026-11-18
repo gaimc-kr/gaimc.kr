@@ -13,6 +13,11 @@ permalink: "{{ langs.prefix[lang] }}/ipp/"
   <div class="container">
     {% if I.preparing %}<p class="placeholder-box"><strong>{{ TI.preparing }}</strong> {{ I.preparing_text }}</p>{% endif %}
     <p class="intro-text">{{ I.intro }}</p>
+    {%- set NB = {"ko": ["지금 모집 중", "교수진이 발굴한 채용연계 참여 기업과, 행정사 실무를 반영한 E-7 비자 가이드를 확인하세요.", "참여 기업 보기", "E-7 비자 실무 가이드"], "en": ["Now hiring", "See the partner companies our faculty found and an E-7 visa guide based on an administrative agent's field experience.", "Partner companies", "E-7 visa practical guide"], "vi": ["Đang tuyển", "Xem các doanh nghiệp do giáo sư tìm kiếm và hướng dẫn visa E-7 dựa trên kinh nghiệm thực tế của hành chính sĩ.", "Doanh nghiệp tham gia", "Hướng dẫn visa E-7"]}[lang] %}
+    <div class="feature-band ipp-now">
+      <div><p class="eyebrow">{{ NB[0] }}</p><p>{{ NB[1] }}</p></div>
+      <div class="btn-row"><a class="btn btn-primary" href="{{ '/ipp/companies/' | L(lang) }}">{{ NB[2] }} <span aria-hidden="true">›</span></a> <a class="btn btn-outline" href="{{ '/ipp/visa-guide/' | L(lang) }}">{{ NB[3] }} <span aria-hidden="true">›</span></a></div>
+    </div>
     {%- if I.background %}
     <h2 class="group-title">{{ TI.background }}</h2>
     <p class="ipp-text">{{ I.background }}</p>

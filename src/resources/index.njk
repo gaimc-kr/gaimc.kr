@@ -21,7 +21,7 @@ permalink: "{{ langs.prefix[lang] }}/resources/"
     {%- if g.notes %}
     <dl class="resource-notes">
       {%- for n in g.notes %}
-      <div><dt>{{ n.label }}</dt><dd>{% if n.url %}<a href="{{ n.url }}"{% if n.url.startsWith("http") %} target="_blank" rel="noopener"{% endif %}>{{ n.text }}{% if n.url.startsWith("http") %}<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span>{% endif %}</a>{% else %}{{ n.text }}{% endif %}</dd></div>
+      <div><dt>{{ n.label }}</dt><dd>{% if n.url %}<a href="{{ (n.url | L(lang)) if n.url.startsWith("/") else n.url }}"{% if n.url.startsWith("http") %} target="_blank" rel="noopener"{% endif %}>{{ n.text }}{% if n.url.startsWith("http") %}<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span>{% endif %}</a>{% else %}{{ n.text }}{% endif %}</dd></div>
       {%- endfor %}
     </dl>
     {%- endif %}

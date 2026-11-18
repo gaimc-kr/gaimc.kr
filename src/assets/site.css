@@ -638,3 +638,47 @@ html.fm-open { overflow: hidden; }
 .resource-notes dt { font-weight: 700; }
 .resource-notes dd { margin: 0; }
 .resource-notes a { overflow-wrap: anywhere; }
+
+/* 글로벌 IPP 채용연계 참여 기업 */
+.co-grid { list-style: none; padding: 0; margin: 1.5rem 0; display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 30rem), 1fr)); }
+.co-card { border: 1px solid var(--line); border-radius: 12px; padding: 1.25rem 1.375rem; background: var(--bg); display: flex; flex-direction: column; gap: .875rem; }
+.co-card--named { border-top: 4px solid var(--dark-blue); }
+.co-head { display: flex; gap: .75rem; align-items: flex-start; }
+.co-num { font-size: 1.5rem; line-height: 1; color: var(--blue); font-weight: 700; }
+.co-name { font-size: 1.25rem; margin: 0; color: var(--dark-blue); }
+.co-unnamed { color: var(--muted); font-weight: 600; font-size: 1.05rem; }
+.co-sub { margin: .25rem 0 0; color: var(--muted); font-size: .9375rem; }
+.co-facts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem .75rem; margin: 0; padding: .75rem .875rem; background: var(--bg-tint); border-radius: 8px; font-size: .9375rem; }
+.co-facts dt { color: var(--muted); font-size: .8125rem; }
+.co-facts dd { margin: 0; font-weight: 600; }
+.co-biz { margin: 0; font-size: .9375rem; line-height: 1.6; }
+.co-biz strong { color: var(--dark-blue); margin-right: .25rem; }
+.co-job { margin: 0; display: grid; gap: .375rem; }
+.co-job div { display: grid; grid-template-columns: 6.5rem 1fr; gap: .5rem; font-size: .9375rem; line-height: 1.55; }
+.co-job dt { font-weight: 700; color: var(--dark-blue); }
+.co-job dd { margin: 0; }
+.co-pdf { align-self: flex-start; margin-top: auto; }
+@media (max-width: 480px) { .co-job div { grid-template-columns: 1fr; gap: 0; } .co-facts { grid-template-columns: 1fr; } }
+
+/* E-7 비자 실무 가이드 */
+.vg-gap { display: grid; gap: .75rem; margin: 0 0 1rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); }
+.vg-gap > div { border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.125rem; background: var(--bg); }
+.vg-gap dt { font-weight: 700; color: var(--dark-blue); margin-bottom: .375rem; }
+.vg-gap dd { margin: 0; line-height: 1.65; }
+.vg-gap .vg-gap-2 { border-color: #c9483d; background: #fdf3f2; }
+.vg-gap .vg-gap-2 dt { color: #a8322a; }
+.vg-gap .vg-gap-3 { border-color: var(--dark-blue); background: var(--bg-sky); }
+.vg-tiers { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); }
+.vg-tier { border-radius: 12px; padding: 1.125rem 1.25rem; border: 1px solid var(--line); border-top-width: 5px; background: var(--bg); }
+.vg-tier h3 { margin: 0 0 .375rem; font-size: 1.125rem; }
+.vg-tier-desc { margin: 0 0 .75rem; color: var(--muted); font-size: .9375rem; line-height: 1.55; }
+.vg-tier ul { margin: 0; padding-left: 1.1rem; display: grid; gap: .375rem; font-size: .9375rem; line-height: 1.55; }
+.vg-tier--good { border-top-color: #2f8a4f; } .vg-tier--good h3 { color: #22703d; }
+.vg-tier--mid { border-top-color: #d08a12; } .vg-tier--mid h3 { color: #9a6200; }
+.vg-tier--bad { border-top-color: #c9483d; } .vg-tier--bad h3 { color: #a8322a; }
+.vg-docs { list-style: none; padding: 0; margin: 0; display: grid; gap: .625rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr)); }
+.vg-docs li { border: 1px solid var(--line); border-radius: 10px; padding: .875rem 1rem; display: flex; flex-direction: column; gap: .25rem; background: var(--bg-tint); }
+.vg-docs li strong { color: var(--dark-blue); }
+.vg-docs li span { font-size: .9375rem; color: var(--text); line-height: 1.55; }
+.vg-docs li.is-key { background: var(--bg-sky); border-color: var(--dark-blue); }
+.vg-sub { font-size: .875rem; color: var(--muted); font-weight: 500; }

@@ -1,0 +1,617 @@
+{
+ "ko": {
+  "title": "채용연계 참여 기업(2026 하반기)",
+  "crumb": "채용연계 참여 기업",
+  "lead": "교수진이 직접 발굴한 기업의 채용 직무와 조건입니다. 졸업 전에 지원해 취업 비자(E-7)로 이어 가세요.",
+  "notice": [
+   {
+    "label": "지원 마감",
+    "text": "2026. 11. 30.(월)",
+    "url": null
+   },
+   {
+    "label": "신청",
+    "text": "forms.gle/PthtKsVBHTXX1sMU8",
+    "url": "https://forms.gle/PthtKsVBHTXX1sMU8"
+   },
+   {
+    "label": "다음 일정",
+    "text": "12월 교수진 추천(기업별 2~3배수) → 교수 동행 면접",
+    "url": null
+   }
+  ],
+  "note": "기업명과 회사 정보는 각 기업의 동의를 받아 공개합니다. 조건은 협의에 따라 바뀔 수 있으며, 채용은 기업이, 비자 발급은 출입국·외국인관서가 심사해 결정합니다. ①·⑤·⑦ 기업의 상세 정보는 설명회와 개별 상담에서 안내합니다.",
+  "labels": {
+   "prof": "담당",
+   "role": "모집 직무",
+   "req": "요건",
+   "terms": "조건",
+   "visa": "비자",
+   "pdf": "기업 소개서",
+   "unnamed": "기업명 비공개",
+   "facts": "회사 개요",
+   "biz": "사업"
+  },
+  "more": [
+   {
+    "label": "E-7 비자 실무 가이드",
+    "url": "/ipp/visa-guide/"
+   },
+   {
+    "label": "이력서·자기소개서 양식 내려받기",
+    "url": "/resources/"
+   },
+   {
+    "label": "설명회 자료와 행사 소식",
+    "url": "/events/d2e7-job-session/"
+   }
+  ],
+  "moretitle": "함께 보기",
+  "companies": [
+   {
+    "n": "①",
+    "name": null,
+    "head": "섬유 중견기업 · 서울",
+    "prof": "정효근 교수",
+    "role": "국내 관리직",
+    "req": "한국어·영어 원활",
+    "terms": "급여 협의 · 베트남 생산공장 운영",
+    "visa": "E-7-1 (직무 확인 후)"
+   },
+   {
+    "n": "②",
+    "name": "(주)중앙타프라",
+    "head": "식품 원료·음료 제조 중기업 · 충남 예산",
+    "prof": "김재권 교수(행정사)",
+    "role": "기계·전기·전자 기술직",
+    "req": "학부 기계·전기·전자 전공 · 한국어 상급 우대",
+    "terms": "연봉 약 3,200만 원(세전)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "설립",
+      "v": "1990년 4월"
+     },
+     {
+      "k": "소재지",
+      "v": "충남 예산군 응봉면"
+     },
+     {
+      "k": "매출",
+      "v": "251억 원"
+     },
+     {
+      "k": "임직원",
+      "v": "62명(연구원 3명)"
+     }
+    ],
+    "biz": "버터크림 파우더·생크림·농축 주스 등 식품 원료와 음료 제조. 분말화·농축 기술, 특허 4건",
+    "pdf": "/files/ipp/2026-company-jungang-tafla.pdf",
+    "pdfinfo": "PDF · 1쪽"
+   },
+   {
+    "n": "③",
+    "name": "달슨(Dahlson)",
+    "head": "광전자·초음파 센서 제조 소기업 · 전북 전주",
+    "prof": "김재권 교수(행정사)",
+    "role": "전기·전자 기술직",
+    "req": "학부 전기·전자 전공 · 한국어 중급 이상 우대",
+    "terms": "연봉 약 3,200만 원(세전)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "설립",
+      "v": "2015년 6월"
+     },
+     {
+      "k": "소재지",
+      "v": "전북 전주시 덕진구(전주혁신창업허브)"
+     },
+     {
+      "k": "매출",
+      "v": "22.7억 원"
+     },
+     {
+      "k": "임직원",
+      "v": "5명(연구원 1명)"
+     }
+    ],
+    "biz": "광전자·초음파 센서, 센서 모듈, 의료·산업·OA용 전자부품. 포토 인터럽션·PIR 센싱 등 특허 5건",
+    "pdf": "/files/ipp/2026-company-dahlson.pdf",
+    "pdfinfo": "PDF · 1쪽"
+   },
+   {
+    "n": "④",
+    "name": "(주)탑텍코리아",
+    "head": "금형·기계 제작 중소기업 · 광주",
+    "prof": "김재권 교수(행정사)",
+    "role": "기계 설계직(2D·3D)",
+    "req": "2D·3D 설계 프로그램 사용 · 한국어 중급 이상 우대",
+    "terms": "연봉 약 3,200만 원(세전)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "설립",
+      "v": "2011년 8월"
+     },
+     {
+      "k": "소재지",
+      "v": "광주광역시 북구 첨단지구"
+     },
+     {
+      "k": "매출",
+      "v": "약 48억 원"
+     },
+     {
+      "k": "임직원",
+      "v": "26명"
+     }
+    ],
+    "biz": "프레스·사출 금형, 기계 제작, 태양광 발전 설비. 금형 정밀 가공·설비 자동화 특허 다수",
+    "pdf": "/files/ipp/2026-company-toptech-korea.pdf",
+    "pdfinfo": "PDF · 1쪽"
+   },
+   {
+    "n": "⑤",
+    "name": null,
+    "head": "인조대리석 가공·시공 · 경기 화성",
+    "prof": "김내영 교수",
+    "role": "생산(가공·지게차) 3명",
+    "req": "한국어 기본 대화 · 지게차 면허는 입사 후 교육",
+    "terms": "3개월 인턴 후 정규직 · 기숙사 무료",
+    "visa": "재학 중 방학 인턴(TOPIK 4급 이상) → 졸업 후 E-7-1 직무로 단계적 연계(협의 중)"
+   },
+   {
+    "n": "⑥",
+    "name": "(주)동일전자",
+    "head": "가전·산업용 소형 모터 제조 · 경기 용인",
+    "prof": "권연재 교수",
+    "role": "연구소 설계·개발 1명",
+    "req": "기계공학·메카트로닉스 전공 · 2D CAD(ZWCAD·AutoCAD)와 3D CAD(SolidWorks) 경험 · 한국어 업무 소통 · 1년 이상 근무, 즉시 입사",
+    "terms": "연봉 3,200~3,500만 원 · 주간 근무 · 기숙사(도보 3분) · 1일 1식 · 명절 상여 · 4대 보험·퇴직연금",
+    "visa": "E-7-1 (기계공학 기술자) → F-2-7 점수제 거주 신청 가능",
+    "facts": [
+     {
+      "k": "설립",
+      "v": "2004년"
+     },
+     {
+      "k": "소재지",
+      "v": "경기 용인시 처인구 모현읍(본사·제1·2공장)"
+     },
+     {
+      "k": "매출",
+      "v": "약 100억 원"
+     },
+     {
+      "k": "임직원",
+      "v": "28명 · 기업부설연구소"
+     }
+    ],
+    "biz": "AC·BLDC 소형 모터(쇼케이스·환풍기·로스터·공기청정기용). 삼성전자·LG전자·롯데기공·힘펠·캐리어 등 80여 고객사, UL·ISO 9001·이노비즈 인증",
+    "pdf": "/files/ipp/2026-company-dongil.pdf",
+    "pdfinfo": "PDF · 17쪽"
+   },
+   {
+    "n": "⑦",
+    "name": null,
+    "head": "정보통신 기업",
+    "prof": "김도균 교수",
+    "role": "백엔드(Backend) 개발",
+    "req": "개발 경험(언어·프레임워크)",
+    "terms": "설명회에서 안내",
+    "visa": "E-7-1 (정보통신 직종)"
+   }
+  ]
+ },
+ "en": {
+  "title": "Partner companies hiring (late 2026)",
+  "crumb": "Partner companies",
+  "lead": "Openings and terms at companies our faculty found themselves. Apply before you graduate and move on to a work visa (E-7).",
+  "notice": [
+   {
+    "label": "Deadline",
+    "text": "Mon 30 Nov 2026",
+    "url": null
+   },
+   {
+    "label": "Apply",
+    "text": "forms.gle/PthtKsVBHTXX1sMU8",
+    "url": "https://forms.gle/PthtKsVBHTXX1sMU8"
+   },
+   {
+    "label": "Next",
+    "text": "December: faculty recommend 2–3 candidates per company → interviews with a professor",
+    "url": null
+   }
+  ],
+  "note": "Company names and details are published with each company's consent. Terms may change through discussion; each company makes its own hiring decision, and visas are decided by the immigration office. Details for companies ①, ⑤ and ⑦ are given at the session and in individual counselling.",
+  "labels": {
+   "prof": "Contact",
+   "role": "Opening",
+   "req": "Requirements",
+   "terms": "Terms",
+   "visa": "Visa",
+   "pdf": "Company profile",
+   "unnamed": "Name not disclosed",
+   "facts": "Company facts",
+   "biz": "Business"
+  },
+  "more": [
+   {
+    "label": "E-7 visa practical guide",
+    "url": "/ipp/visa-guide/"
+   },
+   {
+    "label": "Download résumé and cover-letter forms",
+    "url": "/resources/"
+   },
+   {
+    "label": "Session materials and event report",
+    "url": "/events/d2e7-job-session/"
+   }
+  ],
+  "moretitle": "See also",
+  "companies": [
+   {
+    "n": "①",
+    "name": null,
+    "head": "Mid-sized textile company · Seoul",
+    "prof": "Prof. Jeong Hyo-geun",
+    "role": "Management role in Korea",
+    "req": "Fluent Korean and English",
+    "terms": "Salary negotiable · runs a factory in Vietnam",
+    "visa": "E-7-1 (once the role is confirmed)"
+   },
+   {
+    "n": "②",
+    "name": "Jung Ang Tafla Co., Ltd.",
+    "head": "Food ingredients and beverages · Yesan, South Chungcheong",
+    "prof": "Prof. Kim Jae-kwon (administrative agent)",
+    "role": "Mechanical, electrical or electronics engineer",
+    "req": "Bachelor's in mechanical, electrical or electronic engineering · advanced Korean preferred",
+    "terms": "About KRW 32 million a year (before tax)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "Founded",
+      "v": "April 1990"
+     },
+     {
+      "k": "Location",
+      "v": "Eungbong-myeon, Yesan, South Chungcheong"
+     },
+     {
+      "k": "Revenue",
+      "v": "KRW 25.1 billion"
+     },
+     {
+      "k": "Employees",
+      "v": "62 (3 researchers)"
+     }
+    ],
+    "biz": "Food ingredients and beverages such as butter-cream powder, fresh cream and juice concentrates; powdering and concentration technology, 4 patents",
+    "pdf": "/files/ipp/2026-company-jungang-tafla.pdf",
+    "pdfinfo": "PDF · 1 page"
+   },
+   {
+    "n": "③",
+    "name": "Dahlson",
+    "head": "Photoelectric and ultrasonic sensors · Jeonju, North Jeolla",
+    "prof": "Prof. Kim Jae-kwon (administrative agent)",
+    "role": "Electrical or electronics engineer",
+    "req": "Bachelor's in electrical or electronic engineering · intermediate Korean or higher preferred",
+    "terms": "About KRW 32 million a year (before tax)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "Founded",
+      "v": "June 2015"
+     },
+     {
+      "k": "Location",
+      "v": "Deokjin-gu, Jeonju (Jeonju Innovation Startup Hub)"
+     },
+     {
+      "k": "Revenue",
+      "v": "KRW 2.27 billion"
+     },
+     {
+      "k": "Employees",
+      "v": "5 (1 researcher)"
+     }
+    ],
+    "biz": "Photoelectric and ultrasonic sensors, sensor modules and electronic parts for medical, industrial and office equipment; 5 patents including photo-interruption and PIR sensing",
+    "pdf": "/files/ipp/2026-company-dahlson.pdf",
+    "pdfinfo": "PDF · 1 page"
+   },
+   {
+    "n": "④",
+    "name": "Top Tech Korea Co., Ltd.",
+    "head": "Molds and machinery · Gwangju",
+    "prof": "Prof. Kim Jae-kwon (administrative agent)",
+    "role": "Mechanical designer (2D/3D)",
+    "req": "2D/3D CAD skills · intermediate Korean or higher preferred",
+    "terms": "About KRW 32 million a year (before tax)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "Founded",
+      "v": "August 2011"
+     },
+     {
+      "k": "Location",
+      "v": "Cheomdan district, Buk-gu, Gwangju"
+     },
+     {
+      "k": "Revenue",
+      "v": "About KRW 4.8 billion"
+     },
+     {
+      "k": "Employees",
+      "v": "26"
+     }
+    ],
+    "biz": "Press and injection molds, machinery and solar power equipment; several patents in precision mold machining and automation",
+    "pdf": "/files/ipp/2026-company-toptech-korea.pdf",
+    "pdfinfo": "PDF · 1 page"
+   },
+   {
+    "n": "⑤",
+    "name": null,
+    "head": "Engineered stone processing · Hwaseong, Gyeonggi",
+    "prof": "Prof. Kim Nae Young",
+    "role": "Production (processing, forklift), 3 people",
+    "req": "Basic Korean · forklift licence trained after joining",
+    "terms": "3-month internship, then permanent · free dormitory",
+    "visa": "Vacation internship while studying (TOPIK 4+) → step-by-step move to an E-7-1 role after graduation (under discussion)"
+   },
+   {
+    "n": "⑥",
+    "name": "Dongil Electronics Co., Ltd.",
+    "head": "Small motors for appliances and industry · Yongin, Gyeonggi",
+    "prof": "Prof. Kwon Yeonjae",
+    "role": "R&D design engineer, 1 person",
+    "req": "Mechanical engineering or mechatronics · 2D CAD (ZWCAD/AutoCAD) and 3D CAD (SolidWorks) experience · working Korean · able to stay 1+ year and start immediately",
+    "terms": "KRW 32–35 million a year · day shift · dormitory 3 minutes' walk · one meal a day · holiday bonuses · social insurance and pension",
+    "visa": "E-7-1 (mechanical engineer) → eligible for F-2-7 points-based residence",
+    "facts": [
+     {
+      "k": "Founded",
+      "v": "2004"
+     },
+     {
+      "k": "Location",
+      "v": "Mohyeon-eup, Cheoin-gu, Yongin (HQ and two plants)"
+     },
+     {
+      "k": "Revenue",
+      "v": "About KRW 10 billion"
+     },
+     {
+      "k": "Employees",
+      "v": "28 · in-house R&D lab"
+     }
+    ],
+    "biz": "AC and BLDC small motors for showcases, fans, roasters and air purifiers; 80+ customers including Samsung Electronics, LG Electronics, Lotte Gigong, Himpel and Carrier; UL, ISO 9001 and Inno-Biz certified",
+    "pdf": "/files/ipp/2026-company-dongil.pdf",
+    "pdfinfo": "PDF · 17 pages"
+   },
+   {
+    "n": "⑦",
+    "name": null,
+    "head": "IT company",
+    "prof": "Prof. Kim Do-gyun",
+    "role": "Backend developer",
+    "req": "Development experience (languages, frameworks)",
+    "terms": "Explained at the session",
+    "visa": "E-7-1 (IT occupation)"
+   }
+  ]
+ },
+ "vi": {
+  "title": "Doanh nghiệp tham gia kết nối việc làm (cuối 2026)",
+  "crumb": "Doanh nghiệp tham gia",
+  "lead": "Vị trí và điều kiện tuyển dụng tại các doanh nghiệp do giáo sư trực tiếp tìm kiếm. Hãy ứng tuyển trước khi tốt nghiệp để chuyển sang visa lao động (E-7).",
+  "notice": [
+   {
+    "label": "Hạn đăng ký",
+    "text": "Thứ Hai, 30/11/2026",
+    "url": null
+   },
+   {
+    "label": "Đăng ký",
+    "text": "forms.gle/PthtKsVBHTXX1sMU8",
+    "url": "https://forms.gle/PthtKsVBHTXX1sMU8"
+   },
+   {
+    "label": "Tiếp theo",
+    "text": "Tháng 12: giáo sư đề cử 2–3 ứng viên mỗi doanh nghiệp → phỏng vấn cùng giáo sư",
+    "url": null
+   }
+  ],
+  "note": "Tên và thông tin doanh nghiệp được công bố với sự đồng ý của từng doanh nghiệp. Điều kiện có thể thay đổi theo thỏa thuận; doanh nghiệp quyết định tuyển dụng, cơ quan xuất nhập cảnh quyết định cấp visa. Thông tin chi tiết của doanh nghiệp ①, ⑤, ⑦ được hướng dẫn tại buổi giới thiệu và khi tư vấn riêng.",
+  "labels": {
+   "prof": "Phụ trách",
+   "role": "Vị trí",
+   "req": "Yêu cầu",
+   "terms": "Điều kiện",
+   "visa": "Visa",
+   "pdf": "Hồ sơ doanh nghiệp",
+   "unnamed": "Không công bố tên",
+   "facts": "Tổng quan",
+   "biz": "Lĩnh vực"
+  },
+  "more": [
+   {
+    "label": "Hướng dẫn thực tế visa E-7",
+    "url": "/ipp/visa-guide/"
+   },
+   {
+    "label": "Tải mẫu CV và thư giới thiệu bản thân",
+    "url": "/resources/"
+   },
+   {
+    "label": "Tài liệu và tin sự kiện",
+    "url": "/events/d2e7-job-session/"
+   }
+  ],
+  "moretitle": "Xem thêm",
+  "companies": [
+   {
+    "n": "①",
+    "name": null,
+    "head": "Doanh nghiệp dệt may cỡ vừa · Seoul",
+    "prof": "GS. Jeong Hyo-geun",
+    "role": "Vị trí quản lý tại Hàn Quốc",
+    "req": "Thành thạo tiếng Hàn và tiếng Anh",
+    "terms": "Lương thỏa thuận · có nhà máy tại Việt Nam",
+    "visa": "E-7-1 (sau khi xác nhận vị trí)"
+   },
+   {
+    "n": "②",
+    "name": "Công ty Jung Ang Tafla",
+    "head": "Nguyên liệu thực phẩm & đồ uống · Yesan, Chungcheong Nam",
+    "prof": "GS. Kim Jae-kwon (hành chính sĩ)",
+    "role": "Kỹ thuật viên cơ khí, điện, điện tử",
+    "req": "Cử nhân cơ khí, điện, điện tử · ưu tiên tiếng Hàn cao cấp",
+    "terms": "Khoảng 32 triệu won/năm (trước thuế)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "Thành lập",
+      "v": "4/1990"
+     },
+     {
+      "k": "Địa điểm",
+      "v": "Eungbong-myeon, Yesan, Chungcheong Nam"
+     },
+     {
+      "k": "Doanh thu",
+      "v": "25,1 tỷ won"
+     },
+     {
+      "k": "Nhân viên",
+      "v": "62 người (3 nghiên cứu viên)"
+     }
+    ],
+    "biz": "Nguyên liệu thực phẩm và đồ uống như bột kem bơ, kem tươi, nước ép đậm đặc; công nghệ bột hóa và cô đặc, 4 bằng sáng chế",
+    "pdf": "/files/ipp/2026-company-jungang-tafla.pdf",
+    "pdfinfo": "PDF · 1 trang"
+   },
+   {
+    "n": "③",
+    "name": "Dahlson",
+    "head": "Cảm biến quang điện & siêu âm · Jeonju, Jeolla Bắc",
+    "prof": "GS. Kim Jae-kwon (hành chính sĩ)",
+    "role": "Kỹ thuật viên điện, điện tử",
+    "req": "Cử nhân điện, điện tử · ưu tiên tiếng Hàn trung cấp trở lên",
+    "terms": "Khoảng 32 triệu won/năm (trước thuế)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "Thành lập",
+      "v": "6/2015"
+     },
+     {
+      "k": "Địa điểm",
+      "v": "Deokjin-gu, Jeonju (Jeonju Innovation Startup Hub)"
+     },
+     {
+      "k": "Doanh thu",
+      "v": "2,27 tỷ won"
+     },
+     {
+      "k": "Nhân viên",
+      "v": "5 người (1 nghiên cứu viên)"
+     }
+    ],
+    "biz": "Cảm biến quang điện và siêu âm, mô-đun cảm biến, linh kiện điện tử y tế, công nghiệp, văn phòng; 5 bằng sáng chế",
+    "pdf": "/files/ipp/2026-company-dahlson.pdf",
+    "pdfinfo": "PDF · 1 trang"
+   },
+   {
+    "n": "④",
+    "name": "Công ty Top Tech Korea",
+    "head": "Khuôn mẫu & chế tạo máy · Gwangju",
+    "prof": "GS. Kim Jae-kwon (hành chính sĩ)",
+    "role": "Thiết kế cơ khí (2D/3D)",
+    "req": "Sử dụng phần mềm thiết kế 2D/3D · ưu tiên tiếng Hàn trung cấp trở lên",
+    "terms": "Khoảng 32 triệu won/năm (trước thuế)",
+    "visa": "E-7-1",
+    "facts": [
+     {
+      "k": "Thành lập",
+      "v": "8/2011"
+     },
+     {
+      "k": "Địa điểm",
+      "v": "Khu Cheomdan, Buk-gu, Gwangju"
+     },
+     {
+      "k": "Doanh thu",
+      "v": "Khoảng 4,8 tỷ won"
+     },
+     {
+      "k": "Nhân viên",
+      "v": "26 người"
+     }
+    ],
+    "biz": "Khuôn dập, khuôn nhựa, chế tạo máy và thiết bị điện mặt trời; nhiều bằng sáng chế về gia công chính xác và tự động hóa",
+    "pdf": "/files/ipp/2026-company-toptech-korea.pdf",
+    "pdfinfo": "PDF · 1 trang"
+   },
+   {
+    "n": "⑤",
+    "name": null,
+    "head": "Gia công đá nhân tạo · Hwaseong, Gyeonggi",
+    "prof": "GS. Kim Nae Young",
+    "role": "Sản xuất (gia công, xe nâng), 3 người",
+    "req": "Tiếng Hàn giao tiếp cơ bản · đào tạo bằng lái xe nâng sau khi vào làm",
+    "terms": "Thực tập 3 tháng rồi chính thức · ký túc xá miễn phí",
+    "visa": "Thực tập kỳ nghỉ khi đang học (TOPIK 4+) → chuyển dần sang vị trí E-7-1 sau tốt nghiệp (đang thỏa thuận)"
+   },
+   {
+    "n": "⑥",
+    "name": "Công ty Dongil Electronics",
+    "head": "Mô-tơ cỡ nhỏ cho gia dụng & công nghiệp · Yongin, Gyeonggi",
+    "prof": "GS. Kwon Yeonjae",
+    "role": "Kỹ sư thiết kế R&D, 1 người",
+    "req": "Cơ khí hoặc cơ điện tử · kinh nghiệm CAD 2D (ZWCAD/AutoCAD) và 3D (SolidWorks) · giao tiếp công việc bằng tiếng Hàn · làm việc từ 1 năm, nhận việc ngay",
+    "terms": "32–35 triệu won/năm · làm ca ngày · ký túc xá cách 3 phút đi bộ · 1 bữa ăn/ngày · thưởng lễ Tết · bảo hiểm xã hội và lương hưu",
+    "visa": "E-7-1 (kỹ sư cơ khí) → có thể xin cư trú F-2-7 theo điểm",
+    "facts": [
+     {
+      "k": "Thành lập",
+      "v": "2004"
+     },
+     {
+      "k": "Địa điểm",
+      "v": "Mohyeon-eup, Cheoin-gu, Yongin (trụ sở và 2 nhà máy)"
+     },
+     {
+      "k": "Doanh thu",
+      "v": "Khoảng 10 tỷ won"
+     },
+     {
+      "k": "Nhân viên",
+      "v": "28 người · có viện nghiên cứu"
+     }
+    ],
+    "biz": "Mô-tơ AC, BLDC cỡ nhỏ cho tủ mát, quạt thông gió, bếp nướng, máy lọc không khí; hơn 80 khách hàng gồm Samsung Electronics, LG Electronics, Lotte Gigong, Himpel, Carrier; chứng nhận UL, ISO 9001, Inno-Biz",
+    "pdf": "/files/ipp/2026-company-dongil.pdf",
+    "pdfinfo": "PDF · 17 trang"
+   },
+   {
+    "n": "⑦",
+    "name": null,
+    "head": "Doanh nghiệp công nghệ thông tin",
+    "prof": "GS. Kim Do-gyun",
+    "role": "Lập trình viên backend",
+    "req": "Kinh nghiệm lập trình (ngôn ngữ, framework)",
+    "terms": "Đã hướng dẫn tại buổi giới thiệu",
+    "visa": "E-7-1 (ngành CNTT)"
+   }
+  ]
+ }
+}

@@ -40,6 +40,10 @@ program:
 - time: 마무리
   text: 질의응답과 현장 지원 신청
 links:
+- label: 채용연계 참여 기업과 직무·조건
+  url: /ipp/companies/
+- label: E-7 비자 실무 가이드
+  url: /ipp/visa-guide/
 - label: 설명회 자료 내려받기(포스터·채용연계 안내·참여 기업 미리보기)
   url: /resources/
 - label: 지원 신청(2026. 11. 30.(월) 마감)
@@ -87,6 +91,10 @@ en:
   - time: Closing
     text: Q&A and on-site applications
   links:
+  - label: Partner companies, openings and terms
+    url: /ipp/companies/
+  - label: E-7 visa practical guide
+    url: /ipp/visa-guide/
   - label: Download session materials (poster, job-matching guide, participating companies)
     url: /resources/
   - label: 'Apply (deadline: Mon 30 Nov 2026)'
@@ -138,6 +146,10 @@ vi:
   - time: Kết thúc
     text: Hỏi đáp và đăng ký tại chỗ
   links:
+  - label: Doanh nghiệp tham gia, vị trí và điều kiện
+    url: /ipp/companies/
+  - label: Hướng dẫn thực tế visa E-7
+    url: /ipp/visa-guide/
   - label: Tải tài liệu buổi giới thiệu (poster, hướng dẫn kết nối việc làm, doanh nghiệp tham gia)
     url: /resources/
   - label: 'Đăng ký (hạn chót: thứ Hai, 30/11/2026)'
