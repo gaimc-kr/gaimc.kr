@@ -97,39 +97,39 @@ groups:
         files:
           - label: "① Lộ trình D-2 → E-7"
             file: /files/guides/gaimc-visa-roadmap-ko.pdf
-            info: PDF · 9 trang · 222KB
+            info: PDF · 10 trang · 230KB
           - label: "② Hướng dẫn E-7-1"
             file: /files/guides/gaimc-visa-e7-1-ko.pdf
-            info: PDF · 8 trang · 214KB
+            info: PDF · 8 trang · 208KB
           - label: "③ Hướng dẫn F-2-R"
             file: /files/guides/gaimc-visa-f-2-r-ko.pdf
-            info: PDF · 7 trang · 213KB
+            info: PDF · 7 trang · 209KB
       - lang_label: "Tiếng Việt"
         lang: vi
         cover: /images/resources/visa-guides-vi.jpg
         files:
           - label: "① Lộ trình D-2 → E-7"
             file: /files/guides/gaimc-visa-roadmap-vi.pdf
-            info: PDF · 9 trang · 255KB
+            info: PDF · 10 trang · 292KB
           - label: "② Hướng dẫn E-7-1"
             file: /files/guides/gaimc-visa-e7-1-vi.pdf
-            info: PDF · 8 trang · 224KB
+            info: PDF · 8 trang · 218KB
           - label: "③ Hướng dẫn F-2-R"
             file: /files/guides/gaimc-visa-f-2-r-vi.pdf
-            info: PDF · 7 trang · 260KB
+            info: PDF · 7 trang · 256KB
       - lang_label: "Tiếng Anh (English)"
         lang: en
         cover: /images/resources/visa-guides-en.jpg
         files:
           - label: "① Lộ trình D-2 → E-7"
             file: /files/guides/gaimc-visa-roadmap-en.pdf
-            info: PDF · 9 trang · 149KB
+            info: PDF · 10 trang · 167KB
           - label: "② Hướng dẫn E-7-1"
             file: /files/guides/gaimc-visa-e7-1-en.pdf
-            info: PDF · 8 trang · 138KB
+            info: PDF · 8 trang · 133KB
           - label: "③ Hướng dẫn F-2-R"
             file: /files/guides/gaimc-visa-f-2-r-en.pdf
-            info: PDF · 7 trang · 164KB
+            info: PDF · 7 trang · 159KB
   - title: Video giới thiệu khoa
     type: video
     text: "Video giới thiệu chính thức của khoa, giới thiệu Khoa Tư vấn Quản trị AI Toàn cầu trong khoảng một phút. Video có ba phiên bản tiếng Hàn, tiếng Anh và tiếng Việt, giới thiệu khoa và đội ngũ giảng viên, chương trình học xây dựng quanh các mô-đun AI agent tư vấn, hoạt động thực tế tại doanh nghiệp, hợp tác với Đại học Công nghiệp Hà Nội, hội thảo học thuật của sinh viên và cộng đồng sinh viên cùng phát triển. Các cảnh hoạt động đều là hình ảnh thực tế từ sự kiện của khoa. Hãy xem trực tiếp hoặc tải về để sử dụng tại buổi tư vấn tuyển sinh, sự kiện và mạng xã hội."

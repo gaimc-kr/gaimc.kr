@@ -97,39 +97,39 @@ groups:
         files:
           - label: "① D-2 → E-7 roadmap"
             file: /files/guides/gaimc-visa-roadmap-ko.pdf
-            info: PDF · 9 pages · 222KB
+            info: PDF · 10 pages · 230KB
           - label: "② E-7-1 practical guide"
             file: /files/guides/gaimc-visa-e7-1-ko.pdf
-            info: PDF · 8 pages · 214KB
+            info: PDF · 8 pages · 208KB
           - label: "③ F-2-R regional visa guide"
             file: /files/guides/gaimc-visa-f-2-r-ko.pdf
-            info: PDF · 7 pages · 213KB
+            info: PDF · 7 pages · 209KB
       - lang_label: "Tiếng Việt (Vietnamese)"
         lang: vi
         cover: /images/resources/visa-guides-vi.jpg
         files:
           - label: "① D-2 → E-7 roadmap"
             file: /files/guides/gaimc-visa-roadmap-vi.pdf
-            info: PDF · 9 pages · 255KB
+            info: PDF · 10 pages · 292KB
           - label: "② E-7-1 practical guide"
             file: /files/guides/gaimc-visa-e7-1-vi.pdf
-            info: PDF · 8 pages · 224KB
+            info: PDF · 8 pages · 218KB
           - label: "③ F-2-R regional visa guide"
             file: /files/guides/gaimc-visa-f-2-r-vi.pdf
-            info: PDF · 7 pages · 260KB
+            info: PDF · 7 pages · 256KB
       - lang_label: "English"
         lang: en
         cover: /images/resources/visa-guides-en.jpg
         files:
           - label: "① D-2 → E-7 roadmap"
             file: /files/guides/gaimc-visa-roadmap-en.pdf
-            info: PDF · 9 pages · 149KB
+            info: PDF · 10 pages · 167KB
           - label: "② E-7-1 practical guide"
             file: /files/guides/gaimc-visa-e7-1-en.pdf
-            info: PDF · 8 pages · 138KB
+            info: PDF · 8 pages · 133KB
           - label: "③ F-2-R regional visa guide"
             file: /files/guides/gaimc-visa-f-2-r-en.pdf
-            info: PDF · 7 pages · 164KB
+            info: PDF · 7 pages · 159KB
   - title: Department promotional video
     type: video
     text: "The department's official promotional video, introducing Global AI Management Consulting in about one minute. Available in Korean, English and Vietnamese, it covers the department and its faculty, a curriculum built around AI consulting agent modules, industry field learning, cooperation with Hanoi University of Industry in Vietnam, student academic seminars and our growing student community. All activity scenes are photos from the department's own events. Watch it here or download it to share at admission sessions, events and on social media."
