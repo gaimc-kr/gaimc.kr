@@ -150,7 +150,44 @@
     "url": "/ipp/"
    }
   ],
-  "moretitle": "함께 보기"
+  "moretitle": "함께 보기",
+  "f2r": {
+   "title": "전공이 직무와 맞지 않으면: 지역특화형 비자(F-2-R)를 검토하세요",
+   "intro": "F-2-R은 취업 비자가 아니라 거주(F-2) 자격이어서, E-7-1처럼 직종과 전공을 맞추는 심사가 없습니다. 대신 지역·소득·업종 요건을 지켜야 합니다.",
+   "cols": [
+    "구분",
+    "E-7-1 (전문인력)",
+    "F-2-R (지역특화형)"
+   ],
+   "rows": [
+    {
+     "k": "전공·직무 연관성",
+     "e7": "필수 — 학부·석사 전공과 이수 과목까지 직무와 맞아야 함",
+     "f2r": "요구하지 않음"
+    },
+    {
+     "k": "지역",
+     "e7": "제한 없음",
+     "f2r": "인구감소지역 지자체 추천, 같은 기초자치단체에서 거주·근무(처음 2년은 추천 지역, 이후 같은 광역 안에서 이동 가능)"
+    },
+    {
+     "k": "소득",
+     "e7": "연 3,112만 원 이상(2026년, 법무부 공고 제2025-406호)",
+     "f2r": "추천 광역자치단체의 생활임금 이상(2026년 시도별 연 약 3,010만~3,150만 원)"
+    },
+    {
+     "k": "한국어",
+     "e7": "직종·기업 요건에 따름",
+     "f2r": "TOPIK 3급 또는 사회통합프로그램 3단계 이상(2026. 8. 3.부터)"
+    },
+    {
+     "k": "업종",
+     "e7": "법무부 지정 67개 직종",
+     "f2r": "지자체별 허용 업종 안에서"
+    }
+   ],
+   "note": "F-2-R 소득 기준은 예전의 국민총소득(GNI) 70%에서 광역자치단체 생활임금으로 바뀌었습니다. 그 전 기준으로 정리한 자료가 섞여 있으니, 신청 전에 해당 광역자치단체의 생활임금 고시와 법무부 고시 제2026-248호를 확인하세요."
+  }
  },
  "en": {
   "title": "E-7 Visa Practical Guide",
@@ -303,7 +340,44 @@
     "url": "/ipp/"
    }
   ],
-  "moretitle": "See also"
+  "moretitle": "See also",
+  "f2r": {
+   "title": "If your major does not fit the job: consider the regional visa (F-2-R)",
+   "intro": "F-2-R is a residence (F-2) status, not a work visa, so there is no occupation-and-major check as with E-7-1. Instead, you must meet requirements on region, income and industry.",
+   "cols": [
+    "",
+    "E-7-1 (professional)",
+    "F-2-R (regional)"
+   ],
+   "rows": [
+    {
+     "k": "Major–job link",
+     "e7": "Required — bachelor's and master's majors and even courses must fit the job",
+     "f2r": "Not required"
+    },
+    {
+     "k": "Region",
+     "e7": "No restriction",
+     "f2r": "Recommended by a local government in a depopulating area; live and work in the same city or county (the recommending area for the first two years, then anywhere in the same province)"
+    },
+    {
+     "k": "Income",
+     "e7": "At least KRW 31.12 million a year (2026, MOJ notice 2025-406)",
+     "f2r": "At least the living wage of the recommending province (about KRW 30.1–31.5 million a year in 2026, depending on the province)"
+    },
+    {
+     "k": "Korean",
+     "e7": "Depends on the occupation and company",
+     "f2r": "TOPIK level 3 or KIIP level 3 or higher (from 3 Aug 2026)"
+    },
+    {
+     "k": "Industry",
+     "e7": "67 occupations designated by the MOJ",
+     "f2r": "Within the industries each local government permits"
+    }
+   ],
+   "note": "The F-2-R income threshold has changed from 70% of gross national income (GNI) to the provincial living wage. Materials based on the old rule are still around, so check the province's living-wage notice and MOJ notice 2026-248 before applying."
+  }
  },
  "vi": {
   "title": "Hướng dẫn thực tế visa E-7",
@@ -456,6 +530,43 @@
     "url": "/ipp/"
    }
   ],
-  "moretitle": "Xem thêm"
+  "moretitle": "Xem thêm",
+  "f2r": {
+   "title": "Nếu chuyên ngành không phù hợp công việc: hãy cân nhắc visa đặc thù địa phương (F-2-R)",
+   "intro": "F-2-R là tư cách cư trú (F-2), không phải visa lao động, nên không thẩm định ngành nghề và chuyên ngành như E-7-1. Thay vào đó, bạn phải đáp ứng yêu cầu về địa phương, thu nhập và ngành nghề.",
+   "cols": [
+    "",
+    "E-7-1 (nhân lực chuyên môn)",
+    "F-2-R (đặc thù địa phương)"
+   ],
+   "rows": [
+    {
+     "k": "Liên hệ chuyên ngành – công việc",
+     "e7": "Bắt buộc — chuyên ngành đại học, thạc sĩ và cả các môn đã học phải phù hợp công việc",
+     "f2r": "Không yêu cầu"
+    },
+    {
+     "k": "Địa phương",
+     "e7": "Không giới hạn",
+     "f2r": "Được địa phương thuộc vùng suy giảm dân số giới thiệu; sống và làm việc tại cùng một quận/huyện (2 năm đầu tại địa phương giới thiệu, sau đó có thể chuyển trong cùng tỉnh/thành)"
+    },
+    {
+     "k": "Thu nhập",
+     "e7": "Từ 31,12 triệu won/năm (2026, thông báo Bộ Tư pháp số 2025-406)",
+     "f2r": "Từ mức lương đủ sống của tỉnh/thành giới thiệu (khoảng 30,1–31,5 triệu won/năm vào năm 2026, tùy tỉnh/thành)"
+    },
+    {
+     "k": "Tiếng Hàn",
+     "e7": "Theo yêu cầu ngành nghề và doanh nghiệp",
+     "f2r": "TOPIK cấp 3 hoặc KIIP cấp 3 trở lên (từ 3/8/2026)"
+    },
+    {
+     "k": "Ngành nghề",
+     "e7": "67 ngành do Bộ Tư pháp chỉ định",
+     "f2r": "Trong các ngành địa phương cho phép"
+    }
+   ],
+   "note": "Mức thu nhập của F-2-R đã chuyển từ 70% tổng thu nhập quốc dân (GNI) sang mức lương đủ sống của tỉnh/thành. Vẫn còn tài liệu theo quy định cũ, nên hãy kiểm tra thông báo lương đủ sống của tỉnh/thành và thông báo Bộ Tư pháp số 2026-248 trước khi nộp hồ sơ."
+  }
  }
 }

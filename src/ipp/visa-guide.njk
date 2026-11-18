@@ -40,6 +40,16 @@ eleventyComputed:
       {%- endfor %}
     </div>
 
+    <h2 class="group-title">{{ V.f2r.title }}</h2>
+    <p class="ipp-text">{{ V.f2r.intro }}</p>
+    <div class="table-wrap">
+      <table class="data-table vg-compare">
+        <thead><tr>{% for c in V.f2r.cols %}<th scope="col">{{ c }}</th>{% endfor %}</tr></thead>
+        <tbody>{% for r in V.f2r.rows %}<tr><th scope="row">{{ r.k }}</th><td>{{ r.e7 }}</td><td>{{ r.f2r }}</td></tr>{% endfor %}</tbody>
+      </table>
+    </div>
+    <p class="note">{{ V.f2r.note }}</p>
+
     <h2 class="group-title">{{ V.docs_title }}</h2>
     <ul class="vg-docs">{% for d in V.docs %}<li{% if loop.last %} class="is-key"{% endif %}><strong>{{ d.k }}</strong><span>{{ d.v }}</span></li>{% endfor %}</ul>
 

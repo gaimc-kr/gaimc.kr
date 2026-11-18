@@ -682,3 +682,4 @@ html.fm-open { overflow: hidden; }
 .vg-docs li span { font-size: .9375rem; color: var(--text); line-height: 1.55; }
 .vg-docs li.is-key { background: var(--bg-sky); border-color: var(--dark-blue); }
 .vg-sub { font-size: .875rem; color: var(--muted); font-weight: 500; }
+.vg-compare th[scope="row"] { white-space: nowrap; } @media (max-width: 600px) { .vg-compare th[scope="row"] { white-space: normal; } }
