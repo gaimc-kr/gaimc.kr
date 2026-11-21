@@ -2,8 +2,8 @@
 title: Future Mobility 특강(조래수 대진반도체 부회장)
 title_en: 'Special Lecture: Future Mobility'
 date: '2026-11-20'
-place: 한성대학교
-participants: 학과 대학원생
+place: 한성대학교 미래관 B104호
+participants: 영어트랙과정 학생
 summary: 조래수 대진반도체 부회장이 「Future Mobility」를 주제로 자율주행, 소프트웨어 중심 자동차(SDV), AI가 바꾸는 모빌리티 산업과 글로벌 완성차 기업의 전략을 실제 사례로 소개했다.
 status: done
 cover: /images/events/20261120_cho_01.jpg
@@ -48,11 +48,11 @@ speakers:
 topics: []
 faculty: []
 partners: []
-memo: 2026. 11. 21. 학과장 요청으로 게시. 자료는 드라이브 「2026년 11월 20일 특강_조래수(대진반도체 부회장)」 폴더(강의자료 PDF 36쪽, 사진 22장, 압둘라 모하마드 폴더 사진 2장). 강의자료는 학과장 판단으로 표지만 공개(본문은 당사자 동의를 받았으나 게시하지 않음). 약력은 강의자료의 본인 프로필 기준(출생연도 비공개). 일시 11. 20.(목) 14:00~16:00(학과장 전달), 장소는 사진상 미래관 강의실로 보이나 확인 전이라 「한성대학교」로만 표기. 화이트보드의 이메일, 화면의 약력 슬라이드는 흐림 처리, 워터마크. 드라이브 폴더가 비공개라 연결 도구로 내려받음(임시 복사본은 휴지통)
+memo: 2026. 11. 21. 학과장 요청으로 게시. 자료는 드라이브 「2026년 11월 20일 특강_조래수(대진반도체 부회장)」 폴더(강의자료 PDF 36쪽, 사진 22장, 압둘라 모하마드 폴더 사진 2장). 강의자료는 학과장 판단으로 표지만 공개(본문은 당사자 동의를 받았으나 게시하지 않음). 약력은 강의자료의 본인 프로필 기준(출생연도 비공개). 일시 11. 20.(목) 14:00~16:00(학과장 전달), 장소 미래관 B104호·대상 영어트랙(11. 21. 학과장 전달). 화이트보드의 이메일, 화면의 약력 슬라이드는 흐림 처리, 워터마크. 드라이브 폴더가 비공개라 연결 도구로 내려받음(임시 복사본은 휴지통)
 en:
   title: 'Special Lecture: Future Mobility'
-  place: Hansung University
-  participants: The department's graduate students
+  place: Room B104, Mirae Hall, Hansung University
+  participants: English-track students
   summary: Raesu Cho, Vice Chairman of Daejin Semiconductor, used real-world cases to show how autonomous driving, software-defined vehicles (SDV) and AI are reshaping mobility, and the strategies of global carmakers.
   cover_alt: Raesu Cho lecturing to a full room
   gallery:
@@ -93,7 +93,7 @@ en:
   - name: Raesu Cho
     topic: 'Future Mobility: real cases in autonomous driving, SDV and AI (Vice Chairman, Daejin Semiconductor)'
   topics: []
-  body: 'On the afternoon of Thursday, November 20, 2026, the Department of Global AI Management Consulting hosted a special lecture, “Future Mobility,” by Raesu Cho, Vice Chairman of Daejin Semiconductor.
+  body: 'On the afternoon of Thursday, November 20, 2026, the Department of Global AI Management Consulting hosted a special lecture for English-track students in Room B104, Mirae Hall, “Future Mobility,” by Raesu Cho, Vice Chairman of Daejin Semiconductor.
 
 
     Mr. Cho has spent nearly four decades in the automotive and electronics industries. After export sales at Hyundai Corporation and overseas and domestic marketing at Hyundai Motor Company, he led global accounts for Hyundai and Kia in electronics, ADAS and passive safety as a senior vice president at ZF (TRW) Korea, and served as president at Aptiv Korea and vice chairman at beyless and SEMCO. Since January 2026 he has been Vice Chairman for business and management at Daejin Semiconductor.
@@ -102,8 +102,8 @@ en:
     The lecture traced the shift from vehicle manufacturing to software, AI and integrated mobility services: connectivity, the levels of automated driving, sharing, electrification, software-defined vehicles and urban air mobility. It then compared how Hyundai Motor Group and leading companies in the United States, China, Europe and Japan are betting on data and AI. Students asked questions about the cases and their own careers in the industry.'
 vi:
   title: 'Bài giảng chuyên đề: Future Mobility'
-  place: Đại học Hansung
-  participants: Học viên cao học của khoa
+  place: Phòng B104, Tòa Mirae, Đại học Hansung
+  participants: Sinh viên chương trình tiếng Anh
   summary: Ông Cho Raesu, Phó Chủ tịch Daejin Semiconductor, giới thiệu qua các trường hợp thực tế cách xe tự lái, xe định nghĩa bằng phần mềm (SDV) và AI thay đổi ngành di chuyển, cùng chiến lược của các hãng ô tô toàn cầu.
   cover_alt: Ông Cho Raesu giảng bài trước giảng đường kín sinh viên
   gallery:
@@ -144,7 +144,7 @@ vi:
   - name: Cho Raesu
     topic: 'Future Mobility: các trường hợp thực tế về xe tự lái, SDV và AI (Phó Chủ tịch Daejin Semiconductor)'
   topics: []
-  body: 'Chiều thứ Năm ngày 20/11/2026, Khoa Tư vấn Quản trị AI Toàn cầu tổ chức bài giảng chuyên đề “Future Mobility” do ông Cho Raesu, Phó Chủ tịch Daejin Semiconductor, trình bày.
+  body: 'Chiều thứ Năm ngày 20/11/2026, Khoa Tư vấn Quản trị AI Toàn cầu tổ chức bài giảng chuyên đề “Future Mobility” dành cho sinh viên chương trình tiếng Anh tại phòng B104, Tòa Mirae, do ông Cho Raesu, Phó Chủ tịch Daejin Semiconductor, trình bày.
 
 
     Ông Cho có gần 40 năm kinh nghiệm trong ngành ô tô và điện tử. Sau thời gian làm xuất khẩu tại Hyundai Corporation và marketing trong nước, quốc tế tại Hyundai Motor Company, ông phụ trách khách hàng toàn cầu Hyundai–Kia về điện tử, ADAS và an toàn thụ động ở cương vị phó chủ tịch ZF (TRW) Korea, rồi là chủ tịch Aptiv Korea và phó chủ tịch beyless, SEMCO. Từ tháng 1/2026, ông là Phó Chủ tịch phụ trách kinh doanh và quản lý của Daejin Semiconductor.
@@ -152,7 +152,7 @@ vi:
 
     Bài giảng điểm lại sự chuyển dịch từ sản xuất xe sang phần mềm, AI và dịch vụ di chuyển tích hợp: kết nối, các cấp độ lái tự động, chia sẻ, điện hóa, xe định nghĩa bằng phần mềm và di chuyển hàng không đô thị; sau đó so sánh chiến lược dữ liệu và AI của Tập đoàn Hyundai Motor và các doanh nghiệp hàng đầu tại Mỹ, Trung Quốc, châu Âu, Nhật Bản. Sinh viên đã đặt câu hỏi về các trường hợp và con đường nghề nghiệp của mình trong ngành.'
 ---
-글로벌AI경영컨설팅학과는 2026년 11월 20일(목) 오후 조래수 대진반도체 부회장을 초청해 「Future Mobility」를 주제로 특강을 열었다.
+글로벌AI경영컨설팅학과는 2026년 11월 20일(목) 오후 미래관 B104호에서 영어트랙과정 학생들을 대상으로 조래수 대진반도체 부회장을 초청해 「Future Mobility」를 주제로 특강을 열었다.
 
 조래수 부회장은 40년 가까이 자동차·전자 산업에서 일해 왔다. 현대종합상사에서 자동차·선박·전자제품 수출을, 현대자동차에서 해외·국내 마케팅을 맡은 뒤, ZF(TRW)코리아 부사장으로 현대·기아 글로벌 핵심 고객을 맡아 전장·ADAS·수동안전 시스템 사업을 이끌었다. 이어 앱티브코리아 사장, 비리스·셈코 부회장을 거쳐 2026년 1월부터 대진반도체 부회장으로 사업과 경영을 총괄하고 있다.
 
