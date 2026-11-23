@@ -52,7 +52,7 @@ en:
     alt: In front of congratulatory flowers
     caption: In front of congratulatory flowers
   body: |
-    On February 5, 2026, the Department of Global AI Management Consulting at Hansung University held an orientation in Hanoi, Vietnam, for its spring 2026 new students (cohort 4).
+    On February 5, 2026, the Department of Global AI Business Consulting at Hansung University held an orientation in Hanoi, Vietnam, for its spring 2026 new students (cohort 4).
 
     University and department staff explained the procedures to complete before entering Korea and answered students' questions. The new students were scheduled to arrive on March 5 and 6 to begin their life and studies in Korea.
 vi:

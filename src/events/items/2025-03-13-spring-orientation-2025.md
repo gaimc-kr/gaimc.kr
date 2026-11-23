@@ -94,7 +94,7 @@ en:
     caption: At the get-together
     group: Start-of-semester get-together
   body: |
-    At the start of the spring 2025 semester, the Global Management Consulting major of the Graduate School of Knowledge Service & Consulting at Hansung University (now the Department of Global AI Management Consulting) held an orientation for newly admitted international students. New students heard about the academic calendar, course registration and life in Korea, and met the faculty.
+    At the start of the spring 2025 semester, the Global Business Consulting major of the Graduate School of Knowledge Service & Consulting at Hansung University (now the Department of Global AI Business Consulting) held an orientation for newly admitted international students. New students heard about the academic calendar, course registration and life in Korea, and met the faculty.
 
     To celebrate their admission, faculty and new students took commemorative photos together, and the department also held a start-of-semester get-together where new and current students met and began the semester together.
 vi:

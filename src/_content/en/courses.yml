@@ -1,13 +1,13 @@
 intro: We run two majors side by side and present 15 core courses by area. The curriculum may change according to the university admission guidelines and course offerings.
 tracks:
-- name: Global AI Management Consulting Major
+- name: Global AI Business Consulting Major
   course_type: English track
   language: English (some courses in English and Korean)
   degree: Master's
   duration: 2.5 years (5 semesters)
   graduation: 30 credits, a research paper (in lieu of a thesis) and a practicum, and passing the comprehensive examination
   korean: ''
-- name: Global Management Consulting Major
+- name: Global Business Consulting Major
   course_type: Bilingual track
   language: Korean and Vietnamese
   degree: Master's
@@ -116,3 +116,5 @@ list:
   name_en: Global Studies in Major Field
   summary: Complete a research paper by analyzing industry data with the knowledge gained over 2.5 years, and carry out capstone consulting that solves real industry-academia problems.
   topics: Collecting and preprocessing field data; applying AI algorithms and optimization simulation; writing and presenting the research paper; industry-academia improvement reports
+# 2027학년도 신입생 4학기제·소속 변경 안내(2026-11-23 요청). 재학생 기준 5학기·30학점 표기는 유지
+notice_2027: "※ Starting with the 2027 intake, the department will belong to the Graduate School of Global Convergence, and the program will be 2 years (4 semesters) with 24 credits (based on Hansung University's 2027 admission guide). The detailed curriculum will be announced once it is confirmed by the university."

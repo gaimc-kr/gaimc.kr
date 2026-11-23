@@ -208,7 +208,7 @@ en:
     url: /events/ai-art-business-festival/gallery/
   - label: Press coverage
     url: /news/ai-festival-press/
-  body: 'The Department of Global AI Management Consulting held the 2026 AI Art & Business Festival, the 1st Global AI Creation and Business Week, at Maru Art Center in Insa-dong, Seoul, from June 24 to 29, 2026. The festival aimed to go beyond artistic uses of generative AI and build a cross-border ecosystem of business models that can earn real revenue.
+  body: 'The Department of Global AI Business Consulting held the 2026 AI Art & Business Festival, the 1st Global AI Creation and Business Week, at Maru Art Center in Insa-dong, Seoul, from June 24 to 29, 2026. The festival aimed to go beyond artistic uses of generative AI and build a cross-border ecosystem of business models that can earn real revenue.
 
 
     At the opening ceremony, Dean Jung Jin-taek declared the goal of making Hansung University a global talent exchange platform where international students and Korean talent grow together. National Assembly member Kwak Sang-eon promised legislative support for young AI entrepreneurs and the AI business ecosystem. Lee Jong-chul, Chief of the Seoul Immigration Service, and Roh Kyu-sung, President of the Korea AI Convergence Technology Association, stressed developing talent across borders and policy cooperation. Park Yeon-jo, Vice President of the Korea Webtoon Association, and Choi Mi-jung, President of the Korea Latin Culture Association, gave words of encouragement.

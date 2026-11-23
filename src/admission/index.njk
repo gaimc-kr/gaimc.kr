@@ -20,6 +20,7 @@ permalink: "{{ langs.prefix[lang] }}/admission/"
     </div>
     <h2 class="group-title">{{ TA.overview }}</h2>
     <dl class="info-table">{% for o in AD.overview %}<div><dt>{{ o.label }}</dt><dd>{{ o.value }}</dd></div>{% endfor %}</dl>
+    {% if AD.notice_2027 %}<p class="notice-2027">{{ AD.notice_2027 }}</p>{% endif %}
     {%- if AD.details_published %}
     <h2 class="group-title">{{ AD.schedule_title }}</h2>
     <div class="table-wrap">

@@ -177,7 +177,7 @@ en:
   speakers:
   - name: Taewook Jeong
     topic: AI Innovation and Physical Usages (Senior Vice President, VEXA; former head of AI Lab, Intel Korea)
-  body: 'On November 13, 2026, the Department of Global AI Management Consulting hosted a special lecture for first-semester English-track students in Room B104, Mirae Hall, by Taewook Jeong, Senior Vice President at VEXA, titled “AI Innovation and Physical Usages.” On November 16 he gave the same lecture to second-semester English-track students, from Bangladesh, in Room 708, Sangsang Hall.
+  body: 'On November 13, 2026, the Department of Global AI Business Consulting hosted a special lecture for first-semester English-track students in Room B104, Mirae Hall, by Taewook Jeong, Senior Vice President at VEXA, titled “AI Innovation and Physical Usages.” On November 16 he gave the same lecture to second-semester English-track students, from Bangladesh, in Room 708, Sangsang Hall.
 
 
     A graduate of Kyungpook National University (electronic engineering) and the KAIST College of Business, he worked as a software researcher at the Samsung Advanced Institute of Technology, as director of the embedded software lab at MDS Technology, and at Intel as an AI technical specialist and AI system architect in the automotive solutions group. He then headed Intel Korea''s AI Lab, leading AI software and AI platform development, and is now Senior Vice President at VEXA. He has consulted on software and AI development for Samsung Electronics, LG Electronics and Hyundai Motor Group affiliates, and lectures at universities and institutions on AI trends and talent development.

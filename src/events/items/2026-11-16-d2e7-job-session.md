@@ -111,7 +111,7 @@ en:
     url: /resources/
   - label: 'Apply (deadline: Mon 30 Nov 2026)'
     url: https://forms.gle/PthtKsVBHTXX1sMU8
-  body: 'On Monday, November 16, 2026, the Department of Global AI Management Consulting held a D-2 → E-7 Job Search Information Session in Room B104, Mirae Hall. With graduation coming in February 2027, the session was designed to help students move from student (D-2) status to employment (E-7) status by securing a job before they graduate.
+  body: 'On Monday, November 16, 2026, the Department of Global AI Business Consulting held a D-2 → E-7 Job Search Information Session in Room B104, Mirae Hall. With graduation coming in February 2027, the session was designed to help students move from student (D-2) status to employment (E-7) status by securing a job before they graduate.
 
 
     After welcome remarks by Dean Jung Jin-taek, Professor Park Yang Soo explained the department''s job-matching process, which runs from application through faculty recommendation, interviews with a professor present and hiring, and the visa routes after graduation, with E-7-1 as the main route and E-7-2, E-7-3 and the regional visa (F-2-R) as alternatives, along with part-time work while studying. Professors Jeong Hyo-geun, Kim Jae-kwon, Kim Nae Young, Kwon Yeonjae and Kim Do-gyun then presented the roles, requirements and working conditions at seven companies they had found themselves, in textiles, beverages, sensors, molds, engineered stone, motors and information technology, and Professor Han Pil-Yeoun introduced an additional company.

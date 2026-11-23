@@ -41,7 +41,7 @@ awards:
 - 국회 기획재정위원장 표창장 (2024)
 - 한국경영기술지도사회 회장 표창장 (2020)
 en:
-  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Adjunct Professor, Department of Global AI Business Consulting, Hansung University
   industry: Director, Consulting Business Division, ITCG Co., Ltd.
   education:
   - Ph.D. in Smart Convergence Consulting, Hansung University

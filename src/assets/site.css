@@ -683,3 +683,5 @@ html.fm-open { overflow: hidden; }
 .vg-docs li.is-key { background: var(--bg-sky); border-color: var(--dark-blue); }
 .vg-sub { font-size: .875rem; color: var(--muted); font-weight: 500; }
 .vg-compare th[scope="row"] { white-space: nowrap; } @media (max-width: 600px) { .vg-compare th[scope="row"] { white-space: normal; } }
+/* 2027학년도 4학기제 안내(※ 주석 수준) */
+.notice-2027 { margin-top: 16px; padding: 12px 16px; border-left: 3px solid var(--dark-blue); background: var(--bg-sky); color: var(--text); font-size: .92rem; line-height: 1.6; border-radius: 4px; }

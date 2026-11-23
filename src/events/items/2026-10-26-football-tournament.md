@@ -344,7 +344,7 @@ en:
   - time: Final standings
     text: 'Champions: Semester 3 (2 wins); joint runners-up: Semesters 4 and 5 (1 draw, 1 loss each)'
   body: |
-    On the afternoon of Monday, October 26, 2026, the Department of Global AI Management Consulting at Hansung University held its Fall 2026 Inter-Semester Football Tournament for Vietnamese students at the Jeongok Industrial Complex artificial-turf pitch in Hwaseong, Gyeonggi-do. Students formed teams by semester to compete, mix across cohorts and strengthen the department community away from their studies.
+    On the afternoon of Monday, October 26, 2026, the Department of Global AI Business Consulting at Hansung University held its Fall 2026 Inter-Semester Football Tournament for Vietnamese students at the Jeongok Industrial Complex artificial-turf pitch in Hwaseong, Gyeonggi-do. Students formed teams by semester to compete, mix across cohorts and strengthen the department community away from their studies.
 
     Three teams played a round-robin: semester 5 in dark navy, semester 4 in white kits with red trim, and semester 3 in white shirts and blue shorts, and students from semesters 1 and 2 joined the event as well. The opening match between semesters 5 and 4 ended in a tight 0–0 draw, after which semester 3 beat semester 4 1–0 and semester 5 3–1. With two wins from two matches, semester 3 took the title, while semesters 4 and 5, each with one draw and one loss, finished as joint runners-up.
 

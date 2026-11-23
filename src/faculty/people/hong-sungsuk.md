@@ -36,7 +36,7 @@ network:
 awards:
 - 경기지방중소벤처기업청장 표창장 (2024. 12.)
 en:
-  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Adjunct Professor, Department of Global AI Business Consulting, Hansung University
   industry: CEO, Biz Stylist Co., Ltd.
   education:
   - Ph.D. in Consulting, Department of Smart Convergence Consulting, Hansung University

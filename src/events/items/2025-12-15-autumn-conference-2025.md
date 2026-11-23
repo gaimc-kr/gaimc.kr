@@ -52,7 +52,7 @@ en:
     alt: Award winners
     caption: Award winners
   body: |
-    On Monday, December 15, 2025, the Global Management Consulting major of the Graduate School of Knowledge Service & Consulting at Hansung University (now the Department of Global AI Management Consulting) held its 2025 Autumn Joint Academic Conference at the DLC in Mirae Hall. The theme was “Realizing the AI Transformation through Global Consulting and Digital Policy,” and the conference was co-hosted with several academic societies, including the Korea Digital Policy Society.
+    On Monday, December 15, 2025, the Global Business Consulting major of the Graduate School of Knowledge Service & Consulting at Hansung University (now the Department of Global AI Business Consulting) held its 2025 Autumn Joint Academic Conference at the DLC in Mirae Hall. The theme was “Realizing the AI Transformation through Global Consulting and Digital Policy,” and the conference was co-hosted with several academic societies, including the Korea Digital Policy Society.
 
     Students presented their research before graduate school faculty, and outstanding presenters received awards. The department said the conference showcased students' research capabilities and innovative ideas and laid a foundation for their studies and careers.
 vi:

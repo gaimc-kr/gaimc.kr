@@ -52,7 +52,7 @@ en:
     alt: Field practice at Robonix
     caption: Field practice at Robonix
   body: |
-    On Monday, October 27, 2025, third-semester students of the Global Management Consulting major of the Graduate School of Knowledge Service & Consulting at Hansung University (now the Department of Global AI Management Consulting) went on company field practice, visiting four companies: Plax, Seojin Technology, Bistro Chai and Robonix.
+    On Monday, October 27, 2025, third-semester students of the Global Business Consulting major of the Graduate School of Knowledge Service & Consulting at Hansung University (now the Department of Global AI Business Consulting) went on company field practice, visiting four companies: Plax, Seojin Technology, Bistro Chai and Robonix.
 
     At each company, students toured real workplaces and heard how companies use artificial intelligence (AI) in management and consulting, along with trends in digital transformation and modern management.
 

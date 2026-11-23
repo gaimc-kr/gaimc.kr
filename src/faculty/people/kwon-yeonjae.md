@@ -38,7 +38,7 @@ network:
 - UN ECOSOC 특별자문지위 기구 FLML(Forest Love and Mountain Love) NGO 네트워크
 - (사)한국학점은행평생교육협의회
 en:
-  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Adjunct Professor, Department of Global AI Business Consulting, Hansung University
   industry: CEO, ILSUNG E&S Co., Ltd.
   education:
   - Ph.D. in Smart Convergence Consulting, Hansung University

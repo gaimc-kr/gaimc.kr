@@ -38,7 +38,7 @@ counts:
   books: 1
 name_en: Jeong, Jin-hang
 en:
-  academic: Visiting Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Visiting Professor, Department of Global AI Business Consulting, Hansung University
   keywords:
   - National crisis management
   - Global career consulting methodology
@@ -48,8 +48,8 @@ en:
   - Ph.D. coursework completed in Computer Engineering, Graduate School, University of Seoul
   - M.S. in Computer Engineering, Institute of Computing Technology, Chinese Academy of Sciences
   career:
-  - Visiting Professor, Department of Global AI Management Consulting, Hansung University (Sep 2026 – present)
-  - Adjunct Professor, Department of Global AI Management Consulting, Hansung University (Mar 2026 – Aug 2026)
+  - Visiting Professor, Department of Global AI Business Consulting, Hansung University (Sep 2026 – present)
+  - Adjunct Professor, Department of Global AI Business Consulting, Hansung University (Mar 2026 – Aug 2026)
   - Lecturer, Graduate School of National Defense Science, Hansung University
   - Lecturer, Graduate School of Knowledge Service & Consulting, Hansung University
   - Head of Recruitment, Seoul Fire Academy

@@ -12,12 +12,12 @@ memo: 2026. 10. 29. 학과장 요청으로 학과 페이스북(ksconhansung) 백
 en:
   title: Fall 2025 Master’s Admission Schedule
   category: Admissions
-  summary: Admission schedule for the fall 2025 master’s program in Global Management Consulting.
+  summary: Admission schedule for the fall 2025 master’s program in Global Business Consulting.
   links:
   - label: Admission
     url: /admission/
   body: |
-    The Global Management Consulting major of the Graduate School of Knowledge Service & Consulting (now the Department of Global AI Management Consulting) is recruiting master’s students for the fall 2025 semester.
+    The Global Business Consulting major of the Graduate School of Knowledge Service & Consulting (now the Department of Global AI Business Consulting) is recruiting master’s students for the fall 2025 semester.
 
     - Application and document submission: April 21 – May 5, 2025
     - Interview: May 24, 2025

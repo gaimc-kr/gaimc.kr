@@ -227,7 +227,7 @@ en:
 
     The contest opened with congratulatory remarks by Hansung University President Lee Chang-won.
 
-    Two teams from the Department of Global AI Management Consulting took the stage, and both won awards. The first-year team, dressed in pink hanbok, performed a fan dance and sang with Korean flags, winning the Excellence Award and posing with President Lee after the ceremony. The second-year team received the Encouragement Award (Cheongsan Yusu Award).
+    Two teams from the Department of Global AI Business Consulting took the stage, and both won awards. The first-year team, dressed in pink hanbok, performed a fan dance and sang with Korean flags, winning the Excellence Award and posing with President Lee after the ceremony. The second-year team received the Encouragement Award (Cheongsan Yusu Award).
 
     Despite busy schedules of classes and research, the students met whenever they could to polish their scripts and rehearse. The department will continue to support international students' participation in activities on and off campus so they can build their Korean skills and deepen their understanding of Korean culture beyond the classroom.
 vi:

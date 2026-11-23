@@ -407,7 +407,7 @@ en:
     url: https://www.newsworks.co.kr/news/articleView.html?idxno=900455
   - label: Industrial AI EXPO official website
     url: https://industrialaiexpo.or.kr/main.asp
-  body: 'Faculty and graduate students of the Department of Global AI Management Consulting at Hansung University visited the Industrial AI EXPO 2026 at KINTEX Exhibition Center 1 in Ilsan from October 21 to 23, 2026, as a field learning program. The visit was designed to connect the AI and management knowledge students learn in class with real products and services, and to see changes in industry first-hand.
+  body: 'Faculty and graduate students of the Department of Global AI Business Consulting at Hansung University visited the Industrial AI EXPO 2026 at KINTEX Exhibition Center 1 in Ilsan from October 21 to 23, 2026, as a field learning program. The visit was designed to connect the AI and management knowledge students learn in class with real products and services, and to see changes in industry first-hand.
 
 
     Students took part by semester over the three days: Vietnamese students in semesters 3–4 on Wednesday, Vietnamese students in semester 2 on Thursday, and Vietnamese students in semester 1 together with Bangladeshi students in semesters 1–2 on Friday. A total of 375 students were registered as a group.

@@ -35,7 +35,7 @@ achievements:
 network:
 - '공공 네트워크: 대법원 법원공무원교육원, 축산환경관리원, 한국환경산업기술원, 한국국제협력단, 농식품식품문화정보원, 한국의약품안전관리원'
 en:
-  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Adjunct Professor, Department of Global AI Business Consulting, Hansung University
   industry: Head of New Business Division, S-ON SYSTEM, Inc.
   education:
   - Ph.D. in Smart Convergence Consulting, Hansung University

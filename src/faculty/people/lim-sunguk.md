@@ -43,7 +43,7 @@ lectures:
 - 숙명여자대학교 국제언어교육원 한국어 강사 (2014. 12. ~ 2015. 11.)
 - 서울시립대학교 국제교육원 한국어학당 강사 (2012. 3. ~ 2014. 2.)
 en:
-  academic: Visiting Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Visiting Professor, Department of Global AI Business Consulting, Hansung University
   keywords:
   - Korean language education
   - Korean studies

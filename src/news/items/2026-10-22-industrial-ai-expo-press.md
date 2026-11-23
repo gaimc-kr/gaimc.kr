@@ -25,7 +25,7 @@ en:
     url: https://www.newsworks.co.kr/news/articleView.html?idxno=900455
   - label: Event page
     url: /events/industrial-ai-expo/
-  body: 'Newsworks reported on October 22, 2026 that some 400 faculty members and graduate students of the Department of Global AI Management Consulting at Hansung University visited the Industrial AI EXPO 2026 at KINTEX to see the latest developments in AI and changes in industry first-hand.
+  body: 'Newsworks reported on October 22, 2026 that some 400 faculty members and graduate students of the Department of Global AI Business Consulting at Hansung University visited the Industrial AI EXPO 2026 at KINTEX to see the latest developments in AI and changes in industry first-hand.
 
 
     The article described how participants, including graduate students from Vietnam and Bangladesh, toured an exhibition of 430 booths from 201 companies, heard from company staff about how technologies work and are applied by industry, and attended the AI-Tech Seminar on "The Physical AI Era Led by AI Robotics."

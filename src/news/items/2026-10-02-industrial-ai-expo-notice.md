@@ -16,7 +16,7 @@ en:
   links:
   - label: Event page
     url: /events/industrial-ai-expo/
-  body: 'The Department of Global AI Management Consulting will run a student group visit to the 2026 Industrial AI EXPO at KINTEX in Goyang, Gyeonggi-do, from Wednesday, October 21 to Friday, October 23, 2026.
+  body: 'The Department of Global AI Business Consulting will run a student group visit to the 2026 Industrial AI EXPO at KINTEX in Goyang, Gyeonggi-do, from Wednesday, October 21 to Friday, October 23, 2026.
 
 
     The visit gives students a first-hand look at how the AI management consulting methods they learn in class are used in industry. Students will explore industrial AI technologies and use cases in manufacturing, logistics and services, and hear about real needs through consultations with exhibiting companies.

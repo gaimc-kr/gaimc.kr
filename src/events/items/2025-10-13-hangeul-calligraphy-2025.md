@@ -52,7 +52,7 @@ en:
     alt: Award winners with staff
     caption: Award winners with staff
   body: |
-    On October 13, 2025, Hansung University and the Global Management Consulting major of the Graduate School of Knowledge Service & Consulting (now the Department of Global AI Management Consulting) held a Korean calligraphy contest for international students to mark Hangeul Day.
+    On October 13, 2025, Hansung University and the Global Business Consulting major of the Graduate School of Knowledge Service & Consulting (now the Department of Global AI Business Consulting) held a Korean calligraphy contest for international students to mark Hangeul Day.
 
     Guided by instructors from the Geuldam Calligraphy Academy, students wrote calligraphy themselves, and the instructors gave them colorful works carrying meaningful phrases. Graduate school staff presented awards to students with outstanding entries.
 

@@ -39,7 +39,7 @@ awards:
 - 2021 자랑스런 한국인대상 경영컨설팅 부문 (대한민국 베스트 브랜드 협회)
 memo: '실무 네트워크 "서울 신용보증기금" 원문 표기 확인 2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 1번은 박사학위논문(RISS T17174400) 영문 제목. 2·3번은 RISS·Crossref 기록 없음(제출 그대로). 2026. 10. 9. 한성대 학위논문 링크를 한성대 dCollection 상세 주소(원문 제공)로 교체. 2026. 10. 14. 학과장 지시로 공개용 이메일 게재(aigkimnaeyoung@nate.com, 출처: 드라이브 「발제자소개_김내영.docx」).'
 en:
-  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Adjunct Professor, Department of Global AI Business Consulting, Hansung University
   industry: CEO, Dream Plus
   education:
   - Ph.D. in Smart Convergence Consulting, Graduate School, Hansung University

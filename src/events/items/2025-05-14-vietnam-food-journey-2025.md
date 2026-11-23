@@ -65,7 +65,7 @@ en:
     alt: A meal together after the festival
     caption: A meal together after the festival
   body: |
-    At the Hansung University festival held May 14–16, 2025, the Global Management Consulting major of the Graduate School of Knowledge Service & Consulting (now the Department of Global AI Management Consulting) ran a booth themed “Vietnam Food Journey,” introducing regional specialties and Vietnamese street food.
+    At the Hansung University festival held May 14–16, 2025, the Global Business Consulting major of the Graduate School of Knowledge Service & Consulting (now the Department of Global AI Business Consulting) ran a booth themed “Vietnam Food Journey,” introducing regional specialties and Vietnamese street food.
 
     Students ran the booth themselves, dividing up cooking, drinks, decoration and performances over the three days, while faculty, Korean and international students and visitors stopped by to cheer them on. After the festival, the department thanked the student organizers and everyone who took part.
 vi:

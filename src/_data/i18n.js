@@ -80,7 +80,7 @@ const en = {
     partners: { title: "Partners", eyebrow: "PARTNERS", lead: "" },
     events: { title: "Events", eyebrow: "EVENTS", lead: "Seminars and field activities with our partner universities and organizations." },
     news: { title: "News", eyebrow: "NEWSROOM", lead: "Event results, partnership news, awards and press coverage." },
-    admission: { title: "Admission", eyebrow: "ADMISSION", lead: "The Department of Global AI Management Consulting is dedicated to international students." },
+    admission: { title: "Admission", eyebrow: "ADMISSION", lead: "The Department of Global AI Business Consulting is dedicated to international students." },
     contact: { title: "Contact", eyebrow: "CONTACT", lead: "We welcome inquiries about admission, partnerships and department activities." },
     resources: { title: "Resources", eyebrow: "RESOURCES", lead: "Download the department brochure and other materials." },
   },

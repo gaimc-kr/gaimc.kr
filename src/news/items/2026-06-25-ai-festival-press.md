@@ -22,7 +22,7 @@ links:
   url: /events/ai-art-business-festival/gallery/
 memo: 언론 기사 목록 출처 - 행사 갤러리 사이트 언론기사 메뉴. 베트남뉴스 갈무리는 갤러리 사이트 비공개로 2026. 11. 7. 학과장 드라이브(행사_최종마무리) PDF를 홈페이지에 올려 연결
 en:
-  title: '[Press] Hansung University''s Department of Global AI Management Consulting holds the 2026 AI Art & Business Festival'
+  title: '[Press] Hansung University''s Department of Global AI Business Consulting holds the 2026 AI Art & Business Festival'
   category: Press coverage
   cover_alt: Guests and faculty at the opening ceremony
   summary: Gukje News, Mimint, Veritas Alpha, Smart Economy and Vietnam News (Korean Association in Hanoi) covered the 2026 AI Art & Business Festival at Maru Art Center, Insa-dong.
@@ -41,7 +41,7 @@ en:
     url: /events/ai-art-business-festival/
   - label: Festival gallery
     url: /events/ai-art-business-festival/gallery/
-  body: 'Korean media covered the 2026 AI Art & Business Festival (1st Global AI Creation and Business Week), held by the Department of Global AI Management Consulting at Maru Art Center in Insa-dong, Seoul, from June 24 to 29, 2026.
+  body: 'Korean media covered the 2026 AI Art & Business Festival (1st Global AI Creation and Business Week), held by the Department of Global AI Business Consulting at Maru Art Center in Insa-dong, Seoul, from June 24 to 29, 2026.
 
 
     The articles reported Dean Jung Jin-taek''s goal of building a global talent exchange platform for international and Korean students, the congratulatory remarks of National Assembly member Kwak Sang-eon, Lee Jong-chul, Chief of the Seoul Immigration Service, and Roh Kyu-sung, President of the Korea AI Convergence Technology Association, and the AI business training led by Prof. Park Yang-soo, which combined AI agent literacy with no-code automation frameworks.

@@ -37,13 +37,13 @@ en:
   - time: Afternoon
     text: 'Seminar at Shanto-Mariam University of Creative Technology: presentation by Hansung University and by a representative of Shanto-Mariam University of Creative Technology'
   topics:
-  - Introduction to the Department of Global AI Management Consulting, Hansung University
+  - Introduction to the Department of Global AI Business Consulting, Hansung University
   - Trends in AI education
   speakers:
   - name: 정진택
-    topic: Introduction to Hansung Univ. Global AI Management Consulting & Trends in AI Education (morning and afternoon seminars; then Dean, Graduate School of Knowledge Service and Consulting)
+    topic: Introduction to Hansung Univ. Global AI Business Consulting & Trends in AI Education (morning and afternoon seminars; then Dean, Graduate School of Knowledge Service and Consulting)
     faculty: jung-jintaek
-  body: 'On Tuesday, August 18, 2026, the Department of Global AI Management Consulting held the 2026 Bangladesh–Korea Global AI Education Seminar in Dhaka, Bangladesh, with its partner universities, University of South Asia and Shanto-Mariam University of Creative Technology.
+  body: 'On Tuesday, August 18, 2026, the Department of Global AI Business Consulting held the 2026 Bangladesh–Korea Global AI Education Seminar in Dhaka, Bangladesh, with its partner universities, University of South Asia and Shanto-Mariam University of Creative Technology.
 
 
     The seminar was held separately at each university: at University of South Asia in the morning and at Shanto-Mariam University of Creative Technology in the afternoon. Each session was co-hosted by the partner university and Hansung University.

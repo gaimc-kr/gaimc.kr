@@ -86,7 +86,7 @@ en:
     caption: A presentation at the entrance event
     group: Entrance
   body: |
-    All spring 2026 master's students (cohort 4) of the Department of Global AI Management Consulting at Hansung University arrived in Korea on March 6, 2026. Department staff greeted them at the airport with a “Welcome to Korea” banner.
+    All spring 2026 master's students (cohort 4) of the Department of Global AI Business Consulting at Hansung University arrived in Korea on March 6, 2026. Department staff greeted them at the airport with a “Welcome to Korea” banner.
 
     The new students began their first classes the following Monday. The department celebrated their new start with a group photo on campus.
 vi:

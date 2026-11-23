@@ -3,9 +3,9 @@ notice: This is a summary. The official Hansung University admission guidelines 
 pending_text: Admission information for Spring 2027 will be posted here after the university announces the official guidelines (mid-October 2026). Until then, please check the notices on the Hansung University Graduate School website.
 overview:
   - label: Department
-    value: Department of Global AI Management Consulting, Graduate School of Knowledge Service & Consulting (dedicated to international students)
+    value: Department of Global AI Business Consulting, Graduate School of Knowledge Service & Consulting (dedicated to international students)
   - label: Majors
-    value: Global Management Consulting Major (bilingual track) and Global AI Management Consulting Major (English track)
+    value: Global Business Consulting Major (bilingual track) and Global AI Business Consulting Major (English track)
   - label: Places
     value: 100 (total quota for the department)
   - label: Entry
@@ -13,7 +13,7 @@ overview:
   - label: Recruitment
     value: Regular admission only; there is no rolling admission.
   - label: Unit of admission
-    value: "Places are filled from the total quota assigned to the department, and applicants are admitted to one of two majors: Global Management Consulting (bilingual track) or Global AI Management Consulting (English track)."
+    value: "Places are filled from the total quota assigned to the department, and applicants are admitted to one of two majors: Global Business Consulting (bilingual track) or Global AI Business Consulting (English track)."
 schedule_title: 2027 Spring Regular Admission Schedule
 schedule:
   - item: Online application
@@ -36,9 +36,9 @@ eligibility:
     value: Applicants whose parents are also foreign nationals (dual nationals excluded)
   - label: Education
     value: A bachelor's degree, or expected degree, from an accredited university in Korea or abroad
-  - label: Korean (Global Management Consulting Major, bilingual track)
+  - label: Korean (Global Business Consulting Major, bilingual track)
     value: TOPIK Level 3 or higher
-  - label: English (Global AI Management Consulting Major, English track)
+  - label: English (Global AI Business Consulting Major, English track)
     value: One of TOEFL iBT 59, IELTS 5.5, CEFR B2, TEPS 600 (NEW TEPS 202) or higher (2026 criteria)
 eligibility_highlight: The bilingual track requires TOPIK Level 3 or higher, so students are ready to study, practice and prepare for work in Korean.
 selection:
@@ -67,3 +67,5 @@ documents:
     text: Confirmation of accreditation, consent to verify academic records, and a printout of the university's web page
   - title: Notarization
     text: Foreign documents require notarization and notarized translation, and apostille or consular legalization procedures differ by country. Please check the official admission guidelines for details.
+# 2027학년도 신입생 4학기제·소속 변경 안내(2026-11-23 요청). 재학생 기준 5학기·30학점 표기는 유지
+notice_2027: "※ Starting with the 2027 intake, the department will belong to the Graduate School of Global Convergence, and the program will be 2 years (4 semesters) with 24 credits (based on Hansung University's 2027 admission guide). The detailed curriculum will be announced once it is confirmed by the university."

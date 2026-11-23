@@ -93,7 +93,7 @@ en:
   - name: Raesu Cho
     topic: 'Future Mobility: real cases in autonomous driving, SDV and AI (Vice Chairman, Daejin Semiconductor)'
   topics: []
-  body: 'On the afternoon of Thursday, November 20, 2026, the Department of Global AI Management Consulting hosted a special lecture for English-track students in Room B104, Mirae Hall, “Future Mobility,” by Raesu Cho, Vice Chairman of Daejin Semiconductor.
+  body: 'On the afternoon of Thursday, November 20, 2026, the Department of Global AI Business Consulting hosted a special lecture for English-track students in Room B104, Mirae Hall, “Future Mobility,” by Raesu Cho, Vice Chairman of Daejin Semiconductor.
 
 
     Mr. Cho has spent nearly four decades in the automotive and electronics industries. After export sales at Hyundai Corporation and overseas and domestic marketing at Hyundai Motor Company, he led global accounts for Hyundai and Kia in electronics, ADAS and passive safety as a senior vice president at ZF (TRW) Korea, and served as president at Aptiv Korea and vice chairman at beyless and SEMCO. Since January 2026 he has been Vice Chairman for business and management at Daejin Semiconductor.

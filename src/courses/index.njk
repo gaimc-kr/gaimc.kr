@@ -31,6 +31,7 @@ permalink: "{{ langs.prefix[lang] }}/courses/"
       </article>
       {%- endfor %}
     </div>
+    {% if K.notice_2027 %}<p class="notice-2027">{{ K.notice_2027 }}</p>{% endif %}
     <ul class="note-list">{% for n in K.notes %}<li>{{ n }}</li>{% endfor %}</ul>
   </div>
 </section>

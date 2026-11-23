@@ -44,7 +44,7 @@ awards:
 - 한성대학교 특별공로상 (2025. 2.)
 - 한성대학교 성적우수상 (2025. 2.)
 en:
-  academic: Adjunct Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Adjunct Professor, Department of Global AI Business Consulting, Hansung University
   industry: Managing Director, Seojin Technology Co., Ltd.
   education:
   - Ph.D. in Consulting, Department of Knowledge Service & Consulting, Hansung University

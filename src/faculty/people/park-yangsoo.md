@@ -220,7 +220,7 @@ committees:
 - '기업·기술가치평가협회 평가전문위원 (2009. 3. ~ 현재)'
 memo: '2026. 9. 이력서 기준 전체 반영. 아이쎄오는 2026. 8. 31. 폐업(전직 표기). 2026. 10. 9. 도서 11권에 교보문고 링크 연결(학과장 요청): 드라이브 ''''AI-CEO 도서'''' 폴더의 도서정보목록ISBN(2026-08-27) 기준 ISBN으로 교보문고 검색 후 상품명 대조, 같은 저서는 Full Color 소장판(종이책 POD)으로 연결 — 시장분석 9791199770843, BM 재구성 9791199770850, 사업계획서 9791199770867, 마케팅 9791199770874, 여섯 번째 감각 9791199770829, Sixth Sense(컬러판) 9791124498019, 노코드 1~4권 9791124498118/125/132/149, 에니어그램은 전자책(9791124498156)만 있어 eBook 링크. 교보문고 상품명이 『AI 기반 사업계획서 자동화의 기술 [Full Color 소장판]』로 표시되는 건(ISBN 9791199770867)은 현 서명(AI 에이전트 기반, 사업계획서의 기술)과 다르나 ISBN이 같아 연결. 예정(2026. 10. 9. 학과장): 2026. 12.~2027. 2. 도서 11권을 개인작가(부크크·유페이퍼)로 재등록해 판매 → 교보문고 기존 상품이 판매중지·절판 표시되면 새 링크로 교체, 신규 도서 2권(체험마케팅) 등록 완료 시 추가 2026. 10. 9. 논문 전수 검증: RISS 저자검색 211건(동명이인 다수: 한국은행·울산대·토목·의학 등) 중 본인 기록은 박사논문(T17551774)·석사논문(T16311206)·KCI 논문(A110129850, 한성대학교 소속, DOI 핸들 확인)·KIIT 2025 발표(A110325275)뿐. 석사논문에 RISS 링크 추가. 한성대 동계 공동학술대회 발표 3건·기술경영경제학회 2022 발표는 RISS 미수록으로 링크 없음. ORCID 0009-0004-1892-7995(저작 미등록). 2026. 10. 9. 논문 표기를 APA 7판 저자 없는 형식(제목. (연도). 학술지, 권(호), 쪽. 링크)으로 정리(학과장 결정). 컴퓨터교육학회 논문지·KIIT 발표 쪽수는 RISS 기록으로 보완. 2026. 10. 12. 도서를 공저·저서로 구분(학과장 요청): 교보문고 저자 표기 기준 노코드 1~4권은 박양수 단독(저서), 나머지 7권(에니어그램·여섯 번째 감각·Sixth Sense 영문판·시장분석·BM 재구성·사업계획서·마케팅)은 이윤주 등과 공저. 2026. 10. 14. 신규 도서 2권(AI 비즈니스 체험 마케팅 1·2, 박양수·이윤주 공저) 추가(학과장 요청): 드라이브 「등록정보_부크크_유페이퍼.txt」 기준 서명·쪽수(392·418쪽), 발행일은 부크크 종이책 발행일 2026. 10. 16.(유페이퍼 전자책 10. 23.). 2026. 10. 14. 부크크 심사요청·유페이퍼 등록 상태라 링크 없음 → 판매 페이지가 열리면 링크 추가. 같은 날 Sixth Sense는 한국어판의 저자 본인 영문판이라 역서가 아닌 공저로 유지하고 원서명을 병기. 2026. 10. 29. 체험 마케팅 1·2권 교보문고 eBook 링크 연결(학과장 요청, 유페이퍼 상용화 메일 10. 21.~10. 23. 확인, 교보문고 상품 페이지의 서명·저자 박양수·이윤주 대조): 1권 E000013733976, 2권 E000013728676'
 en:
-  academic: Professor, Department of Global AI Management Consulting, Hansung University
+  academic: Professor, Department of Global AI Business Consulting, Hansung University
   keywords:
   - AI management consulting
   - Technology commercialization
@@ -232,7 +232,7 @@ en:
   - MBA in Management of Technology (MOT), Korea University of Technology and Education (2022)
   - B.S. in Physics, College of Science, Korea University (1995)
   career:
-  - Professor, Department of Global AI Management Consulting, Hansung University (Sep 2026 – present)
+  - Professor, Department of Global AI Business Consulting, Hansung University (Sep 2026 – present)
   - (Former) CEO, AI-CEO, AI technology management consulting (Jul 2025 – Aug 2026)
   - Senior Advisor, Combiro Co., Ltd., technology management consulting (Nov 2023 – Dec 2025)
   - CEO, Soltoro Co., Ltd., technology commercialization consulting (Apr 2010 – Dec 2025)
@@ -342,7 +342,7 @@ en:
   - Strategy study for overseas transfer of excellent technologies, Jeju National University (Jan 2018 – Feb 2018)
   lectures:
   - 'KRIBB Bio Bootcamp: R&D strategy and business plan methodology with no-code AI, for prospective and early-stage founders (Jun 19, 2026)'
-  - 'Hansung University, Department of Global AI Management Consulting, master''s students in semesters 1–4 (semester 2: classes N and P): no-code AI automation management consulting methodology (Mar 2026 – Jun 2026)'
+  - 'Hansung University, Department of Global AI Business Consulting, master''s students in semesters 1–4 (semester 2: classes N and P): no-code AI automation management consulting methodology (Mar 2026 – Jun 2026)'
   - 'Gimhae Chamber of Commerce AI skills training: workplace automation with AI, for company employees (Nov 20, 2025)'
   - 'Chungbuk Bio Industry-Academia Convergence Institute: smart work innovation with AI agents, for company employees (Aug 22, 2025)'
   - 'Korea Technology Transfer Agents Association registration training: big data trading (Jun 5, 2024)'
