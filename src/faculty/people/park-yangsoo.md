@@ -9,6 +9,8 @@ has_profile: true
 email: parkys@hansung.ac.kr
 office: 진리관 405호
 phone: 02-760-4474
+lab_url: https://lab.ai-ceo.com/
+lab_name: AI 컨설팅 에이전트 연구실
 academic: 한성대학교 글로벌AI경영컨설팅학과 전임교수
 keywords:
 - AI 경영컨설팅
@@ -390,6 +392,7 @@ en:
   - 'Namdong Industrial Complex Council: industrial property rights and technology analysis, for member companies (2008)'
   - 'Companies including Woorisoft and Zionsoft: technology commercialization and corporate patent strategy, for employees (2004 – 2021)'
   office: Room 405, Jinri Hall
+  lab_name: AI Consulting Agent Lab
 vi:
   academic: Giáo sư, Khoa Tư vấn Quản trị AI Toàn cầu, Đại học Hansung
   keywords:
@@ -561,4 +564,5 @@ vi:
   - 'Hội đồng Khu công nghiệp Namdong: quyền sở hữu công nghiệp, phân tích công nghệ, dành cho doanh nghiệp hội viên (2008)'
   - 'Các doanh nghiệp như Woorisoft, Zionsoft: chiến lược thương mại hóa công nghệ và sáng chế doanh nghiệp, dành cho nhân viên (2004 – 2021)'
   office: Phòng 405, tòa Jinri
+  lab_name: Phòng nghiên cứu AI Agent tư vấn
 ---

@@ -36,6 +36,8 @@ eleventyComputed:
           {% if d.industry %}<div><dt>{{ F.primaryJob if isSpeaker else F.industry }}</dt><dd>{{ d.industry }}</dd></div>{% endif %}
           {% if d.office or d.phone %}<div><dt>{{ F.office }}</dt><dd>{{ d.office }}{% if d.office and d.phone %} · {% endif %}{% if d.phone %}<a href="tel:{{ d.phone | replace('-', '') }}">{{ d.phone }}</a>{% endif %}</dd></div>{% endif %}
           {% if d.email %}<div><dt>{{ F.email }}</dt><dd><a href="mailto:{{ d.email }}">{{ d.email }}</a></dd></div>{% endif %}
+          {#- 연구실 홈페이지(선택): lab_url 주소, lab_name 언어별 이름 -#}
+          {% if d.lab_url %}<div><dt>{{ F.labSite }}</dt><dd><a href="{{ d.lab_url }}" target="_blank" rel="noopener">{{ d.lab_name or (d.lab_url | replace("https://", "")) }}<span class="sr-only">{{ T.newWin }}</span><span aria-hidden="true"> ↗</span></a></dd></div>{% endif %}
         </dl>
         {#- 수치 타일: counts에 값이 있으면 그 값, 없으면 각 목록의 항목 수(과제 = R&D + 비R&D) -#}
         {%- set c = d.counts or {} %}

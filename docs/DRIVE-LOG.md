@@ -59,3 +59,6 @@
 ## 2026-11-23 — 수정 요청 파일 2건 처리 (10_한성대 › 11_학과운영 › 홈페이지 폴더)
 - 홈페이지_수정요청_학과영문명_Business.md (11/21): 영문 학과명 Global AI Management Consulting → Global AI Business Consulting, Global Management Consulting → Global Business Consulting (44개 파일). 과목명 Global Strategic Management Consulting… 과 학습영역 제목 "AI Management Consulting"은 유지. 영문 비자 가이드 PDF 3종·표지 이미지 재생성. 브로셔 6종·D-2→E-7 설명회 영문 PDF 3종은 글자가 박혀 있어 미변경(목록 보고).
 - 홈페이지_수정요청_2027_4학기제_안내문구.md (11/23): 입학안내·교육과정 페이지(국·영·베)에 notice_2027 문구 추가. 5학기·30학점 표기 유지.
+
+## 2026-11-25 — 홈페이지_수정요청_연구실링크.md (11/24)
+- 박양수 교수 페이지(국·영·베) 연락처 블록에 연구실 홈페이지 링크(https://lab.ai-ceo.com/) 추가. 교수 데이터 공통 항목 lab_url(주소)·lab_name(언어별 이름)으로 구현해 다른 교수도 사용 가능. 새 창 표시는 기존 규칙(↗, 화면낭독용 "새 창") 따름
