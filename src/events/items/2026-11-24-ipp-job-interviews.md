@@ -4,7 +4,7 @@ title_en: "Global IPP job matching in progress: job fair, document review and on
 date: '2026-11-24'
 place: 서울 SETEC, 한성대학교, 경기 화성·용인 기업 현장
 participants: 이중언어과정 5학기 학생, 교수진(정효근·김내영·김재권·권연재 교수 등 기업별 담당 교수)
-summary: 11월 16일 설명회 뒤 기업별 담당 교수가 학생 지원을 맡아, 외국인 채용박람회 현장 면접(11. 18.), 이력서·자기소개서 검토(11. 23.), 기업 현장 면접(11. 23.·24.)으로 채용연계를 이어 가고 있다.
+summary: 11월 16일 설명회 뒤 기업별 담당 교수가 학생 지원을 맡아, 11월 18일부터 학생·교수·기업이 함께하는 현장 면접을 채용박람회와 기업 현장에서 잇달아 진행하고 있다. 면접은 11월 27일과 30일에도 이어진다.
 status: done
 cover: /images/events/20261124_jobs_01.jpg
 cover_alt: "(주)동일전자에서 회사 관계자와 면접을 보는 학생들과 권연재 교수"
@@ -66,8 +66,12 @@ program:
   text: "이력서·자기소개서 검토(정효근 교수), 화성 제조기업 현장 면접과 공장 견학(김내영 교수)"
 - time: "11. 24."
   text: "(주)동일전자 현장 면접과 설비 견학(권연재 교수)"
+- time: "11. 18.~26."
+  text: "기업별 현장 면접 계속 진행(학생·담당 교수·기업)"
+- time: "11. 27.·30."
+  text: "추가 현장 면접 예정"
 - time: "이후"
-  text: "면접 결과에 따른 근무 조건·E-7 요건 확인, 나머지 기업 면접 일정 조율"
+  text: "면접 결과에 따른 근무 조건·E-7 요건 확인"
 links:
 - label: "D-2 → E-7 구직활동 설명회(2026. 11. 16.)"
   url: /events/d2e7-job-session/
@@ -81,12 +85,12 @@ topics: []
 speakers: []
 faculty: []
 partners: []
-memo: "2026. 11. 26. 학과장 요청(\"취업 면접 진행 내용을 활동·행사에 넣어 달라, 알아서\")으로 게시. 자료는 드라이브 글로벌IPP_취업/구직활동_202611(교수진 단톡방 기록, 김내영·권연재·정효근 교수 사진)과 구직활동_외국인취업채용박람회_20261118 폴더. 하나의 진행형 기록으로 묶고 날짜별 갤러리로 구성, 이후 면접은 같은 페이지에 추가. 실명 공개 동의 기업은 동일전자만 표기, 엘피에스테크·세왕섬유 등 미동의 기업은 '화성 제조기업' 등으로 익명 처리(간판 사진 제외). 학생 이름·인원, 채용 의사·연봉·비자 문제 등 내부 평가, 교수 연락처는 비게재. 이력서·화이트보드 이름·출입문 표찰 흐림, 박람회 부스 간판(은행명)은 잘라 냄. 2026. 11. 26. 학과장 확인: 11. 18. 박람회는 학생 참가, 김내영·김재권 교수 동행(학과장 불참), 전북은행 등 현장 면접 진행 → 본문 반영, 김내영3_전북은행 사진 1장 추가(간판 잘라 냄, 은행명은 본문에 미표기·금융기관으로 서술). 면접 관계자는 \"회사 관계자\"로 표기(학과장 지시). 채용 확정 소식은 최종 확정 시 추가"
+memo: "2026. 11. 26. 학과장 요청(\"취업 면접 진행 내용을 활동·행사에 넣어 달라, 알아서\")으로 게시. 자료는 드라이브 글로벌IPP_취업/구직활동_202611(교수진 단톡방 기록, 김내영·권연재·정효근 교수 사진)과 구직활동_외국인취업채용박람회_20261118 폴더. 하나의 진행형 기록으로 묶고 날짜별 갤러리로 구성, 이후 면접은 같은 페이지에 추가. 실명 공개 동의 기업은 동일전자만 표기, 엘피에스테크·세왕섬유 등 미동의 기업은 '화성 제조기업' 등으로 익명 처리(간판 사진 제외). 학생 이름·인원, 채용 의사·연봉·비자 문제 등 내부 평가, 교수 연락처는 비게재. 이력서·화이트보드 이름·출입문 표찰 흐림, 박람회 부스 간판(은행명)은 잘라 냄. 2026. 11. 26. 학과장 확인: 11. 18. 박람회는 학생 참가, 김내영·김재권 교수 동행(학과장 불참), 전북은행 등 현장 면접 진행 → 본문 반영, 김내영3_전북은행 사진 1장 추가(간판 잘라 냄, 은행명은 본문에 미표기·금융기관으로 서술). 면접 관계자는 \"회사 관계자\"로 표기(학과장 지시). 채용 확정 소식은 최종 확정 시 추가. 2026. 11. 26. 학과장 전달로 11. 18.~26. 현장 면접 계속 진행, 11. 27.·30. 면접 예정 반영(일정 지난 뒤 결과·사진 받으면 갱신)"
 en:
   title: "Global IPP job matching in progress: job fair, document review and on-site interviews"
   place: SETEC (Seoul), Hansung University, and company sites in Hwaseong and Yongin, Gyeonggi Province
   participants: Fifth-semester bilingual-track students; faculty leads for each company (Profs. Jeong Hyo-geun, Kim Nae Young, Kim Jae-kwon, Kwon Yeonjae and others)
-  summary: Since the 16 November session, faculty leads have been supporting students company by company, with on-site interviews at a job fair (18 Nov), résumé and cover-letter review (23 Nov) and on-site company interviews (23 and 24 Nov).
+  summary: Since the 16 November session, faculty leads have been supporting students company by company. From 18 November, on-site interviews bringing together students, faculty and companies have been held one after another at a job fair and at company sites, with more scheduled for 27 and 30 November.
   cover_alt: "Students and Prof. Kwon Yeonjae in an interview with company staff at Dongil Electronics"
   gallery:
   - image: /images/events/20261124_jobs_01.jpg
@@ -146,8 +150,12 @@ en:
     text: "Résumé and cover-letter review (Prof. Jeong Hyo-geun); on-site interview and factory tour at a manufacturer in Hwaseong (Prof. Kim Nae Young)"
   - time: "24 Nov"
     text: "On-site interview and equipment tour at Dongil Electronics (Prof. Kwon Yeonjae)"
+  - time: "18–26 Nov"
+    text: "Further on-site interviews with companies (students, faculty leads and employers)"
+  - time: "27 & 30 Nov"
+    text: "More on-site interviews scheduled"
   - time: "Next"
-    text: "Checking working conditions and E-7 requirements based on interview results; scheduling interviews with the other companies"
+    text: "Checking working conditions and E-7 requirements based on interview results"
   links:
   - label: "D-2 → E-7 job search information session (16 Nov 2026)"
     url: /events/d2e7-job-session/
@@ -166,12 +174,12 @@ en:
 
     On Tuesday 24 November, Prof. Kwon Yeonjae accompanied students to Dongil Electronics in Yongin, Gyeonggi Province, where they interviewed with company staff and toured the development and test equipment.
 
-    Based on the interview results, the department will check working conditions and E-7 work-visa requirements with the companies and take the next steps, while faculty leads collect applications and schedule interviews with the remaining companies. Further progress will be added to this page.
+    From 18 to 26 November, on-site interviews bringing together students, faculty leads and employers have continued on several fronts, company by company, and more are scheduled for 27 and 30 November. Based on the results, the department will check working conditions and E-7 work-visa requirements with the companies and take the next steps. Further progress will be added to this page.
 vi:
   title: "Kết nối việc làm Global IPP đang diễn ra: hội chợ việc làm, góp ý hồ sơ và phỏng vấn tại doanh nghiệp"
   place: SETEC (Seoul), Đại học Hansung và doanh nghiệp tại Hwaseong, Yongin (Gyeonggi)
   participants: Sinh viên học kỳ 5 chương trình song ngữ; giảng viên phụ trách từng doanh nghiệp (GS. Jeong Hyo-geun, Kim Nae Young, Kim Jae-kwon, Kwon Yeonjae…)
-  summary: Sau buổi giới thiệu ngày 16/11, giảng viên phụ trách hỗ trợ sinh viên theo từng doanh nghiệp, với phỏng vấn tại hội chợ việc làm (18/11), góp ý sơ yếu lý lịch và thư giới thiệu (23/11) và phỏng vấn tại doanh nghiệp (23 và 24/11).
+  summary: Sau buổi giới thiệu ngày 16/11, giảng viên phụ trách hỗ trợ sinh viên theo từng doanh nghiệp. Từ ngày 18/11, các buổi phỏng vấn trực tiếp có sự tham gia của sinh viên, giảng viên và doanh nghiệp liên tục diễn ra tại hội chợ việc làm và tại doanh nghiệp; các buổi tiếp theo đã được lên lịch vào ngày 27 và 30/11.
   cover_alt: "Sinh viên và GS. Kwon Yeonjae phỏng vấn với đại diện công ty tại Dongil Electronics"
   gallery:
   - image: /images/events/20261124_jobs_01.jpg
@@ -231,8 +239,12 @@ vi:
     text: "Góp ý sơ yếu lý lịch, thư giới thiệu (GS. Jeong Hyo-geun); phỏng vấn và tham quan nhà máy tại doanh nghiệp sản xuất ở Hwaseong (GS. Kim Nae Young)"
   - time: "24/11"
     text: "Phỏng vấn và tham quan thiết bị tại Dongil Electronics (GS. Kwon Yeonjae)"
+  - time: "18–26/11"
+    text: "Tiếp tục phỏng vấn trực tiếp với doanh nghiệp (sinh viên, giảng viên phụ trách và doanh nghiệp)"
+  - time: "27 và 30/11"
+    text: "Đã lên lịch thêm các buổi phỏng vấn"
   - time: "Tiếp theo"
-    text: "Xác nhận điều kiện làm việc và yêu cầu E-7 theo kết quả phỏng vấn; sắp xếp lịch phỏng vấn với các doanh nghiệp còn lại"
+    text: "Xác nhận điều kiện làm việc và yêu cầu E-7 theo kết quả phỏng vấn"
   links:
   - label: "Buổi giới thiệu tìm việc D-2 → E-7 (16/11/2026)"
     url: /events/d2e7-job-session/
@@ -251,7 +263,7 @@ vi:
 
     Thứ Ba 24/11, GS. Kwon Yeonjae đi cùng sinh viên đến Dongil Electronics ở Yongin (Gyeonggi) để phỏng vấn với đại diện công ty và tham quan thiết bị phát triển, thử nghiệm.
 
-    Căn cứ kết quả phỏng vấn, khoa sẽ cùng doanh nghiệp xác nhận điều kiện làm việc và yêu cầu visa lao động E-7 để tiến hành các bước tiếp theo; các giảng viên phụ trách cũng đang nhận hồ sơ và sắp xếp lịch phỏng vấn với các doanh nghiệp còn lại. Tiến độ sẽ được cập nhật tiếp trên trang này.
+    Từ ngày 18 đến 26/11, các buổi phỏng vấn trực tiếp giữa sinh viên, giảng viên phụ trách và doanh nghiệp đã liên tục diễn ra theo nhiều hướng với từng doanh nghiệp, và các buổi tiếp theo đã được lên lịch vào ngày 27 và 30/11. Căn cứ kết quả phỏng vấn, khoa sẽ cùng doanh nghiệp xác nhận điều kiện làm việc và yêu cầu visa lao động E-7 để tiến hành các bước tiếp theo. Tiến độ sẽ được cập nhật tiếp trên trang này.
 ---
 글로벌AI경영컨설팅학과는 11월 16일 D-2 → E-7 구직활동 설명회 이후, 학생들의 구직을 실제 채용으로 잇는 글로벌 IPP 채용연계를 이어 가고 있다. 설명회 직후 기업(군)별로 담당 교수를 정해 이중언어과정 5학기 학생들의 지원을 받았으며, 담당 교수가 서류 준비부터 면접 동행까지 맡고 있다.
 
@@ -261,4 +273,4 @@ vi:
 
 11월 24일(화)에는 권연재 교수가 학생들과 경기도 용인의 (주)동일전자를 방문해 회사 관계자와 면접을 보고 개발·시험 설비를 견학했다.
 
-학과는 면접 결과에 따라 기업과 근무 조건, 취업 비자(E-7) 요건을 함께 확인하며 후속 절차를 밟고, 나머지 기업들도 담당 교수를 중심으로 지원 서류를 받아 면접 일정을 조율하고 있다. 진행 상황은 이 페이지에 이어서 정리한다.
+이처럼 11월 18일부터 26일까지 학생과 담당 교수, 기업이 함께하는 현장 면접이 기업별로 여러 갈래로 이어지고 있으며, 11월 27일과 30일에도 면접이 잡혀 있다. 학과는 면접 결과에 따라 기업과 근무 조건, 취업 비자(E-7) 요건을 함께 확인하며 후속 절차를 밟을 예정이다. 진행 상황은 이 페이지에 이어서 정리한다.
